@@ -1,0 +1,54 @@
+# ---------------------------------------------------------------
+# Filter-Konfiguration
+# Anpassen und committen — Änderungen greifen ab dem nächsten Run.
+# ---------------------------------------------------------------
+
+# Preis (warm bevorzugt, fällt auf kalt zurück wenn nicht verfügbar)
+max_price: 1800   # €
+min_price: 400    # Schutz vor Scam-Anzeigen mit unrealistisch niedrigem Preis
+
+# Größe in m²
+min_sqm: 45
+# max_sqm: 120    # Optional, bei Bedarf einkommentieren
+
+# Zimmer
+min_rooms: 2
+# max_rooms: 4
+
+# Stadtteile (Whitelist, leer = alle erlauben)
+# Substring-Match, also "Schwabing" matcht auch "Schwabing-West"
+districts_whitelist:
+  - Altstadt
+  - Lehel
+  - Glockenbach
+  - Isarvorstadt
+  - Au
+  - Haidhausen
+  - Maxvorstadt
+  - Schwabing
+  - Ludwigsvorstadt
+  - Sendling
+  - Westend
+  - Neuhausen
+
+# Negativ-Keywords im Titel/Beschreibung — Listing wird verworfen
+exclude_keywords:
+  - WG-Zimmer
+  - Zwischenmiete
+  - Zwischenmieten
+  - möbliert
+  - Möbliert
+  - Tausch
+  - Tauschwohnung
+  - Kapitalanlage
+  - Kauf
+  - Untermiete
+  - befristet
+  - Studentenwohnheim
+  - Senioren
+  - Pensionswohnheim
+
+# Adapter, die deaktiviert werden sollen
+# (z.B. wenn Kleinanzeigen blockiert und du Ruhe willst)
+disabled_adapters: []
+  # - Kleinanzeigen
