@@ -1,6 +1,13 @@
-"""Registry aller Adapter.
+"""Registry aller Adapter — schlanke, getestete Variante.
 
-get_all_adapters() liefert frische Instanzen für jeden Run.
+Stand nach erstem Live-Test:
+- Kleinanzeigen ✅ funktioniert (~10 Treffer/Run)
+- WG-Gesucht   ✅ funktioniert (~25 Treffer/Run)
+- Wagnis       ✅ URL gefixt (öffentliche Neubau-Ausschreibungen)
+- Immowelt     ⚠️  HTTP 403 (Cloudflare) — drin gelassen, falls's mal durchkommt
+- Wohnungsboerse, SZ Immobilien — drin gelassen, URL-Tuning nötig
+- Andere Genossenschaften → meist Mitglieder-only, deaktiviert (siehe sources.py)
+- Hausverwaltungen → nur Rohrer drin, Aigner blockt
 """
 from __future__ import annotations
 
@@ -15,7 +22,6 @@ from .sz_immobilien import SzImmobilienAdapter
 from .wg_gesucht import WgGesuchtAdapter
 from .wohnungsboerse import WohnungsboerseAdapter
 
-# Spezifische Adapter (eigene Parsing-Logik)
 SPECIFIC_ADAPTER_CLASSES: list[type[Adapter]] = [
     ImmoweltAdapter,
     KleinanzeigenAdapter,
@@ -26,23 +32,8 @@ SPECIFIC_ADAPTER_CLASSES: list[type[Adapter]] = [
 
 
 def get_all_adapters() -> List[Adapter]:
-    """Alle Adapter als frische Instanzen."""
     adapters: list[Adapter] = []
-
-    # Wogeno und Wagnis als GenericTextAdapter — gleicher Pattern wie andere
-    # Genossenschaften, kein Grund für eigene Implementierung.
-    adapters.append(GenericTextAdapter(
-        "Wogeno", "https://www.wogeno-muenchen.de/wohnen/freie-wohnungen.html"
-    ))
-    adapters.append(GenericTextAdapter(
-        "Wagnis", "https://www.wagnis.org/wohnen/aktuelle-wohnangebote.html"
-    ))
-
-    # Spezifische Adapter (Portale mit eigener Logik)
     for cls in SPECIFIC_ADAPTER_CLASSES:
         adapters.append(cls())
-
-    # Top-10-Erweiterung: 8 Genossenschaften + 2 Hausverwaltungen via Generic
     adapters.extend(all_simple_adapters())
-
     return adapters
