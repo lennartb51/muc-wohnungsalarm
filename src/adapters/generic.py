@@ -5,13 +5,14 @@ Pattern:
   2. Suche nach Listing-Blöcken (Text mit m²/€/Zimmer).
   3. Wenn keine gefunden UND auto_discover=True: Suche auf der Seite nach
      Links zu Listing-Subseiten ("Mietangebote", "Vermietung", "Immobilien",
-     "Wohnungen", "Angebote"), folge dem ersten und versuche dort nochmal.
-  4. Wenn immer noch nichts: 0 zurückgeben (kein Bug, einfach keine freien
-     Wohnungen aktuell).
+     "Wohnungen", "Angebote", "Inserate", "Objekte"), folge dem stärksten
+     Match und versuche dort nochmal.
+  4. Wenn immer noch nichts: 0 zurückgeben.
 
-Das macht die Konfiguration einfach: für die meisten Hausverwaltungen reicht
-es, die Homepage-URL anzugeben. Spezifische Listing-URLs können trotzdem
-übergeben werden (override automatischer Discovery).
+Discovery-Heuristik:
+  - Plurale & "Angebote/Inserate" werden höher gewichtet als generische Begriffe
+  - Bestimmte Pfade werden explizit ausgeschlossen (Karriere, WEG-Verwaltung,
+    Ratgeber, News etc. — typische False-Positives)
 """
 from __future__ import annotations
 
@@ -35,11 +36,48 @@ DEFAULT_SELECTORS = [
     "[class*='estate']", "[class*='property']",
 ]
 
-# Link-Texte die auf Listing-Subseiten deuten (case-insensitive)
-DISCOVERY_KEYWORDS = [
-    "mietangebot", "mietangebote", "vermietung", "immobilien",
-    "wohnung", "wohnungen", "angebote", "objekte", "mieten",
-    "freie wohnung", "aktuelle objekte", "exposes", "exposés",
+# Discovery: Keyword → Score. Plurale/spezifische Begriffe höher.
+DISCOVERY_KEYWORDS = {
+    # Sehr starke Signale (Plural, eindeutig Listing-Seite)
+    "mietangebote": 5,
+    "wohnungsangebote": 5,
+    "freie wohnungen": 5,
+    "aktuelle angebote": 5,
+    "aktuelle objekte": 5,
+    "aktuelle mietangebote": 6,
+    "freie mietwohnungen": 6,
+    "inserate": 4,
+    "exposes": 4,
+    "exposés": 4,
+    "mietwohnungen": 4,
+    "vermietungsangebote": 5,
+
+    # Mittlere Signale
+    "mietangebot": 3,
+    "wohnungsangebot": 3,
+    "vermietung": 2,
+    "wohnungen": 2,
+    "angebote": 2,
+    "objekte": 2,
+    "mieten": 2,
+    "freie wohnung": 3,
+
+    # Schwächere Signale (generische Begriffe)
+    "immobilien": 1,
+    "wohnung": 1,
+    "miete": 1,
+}
+
+# Pfade die NIE eine Listing-Seite sein können — hard exclude
+EXCLUDE_PATH_KEYWORDS = [
+    "stellenangebot", "stellenangebote", "karriere", "career", "jobs", "job",
+    "weg-verwaltung", "weg_verwaltung", "wegverwaltung",  # WEG = Eigentümer, kein Mietangebot
+    "wissenswert", "ratgeber", "magazin", "news", "blog", "tipp",
+    "datenschutz", "impressum", "agb", "kontakt", "ueber-uns", "über-uns",
+    "team", "unternehmen", "geschichte",
+    "kaufangebote", "verkauf",  # Kauf, kein Miet-Listing
+    "sondermietverwaltung",
+    "leistungen",  # meist nur Marketing
 ]
 
 
@@ -71,7 +109,7 @@ class GenericTextAdapter(Adapter):
         if not self.auto_discover:
             return
 
-        # Versuch 2: Auto-Discovery — finde Listing-Subseite
+        # Versuch 2: Auto-Discovery
         discovered = self._discover_listing_url(self.list_url)
         if discovered and discovered != self.list_url:
             logger.info(f"[{self.name}] Auto-Discovery → {discovered}")
@@ -109,7 +147,7 @@ class GenericTextAdapter(Adapter):
                 yield listing
 
     def _discover_listing_url(self, start_url: str) -> Optional[str]:
-        """Lädt start_url und sucht nach einem Link auf eine Listing-Subseite."""
+        """Sucht auf der Seite nach Links zu wahrscheinlichen Listing-Subseiten."""
         try:
             r = self.get(start_url)
             if r.status_code != 200:
@@ -118,32 +156,43 @@ class GenericTextAdapter(Adapter):
         except Exception:
             return None
 
-        # Sammle alle Links mit Score basierend auf Keyword-Match in Text/href
-        scored = []
+        scored: list[tuple[int, str]] = []
         for a in soup.find_all("a", href=True):
             href = a["href"]
-            if not href or href.startswith("#") or href.startswith("mailto:") \
-               or href.startswith("tel:") or href.startswith("javascript:"):
+            if not href or href.startswith(("#", "mailto:", "tel:", "javascript:")):
                 continue
+
+            full_url = urljoin(start_url, href)
+            full_lower = full_url.lower()
+
+            # Nur Links auf derselben Domain
+            if urlparse(full_url).netloc != urlparse(start_url).netloc:
+                continue
+
+            # Harte Blacklist auf Pfad-Ebene
+            if any(bad in full_lower for bad in EXCLUDE_PATH_KEYWORDS):
+                continue
+
             text = a.get_text(" ", strip=True).lower()
-            href_l = href.lower()
+            # Auch Text auf Blacklist checken (z.B. "Karriere" als Link-Text)
+            if any(bad in text for bad in EXCLUDE_PATH_KEYWORDS):
+                continue
+
+            # Score-Berechnung mit gewichteten Keywords
             score = 0
-            for kw in DISCOVERY_KEYWORDS:
+            for kw, weight in DISCOVERY_KEYWORDS.items():
                 if kw in text:
-                    score += 2
-                if kw in href_l:
-                    score += 1
+                    score += weight * 2  # Text-Match wichtiger
+                if kw in full_lower:
+                    score += weight
+
             if score > 0:
-                full_url = urljoin(start_url, href)
-                # nur Links auf derselben Domain
-                if urlparse(full_url).netloc == urlparse(start_url).netloc:
-                    scored.append((score, full_url))
+                scored.append((score, full_url))
 
         if not scored:
             return None
 
         scored.sort(reverse=True)
-        # Dedupe URLs, nimm den mit höchstem Score
         return scored[0][1]
 
     def _parse_block(self, block: Tag, page_url: str) -> Optional[Listing]:
