@@ -1,9 +1,17 @@
-"""Generic-Adapter für simple Quellen (Genossenschaften, Hausverwaltungen).
+"""Generic-Adapter mit Auto-Discovery für Hausverwaltungs-Sites.
 
-Pattern: eine Liste-Seite mit Wohnungs-Cards/-Blöcken. Jeder Block enthält
-irgendwo Text wie "3-Zimmer, 65 m², 1.450 € warm" und einen Link.
+Pattern:
+  1. Lade die übergebene URL.
+  2. Suche nach Listing-Blöcken (Text mit m²/€/Zimmer).
+  3. Wenn keine gefunden UND auto_discover=True: Suche auf der Seite nach
+     Links zu Listing-Subseiten ("Mietangebote", "Vermietung", "Immobilien",
+     "Wohnungen", "Angebote"), folge dem ersten und versuche dort nochmal.
+  4. Wenn immer noch nichts: 0 zurückgeben (kein Bug, einfach keine freien
+     Wohnungen aktuell).
 
-Konfigurierbar pro Instanz, daher kein eigener Adapter pro Quelle nötig.
+Das macht die Konfiguration einfach: für die meisten Hausverwaltungen reicht
+es, die Homepage-URL anzugeben. Spezifische Listing-URLs können trotzdem
+übergeben werden (override automatischer Discovery).
 """
 from __future__ import annotations
 
@@ -20,35 +28,23 @@ from .base import Adapter, parse_price, parse_rooms, parse_sqm
 
 logger = logging.getLogger(__name__)
 
-# Default-Selektoren, die bei vielen kleinen Sites greifen
 DEFAULT_SELECTORS = [
-    "article",
-    "[class*='wohnung']",
-    "[class*='angebot']",
-    "[class*='objekt']",
-    "[class*='listing']",
-    "[class*='exposé']",
-    "[class*='expose']",
-    ".card",
-    ".news-list-item",
-    "li.list-item",
+    "article", "[class*='wohnung']", "[class*='angebot']", "[class*='objekt']",
+    "[class*='listing']", "[class*='exposé']", "[class*='expose']",
+    "[class*='immobilie']", ".card", ".news-list-item", "li.list-item",
+    "[class*='estate']", "[class*='property']",
+]
+
+# Link-Texte die auf Listing-Subseiten deuten (case-insensitive)
+DISCOVERY_KEYWORDS = [
+    "mietangebot", "mietangebote", "vermietung", "immobilien",
+    "wohnung", "wohnungen", "angebote", "objekte", "mieten",
+    "freie wohnung", "aktuelle objekte", "exposes", "exposés",
 ]
 
 
 class GenericTextAdapter(Adapter):
-    """Konfigurierbarer Adapter für simple Quellen.
-
-    Args:
-        name: Anzeigename der Quelle ("WGMW", "Rohrer", ...).
-        list_url: URL der Listing-Seite.
-        selectors: CSS-Selektoren für Listings-Blöcke. Default ist eine breite
-                   Auswahl, die bei den meisten Sites greift.
-        base_url: Für die Auflösung relativer Links. Default = Domain von list_url.
-        require_link: Wenn True, werden nur Blöcke mit eigenem <a> akzeptiert.
-                      Manche Sites listen Wohnungen rein als Text ohne Detail-Link.
-    """
-
-    rate_limit_seconds = 3.0
+    rate_limit_seconds = 2.5
 
     def __init__(
         self,
@@ -56,64 +52,109 @@ class GenericTextAdapter(Adapter):
         list_url: str,
         selectors: Optional[List[str]] = None,
         base_url: Optional[str] = None,
-        require_link: bool = True,
+        auto_discover: bool = True,
     ):
         super().__init__()
         self.name = name
         self.list_url = list_url
         self.selectors = selectors or DEFAULT_SELECTORS
         self.base_url = base_url or _domain_root(list_url)
-        self.require_link = require_link
+        self.auto_discover = auto_discover
 
     def fetch(self) -> Iterable[Listing]:
+        # Versuch 1: direkte URL
+        listings = list(self._scrape_url(self.list_url))
+        if listings:
+            yield from listings
+            return
+
+        if not self.auto_discover:
+            return
+
+        # Versuch 2: Auto-Discovery — finde Listing-Subseite
+        discovered = self._discover_listing_url(self.list_url)
+        if discovered and discovered != self.list_url:
+            logger.info(f"[{self.name}] Auto-Discovery → {discovered}")
+            yield from self._scrape_url(discovered)
+
+    def _scrape_url(self, url: str) -> Iterable[Listing]:
         try:
-            r = self.get(self.list_url)
+            r = self.get(url)
         except Exception as e:
             logger.warning(f"[{self.name}] Request failed: {e}")
             return
 
         if r.status_code != 200:
-            logger.warning(f"[{self.name}] HTTP {r.status_code}")
+            logger.warning(f"[{self.name}] HTTP {r.status_code} für {url}")
             return
 
         soup = BeautifulSoup(r.text, "html.parser")
-
-        # Sammle alle Blöcke, die wie ein Listing aussehen (haben m²/€/Zimmer)
         candidates: list[Tag] = []
         seen_blocks = set()
 
         for sel in self.selectors:
             for block in soup.select(sel):
-                block_id = id(block)
-                if block_id in seen_blocks:
+                bid = id(block)
+                if bid in seen_blocks:
                     continue
                 text = block.get_text(" ", strip=True)
                 if _looks_like_listing(text):
                     candidates.append(block)
-                    seen_blocks.add(block_id)
+                    seen_blocks.add(bid)
 
-        # Dedupe: wenn Block A einen anderen Listing-Block enthält, nimm nur den inneren
         candidates = _filter_nested(candidates)
-
         for block in candidates:
-            listing = self._parse_block(block)
+            listing = self._parse_block(block, url)
             if listing:
                 yield listing
 
-    def _parse_block(self, block: Tag) -> Optional[Listing]:
+    def _discover_listing_url(self, start_url: str) -> Optional[str]:
+        """Lädt start_url und sucht nach einem Link auf eine Listing-Subseite."""
+        try:
+            r = self.get(start_url)
+            if r.status_code != 200:
+                return None
+            soup = BeautifulSoup(r.text, "html.parser")
+        except Exception:
+            return None
+
+        # Sammle alle Links mit Score basierend auf Keyword-Match in Text/href
+        scored = []
+        for a in soup.find_all("a", href=True):
+            href = a["href"]
+            if not href or href.startswith("#") or href.startswith("mailto:") \
+               or href.startswith("tel:") or href.startswith("javascript:"):
+                continue
+            text = a.get_text(" ", strip=True).lower()
+            href_l = href.lower()
+            score = 0
+            for kw in DISCOVERY_KEYWORDS:
+                if kw in text:
+                    score += 2
+                if kw in href_l:
+                    score += 1
+            if score > 0:
+                full_url = urljoin(start_url, href)
+                # nur Links auf derselben Domain
+                if urlparse(full_url).netloc == urlparse(start_url).netloc:
+                    scored.append((score, full_url))
+
+        if not scored:
+            return None
+
+        scored.sort(reverse=True)
+        # Dedupe URLs, nimm den mit höchstem Score
+        return scored[0][1]
+
+    def _parse_block(self, block: Tag, page_url: str) -> Optional[Listing]:
         text = block.get_text(" ", strip=True)
         if len(text) < 20:
             return None
 
-        # Link finden
         link = block.find("a", href=True)
-        if self.require_link and not link:
-            return None
-
-        href = link["href"] if link else self.list_url
+        href = link["href"] if link else page_url
         url = urljoin(self.base_url, href)
 
-        # Titel: Link-Text, oder erster Heading, oder erste 80 Zeichen
         title = None
         if link:
             title = link.get_text(" ", strip=True)
@@ -125,7 +166,6 @@ class GenericTextAdapter(Adapter):
             title = text[:80]
         title = title[:200]
 
-        # External ID aus URL ableiten, sonst aus Text-Hash
         if link and href and not href.startswith("#"):
             ext_id = hashlib.md5(href.encode()).hexdigest()[:12]
         else:
@@ -151,35 +191,25 @@ _INDICATOR_RE = re.compile("|".join(_INDICATORS), re.IGNORECASE)
 
 
 def _looks_like_listing(text: str) -> bool:
-    """Heuristik: Block sieht aus wie ein Wohnungsangebot."""
     if len(text) < 30 or len(text) > 5000:
         return False
-    matches = _INDICATOR_RE.findall(text)
-    return len(matches) >= 2  # Mindestens 2 typische Marker (z.B. m² + €)
+    return len(_INDICATOR_RE.findall(text)) >= 2
 
 
 def _filter_nested(blocks: list[Tag]) -> list[Tag]:
-    """Wenn Block A Block B enthält und beide Listings sind, behalte nur B."""
     result = []
     for b in blocks:
-        # Hat dieser Block einen Listing-Nachfahren in der Liste?
-        has_child = any(
-            other is not b and other in b.descendants
-            for other in blocks
-        )
+        has_child = any(other is not b and other in b.descendants for other in blocks)
         if not has_child:
             result.append(b)
     return result
 
 
 def _extract_price(text: str) -> Optional[float]:
-    """Erste Eurozahl im Text."""
     return parse_price(_match(text, r"([\d.,]+)\s*€"))
 
 
 def _extract_price_warm(text: str) -> Optional[float]:
-    """Warmmiete, wenn explizit als solche markiert."""
-    # Pattern: "1.450 € warm" oder "warm: 1.450 €" oder "Warmmiete 1450"
     for pat in [
         r"([\d.,]+)\s*€[^\d]*(?:warm|brutto|gesamt)",
         r"(?:warm|brutto|gesamt)[^\d]*([\d.,]+)\s*€",
