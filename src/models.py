@@ -22,7 +22,7 @@ class Listing:
 
     district: Optional[str] = None
     address: Optional[str] = None
-    postcode: Optional[str] = None  # auto-detected
+    postcode: Optional[str] = None  # auto-detected aus address/district/title
     description: Optional[str] = None
 
     has_balcony: Optional[bool] = None
@@ -37,8 +37,11 @@ class Listing:
         if self.has_kitchen is None:
             self.has_kitchen = _detect_kitchen(self.title, self.description)
         if self.postcode is None:
+            # WICHTIG: PLZ nur aus expliziten Lage-Feldern, NICHT aus description.
+            # Sonst riskieren wir die Hausverwalter-PLZ statt der Wohnungs-PLZ
+            # (z.B. wenn im Block-Text "Kontakt: HV Müller, Trudering 81825" steht).
             self.postcode = _detect_postcode(
-                self.address, self.district, self.title, self.description
+                self.address, self.district, self.title
             )
 
     @property
@@ -67,8 +70,7 @@ _KITCHEN_POS = re.compile(
     re.IGNORECASE,
 )
 
-# Münchner PLZ-Range: 80331–81929. Wir nehmen alle 80xxx/81xxx mit, weil das
-# auch nahe Umland mit abdeckt (z.B. Unterhaching 82008 wäre ausserhalb).
+# Münchner PLZ-Range 80xxx / 81xxx
 _POSTCODE_RE = re.compile(r"\b(8[01]\d{3})\b")
 
 
@@ -95,7 +97,12 @@ def _detect_kitchen(title: Optional[str], desc: Optional[str]) -> Optional[bool]
 
 
 def _detect_postcode(*fields: Optional[str]) -> Optional[str]:
-    """Sucht eine 5-stellige PLZ im Range 80xxx-81xxx in den übergebenen Feldern."""
+    """Sucht eine 5-stellige Münchner PLZ in den übergebenen Feldern.
+
+    Felder werden in Reihenfolge geprüft (address > district > title).
+    description wird BEWUSST NICHT übergeben — dort könnte die
+    Hausverwalter-Adresse mit eigener PLZ stehen.
+    """
     for f in fields:
         if not f:
             continue
