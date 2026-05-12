@@ -55,11 +55,13 @@ class Adapter(ABC):
             return []
 
     def get(self, url: str, **kwargs) -> requests.Response:
-        """GET mit Rate-Limit."""
+        """GET mit Rate-Limit + striktem Connect+Read-Timeout."""
         elapsed = time.time() - self._last_request
         if elapsed < self.rate_limit_seconds:
             time.sleep(self.rate_limit_seconds - elapsed)
-        kwargs.setdefault("timeout", 15)
+        # (connect=5s, read=15s): bei toten Servern nicht endlos warten.
+        # Connect-Timeout zieht hart, wenn TCP-Handshake stumm bleibt.
+        kwargs.setdefault("timeout", (5, 15))
         r = self.session.get(url, **kwargs)
         self._last_request = time.time()
         return r
