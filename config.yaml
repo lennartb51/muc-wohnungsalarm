@@ -8,12 +8,12 @@ max_price: 1800   # €
 min_price: 400    # Schutz vor Scam-Anzeigen
 
 # Größe in m²
-min_sqm: 45
-# max_sqm: 120    # Optional
+min_sqm: 40
+max_sqm: 120    # Optional
 
 # Zimmer
-min_rooms: 2
-# max_rooms: 4
+min_rooms: 1
+max_rooms: 4
 
 # --- PLZ-Whitelist (München) -------------------------------------
 # Formate je Eintrag:
@@ -69,7 +69,6 @@ exclude_keywords:
   - Kapitalanlage
   - Kauf
   - Untermiete
-  - befristet
   - Studentenwohnheim
   - Senioren
   - Pensionswohnheim
