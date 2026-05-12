@@ -15,14 +15,14 @@ concurrency:
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 8
+    timeout-minutes: 15
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Setup Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.12"
           cache: "pip"
@@ -43,7 +43,18 @@ jobs:
           git add data/seen.json
           if git diff --staged --quiet; then
             echo "Kein State-Change, kein Commit"
-          else
-            git commit -m "chore: update state [skip ci]"
-            git push
+            exit 0
           fi
+          git commit -m "chore: update state [skip ci]"
+          # Retry-Loop: bei Push-Konflikt rebasen und nochmal versuchen
+          for i in 1 2 3; do
+            if git push; then
+              echo "Push erfolgreich (Versuch $i)"
+              exit 0
+            fi
+            echo "Push fehlgeschlagen, pull+rebase und retry..."
+            git pull --rebase origin main
+            sleep 2
+          done
+          echo "Push nach 3 Versuchen aufgegeben"
+          exit 1
