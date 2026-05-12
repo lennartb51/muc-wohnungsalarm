@@ -1,23 +1,14 @@
 """Münchner Hausverwaltungen, Genossenschaften und kleine Vermieter.
 
-Quelle: kuratierte Liste 'Hausverwaltungen_Muenchen_FINAL_SORT_2.xlsx' mit
-Top + Hoch Priorität. Alle URLs sind Domains aus der Liste; der
+Quelle: kuratierte Liste 'Hausverwaltungen_Muenchen_FINAL_SORT_2.xlsx' + manuell
+ergänzte Quellen vom Nutzer. Alle URLs sind Domains aus der Liste; der
 GenericTextAdapter erkennt per Auto-Discovery selbständig die richtige
 Listing-Subseite (/mietangebote, /vermietung etc.), falls die Domain direkt
 nichts liefert.
 
-Schon vorhandene/eingebaute Quellen (Wagnis, Südhausbau, Apfelbeck, EBM,
-KSWM, Bossert, Rohrer, GWG-Gruppe, Alsaol, Schwabinger Immo, ELVIRA) sind
-bereits weiter unten in HAUSVERWALTUNGEN/GENOSSENSCHAFTEN gelistet.
-
-Stand: Mai 2026. Erfahrungswerte zu erwartender Trefferquote:
-- ~30–40% liefern beim ersten Run direkt Inserate
-- ~30% liefern HTTP 200 + 0 Inserate (= aktuell keine freien Wohnungen)
-- ~20% brauchen URL-Anpassung (Auto-Discovery findet nichts)
-- ~10% blocken per Cloudflare / reCAPTCHA
-
-Bei 0-Treffer-Quellen: in 1-2 Wochen erneut prüfen — Hausverwaltungs-Listings
-sind volatil, manchmal kommt nach Wochen plötzlich eine Wohnung rein.
+Spezifisch behandelte Quellen (eigene Adapter mit Detail-Crawling):
+- VfV München → siehe vfv.py
+- Wagnis, Südhausbau etc. werden weiterhin generic verarbeitet
 """
 from __future__ import annotations
 
@@ -33,68 +24,93 @@ GENOSSENSCHAFTEN: list[tuple[str, str]] = [
 ]
 
 # ---------- HAUSVERWALTUNGEN ★★★ TOP-PRIORITÄT ----------
-# Aus Excel-Liste, alle mit verifizierter Mietverwaltung + Website.
 HAUSVERWALTUNGEN_TOP: list[tuple[str, str]] = [
-    # Innenstadt-nah (Glockenbach, Isarvorstadt, Maxvorstadt, Ludwigsvorstadt, Schwabing)
-    ("G&S Hausverwaltung", "https://www.gs-hv.gmbh"),                       # Isarvorstadt / Glockenbach
-    ("Omnium Hausverwaltung", "https://www.omnium-hausverwaltung.de"),      # Maxvorstadt
-    ("Rudolf Schäfer", "https://www.rudolfschaefer.de"),                    # Maxvorstadt
-    ("RB Vermögensverwaltung", "https://rb-muenchen.de"),                   # Ludwigsvorstadt
-    ("Oertle Hausverwaltung", "https://www.oertle-hv.de"),                  # Schwabing
+    # Innenstadt-nah
+    ("G&S Hausverwaltung", "https://www.gs-hv.gmbh"),
+    ("Omnium Hausverwaltung", "https://www.omnium-hausverwaltung.de"),
+    ("Rudolf Schäfer", "https://www.rudolfschaefer.de/vermietung-objektsuche/"),  # UPD: spezifischer Pfad
+    ("RB Vermögensverwaltung", "https://rb-muenchen.de"),
+    ("Oertle Hausverwaltung", "https://www.oertle-hv.de"),
     ("Apfelbeck", "https://www.apfelbeck-muenchen.de/vermietung/"),
     ("Südhausbau", "https://www.suedhausbau.de/immobilienangebote/mietangebote.html"),
 
-    # Großer Bestand (eigene Wohnungen, hohe Trefferchance über Zeit)
-    ("WSB Bayern", "https://wsb-bayern.de"),                                # 19.500 Wohnungen!
-    ("Bayerische Immobilien Management", "https://www.bi-m.de"),            # 18.000 Einheiten
-    ("GID München", "https://gid-muenchen.de"),                             # 300 eigene Wohnungen
-    ("DIBAG", "https://dibag.de"),                                          # Doblinger-Gruppe
-    ("MONACHIA", "https://monachia.de"),                                    # Doblinger-Gruppe
+    # Großer Bestand
+    ("WSB Bayern", "https://wsb-bayern.de"),
+    ("GID München", "https://gid-muenchen.de"),
+    ("DIBAG", "https://dibag.de"),
+    ("MONACHIA", "https://monachia.de"),
 
-    # Weitere Top-Priorität in München / Umland
-    ("Born Wohnungsbau", "https://www.born-wohnungsbau.de"),                # Berg am Laim
-    ("Constantis", "https://constantis.de"),                                # Ramersdorf
-    ("Foisinger Miethausverwaltungen", "https://www.miethausverwaltungen.net"),  # Bogenhausen
-    ("HV Papa", "https://www.hvpapa.de"),                                   # Pasing
-    ("Häusl", "https://haeusl-hv.de"),                                      # Laim
-    ("LIKKA Immobilien", "https://www.likka-immobilien.de"),                # Sendling
-    ("MARAX", "https://www.marax-hausverwaltung.de"),                       # Bogenhausen
-    ("HARPUT", "https://harput-immobilien.de"),                             # Oberschleißheim
-    ("Immobilien Mößel", "https://immobilien-moessel.de"),                  # München Süd/Ost
-    ("Schad & Nebauer", "https://hv-schadnebauer.de"),                      # Grasbrunn
-    ("Sterr", "https://www.sterrgmbh.de"),                                  # Unterhaching
-    ("ERTL.IMMO", "https://www.ertl.immo"),                                 # Aschheim
+    # Weitere
+    ("Born Wohnungsbau", "https://www.born-wohnungsbau.de"),
+    ("Constantis", "https://constantis.de"),
+    ("Foisinger Miethausverwaltungen", "https://www.miethausverwaltungen.net"),
+    ("HV Papa", "https://www.hvpapa.de"),
+    ("Häusl", "https://haeusl-hv.de"),
+    ("LIKKA Immobilien", "https://www.likka-immobilien.de"),
+    ("MARAX", "https://www.marax-hausverwaltung.de"),
+    ("HARPUT", "https://harput-immobilien.de"),
+    ("Immobilien Mößel", "https://immobilien-moessel.de"),
+    ("Schad & Nebauer", "https://hv-schadnebauer.de"),
+    ("ERTL.IMMO", "https://www.ertl.immo"),
 ]
 
 # ---------- HAUSVERWALTUNGEN ★★ HOHE PRIORITÄT ----------
 HAUSVERWALTUNGEN_HOCH: list[tuple[str, str]] = [
     # Innenstadt-nah
-    ("AWV München", "https://www.awv-muenchen.de"),                         # Isarvorstadt
-    ("Lederer Max", "https://www.hausverwaltung-lederer.de"),               # Isarvorstadt
-    ("PARTNER Immobilienverwaltung", "https://www.partner-immobilienverwaltung.de"),  # Schwabing-West
-    ("Arno Dietzel", "https://dietzelgbr.de"),                              # Schwabing-West
+    ("AWV München", "https://www.awv-muenchen.de"),
+    ("Lederer Max", "https://www.hausverwaltung-lederer.de"),
 
     # Großer Bestand / Gute Signale
-    ("Bayerische Hausbau", "https://www.bayerische-hausverwaltung.de"),     # Bogenhausen
-    ("Münchner Grund", "https://www.muenchner-grund.de"),                   # Bogenhausen
-    ("Gruber Günther", "https://wohnungsangebote-muenchen.de"),             # eigener Listing-Host!
-    ("Bossert Immobilien", "https://www.bossert-immobilien.de"),            # Untergiesing
+    ("Bossert Immobilien", "https://www.bossert-immobilien.de"),
 
     # Weitere
     ("Hans Sieber", "https://sieber-muenchen.de"),
-    ("Riedl Hausverwaltung", "https://www.riedl-hausverwaltung.de"),        # Aubing
-    ("HV Durner", "https://hausverwaltung-durner.de"),                      # Eichenau
-    ("Roedel / DerWohnraum", "https://www.derwohnraum.de"),                 # Nymphenburg
+    ("Riedl Hausverwaltung", "https://www.riedl-hausverwaltung.de"),
+    ("HV Durner", "https://hausverwaltung-durner.de"),
+    ("Roedel / DerWohnraum", "https://www.derwohnraum.de"),
     ("Horrer Immobilien", "https://horrer-immobilien.de"),
-    ("Minga HV", "https://minga-hv.de"),                                    # Moosach
+    ("Minga HV", "https://minga-hv.de"),
     ("Peter Wild", "https://peterwild.de"),
     ("Rohrer Immobilien",
      "https://www.rohrer-immobilien.de/immobilien/?action=immosearch"
      "&Aktion=Anbieten&Vermarktungsart=Miete&Objekttyp=Wohnung"),
-    ("GWG-Gruppe", "https://gwg-gruppe.de/standorte/muenchen"),
     ("Alsaol", "https://www.alsaol.de/"),
     ("Schwabinger Immobilien", "https://www.schwabinger-immobilien.de/"),
     ("ELVIRA Immo", "https://www.elvira-immo.de/mieten"),
+]
+
+# ---------- BENUTZER-ERGÄNZUNGEN ----------
+# Vom Nutzer direkt geschickte Listing-URLs, jeweils auf die konkrete Mieten-Subseite
+USER_SOURCES: list[tuple[str, str]] = [
+    ("Maier Immobilien", "https://www.maierimmobilien.de/immobilien/miete/"),
+    ("Sedlmayr AG", "https://www.sedlmayr-ag.de/angebote/"),
+    ("Rohrer Firmengruppe", "https://rohrer-firmengruppe.de/hausverwaltung/immobilien.html"),
+    ("Münchner Mietbörse", "https://muenchner-mietboerse.de"),
+    ("LPE Immobilien", "https://inserate.lpe-immobilien.com/mietobjekte-lpe-inserate/"),
+    ("Riedel Immobilien", "https://www.riedel-immobilien.de/angebote/miete/"),
+    ("Friedl Maier Immobilien", "https://friedlmaier-immobilien.de/immobilienangebote-in-muenchen-und-umgebung/"),
+    ("FGHM", "https://www.fghm.de/mietangebote/"),
+    ("Immobilien Schneider", "https://www.immobilienschneider.com/mietangebote/"),
+    ("Citigrund", "https://citigrund.de/immobilienangebote/"),
+    ("Immo-Hyp", "https://www.immo-hyp.de/immobilien-ort/muenchen/"),
+    ("Kaltenberger HV", "https://kaltenberger-hausverwaltung.de/vermietung/aktuelle-angebote/"),
+    ("Chalet Immobilien", "https://www.chalet-immobilien.com/Angebote.htm"),
+    ("SIS Immobilien", "https://www.sis.de/immobilienangebote/?sort=rank&ct%5B%5D=30225&ut=living&mt=rent"),
+    ("Oellbrunner", "https://www.oellbrunner.eu/pages/unsere-kauf--und-mietangebote.php"),
+    ("Aigner Immobilien", "https://aigner-immobilien.de/immobilien/?erwerbsart=miete&objektart_raw=wohnung"),
+    ("Franziskanerhof", "https://www.immobilien-im-franziskanerhof.de/aktuelle-angebote.xhtml"),
+    ("Von Poll", "https://www.von-poll.com/de/search?search-input=Munich%2C+Bavaria%2C+Germany&latitude=48.136973&longitude=11.575968&property-type=apartment&business-area=2&rent-purchase=2&radius=100&limit=10&page=1"),
+    ("Heimhuber Immobilien", "https://heimhuber-immobilien.de/angebote/"),
+    ("VS Immobilienservice", "https://www.vs-immobilienservice.com/immobilien/mietimmobilien"),
+    ("Pöttinger", "https://www.poettinger.com/de/verwaltung.html"),
+    # Immonet-White-Label-Portale (gleiches Backend, gleiche URL-Struktur)
+    ("SZ Immobilien", "https://immobilienmarkt.sueddeutsche.de/suche/mieten-wohnung-in-muenchen"),
+    ("FAZ Immobilien", "https://immobilienmarkt.faz.net/suche/mieten-wohnung-in-muenchen"),
+    ("Idowa", "https://zuhause.idowa.de/suche/mieten-wohnung-in-muenchen"),
+    ("Ab ins Zuhause", "https://www.ab-ins-zuhause.de/wohnung-mieten-muenchen"),
+    ("Engel & Völkers", "https://www.engelvoelkers.com/de/de/immobilien/res/mieten/immobilien/bayern/muenchen"),
+    ("Wohnglück", "https://wohnglueck.de/suche/de/bayern/muenchen/wohnung-mieten"),
+    ("Rosenberger Immobilien", "https://rosenbergerimmobilien.de/ff/immobilien/?schema=flat_rent&price=&ffpage=1&sort=date"),
 ]
 
 
@@ -102,7 +118,10 @@ def all_simple_adapters() -> List[GenericTextAdapter]:
     """Alle Quellen als GenericTextAdapter-Instanzen."""
     adapters = []
     for name, url in (
-        GENOSSENSCHAFTEN + HAUSVERWALTUNGEN_TOP + HAUSVERWALTUNGEN_HOCH
+        GENOSSENSCHAFTEN
+        + HAUSVERWALTUNGEN_TOP
+        + HAUSVERWALTUNGEN_HOCH
+        + USER_SOURCES
     ):
         adapters.append(GenericTextAdapter(name=name, list_url=url))
     return adapters
