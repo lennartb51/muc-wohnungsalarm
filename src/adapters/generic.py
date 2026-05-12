@@ -36,6 +36,15 @@ DEFAULT_SELECTORS = [
     "[class*='estate']", "[class*='property']",
 ]
 
+# Pattern für Münchner Wohnungs-Adressen im Fließtext
+# "Hohenzollernstr. 25, 80802 München" / "Maximilianstraße 12, 80539 M."
+_ADDRESS_RE = re.compile(
+    r"([A-ZÄÖÜ][\w\-äöüß\.]+(?:str(?:aße|\.)|straße|platz|weg|allee|"
+    r"gasse|ring|ufer|damm|hof)\s*\d+\s*[a-z]?)"
+    r"[,\s]+(\d{5})\s+(?:M[üu]nchen|M\.)",
+    re.IGNORECASE,
+)
+
 # Discovery: Keyword → Score. Plurale/spezifische Begriffe höher.
 DISCOVERY_KEYWORDS = {
     # Sehr starke Signale (Plural, eindeutig Listing-Seite)
@@ -220,11 +229,22 @@ class GenericTextAdapter(Adapter):
         else:
             ext_id = hashlib.md5(text[:200].encode()).hexdigest()[:12]
 
+        # Wohnungs-Adresse aus Block-Text extrahieren (wenn Pattern erkennbar).
+        # Wichtig: nur die ERSTE Adresse im Block ist meist die Wohnung; falls eine
+        # Hausverwalter-Adresse weiter unten kommt, ignorieren wir sie. Bei guten
+        # Adaptern (Cards mit klarer Trennung) ist die Wohnungs-Adresse das einzige
+        # Adress-Pattern im Block.
+        address = None
+        addr_match = _ADDRESS_RE.search(text)
+        if addr_match:
+            address = f"{addr_match.group(1).strip()}, {addr_match.group(2)} München"
+
         return Listing(
             source=self.name,
             external_id=ext_id,
             url=url,
             title=title,
+            address=address,
             price_warm=_extract_price_warm(text),
             price_cold=_extract_price(text),
             size_sqm=parse_sqm(_match(text, r"([\d.,]+)\s*(?:m²|qm|m2)")),
