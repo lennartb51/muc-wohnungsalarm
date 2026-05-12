@@ -2,7 +2,8 @@
 from __future__ import annotations
 
 import logging
-from typing import Any, Dict, Iterable, List, Tuple
+import re
+from typing import Any, Dict, Iterable, Optional
 
 from .models import Listing
 
@@ -36,27 +37,9 @@ def matches(listing: Listing, cfg: Dict[str, Any]) -> bool:
         if (r := cfg.get("max_rooms")) and listing.rooms > r:
             return _reject(listing, f"Zimmer {listing.rooms} > {r}")
 
-    # --- PLZ-Whitelist ---
-    plz_whitelist = cfg.get("postcode_whitelist")
-    if plz_whitelist:
-        plz_strict = cfg.get("postcode_strict", False)
-        if listing.postcode:
-            if not _postcode_in_whitelist(listing.postcode, plz_whitelist):
-                return _reject(listing, f"PLZ {listing.postcode} nicht in Whitelist")
-        elif plz_strict:
-            # Strikt: ohne PLZ raus
-            return _reject(listing, "Keine PLZ erkennbar (strict mode)")
-        # Sonst: ohne PLZ durchlassen (Default), damit interessante Treffer ohne
-        # Adress-Info nicht verloren gehen.
-
-    # --- Stadtteil-Whitelist ---
-    whitelist = cfg.get("districts_whitelist") or []
-    if whitelist:
-        haystack = " ".join(filter(None, [
-            listing.district, listing.address, listing.title, listing.description
-        ])).lower()
-        if not any(w.lower() in haystack for w in whitelist):
-            return _reject(listing, "Kein Whitelist-Stadtteil")
+    # --- Lage-Check (PLZ ODER Stadtteil) ---
+    if not _location_passes(listing, cfg):
+        return False  # Reject-Log schon in _location_passes
 
     # --- Ausstattung (Pflicht-Flags) ---
     if cfg.get("require_balcony") and listing.has_balcony is not True:
@@ -71,6 +54,65 @@ def matches(listing: Listing, cfg: Dict[str, Any]) -> bool:
             return _reject(listing, f"Ausschluss-Keyword '{kw}'")
 
     return True
+
+
+def _location_passes(listing: Listing, cfg: Dict[str, Any]) -> bool:
+    """Lage-Filter: PLZ ODER Stadtteil muss matchen.
+
+    Regeln:
+    - PLZ in Whitelist           → DURCH (egal ob Stadtteil match)
+    - PLZ nicht in Whitelist     → Stadtteil-Backup-Check
+    - PLZ unbekannt              → Stadtteil-Backup-Check
+    - Keine PLZ, kein Stadtteil-Match:
+        - postcode_strict=true   → RAUS
+        - postcode_strict=false  → Stadtteil-Whitelist entscheidet
+    - Beide Whitelists leer      → DURCH
+    """
+    plz_wl = cfg.get("postcode_whitelist")
+    district_wl = cfg.get("districts_whitelist") or []
+
+    # Kein Lage-Filter aktiv → durch
+    if not plz_wl and not district_wl:
+        return True
+
+    plz_check: Optional[bool] = None   # True/False/None (None = unentscheidbar)
+    district_check: Optional[bool] = None
+
+    if plz_wl and listing.postcode:
+        plz_check = _postcode_in_whitelist(listing.postcode, plz_wl)
+
+    if district_wl:
+        haystack = " ".join(filter(None, [
+            listing.district, listing.address,
+            listing.title, listing.description,
+        ])).lower()
+        # Word-Boundary-Match, damit z.B. "Au" nicht in "Hausverwaltung" matched
+        district_check = any(
+            re.search(rf"\b{re.escape(w.lower())}\b", haystack)
+            for w in district_wl
+        )
+
+    # PLZ in Whitelist → durch (Stadtteil ignoriert)
+    if plz_check is True:
+        return True
+
+    # PLZ nicht in Whitelist, aber Stadtteil-Match → durch (Backup)
+    if district_check is True:
+        return True
+
+    # Hier sind wir nur, wenn weder PLZ noch Stadtteil positiv waren.
+    # Beide gleichzeitig unentscheidbar (= keine PLZ + keine Stadtteil-Whitelist) →
+    # nur dann durchlassen wenn postcode_strict NICHT gesetzt
+    if plz_check is None and not district_wl:
+        if cfg.get("postcode_strict"):
+            return _reject(listing, "Keine PLZ erkennbar (strict mode)")
+        return True
+
+    reason = (
+        f"Lage nicht in Whitelist (PLZ={listing.postcode or 'unbekannt'}, "
+        f"Stadtteil-Match={district_check})"
+    )
+    return _reject(listing, reason)
 
 
 def _reject(listing: Listing, reason: str) -> bool:
@@ -95,16 +137,13 @@ def _postcode_in_whitelist(postcode: str, whitelist: Iterable) -> bool:
 
 
 def _entry_matches(plz: int, entry: Any) -> bool:
-    # Einzelne PLZ als Int
     if isinstance(entry, int):
         return plz == entry
-    # Range als 2-Element-Liste/Tuple
     if isinstance(entry, (list, tuple)) and len(entry) == 2:
         try:
             return int(entry[0]) <= plz <= int(entry[1])
         except (TypeError, ValueError):
             return False
-    # String: entweder "80331" oder "80331-80339"
     if isinstance(entry, str):
         entry = entry.strip()
         if "-" in entry:
