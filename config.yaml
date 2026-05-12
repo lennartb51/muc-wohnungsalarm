@@ -8,12 +8,12 @@ max_price: 1800   # €
 min_price: 400    # Schutz vor Scam-Anzeigen
 
 # Größe in m²
-min_sqm: 40
-max_sqm: 120    # Optional
+min_sqm: 45
+# max_sqm: 120    # Optional
 
 # Zimmer
-min_rooms: 1
-max_rooms: 4
+min_rooms: 2
+# max_rooms: 4
 
 # --- PLZ-Whitelist (München) -------------------------------------
 # Formate je Eintrag:
@@ -31,7 +31,8 @@ postcode_whitelist:
   - "80636-80639"   # Neuhausen
   - "80796-80809"   # Schwabing-West, Schwabing
   - 81543           # Au
-  - "81667-81679"   # Haidhausen, Bogenhausen
+  - "81667-81679"   # Haidhausen, Bogenhausen (Süd)
+  - "81925-81929"   # Bogenhausen (Nord), Oberföhring
   - "81735-81739"   # Ramersdorf, Perlach (falls relevant)
 
 postcode_strict: false
@@ -52,6 +53,7 @@ districts_whitelist:
   - Sendling
   - Westend
   - Neuhausen
+  - Bogenhausen
 
 # Ausstattung (Pflicht-Flags)
 # require_balcony: true     # Listing muss "Balkon" erwähnen
@@ -69,6 +71,7 @@ exclude_keywords:
   - Kapitalanlage
   - Kauf
   - Untermiete
+  - befristet
   - Studentenwohnheim
   - Senioren
   - Pensionswohnheim
