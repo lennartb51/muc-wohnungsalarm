@@ -5,23 +5,45 @@
 
 # Preis (warm bevorzugt, fällt auf kalt zurück wenn nicht verfügbar)
 max_price: 1800   # €
-min_price: 400    # Schutz vor Scam-Anzeigen mit unrealistisch niedrigem Preis
+min_price: 400    # Schutz vor Scam-Anzeigen
 
 # Größe in m²
 min_sqm: 45
-# max_sqm: 120    # Optional, bei Bedarf einkommentieren
+# max_sqm: 120    # Optional
 
 # Zimmer
 min_rooms: 2
 # max_rooms: 4
 
-# Stadtteile (Whitelist, leer = alle erlauben)
-# Substring-Match, also "Schwabing" matcht auch "Schwabing-West"
+# --- PLZ-Whitelist (München) -------------------------------------
+# Formate je Eintrag:
+#   - Einzelne PLZ als Zahl:    80469
+#   - Range als String:         "80331-80339"
+#   - Range als Liste:          [80636, 80809]
+#
+# Wenn die Whitelist leer ist, kommen alle PLZ durch.
+# postcode_strict: true → Listings ohne erkannte PLZ werden verworfen
+# postcode_strict: false (Default) → Listings ohne PLZ kommen durch
+postcode_whitelist:
+  - "80331-80339"   # Altstadt, Maxvorstadt, Ludwigsvorstadt, Isarvorstadt
+  - 80469           # Isarvorstadt / Glockenbach / Gärtnerplatz
+  - "80538-80539"   # Lehel
+  - "80636-80639"   # Neuhausen
+  - "80796-80809"   # Schwabing-West, Schwabing
+  - 81543           # Au
+  - "81667-81679"   # Haidhausen, Bogenhausen
+  - "81735-81739"   # Ramersdorf, Perlach (falls relevant)
+
+postcode_strict: false
+
+# Stadtteile (zusätzlicher String-Filter, leer = alle erlauben).
+# Bei vorhandener PLZ-Whitelist redundant, aber als Backup für Listings ohne PLZ.
 districts_whitelist:
   - Altstadt
   - Lehel
   - Glockenbach
   - Isarvorstadt
+  - Gärtnerplatz
   - Au
   - Haidhausen
   - Maxvorstadt
@@ -31,7 +53,11 @@ districts_whitelist:
   - Westend
   - Neuhausen
 
-# Negativ-Keywords im Titel/Beschreibung — Listing wird verworfen
+# Ausstattung (Pflicht-Flags)
+# require_balcony: true     # Listing muss "Balkon" erwähnen
+# require_kitchen: true     # Listing muss "Küche/EBK" erwähnen
+
+# Negativ-Keywords im Titel/Beschreibung
 exclude_keywords:
   - WG-Zimmer
   - Zwischenmiete
@@ -49,6 +75,5 @@ exclude_keywords:
   - Pensionswohnheim
 
 # Adapter, die deaktiviert werden sollen
-# (z.B. wenn Kleinanzeigen blockiert und du Ruhe willst)
 disabled_adapters: []
   # - Kleinanzeigen
