@@ -25,19 +25,21 @@ TELEGRAM_API = "https://api.telegram.org/bot{token}/sendMessage"
 DESCRIPTION_MAX_CHARS = 240
 
 
-def send_telegram(listings: List[Listing]) -> int:
+def send_telegram(listings: List[Listing]) -> set[str]:
+    """Versendet Telegram-Nachrichten. Returnt Set der UIDs die erfolgreich
+    versendet wurden (für State-Tracking im Orchestrator)."""
     token = os.environ.get("TELEGRAM_BOT_TOKEN")
     chat_id = os.environ.get("TELEGRAM_CHAT_ID")
     if not token or not chat_id:
         logger.warning("⚠️  TELEGRAM_BOT_TOKEN oder TELEGRAM_CHAT_ID fehlen")
-        return 0
+        return set()
 
-    sent = 0
+    sent_uids: set[str] = set()
     for listing in listings:
         if _send_one(token, chat_id, listing):
-            sent += 1
+            sent_uids.add(listing.uid)
         time.sleep(0.5)
-    return sent
+    return sent_uids
 
 
 def _post(url: str, payload: dict) -> tuple[bool, str]:
