@@ -5,6 +5,7 @@ import logging
 import re
 import time
 from abc import ABC, abstractmethod
+from concurrent.futures import ThreadPoolExecutor, TimeoutError as FutureTimeout
 from typing import Iterable, List, Optional
 
 import requests
@@ -12,6 +13,11 @@ import requests
 from ..models import Listing
 
 logger = logging.getLogger(__name__)
+
+# Hartes Limit pro Adapter. Schützt gegen Hänger auf DNS-, TCP- oder
+# read-Ebene. Adapter die mehr als 60s brauchen, sind kaputt oder
+# liefern eh nichts Sinnvolles.
+ADAPTER_HARD_TIMEOUT_SECONDS = 60
 
 DEFAULT_HEADERS = {
     "User-Agent": (
@@ -42,17 +48,42 @@ class Adapter(ABC):
         raise NotImplementedError
 
     def safe_fetch(self) -> List[Listing]:
-        """Wrapper mit Fehler-Isolation: ein gebrochener Adapter killt nicht den Run."""
+        """Wrapper mit Fehler-Isolation UND hartem Per-Adapter-Timeout.
+
+        Jeder Adapter läuft in einem eigenen Thread mit Wall-Clock-Timeout.
+        Wenn der Thread innerhalb des Limits nicht fertig wird (z.B. weil
+        DNS oder Socket hängt), gibt safe_fetch() leere Liste zurück und
+        der Run macht mit dem nächsten Adapter weiter. Der hängende Thread
+        wird verwaist; bei Workflow-Ende kümmert sich Python um den Cleanup.
+        """
         if not self.enabled:
             logger.info(f"[{self.name}] deaktiviert, übersprungen")
             return []
+
+        executor = ThreadPoolExecutor(max_workers=1,
+                                       thread_name_prefix=f"adapter-{self.name}")
+        future = executor.submit(self._collect)
         try:
-            results = list(self.fetch())
+            results = future.result(timeout=ADAPTER_HARD_TIMEOUT_SECONDS)
             logger.info(f"[{self.name}] {len(results)} Inserate gefunden")
             return results
+        except FutureTimeout:
+            logger.warning(
+                f"[{self.name}] Adapter-Timeout ({ADAPTER_HARD_TIMEOUT_SECONDS}s) — "
+                "überspringe, Hänger läuft im Hintergrund weiter"
+            )
+            return []
         except Exception as e:
             logger.exception(f"[{self.name}] Fehler beim Fetchen: {e}")
             return []
+        finally:
+            # Nicht auf den evtl. hängenden Thread warten — sonst verlieren
+            # wir den ganzen Sinn des Timeouts.
+            executor.shutdown(wait=False, cancel_futures=True)
+
+    def _collect(self) -> List[Listing]:
+        """Materialisiert fetch() zu einer Liste, damit das Timeout greift."""
+        return list(self.fetch())
 
     def get(self, url: str, **kwargs) -> requests.Response:
         """GET mit Rate-Limit + striktem Connect+Read-Timeout."""
@@ -60,7 +91,6 @@ class Adapter(ABC):
         if elapsed < self.rate_limit_seconds:
             time.sleep(self.rate_limit_seconds - elapsed)
         # (connect=5s, read=15s): bei toten Servern nicht endlos warten.
-        # Connect-Timeout zieht hart, wenn TCP-Handshake stumm bleibt.
         kwargs.setdefault("timeout", (5, 15))
         r = self.session.get(url, **kwargs)
         self._last_request = time.time()
