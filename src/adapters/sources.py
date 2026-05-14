@@ -20,7 +20,7 @@ from .generic import GenericTextAdapter
 GENOSSENSCHAFTEN: list[tuple[str, str]] = [
     ("Wagnis", "https://www.wagnis.org/aktuelles/freie-wohnungen.html"),
     ("EBM München", "https://ebm-muenchen.de/mietangebote"),
-    ("KSWM", "https://www.kswm.de/vermietung.html"),
+    ("KSWM", "https://www.kswm.de/leistungsspektrum/mietwohnungen.html"),
 ]
 
 # ---------- HAUSVERWALTUNGEN ★★★ TOP-PRIORITÄT ----------
@@ -111,6 +111,24 @@ USER_SOURCES: list[tuple[str, str]] = [
     ("Engel & Völkers", "https://www.engelvoelkers.com/de/de/immobilien/res/mieten/immobilien/bayern/muenchen"),
     ("Wohnglück", "https://wohnglueck.de/suche/de/bayern/muenchen/wohnung-mieten"),
     ("Rosenberger Immobilien", "https://rosenbergerimmobilien.de/ff/immobilien/?schema=flat_rent&price=&ffpage=1&sort=date"),
+    ("Pandion Service", "https://pandion-service.de/immobilien/?post_type=immomakler_object&paged=1&lang=de&vermarktungsart=miete&nutzungsart=&typ=&ort=muenchen"),
+    ("Immobilie1", "https://www.immobilie1.de/immobilien/bayern/muenchen/wohnung/mieten?sort=-created_at&page=1"),
+    ("Munich Property", "https://www.munich-property.de/properties/?sort=date_desc"),
+    ("Idowa Altstadt-Lehel", "https://zuhause.idowa.de/suche/mieten-wohnung-in-muenchen-altstadt-lehel-bez-mit-balkon"),
+    ("Immobilo", "https://www.immobilo.de/mieten/wohnung/muenchen-kreis?s=most_recently_updated_first"),
+    ("Nuroa", "https://www.nuroa.de/mieten/munchen-wohnung?order=1&way=2"),
+    ("LEG Wohnen", "https://www.leg-wohnen.de/immobilien/mietwohnungen#/geo/48.13329869584388,11.576734033343515,12"),
+    ("GVG Net", "https://www.gvgnet.de/mietobjekte-category/wohnobjekte/#objekte"),
+    ("Walser Immobiliengruppe", "https://www.walser-immobiliengruppe.de/miete/"),
+    ("KLN Immobilien", "https://kln-immobilien.de/vermietung-2/wohnungen/"),
+    ("TUM Living", "https://living.tum.de/listings?viewMode=list&tumLocation=MUNICH&type=APARTMENT&rentTo=1550"),
+    # --- Tageszeitungs- & Privat-Vermieter-Portale ---
+    ("ohne-makler.net", "https://www.ohne-makler.net/immobilien/wohnung-mieten/bayern/munchen/"),
+    ("Wohnungsbörse München", "https://www.wohnungsboerse.muenchen.de/"),
+    ("meinestadt.de München", "https://www.meinestadt.de/muenchen/immobilien/wohnungen"),
+    ("Münchner Wochenanzeiger", "https://www.wochenanzeiger.de/immobilien"),
+    ("Abendzeitung München", "https://www.abendzeitung-muenchen.de/anzeigen/immobilien"),
+    ("Münchner Merkur Immo", "https://immobilien.merkur.de/suche/mieten-wohnung-in-muenchen"),
 ]
 
 
