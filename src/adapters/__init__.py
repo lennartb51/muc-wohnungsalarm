@@ -4,6 +4,7 @@ from __future__ import annotations
 from typing import List
 
 from .base import Adapter
+from .email_inbox import EmailInboxAdapter
 from .generic import GenericTextAdapter
 from .immowelt import ImmoweltAdapter
 from .kleinanzeigen import KleinanzeigenAdapter
@@ -18,6 +19,7 @@ SPECIFIC_ADAPTER_CLASSES: list[type[Adapter]] = [
     WohnungsboerseAdapter,
     WgGesuchtAdapter,
     VfvAdapter,
+    EmailInboxAdapter,
 ]
 
 
