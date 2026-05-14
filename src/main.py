@@ -74,8 +74,9 @@ def main() -> int:
     # - Matched + erfolgreich versendet → als seen markieren
     # - Matched + Versand fehlgeschlagen → NICHT markieren, beim nächsten
     #   Run nochmal versuchen (verhindert Verlust durch Telegram-Hänger)
+    matched_uids = {m.uid for m in matched}
     for l in new_listings:
-        if l not in matched:
+        if l.uid not in matched_uids:
             store.mark_seen(l.uid)
         elif l.uid in sent_uids:
             store.mark_seen(l.uid)
