@@ -99,17 +99,58 @@ class Adapter(ABC):
 
 # --- Hilfsfunktionen für die Adapter ---
 
+# Erkennt verschiedene Zahlenformate:
+# - "1.234,56"  (deutsch mit Tausender-Punkt + Dezimal-Komma)
+# - "1.234"     (deutsch nur Tausender-Punkt)
+# - "1234,56"   (deutsch nur Dezimal-Komma)
+# - "65.5"      (englisch Dezimal-Punkt, 1-2 Stellen)
+# - "1500"      (keine Trenner)
 _NUM_RE = re.compile(r"(\d+(?:[.,]\d+)?)")
 
 
 def parse_number(text: Optional[str]) -> Optional[float]:
-    """Extrahiert die erste Zahl aus einem String. '1.234,56 €' → 1234.56"""
+    """Extrahiert die erste Zahl aus einem String. Erkennt deutsches und
+    englisches Format intelligent:
+
+    - "1.234,56 €"   → 1234.56  (deutsch: Punkt=Tausender, Komma=Dezimal)
+    - "1.234 €"      → 1234     (deutsch: Punkt=Tausender, 3 Stellen)
+    - "1234,56 €"    → 1234.56  (deutsch: Komma=Dezimal)
+    - "65.5 m²"      → 65.5     (englisch: Punkt=Dezimal, 1-2 Stellen)
+    - "1.234.567"    → 1234567  (mehrere Tausender)
+    - "1500"         → 1500     (keine Trenner)
+    """
     if not text:
         return None
-    # Erst Tausender-Punkte raus, dann Komma → Punkt
-    cleaned = text.replace(".", "").replace(",", ".")
-    m = _NUM_RE.search(cleaned)
-    return float(m.group(1)) if m else None
+    text = text.strip()
+
+    # Pattern 1: Deutsche Zahl mit Tausender-Punkten (immer 3 Stellen) und/oder Komma-Dezimal
+    # Matched: 1.234 / 1.234,56 / 1.234.567 / 1.234.567,89 / 1234,56
+    m = re.search(r"(\d{1,3}(?:\.\d{3})+(?:,\d+)?|\d+,\d+)", text)
+    if m:
+        cleaned = m.group(1).replace(".", "").replace(",", ".")
+        try:
+            return float(cleaned)
+        except ValueError:
+            pass
+
+    # Pattern 2: Englische Dezimal-Zahl (1-2 Stellen nach Punkt)
+    # Matched: 65.5 / 12.50 / 1.5
+    m = re.search(r"(\d+\.\d{1,2})(?!\d)", text)
+    if m:
+        try:
+            return float(m.group(1))
+        except ValueError:
+            pass
+
+    # Pattern 3: Einfache Ganzzahl ohne Trenner
+    m = re.search(r"(\d+)", text)
+    if m:
+        try:
+            return float(m.group(1))
+        except ValueError:
+            pass
+
+    return None
 
 
 def parse_price(text: Optional[str]) -> Optional[float]:
