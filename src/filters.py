@@ -47,10 +47,11 @@ def matches(listing: Listing, cfg: Dict[str, Any]) -> bool:
     if cfg.get("require_kitchen") and listing.has_kitchen is not True:
         return _reject(listing, "Küche Pflicht, nicht erkannt")
 
-    # --- Negativ-Keywords ---
+    # --- Negativ-Keywords (Word-Boundary, damit z.B. "Kauf" nicht in
+    # "Kaufpreis", "Verkauf" oder "Vorkaufsrecht" matched) ---
     blob = f"{listing.title} {listing.description or ''}".lower()
     for kw in cfg.get("exclude_keywords") or []:
-        if kw.lower() in blob:
+        if re.search(rf"\b{re.escape(kw.lower())}\b", blob):
             return _reject(listing, f"Ausschluss-Keyword '{kw}'")
 
     return True
