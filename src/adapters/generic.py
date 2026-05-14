@@ -37,10 +37,16 @@ DEFAULT_SELECTORS = [
 ]
 
 # Pattern für Münchner Wohnungs-Adressen im Fließtext
-# "Hohenzollernstr. 25, 80802 München" / "Maximilianstraße 12, 80539 M."
+# Erfasst nahezu alle gängigen Straßennamen-Endungen, plus Sonderformen wie
+# "Tal", "Markt", "Park" die ohne Suffix als Straßenname auftauchen können.
+# "Hohenzollernstr. 25, 80802 München" / "Maximilianstraße 12, 80539 M." /
+# "Im Tal 5, 80331 München" / "Am Marienplatz 1, 80331 München"
 _ADDRESS_RE = re.compile(
-    r"([A-ZÄÖÜ][\w\-äöüß\.]+(?:str(?:aße|\.)|straße|platz|weg|allee|"
-    r"gasse|ring|ufer|damm|hof)\s*\d+\s*[a-z]?)"
+    r"([A-ZÄÖÜ][\w\-äöüß\. ]{1,40}?"
+    r"(?:str(?:aße|\.)|straße|platz|weg|allee|gasse|ring|ufer|damm|"
+    r"hof|chaussee|promenade|boulevard|markt|brunnen|steig|park|insel|"
+    r"tor|wall|graben|gang|garten|feld|hain|berg|tal)"
+    r"\s*\d+\s*[a-z]?)"
     r"[,\s]+(\d{5})\s+(?:M[üu]nchen|M\.)",
     re.IGNORECASE,
 )
