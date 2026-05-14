@@ -129,6 +129,9 @@ USER_SOURCES: list[tuple[str, str]] = [
     ("Münchner Wochenanzeiger", "https://www.wochenanzeiger.de/immobilien"),
     ("Abendzeitung München", "https://www.abendzeitung-muenchen.de/anzeigen/immobilien"),
     ("Münchner Merkur Immo", "https://immobilien.merkur.de/suche/mieten-wohnung-in-muenchen"),
+    ("Drescher Immobilien", "https://drescher-immobilien.de/mietangebote"),
+    ("EP Immobilien", "https://www.ep-immobilien.com/?post_type=immomakler_object&vermarktungsart=miete&nutzungsart=wohnen"),
+    ("Fleckenstein Immobilien", "https://fleckenstein-immobilien.com/mieten/"),
 ]
 
 
