@@ -50,13 +50,31 @@ class WgGesuchtAdapter(Adapter):
             text = card.get_text(" ", strip=True)
             title = link.get_text(" ", strip=True) or text[:80]
 
+            # Preis-Logik: nur dann beides setzen, wenn beides explizit erkennbar
+            # ist. Sonst nur die eine erkannte Größe — verhindert dass die selbe
+            # Zahl als kalt UND warm in der Telegram-Nachricht erscheint.
+            explicit_warm = parse_price(_find(text, r"([\d.,]+)\s*€[^\d]*warm"))
+            explicit_cold = parse_price(_find(text, r"([\d.,]+)\s*€[^\d]*kalt"))
+            first_price = parse_price(_find(text, r"([\d.,]+)\s*€"))
+
+            if explicit_warm and explicit_cold:
+                price_warm, price_cold = explicit_warm, explicit_cold
+            elif explicit_warm:
+                # Nur Warm explizit → Cold lassen wir None
+                price_warm, price_cold = explicit_warm, None
+            elif explicit_cold:
+                price_warm, price_cold = None, explicit_cold
+            else:
+                # Keine explizite Markierung → erste Zahl als kalt interpretieren
+                price_warm, price_cold = None, first_price
+
             yield Listing(
                 source=self.name,
                 external_id=str(ad_id),
                 url=urljoin("https://www.wg-gesucht.de/", href),
                 title=title[:200],
-                price_warm=parse_price(_find(text, r"([\d.,]+)\s*€[^\d]*warm")),
-                price_cold=parse_price(_find(text, r"([\d.,]+)\s*€")),
+                price_warm=price_warm,
+                price_cold=price_cold,
                 size_sqm=parse_sqm(_find(text, r"([\d.,]+)\s*m²")),
                 rooms=parse_rooms(_find(text, r"([\d.,]+)\s*(?:Zi|Zimmer)")),
             )
