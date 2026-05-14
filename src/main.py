@@ -52,15 +52,34 @@ def main() -> int:
     matched = [l for l in new_listings if matches(l, cfg)]
     logger.info(f"Davon {len(matched)} passen zu den Kriterien")
 
-    # 3) Push raus
-    if matched:
-        sent = send_telegram(matched)
-        logger.info(f"📨 {sent}/{len(matched)} Telegram-Nachrichten versendet")
+    # Detailzeile pro Match — so weißt du welche Quelle/Wohnung durchkam
+    for m in matched:
+        price = m.price_warm or m.price_cold
+        price_str = f"{price:.0f}€" if price else "?€"
+        size_str = f"{m.size_sqm:.0f}m²" if m.size_sqm else "?m²"
+        rooms_str = f"{m.rooms:g}Zi" if m.rooms else "?Zi"
+        loc = m.district or m.postcode or "Lage?"
+        logger.info(f"  ✔ [{m.source}] {m.title[:60]} — "
+                    f"{rooms_str} {size_str} {price_str} — {loc}")
 
-    # 4) ALLE neuen Listings als gesehen markieren — sonst spammen wir uns mit
-    #    nicht-passenden Inseraten in jedem Run zu.
+    # 3) Push raus — und nur erfolgreich versendete als "seen" markieren
+    sent_uids: set[str] = set()
+    if matched:
+        sent_uids = send_telegram(matched)
+        logger.info(f"📨 {len(sent_uids)}/{len(matched)} Telegram-Nachrichten versendet")
+
+    # 4) State-Update:
+    # - Nicht-matched Listings → als seen markieren (sonst spammen wir uns
+    #   in jedem Run mit denselben nicht-passenden Inseraten zu)
+    # - Matched + erfolgreich versendet → als seen markieren
+    # - Matched + Versand fehlgeschlagen → NICHT markieren, beim nächsten
+    #   Run nochmal versuchen (verhindert Verlust durch Telegram-Hänger)
     for l in new_listings:
-        store.mark_seen(l.uid)
+        if l not in matched:
+            store.mark_seen(l.uid)
+        elif l.uid in sent_uids:
+            store.mark_seen(l.uid)
+        # else: nicht markieren, Retry beim nächsten Run
 
     store.save()
     return 0
