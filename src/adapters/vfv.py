@@ -125,9 +125,12 @@ KNOWN_DISTRICTS = [
 
 
 def _extract_district(title: str, text: str) -> Optional[str]:
-    blob = f"{title} {text[:500]}"
+    blob = f"{title} {text[:500]}".lower()
     for d in KNOWN_DISTRICTS:
-        if d.lower() in blob.lower():
+        # Word-Boundary-Match damit z.B. "Au" nicht in "Hausverwaltung" matched.
+        # Spezialfälle wie "Fall-" (mit Bindestrich am Ende) funktionieren auch:
+        # \b matched zwischen "-" und nachfolgendem alphanumerischen Zeichen.
+        if re.search(rf"\b{re.escape(d.lower())}", blob):
             return d
     return None
 
