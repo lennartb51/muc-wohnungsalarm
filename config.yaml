@@ -8,7 +8,7 @@ max_price: 1800   # €
 min_price: 400    # Schutz vor Scam-Anzeigen
 
 # Größe in m²
-min_sqm: 45
+min_sqm: 35
 # max_sqm: 120    # Optional
 
 # Zimmer
@@ -79,6 +79,14 @@ exclude_keywords:
   - Seniorenwohnheim
   - Seniorenresidenz
   - Pensionswohnheim
+  # Status-Wörter: Wohnung bereits weg
+  - vermietet
+  - vermietete
+  - vermietetes
+  - vermieteter
+  - vergeben
+  - reserviert
+  - verkauft
 
 # Adapter, die deaktiviert werden sollen
 disabled_adapters: []
