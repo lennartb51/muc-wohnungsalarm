@@ -57,12 +57,43 @@ LISTING_DOMAINS = {
     "suedhausbau.de", "gid-muenchen.de", "monachia.de",
 }
 
+# Pfad-Patterns die EINDEUTIG auf ein Listing-Detail zeigen.
+# Schützt vor Saved-Search/Profile/Login-URLs in Newsletter-Mails.
+LISTING_URL_PATH_PATTERNS = [
+    "/expose/", "/exposes/", "/objekt/", "/objekte/",
+    "/inserat/", "/anzeige/", "/s-anzeige/",
+    "/listing/", "/listings/",
+    "/wohnung/", "/wohnungen/", "/wohnungsangebote/",
+    "/mietangebote/", "/mietangebot/", "/mietobjekte/",
+    "/freie-wohnungen", "/property/", "/properties/",
+    "/immobilie/", "/immobilien-angebot",
+    "/ad/", "/p/",  # Kurze IDs bei manchen Portalen
+]
+
 # Tracking- & Marketing-URL-Anker, die wir IGNORIEREN
 LINK_SKIP_PATTERNS = [
     "/unsubscribe", "/abmelden", "/login", "/profile", "/preferences",
     "/account", "/datenschutz", "/impressum", "/agb",
+    "/savedsearch", "/saved-search", "/suchauftrag", "/suche-bearbeiten",
+    "/email/", "/newsletter",
     "click.email", "tracker", "pixel.gif",
 ]
+
+# Erkennt Newsletter-Boilerplate-Blöcke die zufällig m²/€ enthalten
+# (Such-Kriterien, Suchauftrag-Management, Footer mit Konto-Details).
+# Diese sind KEINE echten Inserate.
+_NEWSLETTER_BOILERPLATE_RE = re.compile(
+    r"\b("
+    r"suchauftrag|gespeicherte\s+suche|"
+    r"passe\s+deine|aktuelle\s+suche|deine\s+suche|"
+    r"benachrichtigung(?:en)?\s+(?:einstellen|deaktivieren)|"
+    r"abmelden|unsubscribe|abbestellen|abo\s+kündigen|"
+    r"newsletter\s+(?:einstellungen|verwalten|abbestellen)|"
+    r"e-mail-einstellungen|email\s+preferences|"
+    r"presse|impressum|datenschutz"
+    r")\b",
+    re.IGNORECASE,
+)
 
 
 class EmailInboxAdapter(Adapter):
@@ -149,12 +180,15 @@ class EmailInboxAdapter(Adapter):
 
         subject = _decode(msg.get("Subject", ""))
         from_addr = _decode(msg.get("From", ""))
-        sender_domain = _extract_sender_domain(from_addr)
+
+        body_html, body_plain = _extract_body(msg)
+
+        # Bei forwarded Mails: Original-Sender aus dem Body extrahieren statt
+        # aus dem From-Header (der wäre dein eigener Account).
+        sender_domain = _extract_original_sender(body_html, body_plain, from_addr)
 
         logger.info(f"[{self.name}] verarbeite Mail von {sender_domain or 'unknown'}: "
                     f"{subject[:60]}")
-
-        body_html, body_plain = _extract_body(msg)
 
         # Quelle für Telegram: "Email: wagnis.org"
         mail_source = f"Email: {sender_domain}" if sender_domain else self.name
@@ -210,6 +244,54 @@ def _extract_sender_domain(from_addr: str) -> Optional[str]:
     if len(parts) >= 2:
         return ".".join(parts[-2:])
     return domain
+
+
+def _extract_original_sender(body_html: Optional[str], body_plain: Optional[str],
+                              from_addr: str) -> Optional[str]:
+    """Bei weitergeleiteten Mails enthält der Body typischerweise einen Block wie
+    'Von: Newsletter <newsletter@wagnis.org>' (oder 'From:'). Das wollen wir
+    als Sender, NICHT den User-Account der die Mail weitergeleitet hat.
+
+    Strategie:
+    1. Im Body nach 'Von:'/'From:' im Header-Stil suchen
+    2. Wenn gefunden: Domain daraus extrahieren
+    3. Sonst: Fallback auf From-Header der Mail
+    """
+    text = ""
+    if body_html:
+        try:
+            text = BeautifulSoup(body_html, "html.parser").get_text(" ", strip=True)
+        except Exception:
+            text = ""
+    if not text and body_plain:
+        text = body_plain
+
+    if text:
+        # Suche nach "Von: Name <email@domain.de>" im weitergeleiteten Body
+        # Stop bei Zeilenende/<br>/spaces — der Email kann irgendwo im Block stehen
+        m = re.search(
+            r"(?:Von|From|Gesendet von|Sent from):\s*[^<\n]{0,200}<\s*([\w\.\-+]+@[\w\.\-]+)\s*>",
+            text,
+            re.IGNORECASE,
+        )
+        if m:
+            d = _extract_sender_domain(m.group(1))
+            if d:
+                return d
+
+        # Alternativ: "Von: email@domain.de" ohne spitze Klammern
+        m = re.search(
+            r"(?:Von|From|Gesendet von|Sent from):\s*([\w\.\-+]+@[\w\.\-]+)",
+            text,
+            re.IGNORECASE,
+        )
+        if m:
+            d = _extract_sender_domain(m.group(1))
+            if d:
+                return d
+
+    # Fallback auf den From-Header
+    return _extract_sender_domain(from_addr)
 
 
 def _extract_body(msg) -> Tuple[Optional[str], Optional[str]]:
@@ -276,6 +358,10 @@ def _find_listing_blocks(soup: BeautifulSoup) -> List[Tag]:
                 if bid in seen_ids:
                     continue
                 text = block.get_text(" ", strip=True)
+                # Newsletter-Footer/Header mit Such-Kriterien sieht aus wie ein
+                # Listing (enthält m²/€), ist aber keins. Ausfiltern.
+                if _NEWSLETTER_BOILERPLATE_RE.search(text):
+                    continue
                 if _looks_like_listing(text):
                     candidates.append(block)
                     seen_ids.add(bid)
@@ -340,6 +426,11 @@ def _extract_listing_stubs(soup: BeautifulSoup, source: str, subject: str) -> It
     Auch wenn die Mail keine eigenen Listing-Daten enthält, kann sie Links
     auf ImmoScout/Immowelt/etc. enthalten — die geben wir als Stubs raus,
     damit der User sie schnell sieht.
+
+    Zwei strikte Filter:
+    - Domain muss in LISTING_DOMAINS sein
+    - Pfad muss wie eine Inserats-Detailseite aussehen (LISTING_URL_PATH_PATTERNS),
+      NICHT eine Saved-Search-Management-URL
     """
     seen_hrefs: set[str] = set()
 
@@ -357,6 +448,11 @@ def _extract_listing_stubs(soup: BeautifulSoup, source: str, subject: str) -> It
         if not any(d == domain or domain.endswith("." + d) for d in LISTING_DOMAINS):
             continue
 
+        # Pfad muss wie ein konkretes Listing aussehen — nicht Profil/Suche/etc.
+        path_lower = parsed.path.lower()
+        if not any(p in path_lower for p in LISTING_URL_PATH_PATTERNS):
+            continue
+
         # Dedup pro Mail
         href_clean = _strip_tracking_params(href)
         if href_clean in seen_hrefs:
@@ -364,7 +460,11 @@ def _extract_listing_stubs(soup: BeautifulSoup, source: str, subject: str) -> It
         seen_hrefs.add(href_clean)
 
         link_text = a.get_text(" ", strip=True)
-        title = link_text if len(link_text) > 10 else subject
+        # Wenn Link-Text aussagekräftig: nehmen. Sonst Subject als Titel.
+        if len(link_text) > 10 and not _NEWSLETTER_BOILERPLATE_RE.search(link_text):
+            title = link_text
+        else:
+            title = subject
 
         ext_id = hashlib.md5(href_clean.encode()).hexdigest()[:12]
 
