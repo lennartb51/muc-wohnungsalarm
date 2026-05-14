@@ -253,7 +253,7 @@ class GenericTextAdapter(Adapter):
             address=address,
             price_warm=_extract_price_warm(text),
             price_cold=_extract_price(text),
-            size_sqm=parse_sqm(_match(text, r"([\d.,]+)\s*(?:m²|qm|m2)")),
+            size_sqm=_extract_apartment_sqm(text),
             rooms=parse_rooms(_match(text, r"([\d.,]+)\s*(?:Zi(?:mmer)?|-Zi)")),
             description=text[:500],
         )
@@ -261,12 +261,24 @@ class GenericTextAdapter(Adapter):
 
 # ---------- Hilfsfunktionen ----------
 
-_INDICATORS = [r"\bm²", r"\bqm\b", r"€", r"Zimmer", r"\bZi\b"]
+_INDICATORS = [r"m²", r"\bqm\b", r"€", r"Zimmer", r"\bZi\b"]
 _INDICATOR_RE = re.compile("|".join(_INDICATORS), re.IGNORECASE)
+
+# Wenn diese Wörter im Block stehen, ist die Wohnung bereits weg.
+# Hausverwalter zeigen ihre Portfolios oft inklusive vermieteter Objekte
+# als Referenz — wir wollen die NICHT als aktives Inserat erkennen.
+_STATUS_TAKEN_RE = re.compile(
+    r"\b(vermietet|vermietete|vermietetes|vermieteter|vergeben|reserviert|"
+    r"verkauft|nicht\s+verf[üu]gbar|nicht\s+mehr\s+verf[üu]gbar)\b",
+    re.IGNORECASE,
+)
 
 
 def _looks_like_listing(text: str) -> bool:
     if len(text) < 30 or len(text) > 5000:
+        return False
+    # Block enthält Status-Wort → Wohnung ist nicht mehr aktiv
+    if _STATUS_TAKEN_RE.search(text):
         return False
     return len(_INDICATOR_RE.findall(text)) >= 2
 
@@ -282,6 +294,27 @@ def _filter_nested(blocks: list[Tag]) -> list[Tag]:
 
 def _extract_price(text: str) -> Optional[float]:
     return parse_price(_match(text, r"([\d.,]+)\s*€"))
+
+
+def _extract_apartment_sqm(text: str) -> Optional[float]:
+    """Findet die Wohnungsgröße in m². Bei Listings wie '5 m² Balkon, 65 m² Wohnung'
+    wollen wir die WOHNUNGSGRÖSSE, nicht die Balkongröße.
+
+    Strategie: erste Zahl im Wohnungs-typischen Bereich (20-300 m²).
+    Fallback: erste valide Zahl überhaupt.
+    """
+    matches = re.findall(r"([\d.,]+)\s*(?:m²|qm|m2)", text, re.IGNORECASE)
+    # 1. Versuch: erste Zahl im Apartment-Range
+    for raw in matches:
+        n = parse_sqm(raw)
+        if n is not None and 20 <= n <= 300:
+            return n
+    # 2. Fallback: erste valide Zahl, auch außerhalb des Ranges
+    for raw in matches:
+        n = parse_sqm(raw)
+        if n is not None:
+            return n
+    return None
 
 
 def _extract_price_warm(text: str) -> Optional[float]:
