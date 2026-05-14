@@ -60,20 +60,24 @@ districts_whitelist:
 # require_kitchen: true     # Listing muss "Küche/EBK" erwähnen
 
 # Negativ-Keywords im Titel/Beschreibung
+# Word-Boundary-Match (\bWort\b), also keine Sorge dass z.B. "Au" in
+# "Hausverwaltung" matched. ABER bewusst KEIN "Kauf" hier — auch mit
+# Word-Boundary zu breit ("zum Kauf angeboten", "Kaufoption nach 5 Jahren",
+# "Vorkaufsrecht"). Kapitalanlage reicht für reine Anlage-Listings.
 exclude_keywords:
   - WG-Zimmer
   - Zwischenmiete
   - Zwischenmieten
   - möbliert
-  - Möbliert
   - Tausch
   - Tauschwohnung
   - Kapitalanlage
-  - Kauf
   - Untermiete
   - befristet
   - Studentenwohnheim
-  - Senioren
+  - Seniorenwohnen
+  - Seniorenwohnheim
+  - Seniorenresidenz
   - Pensionswohnheim
 
 # Adapter, die deaktiviert werden sollen
