@@ -211,4 +211,11 @@ def format_message(l: Listing) -> str:
 
 
 def _esc(s: str) -> str:
-    return (s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;"))
+    """HTML-Escape für Telegram. Inkludiert auch Quotes, um saubere
+    href-Attribute zu garantieren."""
+    return (s
+            .replace("&", "&amp;")
+            .replace("<", "&lt;")
+            .replace(">", "&gt;")
+            .replace('"', "&quot;")
+            .replace("'", "&#39;"))
