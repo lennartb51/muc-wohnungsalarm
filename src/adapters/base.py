@@ -90,8 +90,10 @@ class Adapter(ABC):
         elapsed = time.time() - self._last_request
         if elapsed < self.rate_limit_seconds:
             time.sleep(self.rate_limit_seconds - elapsed)
-        # (connect=5s, read=15s): bei toten Servern nicht endlos warten.
-        kwargs.setdefault("timeout", (5, 15))
+        # (connect=8s, read=25s): genug Puffer für langsame WordPress-Server,
+        # aber bei toten Servern nicht endlos hängen. ADAPTER_HARD_TIMEOUT_SECONDS=60
+        # schützt zusätzlich gegen Worst-Case.
+        kwargs.setdefault("timeout", (8, 25))
         r = self.session.get(url, **kwargs)
         self._last_request = time.time()
         return r
