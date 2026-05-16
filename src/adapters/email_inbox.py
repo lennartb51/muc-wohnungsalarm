@@ -84,14 +84,52 @@ LINK_SKIP_PATTERNS = [
 # Diese sind KEINE echten Inserate.
 _NEWSLETTER_BOILERPLATE_RE = re.compile(
     r"\b("
-    r"suchauftrag|gespeicherte\s+suche|"
+    # Suchauftrag-Management
+    r"suchauftrag|gespeicherte\s+suche|gespeicherten\s+suche|"
+    r"suchkriterien|gezeichnetes?\s+suchgebiet|"
     r"passe\s+deine|aktuelle\s+suche|deine\s+suche|"
-    r"benachrichtigung(?:en)?\s+(?:einstellen|deaktivieren)|"
+    r"ohne\s+tauschwohnungen?|"
+    # E-Mail-Verwaltung
+    r"benachrichtigung(?:en)?\s+(?:einstellen|deaktivieren|verwalten)|"
     r"abmelden|unsubscribe|abbestellen|abo\s+kündigen|"
     r"newsletter\s+(?:einstellungen|verwalten|abbestellen)|"
     r"e-mail-einstellungen|email\s+preferences|"
+    # Standard-Footer
     r"presse|impressum|datenschutz"
     r")\b",
+    re.IGNORECASE,
+)
+
+# Erkennt WOHNUNGSGESUCHE (Leute die eine Wohnung suchen, statt anbieten).
+# Wichtig für Newsletter wie Budenschleuder, die fast nur Gesuche enthalten.
+# Gesuche haben oft m²/€/Zimmer-Indikatoren ("suche 70qm bis 1500€") und
+# würden sonst fälschlich als Listings erkannt werden.
+_HOUSING_REQUEST_RE = re.compile(
+    r"(?:"
+    # Direkte Gesuch-Schlüsselwörter
+    r"\bwohnungs.?gesuch\b|\bwohnung\s+gesucht\b|"
+    r"\bgesuch[:!\s]|\bgesucht[:!\s\.]|"
+    r"\bdringend\s+gesucht\b|\bsucht?\s+dringend\b|"
+    # "Sucht/Suchen ab X" — zeitlicher Bezug, sehr typisch für Gesuche
+    r"\bsucht\s+ab\s+\w+|\bsuchen\s+ab\s+\w+|"
+    # "Wir suchen:" / "Ich suche:" — Doppelpunkt-Varianten
+    r"\bwir\s+suchen\s*[:!]|\bich\s+suche\s*[:!]|"
+    # "X sucht..." mit Subjekt
+    r"\b(?:duo|paar|familie|wg|leute|student\w*|ehepaar|j[üu]nges?\s+\w+)\s+sucht\b|"
+    r"\bsucht\s+(?:eine?|nach|noch)\s+\w*\s*(?:wohnung|zimmer|zuhause|\d.?zimmer|1.5|2.5|3.5)\b|"
+    r"\bsucht\s+(?:eine?\s+)?(?:nette?|sch[öo]ne?|gem[üu]tliche?|kleine?|gro[ßs]e?|helle?|ruhige?)\s+\w*\s*(?:wohnung|zimmer)|"
+    # Erste-Person-Suche
+    r"\b(?:wir|ich)\s+suche[nt]?\s+(?:eine|ein|nach|aktuell|dringend|seit|ab\s+|noch|gerade)|"
+    r"\bauf\s+der\s+suche\s+nach\s+(?:einer|einem|meiner|unserer|der|dem)|"
+    # Höflichkeitsformeln am Ende eines Gesuchs (sehr typisch)
+    r"\bfreue\s+mich\s+(?:[üu]ber|auf|sehr)|"
+    r"\bfreuen\s+uns\s+(?:[üu]ber|auf|sehr)|"
+    r"\btipps?\s+gerne\s+an\b|\banfragen\s+bitte\s+an\b|"
+    r"\bhinweise?\s+(?:gerne|bitte)\s+an\b|"
+    r"\bunterlagen\s+(?:wie|liegen|stelle|bei\s+bedarf|kann\s+ich)|"
+    r"\bbei\s+(?:fragen|interesse|hinweisen)\s+(?:bitte|gerne)\s+(?:melden|kontakt)|"
+    r"\bschufa.{0,50}(?:bei\s+bedarf|liegen\s+vor|gerne)"
+    r")",
     re.IGNORECASE,
 )
 
@@ -361,6 +399,10 @@ def _find_listing_blocks(soup: BeautifulSoup) -> List[Tag]:
                 # Newsletter-Footer/Header mit Such-Kriterien sieht aus wie ein
                 # Listing (enthält m²/€), ist aber keins. Ausfiltern.
                 if _NEWSLETTER_BOILERPLATE_RE.search(text):
+                    continue
+                # Wohnungsgesuche (jemand sucht, statt anbietet) ebenfalls raus.
+                # Wichtig für Budenschleuder & ähnliche Mailinglisten.
+                if _HOUSING_REQUEST_RE.search(text):
                     continue
                 if _looks_like_listing(text):
                     candidates.append(block)
