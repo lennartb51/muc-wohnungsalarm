@@ -138,6 +138,18 @@ USER_SOURCES: list[tuple[str, str]] = [
     ("Harinali", "https://www.harinali.de/immobilienangebote/"),
     ("Hegerich Immobilien", "https://www.hegerich-immobilien.de/Mietangebote.htm"),
     ("Immobilien Lederer", "https://immobilien-lederer.de/angebote/angebote.html"),
+    ("Dawonia", "https://www.dawonia.de/de/mieten?city=M%C3%BCnchen&items-per-page=100"),
+    ("Vonovia", "https://www.vonovia.de/zuhause-finden/immobilien?rentType=miete&city=M%C3%BCnchen&immoType=wohnung"),
+    ("Immobilien Schlamp", "https://www.immobilien-schlamp.de/index.php/mietangebote/"),
+    ("Hausverwaltung-SG", "https://www.hausverwaltung-sg.de/"),
+    ("RE/MAX Prime München", "https://prime-muenchen.remax.de/de/wohnung-mieten-in-muenchen/"),
+    ("Wegener Immobilien", "https://www.wegenerimmobilien.de/Muenchen/Mietwohnungen-Muenchen.html"),
+    ("Rogers Immobilien", "https://www.rogers-immobilien.de/immobilienangebote/"),
+    ("KIP Immobilien", "https://www.kip.net/bayern/muenchen/mieten/wohnungen/1"),
+    ("Wohnreferat München", "https://www.wohnref-muenchen.de/immobilien/"),
+    ("Garant Immo", "https://www.garant-immo.de/result.html?search=rent&t=rental-apartment&q=M%C3%BCnchen&qt=county"),
+    ("VR-Bank München Land", "https://www.vr-bank-muenchen-land.de/privatkunden/immobilie-und-wohnen/produkte/immobilien/immobiliensuche.html"),
+    ("Lehmann Hueber", "https://lehmannhueber.de/immobilien/?post_type=immomakler_object&vermarktungsart=miete&nutzungsart=wohnen"),
 ]
 
 
