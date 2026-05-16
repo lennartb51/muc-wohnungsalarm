@@ -102,7 +102,6 @@ USER_SOURCES: list[tuple[str, str]] = [
     ("Von Poll", "https://www.von-poll.com/de/search?search-input=Munich%2C+Bavaria%2C+Germany&latitude=48.136973&longitude=11.575968&property-type=apartment&business-area=2&rent-purchase=2&radius=100&limit=10&page=1"),
     ("Heimhuber Immobilien", "https://heimhuber-immobilien.de/angebote/"),
     ("VS Immobilienservice", "https://www.vs-immobilienservice.com/immobilien/mietimmobilien"),
-    ("Pöttinger", "https://www.poettinger.com/de/verwaltung.html"),
     # Immonet-White-Label-Portale (gleiches Backend, gleiche URL-Struktur)
     ("SZ Immobilien", "https://immobilienmarkt.sueddeutsche.de/suche/mieten-wohnung-in-muenchen"),
     ("FAZ Immobilien", "https://immobilienmarkt.faz.net/suche/mieten-wohnung-in-muenchen"),
@@ -124,14 +123,21 @@ USER_SOURCES: list[tuple[str, str]] = [
     ("TUM Living", "https://living.tum.de/listings?viewMode=list&tumLocation=MUNICH&type=APARTMENT&rentTo=1550"),
     # --- Tageszeitungs- & Privat-Vermieter-Portale ---
     ("ohne-makler.net", "https://www.ohne-makler.net/immobilien/wohnung-mieten/bayern/munchen/"),
-    ("Wohnungsbörse München", "https://www.wohnungsboerse.muenchen.de/"),
-    ("meinestadt.de München", "https://www.meinestadt.de/muenchen/immobilien/wohnungen"),
     ("Münchner Wochenanzeiger", "https://www.wochenanzeiger.de/immobilien"),
-    ("Abendzeitung München", "https://www.abendzeitung-muenchen.de/anzeigen/immobilien"),
-    ("Münchner Merkur Immo", "https://immobilien.merkur.de/suche/mieten-wohnung-in-muenchen"),
+    # Entfernt (alle permanent tot seit Wochen):
+    # - Wohnungsbörse München (DNS NXDOMAIN)
+    # - meinestadt.de München: drin gelassen (HTTP 403, könnte zurückkommen)
+    # - Abendzeitung München (HTTP 404)
+    # - Münchner Merkur Immo (SSL Cert Mismatch)
+    # - Pöttinger (HTTP 404 unter Auto-Discovery-URL)
+    ("meinestadt.de München", "https://www.meinestadt.de/muenchen/immobilien/wohnungen"),
     ("Drescher Immobilien", "https://drescher-immobilien.de/mietangebote"),
     ("EP Immobilien", "https://www.ep-immobilien.com/?post_type=immomakler_object&vermarktungsart=miete&nutzungsart=wohnen"),
     ("Fleckenstein Immobilien", "https://fleckenstein-immobilien.com/mieten/"),
+    ("Mutzhas Immobilien", "https://mutzhas-immobilien.de/immobilien/"),
+    ("Harinali", "https://www.harinali.de/immobilienangebote/"),
+    ("Hegerich Immobilien", "https://www.hegerich-immobilien.de/Mietangebote.htm"),
+    ("Immobilien Lederer", "https://immobilien-lederer.de/angebote/angebote.html"),
 ]
 
 
