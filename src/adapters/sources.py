@@ -32,7 +32,7 @@ HAUSVERWALTUNGEN_TOP: list[tuple[str, str]] = [
     ("RB Vermögensverwaltung", "https://rb-muenchen.de"),
     ("Oertle Hausverwaltung", "https://www.oertle-hv.de"),
     ("Apfelbeck", "https://www.apfelbeck-muenchen.de/vermietung/"),
-    ("Südhausbau", "https://www.suedhausbau.de/immobilienangebote/mietangebote.html"),
+    # Südhausbau hat eigenen Adapter (TYPO3-h3+table-Layout, nicht generic parseable)
 
     # Großer Bestand
     ("WSB Bayern", "https://wsb-bayern.de"),
@@ -122,8 +122,8 @@ USER_SOURCES: list[tuple[str, str]] = [
     ("KLN Immobilien", "https://kln-immobilien.de/vermietung-2/wohnungen/"),
     ("TUM Living", "https://living.tum.de/listings?viewMode=list&tumLocation=MUNICH&type=APARTMENT&rentTo=1550"),
     # --- Tageszeitungs- & Privat-Vermieter-Portale ---
-    ("ohne-makler.net", "https://www.ohne-makler.net/immobilien/wohnung-mieten/bayern/munchen/"),
-    ("Münchner Wochenanzeiger", "https://www.wochenanzeiger.de/immobilien"),
+    ("ohne-makler.net", "https://www.ohne-makler.net/immobilien/wohnung-mieten/bayern/munchen/", False),
+    ("Münchner Wochenanzeiger", "https://www.wochenanzeiger.de/immobilien", False),
     # Entfernt (alle permanent tot seit Wochen):
     # - Wohnungsbörse München (DNS NXDOMAIN)
     # - meinestadt.de München: drin gelassen (HTTP 403, könnte zurückkommen)
@@ -152,9 +152,9 @@ USER_SOURCES: list[tuple[str, str]] = [
     ("VR-Bank München Land", "https://www.vr-bank-muenchen-land.de/privatkunden/immobilie-und-wohnen/produkte/immobilien/immobiliensuche.html"),
     ("Lehmann Hueber", "https://lehmannhueber.de/immobilien/?post_type=immomakler_object&vermarktungsart=miete&nutzungsart=wohnen", False),
     ("Egger Immobilien", "https://egger-immo.de/immobilien/immobilien-muenchen/"),
-    ("Immobilien PS", "https://www.immobilien-ps.de/aktuelle-mietangebote"),
-    ("Roethig Immobilien", "https://www.roethig-immobilien.de/angebote/vermietung/"),
-    ("Pöttinger", "https://www.poettinger.com/de/miet-immobilien.html"),
+    ("Immobilien PS", "https://www.immobilien-ps.de/aktuelle-mietangebote?slg=immomakler_object&mdf_cat=40&page_mdf=9134&order_by=mverfuegbarkeit&order=DESC", False),
+    ("Roethig Immobilien", "https://www.roethig-immobilien.de/angebote/vermietung/", False),
+    ("Pöttinger", "https://www.poettinger.com/de/miet-immobilien.html", False),
     ("ImmoSmart", "https://immosmart.de/mieten/"),
 ]
 
