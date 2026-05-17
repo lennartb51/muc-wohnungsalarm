@@ -9,6 +9,7 @@ from .generic import GenericTextAdapter
 from .immowelt import ImmoweltAdapter
 from .kleinanzeigen import KleinanzeigenAdapter
 from .sources import all_simple_adapters
+from .suedhausbau import SuedhausbauAdapter
 from .vfv import VfvAdapter
 from .wg_gesucht import WgGesuchtAdapter
 from .wohnungsboerse import WohnungsboerseAdapter
@@ -20,6 +21,7 @@ SPECIFIC_ADAPTER_CLASSES: list[type[Adapter]] = [
     WgGesuchtAdapter,
     VfvAdapter,
     EmailInboxAdapter,
+    SuedhausbauAdapter,
 ]
 
 
