@@ -12,7 +12,7 @@ min_sqm: 35
 # max_sqm: 120    # Optional
 
 # Zimmer
-min_rooms: 2
+min_rooms: 1
 # max_rooms: 4
 
 # --- PLZ-Whitelist (München) -------------------------------------
@@ -39,21 +39,139 @@ postcode_strict: false
 
 # Stadtteile (zusätzlicher String-Filter, leer = alle erlauben).
 # Bei vorhandener PLZ-Whitelist redundant, aber als Backup für Listings ohne PLZ.
+#
+# Explizite Varianten statt Regex-Magie. Bewusst breit gefasst:
+# false positives (eine Wohnung in Pasing mit "5min zur Maxvorstadt") sind
+# weniger schlimm als false negatives (Glockenbachviertel verpasst).
+# Falsch-durchgelassene Wohnungen scrollst du in Telegram weg —
+# nicht-gemeldete Wohnungen sind verloren.
 districts_whitelist:
+  # --- Altstadt-Lehel (offiz. Bezirk 1) ---
   - Altstadt
+  - Altstadt-Lehel
   - Lehel
-  - Glockenbach
-  - Isarvorstadt
-  - Gärtnerplatz
-  - Au
-  - Haidhausen
-  - Maxvorstadt
-  - Schwabing
+  - Lehler
+  - Innenstadt
+  - Stadtmitte
+  - Marienplatz
+  - Odeonsplatz
+  - Karlsplatz
+  - Stachus
+  - Hofgarten
+  - Hofstatt
+  - Viktualienmarkt
+  - Sendlinger-Tor
+  - Sendlinger-Tor-Platz
+
+  # --- Ludwigsvorstadt-Isarvorstadt (Bezirk 2) ---
   - Ludwigsvorstadt
+  - Isarvorstadt
+  - Ludwigsvorstadt-Isarvorstadt
+  - Glockenbach
+  - Glockenbachviertel
+  - Glockenbach-Viertel
+  - Gärtnerplatz
+  - Gärtnerplatzviertel
+  - Gaertnerplatz             # Ohne Umlaut für robuste Inserate
+  - Gaertnerplatzviertel
+  - Dreimühlenviertel
+  - Dreimuehlenviertel
+  - Bahnhofsviertel            # Umgangssprachlich für Ludwigsvorstadt
+  - Goetheplatz                # U-Bahn / Platz Ludwigsvorstadt
+  - Schlachthof
+  - Schlachthofviertel
+  - Reichenbachplatz           # Gärtnerplatzviertel
+
+  # --- Maxvorstadt (Bezirk 3) ---
+  - Maxvorstadt
+  - Maxvorstädter
+  - Maxvorstaedter             # Ohne Umlaut
+  - Universitätsviertel
+  - Universitaetsviertel
+  - Königsplatz
+  - Koenigsplatz
+  - Kunstareal
+  - Türkenviertel              # Sub-Quartier um Türkenstraße
+  - Tuerkenviertel
+
+  # --- Schwabing (Bezirke 4 & 12) ---
+  - Schwabing
+  - Schwabinger
+  - Alt-Schwabing
+  - Altschwabing
+  - Schwabing-West
+  - Schwabing-Freimann
+  - Schwabing-Mitte
+  - Münchner-Freiheit           # eindeutig Schwabing
+  - Muenchner-Freiheit
+  - Münchner Freiheit           # Mit Leerzeichen
+  - Wedekindplatz               # Schwabing-spezifisch
+  - Elisabethplatz              # Schwabing-West
+  - Hohenzollernplatz           # Schwabing-West
+  - Kurfürstenplatz             # Schwabing
+  - Kurfuerstenplatz
+
+  # --- Au-Haidhausen (Bezirk 5) ---
+  - Au
+  - Au-Haidhausen
+  - Haidhausen
+  - Haidhauser
+  - Untere-Au
+  - Untere Au
+  - Obere-Au
+  - Obere Au
+  - Französisches-Viertel
+  - Franzoesisches-Viertel
+  - Franzosenviertel
+  - Wienerplatz
+  - Wiener-Platz
+  - Bordeauxplatz
+  - Weißenburger-Platz
+  - Pariser-Platz
+  - Mariahilfplatz             # Au-spezifisch
+  - Schyrenplatz               # Au
+
+  # --- Sendling & Sendling-Westpark (Bezirke 6 & 7) ---
   - Sendling
+  - Sendlinger
+  - Untersendling
+  - Sendling-Westpark
+  - Harras
+  - Margaretenplatz
+  - Partnachplatz
+
+  # --- Schwanthalerhöhe / Westend (Bezirk 8) ---
   - Westend
+  - Schwanthalerhöhe
+  - Schwanthaler-Höhe
+  - Schwanthalerhoehe
+  - Schwanthaler Höhe
+
+  # --- Neuhausen-Nymphenburg (Bezirk 9) ---
   - Neuhausen
+  - Neuhausener
+  - Neuhausen-Nymphenburg
+  - Nymphenburg
+  - Nymphenburger
+  - Rotkreuzplatz
+  - Gern
+  - Gernerviertel
+
+  # --- Bogenhausen (Bezirk 13) ---
   - Bogenhausen
+  - Bogenhausener
+  - Herzogpark
+  - Englschalking
+  - Daglfing
+  - Oberföhring
+  - Oberfoehring
+  - Priel
+  - Parkstadt-Bogenhausen
+  - Arabellapark
+  - Cosimapark
+  - Herkomerplatz
+  - Friedensengel              # Bogenhausen-Eingang
+  - Prinzregentenplatz         # Bogenhausen-Grenze
 
 # Ausstattung (Pflicht-Flags)
 # require_balcony: true     # Listing muss "Balkon" erwähnen
@@ -66,9 +184,17 @@ districts_whitelist:
 # "Vorkaufsrecht"). Kapitalanlage reicht für reine Anlage-Listings.
 exclude_keywords:
   - WG-Zimmer
+  - WG-Wohnung
+  - Mitbewohner
+  - Mitbewohnerin
+  - shared apartment
+  - shared room
+  - shared flat
+  - room in
+  - flat share
+  - flatshare
   - Zwischenmiete
   - Zwischenmieten
-  - möbliert
   - Tausch
   - Tauschwohnung
   - Kapitalanlage
