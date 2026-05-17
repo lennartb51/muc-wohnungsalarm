@@ -3,6 +3,7 @@ from __future__ import annotations
 
 import logging
 import sys
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 
 import yaml
@@ -23,6 +24,10 @@ ROOT = Path(__file__).resolve().parent.parent
 CONFIG_PATH = ROOT / "config.yaml"
 STATE_PATH = ROOT / "data" / "seen.json"
 
+# Parallelisierung: bei N Adaptern und K Workers ungefähr N/K * pro-Adapter-Dauer.
+# 8 Workers ist konservativ — vermeidet Rate-Limits + IPv4-Stacking.
+ADAPTER_PARALLELISM = 8
+
 
 def main() -> int:
     cfg = yaml.safe_load(CONFIG_PATH.read_text())
@@ -33,14 +38,26 @@ def main() -> int:
     store = SeenStore(STATE_PATH)
     disabled = set(cfg.get("disabled_adapters") or [])
 
-    all_listings = []
     adapters = get_all_adapters()
-    logger.info(f"{len(adapters)} Adapter aktiv")
+    logger.info(f"{len(adapters)} Adapter aktiv (parallel: {ADAPTER_PARALLELISM})")
 
     for adapter in adapters:
         if adapter.name in disabled:
             adapter.enabled = False
-        all_listings.extend(adapter.safe_fetch())
+
+    # Parallele Adapter-Abfrage. Reihenfolge der Logs nicht mehr deterministisch.
+    all_listings = []
+    with ThreadPoolExecutor(max_workers=ADAPTER_PARALLELISM) as pool:
+        future_to_adapter = {
+            pool.submit(adapter.safe_fetch): adapter for adapter in adapters
+        }
+        for future in as_completed(future_to_adapter):
+            try:
+                listings = future.result()
+                all_listings.extend(listings)
+            except Exception as e:
+                adapter = future_to_adapter[future]
+                logger.warning(f"[{adapter.name}] Crashed: {e}")
 
     logger.info(f"Insgesamt {len(all_listings)} Listings über alle Quellen")
 
