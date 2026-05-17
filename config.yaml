@@ -195,6 +195,7 @@ exclude_keywords:
   - flatshare
   - Zwischenmiete
   - Zwischenmieten
+  - möbliert
   - Tausch
   - Tauschwohnung
   - Kapitalanlage
@@ -213,6 +214,24 @@ exclude_keywords:
   - vergeben
   - reserviert
   - verkauft
+
+  # Verkauf statt Miete (Park Avenue & ähnliche Misch-Anbieter)
+  - Grundstück
+  - Grundstücke
+  - Kaufpreis
+  - Kaufobjekt
+  - Kaufobjekte
+  - Eigentumswohnung
+  - Verkaufspreis
+  - "zu verkaufen"
+  - "zum Kauf"
+
+  # Häuser (außerhalb deines Mietsuche-Fokus, max_price 1800 → unrealistisch)
+  - Einfamilienhaus
+  - Doppelhaushälfte
+  - Reihenhaus
+  - Bungalow
+  - Villa
 
 # Adapter, die deaktiviert werden sollen
 disabled_adapters: []
