@@ -158,6 +158,198 @@ USER_SOURCES: list[tuple[str, str]] = [
     ("ImmoSmart", "https://immosmart.de/mieten/"),
 ]
 
+# ---------- HAUSVERWALTUNGEN ★ MITTEL (Auto-Discovery) ----------
+# Aus der Excel "Hausverwaltungen_Muenchen_FINAL_SORT_2", gefiltert nach
+# Lennarts Kern-Bezirken. Auto-Discovery findet Listing-Subpfade selbständig;
+# EXCLUDE_PATH_KEYWORDS filtert Service-Pfade (Mieterwechsel, Vermieterservice
+# etc.) raus. Die mit echten Listings liefern automatisch beim nächsten Run.
+HAUSVERWALTUNGEN_MITTEL: list[tuple[str, str]] = [
+    # --- Altstadt-Lehel ---
+    ("DOMINO Haus- und Grundbesitz", "https://www.domino-muc.de"),
+    ("Fries & Co Grundstücksverwaltung", "https://www.friesundco.de"),
+    ("Hausverwaltung Heinz Zimmermann", "https://www.hausverwaltung-zimmermann.de"),
+    ("Isaria Hausverwaltung", "https://www.isaria-hv.de"),
+    ("Leuchtenberger Immobilien", "https://www.leuchtenberger-immobilien.de"),
+    ("Stockmayr-Kielleuthner", "https://www.stockmayr.de"),
+    ("Kribitzneck Anton Hausverwaltung", "https://www.hausverwaltung-kribitzneck.de"),
+    # --- Maxvorstadt ---
+    ("Arnold Ingeborg Immobilien", "https://www.arnold-immobilien-gmbh.de"),
+    ("Concept-Real Hausverwaltungs", "https://concept-real.de"),
+    ("Maneum Hausverwaltung", "https://www.maneum.de"),
+    ("Ries Immobilien KG", "https://www.riesimmobilienkg.de"),
+    ("Stoll Hausverwaltungen", "https://www.stoll-hv.de"),
+    # --- Schwabing(-West) ---
+    ("Dietzel GbR Vermietung", "https://dietzelgbr.de"),
+    ("PARTNER Immobilien-Verwaltung", "https://www.partner-immobilienverwaltung.de"),
+    ("DHG-Hausverwaltung Fischbaum", "https://www.ipg-gmbh.de"),
+    ("EIGENSCHINK Grundstücksverwaltung", "https://www.eigenschink-gv.de"),
+    ("Franke & Leal Hausverwaltung", "https://www.frankeundpartner.com"),
+    ("Fritz Kuschel u Söhne", "https://www.hv-kuschel.de"),
+    ("Günthert & Gollmann", "https://www.hausverwaltung-gollmann.de"),
+    ("Hausverwaltung Potzler", "https://www.hv-potzler.de"),
+    ("M-Haus Hausverwaltung", "https://www.m-haus.info"),
+    ("MuM Real Estates / Winkler", "https://www.hv-winkler.de"),
+    ("Schaefer Christian Hausverwaltung", "https://www.hausverwaltung-schaefer.de"),
+    ("Interco Grundbesitz / Suedboden", "https://www.suedboden.com"),
+    # --- Isarvorstadt / Ludwigsvorstadt ---
+    ("B.I.G. Hausverwaltung", "https://www.big-hausverwaltung.de"),
+    ("BC Hausverwaltung & Immobilien", "https://www.bc-verwaltung.de"),
+    ("Enzenhöfer Hausverwaltung", "https://www.enzenhoefer-immobilien.de"),
+    ("GATT Hausverwaltung", "https://www.gatt-immobilienverwaltung.de"),
+    ("Hahn & Schmid Immobilien", "https://www.hahn-schmid.de"),
+    ("HVK Grundbesitz", "https://www.hvk-grundbesitz.de"),
+    ("Landlord Immobilien Verwaltung", "https://www.landlord-iv.de"),
+    ("Dr. Hanns Maier / Hamabau", "https://www.hamabau.de"),
+    ("MSH Immobilien", "https://www.msh-immobilien.de"),
+    ("Schenk Mariele Hausverwaltung", "https://www.ra-schenk.de"),
+    ("Schmid Stefan Hausverwaltung", "https://www.hv-schmid.de"),
+    # --- Au-Haidhausen ---
+    ("Brauner Fred Hausverwaltung", "https://www.hv-brauner.de"),
+    ("Hausverwaltung Geisinger", "https://www.geisinger-hausverwaltung.de"),
+    ("Gegenfurtner Helmut Hausverwaltung", "https://www.hv-gegenfurtner.de"),
+    ("HAVAU Immobilien", "https://havau-hausverwaltung.de"),
+    ("Prospera Immobilien", "https://www.prospera-immo.de"),
+    # --- Sendling ---
+    ("Grassl Gertraud Hausverwaltung", "https://www.grassl-hausverwaltung.de"),
+    ("Hinterseer Peter Hausverwaltung", "https://www.hv-hinterseer.de"),
+    ("Homewise GmbH", "https://www.homewise.de"),
+    ("Küffel Werner Hausverwaltung", "https://www.kueffel-online.de"),
+    ("J. Rüprich Hausverwaltungen", "https://www.rueprich.net"),
+    # --- Schwanthalerhöhe / Westend ---
+    ("Solitär Immobilienverwaltung", "https://immo.mbc1.de"),
+    ("Teichmann Hausverwaltungen", "https://www.teichmanngmbh-online.de"),
+    # --- Neuhausen / Nymphenburg ---
+    ("Drost & Reidler / Voelkner", "https://www.voelkner-immo.de"),
+    ("Hauskonzept Hausverwaltungs", "https://www.hauskonzept-gmbh.de"),
+    ("Hausverwaltung Nymphenburg HVN", "https://www.hvny.de"),
+    ("Merkl Haus- und Grundstücksverwaltung", "https://www.merkl-immob.com"),
+    ("Nymphenburger Grund Verwaltung", "https://www.nygr.de"),
+    ("Urbanski Hausverwaltung", "https://www.hv-urbanski.com"),
+    # --- Bogenhausen ---
+    ("Bayerische Hausbau Management", "https://www.bayerische-hausverwaltung.de"),
+    ("Krautbauer Ernst Immobilien", "https://www.krautbauer.de"),
+    ("Hausverwaltung Pharao", "https://www.pharaohaus.de"),
+    ("VITA-Hausverwaltung", "https://www.vita-hausverwaltung.com"),
+]
+
+# ---------- HAUSVERWALTUNGEN AUDIT-POOL ----------
+# Großzügig hinzugefügt nach Lennarts "so viele wie möglich"-Strategie.
+# Auto-Discovery prüft selbst ob Listing-Seite existiert; EXCLUDE_PATH_KEYWORDS
+# blockt Service-Pfade. Nach 3-4 Runs werden nicht-funktionierende rausgenommen.
+HAUSVERWALTUNGEN_AUDIT: list[tuple[str, str]] = [
+    # --- Chris-Quellen (vom User vorgemerkt) ---
+    ("A&C Immobilien", "https://www.ac-immobilien-gmbh.de"),
+    ("AV Immobilien", "https://www.av-immo.de"),
+    ("Boos & Co Verwaltung", "https://www.boos-verwaltung.com"),
+    ("CM CASA Hausverwaltung", "https://www.cm-casa-hausverwaltung.de"),
+    ("conta Immobilien-Gruppe", "https://www.conta.eu"),
+    ("DAHLER München", "https://www.dahlercompany.com"),
+    ("Eichler Immobilien", "https://www.eichler.de"),
+    ("Finestep Immobilien", "https://www.finestep.de"),
+    ("Fritz N. Osterried Immobilien", "https://www.immobilien-osterried.de"),
+    ("Hartlaub / Cocon Immobilienstiftung", "https://www.cocon.de"),
+    ("HOMEFacilities Seelbach", "https://www.homefacilities.de"),
+    ("IMCON Immobilien Consulting", "https://www.imcon.info"),
+    ("Immobilien Zippold", "https://www.immobilien-zippold.de"),
+    ("IntigrA Immobilien Management", "https://www.intigra-immobilien.de"),
+    ("KITHAN GmbH", "https://www.kithan.de"),
+    ("Norbert Marte Immobilien", "https://www.immobilienmarte.de"),
+    ("Park Avenue Immobilien", "https://www.parkavenue.immobilien"),
+    ("Projekt M Immobilien", "https://www.projektmimmobilien.de"),
+    ("Schön Immobilien", "https://www.schoenimmobilien.de"),
+    ("Westfalia Immobilienverwaltung", "https://www.westfalia-gmbh.de"),
+    ("Andreas Hage Immobilien", "https://www.hage-immobilien.net"),
+    ("Immobilien Boos", "https://www.immobilien-boos.de"),
+    ("Immovision München", "https://www.immovision.de"),
+    ("KLATTE Immobilien", "https://www.klatte-immobilien.de"),
+    ("Tectareal Property Management", "https://www.tectareal.de"),
+
+    # --- Weitere München-HVs (alle URLs aus Excel) ---
+    ("Bayerische Immobilien Management", "https://www.bi-m.de"),
+    ("Gruber Günther Hausverwaltung", "https://www.wohnungsangebote-muenchen.de"),
+    ("ACM Immobilien Hausverwaltung", "https://www.acmgmbh.de"),
+    ("anima Immobilien Verwaltung", "https://www.animare-immobilien.de"),
+    ("ARCO / Zinkl Hausverwaltung", "https://www.hvzinkl.de"),
+    ("Arendt Hausverwaltung", "https://www.arendt-hausverwaltung.de"),
+    ("ASI Immobilienverwaltungen", "https://www.asi-iv.de"),
+    ("Bettinger Norbert Hausverwaltung", "https://www.beno-immobilien.de"),
+    ("BPV Hausverwaltung", "https://www.bpv-muenchen.de"),
+    ("Cohaus München", "https://www.cohaus-muenchen.de"),
+    ("Dall'Armi Immobilienverwaltung", "https://www.lunovalinner.de"),
+    ("Dimperl & Sohn Hausverwaltung", "https://www.dimperl-muenchen.de"),
+    ("Etcos Immobilien Management", "https://www.etcos-gmbh.de"),
+    ("F. Schlagenhaufer Hausverwaltung", "https://www.immobilien-schlagenhaufer.de"),
+    ("Fischer / Keilich Hausverwaltung", "https://www.hausverwaltung-keilich-muenchen.de"),
+    ("Frommhold Maximilian Hausverwaltung", "https://www.maximilian-frommhold.de"),
+    ("GFF Hausverwaltung", "https://www.gff-hv.de"),
+    ("Hausgrund München", "https://www.hausgrund-muenchen.de"),
+    ("Hausverwaltung Moosach / Meinhart", "https://www.hv-meinhart.de"),
+    ("Hausverwaltung Schmidt", "https://www.schmidt-hausverwaltung.net"),
+    ("Hausverwaltung WEMA", "https://www.wema-hausverwaltung.de"),
+    ("E. Schmaus Hausverwaltung", "https://www.schmaus-immob-int.de"),
+    ("HS-Immoteam", "https://hs-immoteam.jimdo.com"),
+    ("Immler Martin Hausverwaltung", "https://www.immler.com"),
+    ("Klaus Hausverwaltung", "https://www.klaus-immo.de"),
+    ("Margot Ludl Immobilienbetreuung", "https://www.ludl-immobilien.de"),
+    ("MHM Hausverwaltungs", "https://www.m-h-m.de"),
+    ("mvh Immobilienverwaltung München", "https://www.mrh-immobilienverwaltung.de"),
+    ("OBM Hausverwaltung München", "https://www.obm-hausverwaltung.de"),
+    ("PARTNER Immobilien Vermittlung", "https://www.partnerimmobilienverwaltung.de"),
+    ("Roth Immobilienverwaltung", "https://www.roth-immobilienverwaltung.de"),
+    ("S2H Immobilienmanagement", "https://www.s2h-muenchen.de"),
+    ("Schwerdt Tobias Immobilien", "https://www.schwerdt-immobilien.de"),
+    ("SEHAG Hausverwaltung", "https://www.sehag.de"),
+    ("Sollner Grundbesitzverwaltung", "https://www.sollner-grund.de"),
+    ("Sonntag Horst Hausverwaltung", "https://www.hausverwaltung-sonntag.de"),
+    ("Walger Grundstücksverwaltung", "https://www.verwaltung123.de"),
+    ("ADM GmbH Hausverwaltung", "https://www.adm-gmbh.net"),
+    ("admincasa Hausverwaltung", "https://www.admincasa.de"),
+    ("ADVISUM Hausverwaltung", "https://www.advisum.de"),
+    ("AIMAG Immobilien-Management", "https://www.aimag.de"),
+    ("Arivon Service", "https://www.arivon.de"),
+    ("Aufbau West Innovationspark HV", "https://www.aufbau-west.org"),
+    ("Castle Eigentum", "https://www.castle-hausverwaltung.de"),
+    ("D. Baumann Immobilien", "https://www.dbi-germany.de"),
+    ("Diez Grundstücks", "https://www.diez-verwaltung.de"),
+    ("EFIMA AG", "https://www.efima-ag.eu"),
+    ("Empetus Hausverwaltung", "https://www.empetus.de"),
+    ("Erl Wilhelm Verwaltung", "https://www.wilhelm-erl.de"),
+    ("GEMA Gebäudemanagement", "https://www.gema-gebaeudemanagement.de"),
+    ("GLOBAL Institut Immobilien", "https://www.global-immobilien.de"),
+    ("Graphigrund Hausverwaltung", "https://www.graphigrund.de"),
+    ("Gruber Herbert Hausverwaltung", "https://www.hv-gruber.de"),
+    ("HADIEFA Hausverwaltung", "https://www.hadiefa.de"),
+    ("Hammerla Hausverwaltung", "https://www.hausverwaltung-hammerla.de"),
+    ("Hartmann Immoinvest", "https://www.hartmann-immoinvest.de"),
+    ("Haus-Treu-Süd", "https://www.haus-treu-sued.de"),
+    ("Danhuber Haus- und Vermögensverwaltung", "https://www.hausverwaltung-danhuber.de"),
+    ("HGSK Hausverwaltung", "https://www.hgsk.eu"),
+    ("HI Wohnbau", "https://www.hi-wohnbau.de"),
+    ("HIS Real Estate", "https://www.hisrealestate.de"),
+    ("Häusl Peter Hausverwaltung", "https://www.haeusl-hausverwaltung.de"),
+    ("ifena Hausverwaltung", "https://www.ifena.de"),
+    ("ihr-WEGVerwalter", "https://www.ihr-wegverwalter.de"),
+    ("Jugan Investmentverwaltung", "https://www.jugan.de"),
+    ("Scheel Immobilien", "https://www.scheel-immobilien.de"),
+    ("Herbst Immobilienverwaltung", "https://www.daniel-immo.eu"),
+    ("Immobilienbüro 24", "https://www.immobilienbuero24.de"),
+    ("Impro Hausverwaltung", "https://www.impro-hausverwaltung.de"),
+    ("IMV Immobilien Management", "https://www.imv.eu"),
+    ("Johann Landstorfer Immobilien", "https://www.landstorfer-immobilien.de"),
+    ("Krinninger Immobilien", "https://www.krinninger-immobilien.de"),
+    ("Ljubicic Hausverwaltung", "https://www.ljubicic-gmbh.com"),
+    ("MG Haus- und Vermögensverwaltung", "https://www.ww-hausverwaltung.de"),
+    ("München Inter Hausverwaltung", "https://www.muenchen-inter.de"),
+    ("P. Traut Hausverwaltung", "https://www.hausverwaltung-traut.de"),
+    ("Prager Liegenschaftsverwaltung", "https://www.liegenschaften-prager.de"),
+    ("Schuhmann Verwaltung", "https://www.schuhmann-muenchen.de"),
+    ("Strondl Hausverwaltung", "https://www.strondl.com"),
+    ("VOGT Gebäudeverwaltung", "https://www.vogt-management.de"),
+    ("VOGT Holger Immobilien", "https://www.vogt-immobilien.de"),
+    ("Wottschal Marina / Immowot", "https://www.immowot.de"),
+    ("Zenveo Hausverwaltung", "https://www.zenveo.de"),
+]
+
 
 def all_simple_adapters() -> List[GenericTextAdapter]:
     """Alle Quellen als GenericTextAdapter-Instanzen.
@@ -171,6 +363,8 @@ def all_simple_adapters() -> List[GenericTextAdapter]:
         GENOSSENSCHAFTEN
         + HAUSVERWALTUNGEN_TOP
         + HAUSVERWALTUNGEN_HOCH
+        + HAUSVERWALTUNGEN_MITTEL
+        + HAUSVERWALTUNGEN_AUDIT
         + USER_SOURCES
     ):
         if len(entry) == 3:
