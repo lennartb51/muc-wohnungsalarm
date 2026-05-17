@@ -61,6 +61,37 @@ def main() -> int:
 
     logger.info(f"Insgesamt {len(all_listings)} Listings über alle Quellen")
 
+    # Cross-Source-Dedupe: dieselbe Wohnung kommt manchmal über mehrere
+    # Aggregatoren rein (z.B. Park Avenue → Immobilo → Nuroa). Verschiedene
+    # `source` führt zu verschiedenen UIDs → mehrfache Pings.
+    # Fingerprint nach Title-Stamm + Größe + Preisbucket (50€).
+    import re as _re
+    def _fingerprint(l):
+        title_stem = _re.sub(r"[^a-zäöüß0-9]+", "", (l.title or "").lower())[:40]
+        size = round(l.size_sqm) if l.size_sqm else 0
+        price = (l.price_warm or l.price_cold or 0)
+        price_bucket = int(price / 50) * 50 if price else 0
+        return f"{title_stem}|{size}|{price_bucket}"
+
+    seen_fp = set()
+    deduped = []
+    duplicates = 0
+    for l in all_listings:
+        fp = _fingerprint(l)
+        # Nur dedupen wenn Fingerprint aussagekräftig ist (Title >5 chars oder
+        # Größe+Preis vorhanden — sonst riskieren wir false positives)
+        if len(fp.split("|")[0]) < 5 and not (l.size_sqm and (l.price_warm or l.price_cold)):
+            deduped.append(l)
+            continue
+        if fp in seen_fp:
+            duplicates += 1
+            continue
+        seen_fp.add(fp)
+        deduped.append(l)
+    if duplicates:
+        logger.info(f"Cross-Source-Dedupe: {duplicates} Duplikate entfernt → {len(deduped)} unique")
+    all_listings = deduped
+
     # 1) Auf neue Listings filtern (UID nicht im State)
     new_listings = [l for l in all_listings if store.is_new(l.uid)]
     logger.info(f"Davon {len(new_listings)} neu (vorher unbekannt)")
