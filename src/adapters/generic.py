@@ -38,6 +38,8 @@ DEFAULT_SELECTORS = [
     # Speziell Franziskanerhof, aber auch andere Makler mit onOffice-CRM.
     "a[href*='immobiliendetails']",
     "a[href*='/expose']", "a[href*='/objekt/']",
+    # ohne-makler.net und ähnliche Portale: /immobilie/NNNNNN/
+    "a[href*='/immobilie/']",
 ]
 
 # Pattern für Münchner Wohnungs-Adressen im Fließtext
