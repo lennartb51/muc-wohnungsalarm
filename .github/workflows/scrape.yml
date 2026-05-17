@@ -49,14 +49,47 @@ jobs:
             exit 0
           fi
           git commit -m "chore: update state [skip ci]"
-          # Retry-Loop: bei Push-Konflikt rebasen und nochmal versuchen
+
+          # Smart-Retry: bei Push-Konflikt nehmen wir remote als Basis und
+          # mergen unsere lokalen UIDs hinzu (statt zu rebasen — vermeidet
+          # JSON-Konflikte zwischen parallel laufenden Runs).
           for i in 1 2 3; do
             if git push; then
               echo "Push erfolgreich (Versuch $i)"
               exit 0
             fi
-            echo "Push fehlgeschlagen, pull+rebase und retry..."
-            git pull --rebase origin main
+            echo "Push fehlgeschlagen, smart-merge..."
+
+            # Lokale seen.json wegsichern
+            cp data/seen.json /tmp/local-seen.json
+
+            # Auf remote zurücksetzen
+            git fetch origin main
+            git reset --hard origin/main
+
+            # Smart-Merge: UIDs aus beiden zusammenführen
+            python3 - << 'EOF'
+          import json
+          with open('/tmp/local-seen.json') as f:
+              local = json.load(f)
+          with open('data/seen.json') as f:
+              remote = json.load(f)
+          # Union; bei doppelten UIDs gewinnt der frühere Timestamp
+          merged = dict(remote)
+          for uid, ts in local.items():
+              if uid not in merged or ts < merged[uid]:
+                  merged[uid] = ts
+          with open('data/seen.json', 'w') as f:
+              json.dump(merged, f, indent=2, sort_keys=True)
+          print(f"Merged: remote={len(remote)} + local={len(local)} = {len(merged)} UIDs")
+          EOF
+
+            git add data/seen.json
+            if git diff --staged --quiet; then
+              echo "Nach Merge keine Änderung mehr, fertig"
+              exit 0
+            fi
+            git commit -m "chore: update state [skip ci] (merged)"
             sleep 2
           done
           echo "Push nach 3 Versuchen aufgegeben"
