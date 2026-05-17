@@ -211,9 +211,22 @@ exclude_keywords:
   - vermietete
   - vermietetes
   - vermieteter
+  - vermieteten           # Akkusativ/Plural: "die vermieteten Wohnungen"
   - vergeben
+  - vergebene
+  - vergebener
   - reserviert
+  - reservierte
+  - reservierter
   - verkauft
+  - verkaufte
+  - verkaufter
+  - bereits-vermietet     # ohne Leerzeichen, kommt manchmal so vor
+  - "Wohnung weg"
+  - "leider weg"
+  - "schon weg"
+  - "nicht mehr verfügbar"
+  - "nicht mehr aktuell"
 
   # Verkauf statt Miete (Park Avenue & ähnliche Misch-Anbieter)
   - Grundstück
