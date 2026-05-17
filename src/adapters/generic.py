@@ -34,6 +34,10 @@ DEFAULT_SELECTORS = [
     "[class*='listing']", "[class*='exposé']", "[class*='expose']",
     "[class*='immobilie']", ".card", ".news-list-item", "li.list-item",
     "[class*='estate']", "[class*='property']",
+    # onOffice-Layout: Listings stecken direkt in <a> Tags ohne Container-Class.
+    # Speziell Franziskanerhof, aber auch andere Makler mit onOffice-CRM.
+    "a[href*='immobiliendetails']",
+    "a[href*='/expose']", "a[href*='/objekt/']",
 ]
 
 # Pattern für Münchner Wohnungs-Adressen im Fließtext
@@ -91,8 +95,28 @@ EXCLUDE_PATH_KEYWORDS = [
     "datenschutz", "impressum", "agb", "kontakt", "ueber-uns", "über-uns",
     "team", "unternehmen", "geschichte",
     "kaufangebote", "verkauf",  # Kauf, kein Miet-Listing
-    "sondermietverwaltung",
+    "sondermietverwaltung", "sondereigentumsverwaltung",  # Verwaltung
     "leistungen",  # meist nur Marketing
+
+    # Eigentümer-Service-Seiten ("Wir vermieten Ihre Wohnung für Sie")
+    # NICHT zu verwechseln mit "vermietungsangebote" — siehe DISCOVERY_KEYWORDS.
+    "wohnung-vermieten", "wohnung_vermieten", "wohnungvermieten",
+    "haus-vermieten", "haus_vermieten",
+    "/vermieten",  # Path-Ende: "/vermieten" oder "/vermieten/" — fast immer Service
+    "vermietungsservice", "vermieterservice", "vermieter-service",
+    "vermietungsprozess", "vermietungsablauf",
+    "immobilienvermittlung", "wohnungsvermittlung",
+    "verkaufen", "wir-verkaufen",  # gleiche Logik wie verkauf
+
+    # Mieter-Service (für bestehende Mieter, keine Listings)
+    "mieterservice", "mieter-service", "mieterwechsel", "mieter-wechsel",
+    "mieterverwaltung", "mieter-verwaltung", "mieterportal",
+
+    # Misc
+    "formular-center", "formularcenter", "formular_center",
+    "referenzen", "referenzobjekte", "referenz-objekte",
+    "vorankündigung",  # Vorab-Hinweise statt aktuelle Listings
+    "mietenverwaltung",  # Service, kein Listing
 ]
 
 
