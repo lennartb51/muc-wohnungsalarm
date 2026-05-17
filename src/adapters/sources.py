@@ -129,7 +129,6 @@ USER_SOURCES: list[tuple[str, str]] = [
     # - meinestadt.de München: drin gelassen (HTTP 403, könnte zurückkommen)
     # - Abendzeitung München (HTTP 404)
     # - Münchner Merkur Immo (SSL Cert Mismatch)
-    # - Pöttinger (HTTP 404 unter Auto-Discovery-URL)
     ("meinestadt.de München", "https://www.meinestadt.de/muenchen/immobilien/wohnungen"),
     ("Drescher Immobilien", "https://drescher-immobilien.de/mietangebote"),
     ("EP Immobilien", "https://www.ep-immobilien.com/?post_type=immomakler_object&vermarktungsart=miete&nutzungsart=wohnen"),
@@ -145,22 +144,41 @@ USER_SOURCES: list[tuple[str, str]] = [
     ("RE/MAX Prime München", "https://prime-muenchen.remax.de/de/wohnung-mieten-in-muenchen/"),
     ("Wegener Immobilien", "https://www.wegenerimmobilien.de/Muenchen/Mietwohnungen-Muenchen.html"),
     ("Rogers Immobilien", "https://www.rogers-immobilien.de/immobilienangebote/"),
-    ("KIP Immobilien", "https://www.kip.net/bayern/muenchen/mieten/wohnungen/1"),
+    # auto_discover=False für Sources mit spezifischen URLs/Query-Params
+    # die sonst von Auto-Discovery überschrieben würden:
+    ("KIP Immobilien", "https://www.kip.net/bayern/muenchen/mieten/wohnungen/1", False),
     ("Wohnreferat München", "https://www.wohnref-muenchen.de/immobilien/"),
-    ("Garant Immo", "https://www.garant-immo.de/result.html?search=rent&t=rental-apartment&q=M%C3%BCnchen&qt=county"),
+    ("Garant Immo", "https://www.garant-immo.de/result.html?search=rent&t=rental-apartment&q=M%C3%BCnchen&qt=county", False),
     ("VR-Bank München Land", "https://www.vr-bank-muenchen-land.de/privatkunden/immobilie-und-wohnen/produkte/immobilien/immobiliensuche.html"),
-    ("Lehmann Hueber", "https://lehmannhueber.de/immobilien/?post_type=immomakler_object&vermarktungsart=miete&nutzungsart=wohnen"),
+    ("Lehmann Hueber", "https://lehmannhueber.de/immobilien/?post_type=immomakler_object&vermarktungsart=miete&nutzungsart=wohnen", False),
+    ("Egger Immobilien", "https://egger-immo.de/immobilien/immobilien-muenchen/"),
+    ("Immobilien PS", "https://www.immobilien-ps.de/aktuelle-mietangebote"),
+    ("Roethig Immobilien", "https://www.roethig-immobilien.de/angebote/vermietung/"),
+    ("Pöttinger", "https://www.poettinger.com/de/miet-immobilien.html"),
+    ("ImmoSmart", "https://immosmart.de/mieten/"),
 ]
 
 
 def all_simple_adapters() -> List[GenericTextAdapter]:
-    """Alle Quellen als GenericTextAdapter-Instanzen."""
+    """Alle Quellen als GenericTextAdapter-Instanzen.
+
+    Source-Tuple kann sein:
+      (name, url)                       → auto_discover=True (Standard)
+      (name, url, auto_discover_bool)   → explizit gesetzt
+    """
     adapters = []
-    for name, url in (
+    for entry in (
         GENOSSENSCHAFTEN
         + HAUSVERWALTUNGEN_TOP
         + HAUSVERWALTUNGEN_HOCH
         + USER_SOURCES
     ):
-        adapters.append(GenericTextAdapter(name=name, list_url=url))
+        if len(entry) == 3:
+            name, url, auto_discover = entry
+        else:
+            name, url = entry
+            auto_discover = True
+        adapters.append(
+            GenericTextAdapter(name=name, list_url=url, auto_discover=auto_discover)
+        )
     return adapters
