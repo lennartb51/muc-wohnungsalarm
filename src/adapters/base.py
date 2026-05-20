@@ -86,7 +86,13 @@ class Adapter(ABC):
         return list(self.fetch())
 
     def get(self, url: str, **kwargs) -> requests.Response:
-        """GET mit Rate-Limit + striktem Connect+Read-Timeout."""
+        """GET mit Rate-Limit + striktem Connect+Read-Timeout.
+
+        Fallback bei SSL-Fehlern: viele kleine deutsche HVs haben kaputte
+        Cert-Konfigs (Hostname-Mismatch, self-signed, TLSv1-only, expired).
+        Wir versuchen einmal mit verify=False als Last-Resort. Das ist
+        unkritisch weil wir nur HTML-Listings lesen, keine Auth-Daten.
+        """
         elapsed = time.time() - self._last_request
         if elapsed < self.rate_limit_seconds:
             time.sleep(self.rate_limit_seconds - elapsed)
@@ -94,7 +100,18 @@ class Adapter(ABC):
         # aber bei toten Servern nicht endlos hängen. ADAPTER_HARD_TIMEOUT_SECONDS=60
         # schützt zusätzlich gegen Worst-Case.
         kwargs.setdefault("timeout", (8, 25))
-        r = self.session.get(url, **kwargs)
+        try:
+            r = self.session.get(url, **kwargs)
+        except requests.exceptions.SSLError as e:
+            # SSL-Fallback: nur einmal mit verify=False retry
+            if kwargs.get("verify") is False:
+                raise  # War schon verify=False, hier ist's was anderes
+            logger.debug(f"[{self.name}] SSL-Error → retry mit verify=False: {e}")
+            # Suppress urllib3 InsecureRequestWarning für diesen Call
+            import urllib3
+            urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+            kwargs["verify"] = False
+            r = self.session.get(url, **kwargs)
         self._last_request = time.time()
         return r
 
