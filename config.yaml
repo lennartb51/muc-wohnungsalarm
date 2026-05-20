@@ -2,17 +2,34 @@
 # Filter-Konfiguration
 # Anpassen und committen — Änderungen greifen ab dem nächsten Run.
 # ---------------------------------------------------------------
+#
+# MULTI-PROFILE (optional): Wenn du Freunde mit eigenen Suchparametern
+# bedienen willst, dekommentiere unten den `profiles:` Block. Jedes
+# Profil bekommt eigenen Telegram-Chat + eigenen seen-State.
+#
+# Beispiel:
+# profiles:
+#   - name: lennart
+#     chat_id: ${TELEGRAM_CHAT_ID}     # env var (existiert schon)
+#     # alle Filter werden vom top-level übernommen
+#   - name: max
+#     chat_id: ${TELEGRAM_CHAT_ID_MAX} # env var setzen in GitHub Secrets
+#     max_price: 2500                  # Profil-spezifisch, überschreibt top-level
+#     min_sqm: 60
+#     districts_whitelist: [Bogenhausen, Schwabing, Lehel]
+#
+# Wenn `profiles` fehlt: Single-Profile-Modus mit TELEGRAM_CHAT_ID (wie bisher).
 
 # Preis (warm bevorzugt, fällt auf kalt zurück wenn nicht verfügbar)
 max_price: 1800   # €
 min_price: 400    # Schutz vor Scam-Anzeigen
 
 # Größe in m²
-min_sqm: 35
+min_sqm: 45
 # max_sqm: 120    # Optional
 
 # Zimmer
-min_rooms: 1
+min_rooms: 2
 # max_rooms: 4
 
 # --- PLZ-Whitelist (München) -------------------------------------
