@@ -25,13 +25,17 @@ TELEGRAM_API = "https://api.telegram.org/bot{token}/sendMessage"
 DESCRIPTION_MAX_CHARS = 240
 
 
-def send_telegram(listings: List[Listing]) -> set[str]:
+def send_telegram(listings: List[Listing], chat_id: Optional[str] = None) -> set[str]:
     """Versendet Telegram-Nachrichten. Returnt Set der UIDs die erfolgreich
-    versendet wurden (für State-Tracking im Orchestrator)."""
+    versendet wurden (für State-Tracking im Orchestrator).
+
+    chat_id: wenn None, wird TELEGRAM_CHAT_ID aus env verwendet (Legacy-Modus).
+    """
     token = os.environ.get("TELEGRAM_BOT_TOKEN")
-    chat_id = os.environ.get("TELEGRAM_CHAT_ID")
+    if chat_id is None:
+        chat_id = os.environ.get("TELEGRAM_CHAT_ID")
     if not token or not chat_id:
-        logger.warning("⚠️  TELEGRAM_BOT_TOKEN oder TELEGRAM_CHAT_ID fehlen")
+        logger.warning("⚠️  TELEGRAM_BOT_TOKEN oder chat_id fehlen")
         return set()
 
     sent_uids: set[str] = set()
@@ -40,6 +44,27 @@ def send_telegram(listings: List[Listing]) -> set[str]:
             sent_uids.add(listing.uid)
         time.sleep(0.5)
     return sent_uids
+
+
+def send_summary(text: str, chat_id: Optional[str] = None) -> bool:
+    """Schickt eine Plain-HTML-Status-Nachricht (Stats-Summary etc.) ohne Link-Preview.
+    Returnt True bei Erfolg."""
+    token = os.environ.get("TELEGRAM_BOT_TOKEN")
+    if chat_id is None:
+        chat_id = os.environ.get("TELEGRAM_CHAT_ID")
+    if not token or not chat_id:
+        logger.warning("⚠️  TELEGRAM_BOT_TOKEN oder chat_id fehlen — kein Summary versendet")
+        return False
+    url = TELEGRAM_API.format(token=token)
+    ok, err = _post(url, {
+        "chat_id": chat_id,
+        "text": text,
+        "parse_mode": "HTML",
+        "disable_web_page_preview": True,
+    })
+    if not ok:
+        logger.warning(f"Summary-Versand fehlgeschlagen: {err}")
+    return ok
 
 
 def _post(url: str, payload: dict) -> tuple[bool, str]:
