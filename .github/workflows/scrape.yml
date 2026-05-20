@@ -37,22 +37,25 @@ jobs:
           EMAIL_IMAP_USER: ${{ secrets.EMAIL_IMAP_USER }}
           EMAIL_IMAP_PASSWORD: ${{ secrets.EMAIL_IMAP_PASSWORD }}
           EMAIL_IMAP_HOST: ${{ secrets.EMAIL_IMAP_HOST }}
+          # Weitere TELEGRAM_CHAT_ID_<NAME> hier ergänzen wenn neue Profile dazukommen
         run: python -m src.main
 
-      - name: Commit state back
+      - name: Commit state + stats back
         run: |
           git config user.name "wohnungsalarm-bot"
           git config user.email "actions@github.com"
-          git add data/seen.json
+
+          # Alle persistenten Outputs einsammeln
+          git add data/seen.json data/stats.json data/STATS.md 2>/dev/null || true
+
           if git diff --staged --quiet; then
-            echo "Kein State-Change, kein Commit"
+            echo "Kein Datei-Change, kein Commit"
             exit 0
           fi
-          git commit -m "chore: update state [skip ci]"
+          git commit -m "chore: update state + stats [skip ci]"
 
-          # Smart-Retry: bei Push-Konflikt nehmen wir remote als Basis und
-          # mergen unsere lokalen UIDs hinzu (statt zu rebasen — vermeidet
-          # JSON-Konflikte zwischen parallel laufenden Runs).
+          # Smart-Retry: bei Push-Konflikt mergen wir state UND stats sauber,
+          # damit parallel laufende Runs sich nicht überschreiben.
           for i in 1 2 3; do
             if git push; then
               echo "Push erfolgreich (Versuch $i)"
@@ -60,36 +63,90 @@ jobs:
             fi
             echo "Push fehlgeschlagen, smart-merge..."
 
-            # Lokale seen.json wegsichern
-            cp data/seen.json /tmp/local-seen.json
+            # Lokale Files wegsichern
+            cp data/seen.json /tmp/local-seen.json 2>/dev/null || echo "{}" > /tmp/local-seen.json
+            cp data/stats.json /tmp/local-stats.json 2>/dev/null || echo "{}" > /tmp/local-stats.json
 
             # Auf remote zurücksetzen
             git fetch origin main
             git reset --hard origin/main
 
-            # Smart-Merge: UIDs aus beiden zusammenführen
+            # Smart-Merge: kombiniert seen.json (alle Profile) und stats.json
             python3 - << 'EOF'
-          import json
-          with open('/tmp/local-seen.json') as f:
-              local = json.load(f)
-          with open('data/seen.json') as f:
-              remote = json.load(f)
-          # Union; bei doppelten UIDs gewinnt der frühere Timestamp
-          merged = dict(remote)
-          for uid, ts in local.items():
-              if uid not in merged or ts < merged[uid]:
-                  merged[uid] = ts
-          with open('data/seen.json', 'w') as f:
-              json.dump(merged, f, indent=2, sort_keys=True)
-          print(f"Merged: remote={len(remote)} + local={len(local)} = {len(merged)} UIDs")
+          import json, os
+          from pathlib import Path
+
+          def load(path, default):
+              if not Path(path).exists():
+                  return default
+              try:
+                  return json.loads(Path(path).read_text())
+              except Exception:
+                  return default
+
+          # --- seen.json mergen ---
+          local_seen = load('/tmp/local-seen.json', {})
+          remote_seen = load('data/seen.json', {})
+
+          # Neues Multi-Profile-Format: {_profiles: {name: {seen: {uid: ts}}}}
+          if "_profiles" in local_seen or "_profiles" in remote_seen:
+              merged_profiles = {}
+              for src in (remote_seen, local_seen):
+                  for pname, pdata in src.get("_profiles", {}).items():
+                      merged = merged_profiles.setdefault(pname, {"seen": {}})
+                      merged_seen = merged["seen"]
+                      for uid, ts in pdata.get("seen", {}).items():
+                          # bei Doppel: ältesten Timestamp behalten
+                          if uid not in merged_seen or ts < merged_seen[uid]:
+                              merged_seen[uid] = ts
+              with open('data/seen.json', 'w') as f:
+                  json.dump({"_profiles": merged_profiles}, f, indent=2, sort_keys=True)
+              total = sum(len(p["seen"]) for p in merged_profiles.values())
+              print(f"seen.json merged: {len(merged_profiles)} Profile, {total} UIDs total")
+          else:
+              # Legacy-Single-Profile-Format
+              local_uids = local_seen.get("seen", {})
+              remote_uids = remote_seen.get("seen", {})
+              merged = dict(remote_uids)
+              for uid, ts in local_uids.items():
+                  if uid not in merged or ts < merged[uid]:
+                      merged[uid] = ts
+              with open('data/seen.json', 'w') as f:
+                  json.dump({"seen": merged}, f, indent=2, sort_keys=True)
+              print(f"seen.json merged (legacy): remote={len(remote_uids)} + local={len(local_uids)} = {len(merged)} UIDs")
+
+          # --- stats.json mergen ---
+          # Bei Konflikt: höhere Counter gewinnen (additive Idempotenz nicht möglich,
+          # da pro Run aufaddiert wird — wir nehmen die "weiter fortgeschrittene" Version)
+          local_stats = load('/tmp/local-stats.json', {"_meta": {}, "adapters": {}})
+          remote_stats = load('data/stats.json', {"_meta": {}, "adapters": {}})
+
+          local_runs = local_stats.get("_meta", {}).get("total_runs", 0)
+          remote_runs = remote_stats.get("_meta", {}).get("total_runs", 0)
+          winner = local_stats if local_runs >= remote_runs else remote_stats
+          with open('data/stats.json', 'w') as f:
+              json.dump(winner, f, indent=2, ensure_ascii=False)
+          print(f"stats.json: local_runs={local_runs}, remote_runs={remote_runs} → "
+                f"{'local' if winner is local_stats else 'remote'} wins")
           EOF
 
-            git add data/seen.json
+            # STATS.md neu generieren aus der gemergten stats.json
+            python3 - << 'EOF'
+          import sys
+          sys.path.insert(0, '.')
+          from src.stats import StatsStore
+          from pathlib import Path
+          s = StatsStore(Path('data/stats.json'))
+          Path('data/STATS.md').write_text(s.generate_markdown())
+          print("STATS.md neu generiert nach Merge")
+          EOF
+
+            git add data/seen.json data/stats.json data/STATS.md 2>/dev/null || true
             if git diff --staged --quiet; then
               echo "Nach Merge keine Änderung mehr, fertig"
               exit 0
             fi
-            git commit -m "chore: update state [skip ci] (merged)"
+            git commit -m "chore: update state + stats [skip ci] (merged)"
             sleep 2
           done
           echo "Push nach 3 Versuchen aufgegeben"
