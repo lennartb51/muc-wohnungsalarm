@@ -25,11 +25,11 @@ max_price: 1800   # €
 min_price: 400    # Schutz vor Scam-Anzeigen
 
 # Größe in m²
-min_sqm: 45
+min_sqm: 35
 # max_sqm: 120    # Optional
 
 # Zimmer
-min_rooms: 2
+min_rooms: 1
 # max_rooms: 4
 
 # --- PLZ-Whitelist (München) -------------------------------------
