@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-05-21T12:00:45+00:00_  
+_Auto-generiert. Letzter Run: 2026-05-21T12:03:35+00:00_  
 _Total Runs: 114_  
-_Letzte Run-Zusammenfassung: 554 scraped, 2 matches, 2 sent_
+_Letzte Run-Zusammenfassung: 523 scraped, 1 matches, 1 sent_
 
 ## Adapter-Übersicht
 
@@ -24,7 +24,7 @@ _Letzte Run-Zusammenfassung: 554 scraped, 2 matches, 2 sent_
 | Wegener Immobilien | 1254 | 11.0 | 114/114 | vor 0min | 🟢 aktiv |
 | Heimhuber Immobilien | 1140 | 10.0 | 114/114 | vor 0min | 🟢 aktiv |
 | Idowa Altstadt-Lehel | 1140 | 10.0 | 114/114 | vor 0min | 🟢 aktiv |
-| Wohnreferat München | 1100 | 9.6 | 110/114 | vor 0min | 🟢 aktiv |
+| Wohnreferat München | 1090 | 9.6 | 109/114 | vor 15min | 🟢 aktiv |
 | Immo-Hyp | 988 | 8.7 | 114/114 | vor 0min | 🟢 aktiv |
 | Franziskanerhof | 912 | 8.0 | 114/114 | vor 0min | 🟢 aktiv |
 | Immler Martin Hausverwaltung | 912 | 8.0 | 114/114 | vor 0min | 🟢 aktiv |
@@ -34,15 +34,15 @@ _Letzte Run-Zusammenfassung: 554 scraped, 2 matches, 2 sent_
 | Kleinanzeigen | 608 | 5.3 | 114/114 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 456 | 4.0 | 114/114 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 456 | 4.0 | 114/114 | vor 0min | 🟢 aktiv |
-| Sedlmayr AG | 440 | 3.9 | 110/114 | vor 0min | 🟢 aktiv |
+| Sedlmayr AG | 436 | 3.8 | 109/114 | vor 15min | 🟢 aktiv |
 | DIBAG | 412 | 3.6 | 103/114 | vor 0min | 🟢 aktiv |
 | GVG Net | 342 | 3.0 | 114/114 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 342 | 3.0 | 114/114 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 336 | 3.0 | 112/112 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 333 | 2.9 | 111/114 | vor 0min | 🟢 aktiv |
-| LPE Immobilien | 321 | 2.8 | 107/114 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 258 | 2.3 | 114/114 | vor 0min | 🟢 aktiv |
+| LPE Immobilien | 318 | 2.8 | 106/114 | vor 15min | 🟢 aktiv |
 | KSWM | 251 | 2.2 | 114/114 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 245 | 2.1 | 114/114 | vor 0min | 🟢 aktiv |
 | Alsaol | 228 | 2.0 | 114/114 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 228 | 2.0 | 114/114 | vor 0min | 🟢 aktiv |
 | DAHLER München | 114 | 1.0 | 114/114 | vor 0min | 🟢 aktiv |
@@ -55,8 +55,8 @@ _Letzte Run-Zusammenfassung: 554 scraped, 2 matches, 2 sent_
 | Vonovia | 114 | 1.0 | 114/114 | vor 0min | 🟢 aktiv |
 | Maier Immobilien | 111 | 1.0 | 111/114 | vor 0min | 🟢 aktiv |
 | Südhausbau | 87 | 0.8 | 87/114 | vor 0min | 🟢 aktiv |
-| Email Inbox | 21 | 0.2 | 18/114 | vor 0min | 🟢 aktiv |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 1d | 🟢 aktiv |
+| Email Inbox | 20 | 0.2 | 17/114 | vor 15min | 🟢 aktiv |
 | Munich Property | 10 | 5.0 | 2/2 | vor 1d | 🟢 aktiv |
 | EBM München | 8 | 0.1 | 8/114 | vor 1d | 🟡 inaktiv (lange leer) |
 | A&C Immobilien | 0 | 0.0 | 0/114 | nie | ⚪ leer (nie aktiv) |
