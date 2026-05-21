@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-05-21T18:31:44+00:00_  
+_Auto-generiert. Letzter Run: 2026-05-21T18:34:36+00:00_  
 _Total Runs: 140_  
-_Letzte Run-Zusammenfassung: 546 scraped, 1 matches, 1 sent_
+_Letzte Run-Zusammenfassung: 535 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -24,23 +24,23 @@ _Letzte Run-Zusammenfassung: 546 scraped, 1 matches, 1 sent_
 | Wegener Immobilien | 1540 | 11.0 | 140/140 | vor 0min | 🟢 aktiv |
 | Heimhuber Immobilien | 1400 | 10.0 | 140/140 | vor 0min | 🟢 aktiv |
 | Idowa Altstadt-Lehel | 1400 | 10.0 | 140/140 | vor 0min | 🟢 aktiv |
-| Wohnreferat München | 1330 | 9.5 | 133/140 | vor 0min | 🟢 aktiv |
+| Wohnreferat München | 1320 | 9.4 | 132/140 | vor 16min | 🟢 aktiv |
 | Immo-Hyp | 1186 | 8.5 | 140/140 | vor 0min | 🟢 aktiv |
 | Franziskanerhof | 1120 | 8.0 | 140/140 | vor 0min | 🟢 aktiv |
 | Immler Martin Hausverwaltung | 1120 | 8.0 | 140/140 | vor 0min | 🟢 aktiv |
 | Ab ins Zuhause | 952 | 6.8 | 119/140 | vor 0min | 🟢 aktiv |
 | Hegerich Immobilien | 888 | 6.3 | 140/140 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 841 | 6.0 | 140/140 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 842 | 6.0 | 140/140 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 840 | 6.0 | 140/140 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 560 | 4.0 | 140/140 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 560 | 4.0 | 140/140 | vor 0min | 🟢 aktiv |
-| Sedlmayr AG | 532 | 3.8 | 133/140 | vor 0min | 🟢 aktiv |
+| Sedlmayr AG | 528 | 3.8 | 132/140 | vor 16min | 🟢 aktiv |
 | DIBAG | 516 | 3.7 | 129/140 | vor 0min | 🟢 aktiv |
 | GVG Net | 420 | 3.0 | 140/140 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 417 | 3.0 | 139/140 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 414 | 3.0 | 138/138 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 411 | 2.9 | 137/140 | vor 0min | 🟢 aktiv |
-| LPE Immobilien | 390 | 2.8 | 130/140 | vor 13min | 🟢 aktiv |
+| LPE Immobilien | 393 | 2.8 | 131/140 | vor 0min | 🟢 aktiv |
 | Scheel Immobilien | 306 | 2.2 | 140/140 | vor 0min | 🟢 aktiv |
 | KSWM | 303 | 2.2 | 140/140 | vor 0min | 🟢 aktiv |
 | Alsaol | 280 | 2.0 | 140/140 | vor 0min | 🟢 aktiv |
@@ -55,7 +55,7 @@ _Letzte Run-Zusammenfassung: 546 scraped, 1 matches, 1 sent_
 | Vonovia | 140 | 1.0 | 140/140 | vor 0min | 🟢 aktiv |
 | Maier Immobilien | 137 | 1.0 | 137/140 | vor 0min | 🟢 aktiv |
 | Südhausbau | 113 | 0.8 | 113/140 | vor 0min | 🟢 aktiv |
-| Email Inbox | 27 | 0.2 | 22/140 | vor 0min | 🟢 aktiv |
+| Email Inbox | 26 | 0.2 | 21/140 | vor 3h | 🟢 aktiv |
 | Immobilie1 | 25 | 0.2 | 25/140 | vor 0min | 🟢 aktiv |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 1d | 🟢 aktiv |
 | Munich Property | 10 | 5.0 | 2/2 | vor 1d | 🟢 aktiv |
