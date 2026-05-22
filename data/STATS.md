@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-05-22T21:47:41+00:00_  
+_Auto-generiert. Letzter Run: 2026-05-22T21:50:30+00:00_  
 _Total Runs: 252_  
-_Letzte Run-Zusammenfassung: 534 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 519 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -24,7 +24,7 @@ _Letzte Run-Zusammenfassung: 534 scraped, 0 matches, 0 sent_
 | Wegener Immobilien | 2772 | 11.0 | 252/252 | vor 0min | 🟢 aktiv |
 | Idowa Altstadt-Lehel | 2587 | 10.3 | 252/252 | vor 0min | 🟢 aktiv |
 | Heimhuber Immobilien | 2520 | 10.0 | 252/252 | vor 0min | 🟢 aktiv |
-| Wohnreferat München | 2310 | 9.2 | 231/252 | vor 0min | 🟢 aktiv |
+| Wohnreferat München | 2300 | 9.1 | 230/252 | vor 17min | 🟢 aktiv |
 | Immler Martin Hausverwaltung | 2016 | 8.0 | 252/252 | vor 0min | 🟢 aktiv |
 | Franziskanerhof | 2008 | 8.0 | 251/252 | vor 0min | 🟢 aktiv |
 | Immo-Hyp | 1970 | 7.8 | 252/252 | vor 0min | 🟢 aktiv |
@@ -35,13 +35,13 @@ _Letzte Run-Zusammenfassung: 534 scraped, 0 matches, 0 sent_
 | EP Immobilien | 1008 | 4.0 | 252/252 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 1008 | 4.0 | 252/252 | vor 0min | 🟢 aktiv |
 | DIBAG | 960 | 3.8 | 240/252 | vor 0min | 🟢 aktiv |
-| Sedlmayr AG | 891 | 3.5 | 231/252 | vor 0min | 🟢 aktiv |
+| Sedlmayr AG | 888 | 3.5 | 230/252 | vor 17min | 🟢 aktiv |
 | Pienzenauer Immobilien | 780 | 3.1 | 247/250 | vor 0min | 🟢 aktiv |
 | GVG Net | 756 | 3.0 | 252/252 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 753 | 3.0 | 251/252 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 744 | 3.0 | 248/252 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 687 | 2.7 | 229/252 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 553 | 2.2 | 252/252 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 552 | 2.2 | 252/252 | vor 0min | 🟢 aktiv |
 | KSWM | 521 | 2.1 | 249/252 | vor 0min | 🟢 aktiv |
 | Alsaol | 504 | 2.0 | 252/252 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 504 | 2.0 | 252/252 | vor 0min | 🟢 aktiv |
@@ -56,8 +56,8 @@ _Letzte Run-Zusammenfassung: 534 scraped, 0 matches, 0 sent_
 | Maier Immobilien | 248 | 1.0 | 248/252 | vor 0min | 🟢 aktiv |
 | Südhausbau | 225 | 0.9 | 225/252 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 137 | 0.5 | 137/252 | vor 0min | 🟢 aktiv |
-| ImmoSmart | 37 | 0.1 | 37/252 | vor 0min | 🟢 aktiv |
 | Email Inbox | 36 | 0.1 | 28/252 | vor 7h | 🟢 aktiv |
+| ImmoSmart | 36 | 0.1 | 36/252 | vor 17min | 🟢 aktiv |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 2d | 🟢 aktiv |
 | Munich Property | 10 | 5.0 | 2/2 | vor 2d | 🟢 aktiv |
 | EBM München | 8 | 0.0 | 8/252 | vor 2d | 🟡 inaktiv (lange leer) |
