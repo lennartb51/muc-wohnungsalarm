@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-05-23T23:16:47+00:00_  
+_Auto-generiert. Letzter Run: 2026-05-23T23:19:16+00:00_  
 _Total Runs: 356_  
-_Letzte Run-Zusammenfassung: 517 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 534 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -24,7 +24,7 @@ _Letzte Run-Zusammenfassung: 517 scraped, 0 matches, 0 sent_
 | Wegener Immobilien | 3916 | 11.0 | 356/356 | vor 0min | 🟢 aktiv |
 | Heimhuber Immobilien | 3560 | 10.0 | 356/356 | vor 0min | 🟢 aktiv |
 | Idowa Altstadt-Lehel | 3506 | 9.8 | 356/356 | vor 0min | 🟢 aktiv |
-| Wohnreferat München | 3220 | 9.0 | 322/356 | vor 13min | 🟢 aktiv |
+| Wohnreferat München | 3230 | 9.1 | 323/356 | vor 0min | 🟢 aktiv |
 | Immler Martin Hausverwaltung | 2848 | 8.0 | 356/356 | vor 0min | 🟢 aktiv |
 | Franziskanerhof | 2840 | 8.0 | 355/356 | vor 0min | 🟢 aktiv |
 | Immo-Hyp | 2698 | 7.6 | 356/356 | vor 0min | 🟢 aktiv |
@@ -36,11 +36,11 @@ _Letzte Run-Zusammenfassung: 517 scraped, 0 matches, 0 sent_
 | VS Immobilienservice | 1424 | 4.0 | 356/356 | vor 0min | 🟢 aktiv |
 | DIBAG | 1356 | 3.8 | 339/356 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 1184 | 3.3 | 348/354 | vor 0min | 🟢 aktiv |
-| Sedlmayr AG | 1164 | 3.3 | 322/356 | vor 13min | 🟢 aktiv |
+| Sedlmayr AG | 1167 | 3.3 | 323/356 | vor 0min | 🟢 aktiv |
 | GVG Net | 1068 | 3.0 | 356/356 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 1062 | 3.0 | 354/356 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 1047 | 2.9 | 349/356 | vor 0min | 🟢 aktiv |
-| LPE Immobilien | 960 | 2.7 | 320/356 | vor 13min | 🟢 aktiv |
+| LPE Immobilien | 963 | 2.7 | 321/356 | vor 0min | 🟢 aktiv |
 | Scheel Immobilien | 809 | 2.3 | 356/356 | vor 0min | 🟢 aktiv |
 | KSWM | 723 | 2.0 | 350/356 | vor 0min | 🟢 aktiv |
 | Alsaol | 712 | 2.0 | 356/356 | vor 0min | 🟢 aktiv |
@@ -56,7 +56,7 @@ _Letzte Run-Zusammenfassung: 517 scraped, 0 matches, 0 sent_
 | Maier Immobilien | 349 | 1.0 | 349/356 | vor 0min | 🟢 aktiv |
 | Südhausbau | 329 | 0.9 | 329/356 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 241 | 0.7 | 241/356 | vor 0min | 🟢 aktiv |
-| ImmoSmart | 128 | 0.4 | 128/356 | vor 13min | 🟢 aktiv |
+| ImmoSmart | 129 | 0.4 | 129/356 | vor 0min | 🟢 aktiv |
 | Email Inbox | 48 | 0.1 | 38/356 | vor 1h | 🟢 aktiv |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 3d | 🟢 aktiv |
 | Munich Property | 10 | 5.0 | 2/2 | vor 3d | 🟢 aktiv |
