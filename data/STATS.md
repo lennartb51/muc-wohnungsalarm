@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-05-23T11:47:56+00:00_  
+_Auto-generiert. Letzter Run: 2026-05-23T11:50:24+00:00_  
 _Total Runs: 309_  
-_Letzte Run-Zusammenfassung: 535 scraped, 1 matches, 1 sent_
+_Letzte Run-Zusammenfassung: 534 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -41,7 +41,7 @@ _Letzte Run-Zusammenfassung: 535 scraped, 1 matches, 1 sent_
 | Rosenberger Immobilien | 921 | 3.0 | 307/309 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 912 | 3.0 | 304/309 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 837 | 2.7 | 279/309 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 681 | 2.2 | 309/309 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 682 | 2.2 | 309/309 | vor 0min | 🟢 aktiv |
 | KSWM | 633 | 2.0 | 305/309 | vor 0min | 🟢 aktiv |
 | Alsaol | 618 | 2.0 | 309/309 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 618 | 2.0 | 309/309 | vor 0min | 🟢 aktiv |
@@ -57,7 +57,7 @@ _Letzte Run-Zusammenfassung: 535 scraped, 1 matches, 1 sent_
 | Südhausbau | 282 | 0.9 | 282/309 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 194 | 0.6 | 194/309 | vor 0min | 🟢 aktiv |
 | ImmoSmart | 87 | 0.3 | 87/309 | vor 0min | 🟢 aktiv |
-| Email Inbox | 43 | 0.1 | 34/309 | vor 0min | 🟢 aktiv |
+| Email Inbox | 41 | 0.1 | 33/309 | vor 1h | 🟢 aktiv |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 3d | 🟢 aktiv |
 | Munich Property | 10 | 5.0 | 2/2 | vor 3d | 🟢 aktiv |
 | EBM München | 8 | 0.0 | 8/309 | vor 3d | 🟡 inaktiv (lange leer) |
