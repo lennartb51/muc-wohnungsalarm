@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-05-26T19:32:34+00:00_  
+_Auto-generiert. Letzter Run: 2026-05-26T19:36:22+00:00_  
 _Total Runs: 627_  
-_Letzte Run-Zusammenfassung: 529 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 531 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -23,24 +23,24 @@ _Letzte Run-Zusammenfassung: 529 scraped, 0 matches, 0 sent_
 | Engel & Völkers | 10016 | 16.0 | 627/627 | vor 0min | 🟢 aktiv |
 | Wegener Immobilien | 6897 | 11.0 | 627/627 | vor 0min | 🟢 aktiv |
 | Idowa Altstadt-Lehel | 6341 | 10.1 | 627/627 | vor 0min | 🟢 aktiv |
-| Heimhuber Immobilien | 6262 | 10.0 | 627/627 | vor 0min | 🟢 aktiv |
-| Wohnreferat München | 5620 | 9.0 | 562/627 | vor 14min | 🟢 aktiv |
+| Heimhuber Immobilien | 6254 | 10.0 | 627/627 | vor 0min | 🟢 aktiv |
+| Wohnreferat München | 5630 | 9.0 | 563/627 | vor 0min | 🟢 aktiv |
 | Immler Martin Hausverwaltung | 5016 | 8.0 | 627/627 | vor 0min | 🟢 aktiv |
 | Franziskanerhof | 5008 | 8.0 | 626/627 | vor 0min | 🟢 aktiv |
 | Immo-Hyp | 4595 | 7.3 | 627/627 | vor 0min | 🟢 aktiv |
 | Hegerich Immobilien | 4297 | 6.9 | 627/627 | vor 0min | 🟢 aktiv |
 | Ab ins Zuhause | 4280 | 6.8 | 535/627 | vor 0min | 🟢 aktiv |
 | Kleinanzeigen | 3961 | 6.3 | 627/627 | vor 0min | 🟢 aktiv |
-| Chalet Immobilien | 3762 | 6.0 | 627/627 | vor 0min | 🟢 aktiv |
+| Chalet Immobilien | 3756 | 6.0 | 626/627 | vor 18min | 🟢 aktiv |
 | EP Immobilien | 2508 | 4.0 | 627/627 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 2508 | 4.0 | 627/627 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 2462 | 3.9 | 625/627 | vor 0min | 🟢 aktiv |
 | DIBAG | 2436 | 3.9 | 609/627 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 2248 | 3.6 | 614/625 | vor 0min | 🟢 aktiv |
-| Sedlmayr AG | 1919 | 3.1 | 562/627 | vor 14min | 🟢 aktiv |
+| Sedlmayr AG | 1923 | 3.1 | 563/627 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 1857 | 3.0 | 619/627 | vor 0min | 🟢 aktiv |
-| GVG Net | 1838 | 2.9 | 627/627 | vor 0min | 🟢 aktiv |
-| LPE Immobilien | 1701 | 2.7 | 567/627 | vor 14min | 🟢 aktiv |
+| GVG Net | 1836 | 2.9 | 626/627 | vor 18min | 🟢 aktiv |
+| LPE Immobilien | 1704 | 2.7 | 568/627 | vor 0min | 🟢 aktiv |
 | Scheel Immobilien | 1386 | 2.2 | 624/627 | vor 0min | 🟢 aktiv |
 | Alsaol | 1375 | 2.2 | 627/627 | vor 0min | 🟢 aktiv |
 | KSWM | 1255 | 2.0 | 616/627 | vor 0min | 🟢 aktiv |
@@ -56,7 +56,7 @@ _Letzte Run-Zusammenfassung: 529 scraped, 0 matches, 0 sent_
 | Maier Immobilien | 619 | 1.0 | 619/627 | vor 0min | 🟢 aktiv |
 | Südhausbau | 600 | 1.0 | 600/627 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 512 | 0.8 | 512/627 | vor 0min | 🟢 aktiv |
-| ImmoSmart | 368 | 0.6 | 368/627 | vor 14min | 🟢 aktiv |
+| ImmoSmart | 369 | 0.6 | 369/627 | vor 0min | 🟢 aktiv |
 | Email Inbox | 81 | 0.1 | 61/627 | vor 1h | 🟢 aktiv |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 6d | 🟢 aktiv |
 | EBM München | 10 | 0.0 | 10/627 | vor 6h | 🟢 aktiv |
