@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-05-28T21:17:46+00:00_  
+_Auto-generiert. Letzter Run: 2026-05-28T21:20:10+00:00_  
 _Total Runs: 827_  
-_Letzte Run-Zusammenfassung: 523 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 532 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -24,7 +24,7 @@ _Letzte Run-Zusammenfassung: 523 scraped, 0 matches, 0 sent_
 | Wegener Immobilien | 9097 | 11.0 | 827/827 | vor 0min | 🟢 aktiv |
 | Idowa Altstadt-Lehel | 8625 | 10.4 | 827/827 | vor 0min | 🟢 aktiv |
 | Heimhuber Immobilien | 8254 | 10.0 | 827/827 | vor 0min | 🟢 aktiv |
-| Wohnreferat München | 7380 | 8.9 | 738/827 | vor 45min | 🟢 aktiv |
+| Wohnreferat München | 7390 | 8.9 | 739/827 | vor 0min | 🟢 aktiv |
 | Immler Martin Hausverwaltung | 6616 | 8.0 | 827/827 | vor 0min | 🟢 aktiv |
 | Franziskanerhof | 6608 | 8.0 | 826/827 | vor 0min | 🟢 aktiv |
 | Immo-Hyp | 6036 | 7.3 | 827/827 | vor 0min | 🟢 aktiv |
@@ -42,7 +42,7 @@ _Letzte Run-Zusammenfassung: 523 scraped, 0 matches, 0 sent_
 | LPE Immobilien | 2244 | 2.7 | 748/827 | vor 0min | 🟢 aktiv |
 | GVG Net | 2236 | 2.7 | 826/827 | vor 0min | 🟢 aktiv |
 | Alsaol | 1975 | 2.4 | 827/827 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 1919 | 2.3 | 824/827 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 1918 | 2.3 | 824/827 | vor 0min | 🟢 aktiv |
 | KSWM | 1754 | 2.1 | 812/827 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 1654 | 2.0 | 827/827 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 1611 | 1.9 | 820/827 | vor 0min | 🟢 aktiv |
@@ -57,7 +57,7 @@ _Letzte Run-Zusammenfassung: 523 scraped, 0 matches, 0 sent_
 | Egger Immobilien | 787 | 1.0 | 787/827 | vor 7h | 🟢 aktiv |
 | Immobilie1 | 712 | 0.9 | 712/827 | vor 0min | 🟢 aktiv |
 | ImmoSmart | 547 | 0.7 | 547/827 | vor 0min | 🟢 aktiv |
-| Email Inbox | 127 | 0.2 | 97/827 | vor 14min | 🟢 aktiv |
+| Email Inbox | 127 | 0.2 | 97/827 | vor 17min | 🟢 aktiv |
 | EBM München | 55 | 0.1 | 55/827 | vor 0min | 🟢 aktiv |
 | Immowelt | 32 | 0.0 | 1/827 | vor 1d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 8d | 🟢 aktiv |
