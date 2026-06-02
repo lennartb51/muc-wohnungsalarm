@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-06-02T00:03:12+00:00_  
+_Auto-generiert. Letzter Run: 2026-06-02T00:05:51+00:00_  
 _Total Runs: 1231_  
-_Letzte Run-Zusammenfassung: 529 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 509 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -24,25 +24,25 @@ _Letzte Run-Zusammenfassung: 529 scraped, 0 matches, 0 sent_
 | Wegener Immobilien | 13541 | 11.0 | 1231/1231 | vor 0min | 🟢 aktiv |
 | Idowa Altstadt-Lehel | 12331 | 10.0 | 1231/1231 | vor 0min | 🟢 aktiv |
 | Heimhuber Immobilien | 12329 | 10.0 | 1231/1231 | vor 0min | 🟢 aktiv |
-| Wohnreferat München | 10890 | 8.8 | 1089/1231 | vor 0min | 🟢 aktiv |
+| Wohnreferat München | 10880 | 8.8 | 1088/1231 | vor 18min | 🟢 aktiv |
 | Immler Martin Hausverwaltung | 9848 | 8.0 | 1231/1231 | vor 0min | 🟢 aktiv |
 | Franziskanerhof | 9815 | 8.0 | 1230/1231 | vor 0min | 🟢 aktiv |
 | Hegerich Immobilien | 8511 | 6.9 | 1229/1231 | vor 0min | 🟢 aktiv |
 | Immo-Hyp | 8460 | 6.9 | 1231/1231 | vor 0min | 🟢 aktiv |
 | Ab ins Zuhause | 8456 | 6.9 | 1057/1231 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 7374 | 6.0 | 1229/1231 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 7089 | 5.8 | 1231/1231 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 7084 | 5.8 | 1231/1231 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 5580 | 4.5 | 1231/1231 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 4924 | 4.0 | 1231/1231 | vor 0min | 🟢 aktiv |
 | DIBAG | 4828 | 3.9 | 1207/1231 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 4612 | 3.8 | 1205/1229 | vor 0min | 🟢 aktiv |
-| Sedlmayr AG | 4380 | 3.6 | 1089/1231 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 4377 | 3.6 | 1228/1231 | vor 0min | 🟢 aktiv |
+| Sedlmayr AG | 4375 | 3.6 | 1088/1231 | vor 18min | 🟢 aktiv |
 | Rogers Immobilien | 3651 | 3.0 | 1217/1231 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 3309 | 2.7 | 1103/1231 | vor 0min | 🟢 aktiv |
 | Alsaol | 3187 | 2.6 | 1231/1231 | vor 0min | 🟢 aktiv |
 | GVG Net | 3044 | 2.5 | 1230/1231 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 2937 | 2.4 | 1228/1231 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 2938 | 2.4 | 1228/1231 | vor 0min | 🟢 aktiv |
 | KSWM | 2542 | 2.1 | 1206/1231 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 2534 | 2.1 | 1219/1231 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 2462 | 2.0 | 1231/1231 | vor 0min | 🟢 aktiv |
@@ -56,7 +56,7 @@ _Letzte Run-Zusammenfassung: 529 scraped, 0 matches, 0 sent_
 | Maier Immobilien | 1215 | 1.0 | 1215/1231 | vor 0min | 🟢 aktiv |
 | Egger Immobilien | 1134 | 0.9 | 1134/1231 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 1116 | 0.9 | 1116/1231 | vor 0min | 🟢 aktiv |
-| ImmoSmart | 897 | 0.7 | 897/1231 | vor 0min | 🟢 aktiv |
+| ImmoSmart | 896 | 0.7 | 896/1231 | vor 18min | 🟢 aktiv |
 | EBM München | 384 | 0.3 | 384/1231 | vor 18h | 🟢 aktiv |
 | Email Inbox | 193 | 0.2 | 153/1231 | vor 2h | 🟢 aktiv |
 | Immowelt | 32 | 0.0 | 1/1231 | vor 5d | 🟡 inaktiv (lange leer) |
