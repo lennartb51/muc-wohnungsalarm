@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-06-02T13:03:23+00:00_  
+_Auto-generiert. Letzter Run: 2026-06-02T13:05:54+00:00_  
 _Total Runs: 1283_  
-_Letzte Run-Zusammenfassung: 526 scraped, 1 matches, 1 sent_
+_Letzte Run-Zusammenfassung: 523 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -28,7 +28,7 @@ _Letzte Run-Zusammenfassung: 526 scraped, 1 matches, 1 sent_
 | Immler Martin Hausverwaltung | 10264 | 8.0 | 1283/1283 | vor 0min | 🟢 aktiv |
 | Franziskanerhof | 10172 | 7.9 | 1282/1283 | vor 0min | 🟢 aktiv |
 | Hegerich Immobilien | 8875 | 6.9 | 1281/1283 | vor 0min | 🟢 aktiv |
-| Ab ins Zuhause | 8784 | 6.8 | 1098/1283 | vor 30min | 🟢 aktiv |
+| Ab ins Zuhause | 8784 | 6.8 | 1098/1283 | vor 33min | 🟢 aktiv |
 | Immo-Hyp | 8777 | 6.8 | 1283/1283 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 7686 | 6.0 | 1281/1283 | vor 0min | 🟢 aktiv |
 | Kleinanzeigen | 7268 | 5.7 | 1283/1283 | vor 0min | 🟢 aktiv |
@@ -42,7 +42,7 @@ _Letzte Run-Zusammenfassung: 526 scraped, 1 matches, 1 sent_
 | LPE Immobilien | 3429 | 2.7 | 1143/1283 | vor 0min | 🟢 aktiv |
 | Alsaol | 3341 | 2.6 | 1283/1283 | vor 0min | 🟢 aktiv |
 | GVG Net | 3149 | 2.5 | 1282/1283 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 3058 | 2.4 | 1279/1283 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 3056 | 2.4 | 1279/1283 | vor 0min | 🟢 aktiv |
 | KSWM | 2637 | 2.1 | 1253/1283 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 2628 | 2.0 | 1266/1283 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 2566 | 2.0 | 1283/1283 | vor 0min | 🟢 aktiv |
@@ -58,7 +58,7 @@ _Letzte Run-Zusammenfassung: 526 scraped, 1 matches, 1 sent_
 | Immobilie1 | 1168 | 0.9 | 1168/1283 | vor 0min | 🟢 aktiv |
 | ImmoSmart | 937 | 0.7 | 937/1283 | vor 0min | 🟢 aktiv |
 | EBM München | 384 | 0.3 | 384/1283 | vor 1d | 🟡 inaktiv (lange leer) |
-| Email Inbox | 199 | 0.2 | 158/1283 | vor 0min | 🟢 aktiv |
+| Email Inbox | 198 | 0.2 | 157/1283 | vor 1h | 🟢 aktiv |
 | Immowelt | 32 | 0.0 | 1/1283 | vor 5d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 13d | 🟢 aktiv |
 | Munich Property | 10 | 5.0 | 2/2 | vor 13d | 🟢 aktiv |
