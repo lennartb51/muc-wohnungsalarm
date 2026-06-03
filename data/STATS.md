@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-06-03T23:17:46+00:00_  
+_Auto-generiert. Letzter Run: 2026-06-03T23:20:18+00:00_  
 _Total Runs: 1422_  
-_Letzte Run-Zusammenfassung: 558 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 546 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -31,7 +31,7 @@ _Letzte Run-Zusammenfassung: 558 scraped, 0 matches, 0 sent_
 | Immo-Hyp | 9750 | 6.9 | 1422/1422 | vor 0min | 🟢 aktiv |
 | Ab ins Zuhause | 9600 | 6.8 | 1200/1422 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 8520 | 6.0 | 1420/1422 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 7632 | 5.4 | 1422/1422 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 7633 | 5.4 | 1422/1422 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 6726 | 4.7 | 1422/1422 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 5688 | 4.0 | 1422/1422 | vor 0min | 🟢 aktiv |
 | DIBAG | 5588 | 3.9 | 1397/1422 | vor 0min | 🟢 aktiv |
@@ -40,9 +40,9 @@ _Letzte Run-Zusammenfassung: 558 scraped, 0 matches, 0 sent_
 | Rosenberger Immobilien | 4950 | 3.5 | 1419/1422 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 4221 | 3.0 | 1407/1422 | vor 0min | 🟢 aktiv |
 | Alsaol | 3758 | 2.6 | 1422/1422 | vor 0min | 🟢 aktiv |
-| LPE Immobilien | 3605 | 2.5 | 1215/1422 | vor 29min | 🟢 aktiv |
+| LPE Immobilien | 3608 | 2.5 | 1216/1422 | vor 0min | 🟢 aktiv |
 | GVG Net | 3566 | 2.5 | 1421/1422 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 3481 | 2.4 | 1417/1422 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 3465 | 2.4 | 1417/1422 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 2893 | 2.0 | 1386/1422 | vor 0min | 🟢 aktiv |
 | KSWM | 2875 | 2.0 | 1372/1422 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 2829 | 2.0 | 1422/1422 | vor 0min | 🟢 aktiv |
