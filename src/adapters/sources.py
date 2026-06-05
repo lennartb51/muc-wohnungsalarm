@@ -142,8 +142,10 @@ USER_SOURCES: list[tuple[str, str]] = [
     ("Immobilien Schlamp", "https://www.immobilien-schlamp.de/index.php/mietangebote/"),
     ("Hausverwaltung-SG", "https://www.hausverwaltung-sg.de/"),
     ("RE/MAX Prime München", "https://prime-muenchen.remax.de/de/wohnung-mieten-in-muenchen/"),
-    ("Wegener Immobilien", "https://www.wegenerimmobilien.de/Muenchen/Mietwohnungen-Muenchen.html"),
+    ("Wegener Immobilien", "https://www.wegenerimmobilien.de/Mietangebote.htm"),
     ("Rogers Immobilien", "https://www.rogers-immobilien.de/immobilienangebote/"),
+    ("First Class Immobilien", "https://www.firstclass-immobilien-muc.de/bestandsimmobilien.html", False),
+    ("KPC Immobilien", "https://www.kpcimmobilien.de/aktuelle-immobilienangebote/", False),
     # auto_discover=False für Sources mit spezifischen URLs/Query-Params
     # die sonst von Auto-Discovery überschrieben würden:
     ("KIP Immobilien", "https://www.kip.net/bayern/muenchen/mieten/wohnungen/1", False),
