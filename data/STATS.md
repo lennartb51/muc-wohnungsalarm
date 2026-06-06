@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-06-06T12:17:46+00:00_  
+_Auto-generiert. Letzter Run: 2026-06-06T12:20:36+00:00_  
 _Total Runs: 1671_  
-_Letzte Run-Zusammenfassung: 554 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 556 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -15,8 +15,8 @@ _Letzte Run-Zusammenfassung: 554 scraped, 0 matches, 0 sent_
 | Immobilien Schlamp | 49971 | 29.9 | 1666/1671 | vor 0min | 🟢 aktiv |
 | WG-Gesucht | 44199 | 26.5 | 1637/1671 | vor 0min | 🟢 aktiv |
 | ohne-makler.net | 40104 | 24.0 | 1671/1671 | vor 0min | 🟢 aktiv |
-| Immobilo | 34593 | 20.7 | 1671/1671 | vor 0min | 🟢 aktiv |
-| Idowa | 32964 | 19.7 | 1670/1671 | vor 0min | 🟢 aktiv |
+| Immobilo | 34592 | 20.7 | 1671/1671 | vor 0min | 🟢 aktiv |
+| Idowa | 32963 | 19.7 | 1670/1671 | vor 0min | 🟢 aktiv |
 | SZ Immobilien | 32146 | 19.2 | 1670/1671 | vor 0min | 🟢 aktiv |
 | FAZ Immobilien | 31296 | 18.7 | 1669/1671 | vor 0min | 🟢 aktiv |
 | Nuroa | 27490 | 16.5 | 1618/1671 | vor 0min | 🟢 aktiv |
@@ -31,17 +31,17 @@ _Letzte Run-Zusammenfassung: 554 scraped, 0 matches, 0 sent_
 | Immo-Hyp | 11472 | 6.9 | 1668/1671 | vor 0min | 🟢 aktiv |
 | Ab ins Zuhause | 11312 | 6.8 | 1414/1671 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 10014 | 6.0 | 1669/1671 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 8632 | 5.2 | 1671/1671 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 8631 | 5.2 | 1671/1671 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 8220 | 4.9 | 1671/1671 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 6684 | 4.0 | 1671/1671 | vor 0min | 🟢 aktiv |
 | DIBAG | 6572 | 3.9 | 1643/1671 | vor 0min | 🟢 aktiv |
-| Sedlmayr AG | 6451 | 3.9 | 1456/1671 | vor 14min | 🟢 aktiv |
+| Sedlmayr AG | 6457 | 3.9 | 1457/1671 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 5901 | 3.5 | 1612/1669 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 5697 | 3.4 | 1668/1671 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 4962 | 3.0 | 1654/1671 | vor 0min | 🟢 aktiv |
 | Alsaol | 4505 | 2.7 | 1671/1671 | vor 0min | 🟢 aktiv |
 | GVG Net | 4313 | 2.6 | 1670/1671 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 4064 | 2.4 | 1664/1671 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 4063 | 2.4 | 1664/1671 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 4010 | 2.4 | 1350/1671 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 3479 | 2.1 | 1630/1671 | vor 0min | 🟢 aktiv |
 | KSWM | 3355 | 2.0 | 1612/1671 | vor 0min | 🟢 aktiv |
@@ -60,7 +60,7 @@ _Letzte Run-Zusammenfassung: 554 scraped, 0 matches, 0 sent_
 | Immobilie1 | 1374 | 0.8 | 1374/1671 | vor 1d | 🟡 inaktiv (lange leer) |
 | EBM München | 384 | 0.2 | 384/1671 | vor 5d | 🟡 inaktiv (lange leer) |
 | KLN Immobilien | 282 | 0.2 | 282/1671 | vor 0min | 🟢 aktiv |
-| Email Inbox | 253 | 0.2 | 200/1671 | vor 1h | 🟢 aktiv |
+| Email Inbox | 253 | 0.2 | 200/1671 | vor 2h | 🟢 aktiv |
 | Immowelt | 32 | 0.0 | 1/1671 | vor 9d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 17d | 🟢 aktiv |
 | Munich Property | 10 | 5.0 | 2/2 | vor 17d | 🟢 aktiv |
