@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-06-06T08:18:31+00:00_  
+_Auto-generiert. Letzter Run: 2026-06-06T08:21:17+00:00_  
 _Total Runs: 1655_  
-_Letzte Run-Zusammenfassung: 514 scraped, 1 matches, 1 sent_
+_Letzte Run-Zusammenfassung: 569 scraped, 1 matches, 1 sent_
 
 ## Adapter-Übersicht
 
@@ -10,7 +10,7 @@ _Letzte Run-Zusammenfassung: 514 scraped, 1 matches, 1 sent_
 |---|---:|---:|---|---|---|
 | Citigrund | 134625 | 81.3 | 1626/1655 | vor 0min | 🟢 aktiv |
 | Park Avenue Immobilien | 80934 | 48.9 | 1651/1655 | vor 0min | 🟢 aktiv |
-| WSB Bayern | 61615 | 37.2 | 1627/1655 | vor 15min | 🟢 aktiv |
+| WSB Bayern | 61652 | 37.3 | 1628/1655 | vor 0min | 🟢 aktiv |
 | Pandion Service | 49650 | 30.0 | 1655/1655 | vor 0min | 🟢 aktiv |
 | Immobilien Schlamp | 49494 | 29.9 | 1650/1655 | vor 0min | 🟢 aktiv |
 | WG-Gesucht | 43767 | 26.4 | 1621/1655 | vor 0min | 🟢 aktiv |
@@ -29,22 +29,22 @@ _Letzte Run-Zusammenfassung: 514 scraped, 1 matches, 1 sent_
 | Franziskanerhof | 12820 | 7.7 | 1654/1655 | vor 0min | 🟢 aktiv |
 | Hegerich Immobilien | 11479 | 6.9 | 1653/1655 | vor 0min | 🟢 aktiv |
 | Immo-Hyp | 11360 | 6.9 | 1652/1655 | vor 0min | 🟢 aktiv |
-| Ab ins Zuhause | 11192 | 6.8 | 1399/1655 | vor 0min | 🟢 aktiv |
+| Ab ins Zuhause | 11184 | 6.8 | 1398/1655 | vor 18min | 🟢 aktiv |
 | Chalet Immobilien | 9918 | 6.0 | 1653/1655 | vor 0min | 🟢 aktiv |
 | Kleinanzeigen | 8576 | 5.2 | 1655/1655 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 8124 | 4.9 | 1655/1655 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 6620 | 4.0 | 1655/1655 | vor 0min | 🟢 aktiv |
-| DIBAG | 6504 | 3.9 | 1626/1655 | vor 15min | 🟢 aktiv |
+| DIBAG | 6508 | 3.9 | 1627/1655 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 6379 | 3.9 | 1444/1655 | vor 0min | 🟢 aktiv |
-| Pienzenauer Immobilien | 5856 | 3.5 | 1597/1653 | vor 0min | 🟢 aktiv |
+| Pienzenauer Immobilien | 5853 | 3.5 | 1596/1653 | vor 18min | 🟢 aktiv |
 | Rosenberger Immobilien | 5649 | 3.4 | 1652/1655 | vor 0min | 🟢 aktiv |
-| Rogers Immobilien | 4911 | 3.0 | 1637/1655 | vor 15min | 🟢 aktiv |
+| Rogers Immobilien | 4914 | 3.0 | 1638/1655 | vor 0min | 🟢 aktiv |
 | Alsaol | 4457 | 2.7 | 1655/1655 | vor 0min | 🟢 aktiv |
 | GVG Net | 4265 | 2.6 | 1654/1655 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 3989 | 2.4 | 1648/1655 | vor 0min | 🟢 aktiv |
-| LPE Immobilien | 3971 | 2.4 | 1337/1655 | vor 30min | 🟢 aktiv |
-| Rohrer Firmengruppe | 3422 | 2.1 | 1614/1655 | vor 0min | 🟢 aktiv |
-| KSWM | 3325 | 2.0 | 1597/1655 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 3987 | 2.4 | 1648/1655 | vor 0min | 🟢 aktiv |
+| LPE Immobilien | 3974 | 2.4 | 1338/1655 | vor 0min | 🟢 aktiv |
+| Rohrer Firmengruppe | 3447 | 2.1 | 1614/1655 | vor 0min | 🟢 aktiv |
+| KSWM | 3323 | 2.0 | 1596/1655 | vor 18min | 🟢 aktiv |
 | Eichler Immobilien | 3062 | 1.9 | 1655/1655 | vor 0min | 🟢 aktiv |
 | Lehmann Hueber | 3003 | 1.8 | 1655/1655 | vor 0min | 🟢 aktiv |
 | KPC Immobilien | 2816 | 32.0 | 88/88 | vor 0min | 🟢 aktiv |
@@ -54,13 +54,13 @@ _Letzte Run-Zusammenfassung: 514 scraped, 1 matches, 1 sent_
 | DAHLER München | 1654 | 1.0 | 1654/1655 | vor 0min | 🟢 aktiv |
 | HI Wohnbau | 1654 | 1.0 | 1654/1655 | vor 0min | 🟢 aktiv |
 | Immobilien Schneider | 1649 | 1.0 | 1649/1655 | vor 0min | 🟢 aktiv |
-| Maier Immobilien | 1631 | 1.0 | 1631/1655 | vor 15min | 🟢 aktiv |
+| Maier Immobilien | 1632 | 1.0 | 1632/1655 | vor 0min | 🟢 aktiv |
 | ImmoSmart | 1560 | 0.9 | 1253/1655 | vor 0min | 🟢 aktiv |
 | Egger Immobilien | 1558 | 0.9 | 1558/1655 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 1374 | 0.8 | 1374/1655 | vor 1d | 🟡 inaktiv (lange leer) |
 | EBM München | 384 | 0.2 | 384/1655 | vor 5d | 🟡 inaktiv (lange leer) |
-| KLN Immobilien | 267 | 0.2 | 267/1655 | vor 0min | 🟢 aktiv |
-| Email Inbox | 250 | 0.2 | 198/1655 | vor 0min | 🟢 aktiv |
+| KLN Immobilien | 266 | 0.2 | 266/1655 | vor 18min | 🟢 aktiv |
+| Email Inbox | 248 | 0.1 | 197/1655 | vor 10h | 🟢 aktiv |
 | Immowelt | 32 | 0.0 | 1/1655 | vor 9d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 16d | 🟢 aktiv |
 | Munich Property | 10 | 5.0 | 2/2 | vor 16d | 🟢 aktiv |
