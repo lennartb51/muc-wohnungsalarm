@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-06-06T20:49:38+00:00_  
+_Auto-generiert. Letzter Run: 2026-06-06T20:52:11+00:00_  
 _Total Runs: 1705_  
-_Letzte Run-Zusammenfassung: 573 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 563 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -35,14 +35,14 @@ _Letzte Run-Zusammenfassung: 573 scraped, 0 matches, 0 sent_
 | EP Immobilien | 8424 | 4.9 | 1705/1705 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 6820 | 4.0 | 1705/1705 | vor 0min | 🟢 aktiv |
 | DIBAG | 6708 | 3.9 | 1677/1705 | vor 0min | 🟢 aktiv |
-| Sedlmayr AG | 6607 | 3.9 | 1482/1705 | vor 14min | 🟢 aktiv |
+| Sedlmayr AG | 6613 | 3.9 | 1483/1705 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 5997 | 3.5 | 1644/1703 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 5799 | 3.4 | 1702/1705 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 5064 | 3.0 | 1688/1705 | vor 0min | 🟢 aktiv |
 | Alsaol | 4607 | 2.7 | 1705/1705 | vor 0min | 🟢 aktiv |
 | GVG Net | 4415 | 2.6 | 1704/1705 | vor 0min | 🟢 aktiv |
 | KPC Immobilien | 4384 | 31.8 | 137/138 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 4178 | 2.5 | 1697/1705 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 4162 | 2.4 | 1697/1705 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 4070 | 2.4 | 1370/1705 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 3543 | 2.1 | 1662/1705 | vor 0min | 🟢 aktiv |
 | KSWM | 3419 | 2.0 | 1644/1705 | vor 0min | 🟢 aktiv |
