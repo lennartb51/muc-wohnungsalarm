@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-06-07T20:03:19+00:00_  
+_Auto-generiert. Letzter Run: 2026-06-07T20:06:39+00:00_  
 _Total Runs: 1800_  
-_Letzte Run-Zusammenfassung: 527 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 532 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -13,13 +13,13 @@ _Letzte Run-Zusammenfassung: 527 scraped, 0 matches, 0 sent_
 | WSB Bayern | 66963 | 37.2 | 1772/1800 | vor 0min | 🟢 aktiv |
 | Pandion Service | 53970 | 30.0 | 1799/1800 | vor 0min | 🟢 aktiv |
 | Immobilien Schlamp | 53841 | 29.9 | 1795/1800 | vor 0min | 🟢 aktiv |
-| WG-Gesucht | 47439 | 26.4 | 1757/1800 | vor 15min | 🟢 aktiv |
+| WG-Gesucht | 47466 | 26.4 | 1758/1800 | vor 0min | 🟢 aktiv |
 | ohne-makler.net | 43200 | 24.0 | 1800/1800 | vor 0min | 🟢 aktiv |
 | Immobilo | 37297 | 20.7 | 1800/1800 | vor 0min | 🟢 aktiv |
 | Idowa | 35339 | 19.6 | 1798/1800 | vor 0min | 🟢 aktiv |
 | SZ Immobilien | 34726 | 19.3 | 1799/1800 | vor 0min | 🟢 aktiv |
 | FAZ Immobilien | 33563 | 18.6 | 1798/1800 | vor 0min | 🟢 aktiv |
-| Nuroa | 29101 | 16.2 | 1732/1800 | vor 0min | 🟢 aktiv |
+| Nuroa | 29089 | 16.2 | 1731/1800 | vor 18min | 🟢 aktiv |
 | Engel & Völkers | 26897 | 14.9 | 1799/1800 | vor 0min | 🟢 aktiv |
 | Wegener Immobilien | 19800 | 11.0 | 1800/1800 | vor 0min | 🟢 aktiv |
 | Heimhuber Immobilien | 17979 | 10.0 | 1796/1800 | vor 0min | 🟢 aktiv |
@@ -29,23 +29,23 @@ _Letzte Run-Zusammenfassung: 527 scraped, 0 matches, 0 sent_
 | Franziskanerhof | 13980 | 7.8 | 1799/1800 | vor 0min | 🟢 aktiv |
 | Hegerich Immobilien | 12487 | 6.9 | 1797/1800 | vor 0min | 🟢 aktiv |
 | Immo-Hyp | 12368 | 6.9 | 1796/1800 | vor 0min | 🟢 aktiv |
-| Ab ins Zuhause | 12144 | 6.7 | 1518/1800 | vor 0min | 🟢 aktiv |
+| Ab ins Zuhause | 12136 | 6.7 | 1517/1800 | vor 18min | 🟢 aktiv |
 | Chalet Immobilien | 10788 | 6.0 | 1798/1800 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 9213 | 5.1 | 1800/1800 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 9219 | 5.1 | 1800/1800 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 8994 | 5.0 | 1800/1800 | vor 0min | 🟢 aktiv |
 | KPC Immobilien | 7424 | 31.9 | 232/233 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 7200 | 4.0 | 1800/1800 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 7093 | 3.9 | 1563/1800 | vor 0min | 🟢 aktiv |
 | DIBAG | 7084 | 3.9 | 1771/1800 | vor 0min | 🟢 aktiv |
-| Pienzenauer Immobilien | 6273 | 3.5 | 1736/1798 | vor 0min | 🟢 aktiv |
+| Pienzenauer Immobilien | 6270 | 3.5 | 1735/1798 | vor 18min | 🟢 aktiv |
 | Rosenberger Immobilien | 6084 | 3.4 | 1797/1800 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 5346 | 3.0 | 1782/1800 | vor 0min | 🟢 aktiv |
 | Alsaol | 4892 | 2.7 | 1800/1800 | vor 0min | 🟢 aktiv |
 | GVG Net | 4700 | 2.6 | 1799/1800 | vor 0min | 🟢 aktiv |
 | Scheel Immobilien | 4376 | 2.4 | 1791/1800 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 4271 | 2.4 | 1437/1800 | vor 0min | 🟢 aktiv |
-| Rohrer Firmengruppe | 3727 | 2.1 | 1754/1800 | vor 0min | 🟢 aktiv |
-| KSWM | 3603 | 2.0 | 1736/1800 | vor 0min | 🟢 aktiv |
+| Rohrer Firmengruppe | 3725 | 2.1 | 1753/1800 | vor 18min | 🟢 aktiv |
+| KSWM | 3601 | 2.0 | 1735/1800 | vor 18min | 🟢 aktiv |
 | Lehmann Hueber | 3293 | 1.8 | 1800/1800 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 3207 | 1.8 | 1800/1800 | vor 0min | 🟢 aktiv |
 | Südhausbau | 3201 | 1.8 | 1773/1800 | vor 0min | 🟢 aktiv |
@@ -58,9 +58,9 @@ _Letzte Run-Zusammenfassung: 527 scraped, 0 matches, 0 sent_
 | Maier Immobilien | 1776 | 1.0 | 1776/1800 | vor 0min | 🟢 aktiv |
 | Egger Immobilien | 1703 | 0.9 | 1703/1800 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 1374 | 0.8 | 1374/1800 | vor 3d | 🟡 inaktiv (lange leer) |
-| KLN Immobilien | 406 | 0.2 | 406/1800 | vor 0min | 🟢 aktiv |
+| KLN Immobilien | 405 | 0.2 | 405/1800 | vor 18min | 🟢 aktiv |
 | EBM München | 384 | 0.2 | 384/1800 | vor 6d | 🟡 inaktiv (lange leer) |
-| Email Inbox | 271 | 0.2 | 217/1800 | vor 15min | 🟢 aktiv |
+| Email Inbox | 271 | 0.2 | 217/1800 | vor 18min | 🟢 aktiv |
 | Immowelt | 32 | 0.0 | 1/1800 | vor 11d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 18d | 🟢 aktiv |
 | Munich Property | 10 | 5.0 | 2/2 | vor 18d | 🟢 aktiv |
