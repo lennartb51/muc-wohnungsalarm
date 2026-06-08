@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-06-08T21:18:34+00:00_  
+_Auto-generiert. Letzter Run: 2026-06-08T21:21:49+00:00_  
 _Total Runs: 1901_  
-_Letzte Run-Zusammenfassung: 560 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 563 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -24,7 +24,7 @@ _Letzte Run-Zusammenfassung: 560 scraped, 0 matches, 0 sent_
 | Wegener Immobilien | 20911 | 11.0 | 1901/1901 | vor 0min | 🟢 aktiv |
 | Heimhuber Immobilien | 18989 | 10.0 | 1897/1901 | vor 0min | 🟢 aktiv |
 | Idowa Altstadt-Lehel | 17241 | 9.1 | 1900/1901 | vor 0min | 🟢 aktiv |
-| Wohnreferat München | 16621 | 8.7 | 1657/1901 | vor 0min | 🟢 aktiv |
+| Wohnreferat München | 16609 | 8.7 | 1656/1901 | vor 18min | 🟢 aktiv |
 | Immler Martin Hausverwaltung | 15208 | 8.0 | 1901/1901 | vor 0min | 🟢 aktiv |
 | Franziskanerhof | 14788 | 7.8 | 1900/1901 | vor 0min | 🟢 aktiv |
 | Hegerich Immobilien | 13194 | 6.9 | 1898/1901 | vor 0min | 🟢 aktiv |
@@ -32,24 +32,24 @@ _Letzte Run-Zusammenfassung: 560 scraped, 0 matches, 0 sent_
 | Ab ins Zuhause | 12808 | 6.7 | 1601/1901 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 11394 | 6.0 | 1899/1901 | vor 0min | 🟢 aktiv |
 | KPC Immobilien | 10656 | 31.9 | 333/334 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 9802 | 5.2 | 1901/1901 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 9809 | 5.2 | 1901/1901 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 9600 | 5.0 | 1901/1901 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 7604 | 4.0 | 1901/1901 | vor 0min | 🟢 aktiv |
-| Sedlmayr AG | 7585 | 4.0 | 1658/1901 | vor 0min | 🟢 aktiv |
+| Sedlmayr AG | 7581 | 4.0 | 1657/1901 | vor 18min | 🟢 aktiv |
 | DIBAG | 7484 | 3.9 | 1871/1901 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 6555 | 3.5 | 1830/1899 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 6387 | 3.4 | 1898/1901 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 5646 | 3.0 | 1882/1901 | vor 0min | 🟢 aktiv |
 | Alsaol | 5195 | 2.7 | 1901/1901 | vor 0min | 🟢 aktiv |
 | GVG Net | 5003 | 2.6 | 1900/1901 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 4619 | 2.4 | 1892/1901 | vor 0min | 🟢 aktiv |
-| LPE Immobilien | 4502 | 2.4 | 1514/1901 | vor 45min | 🟢 aktiv |
+| Scheel Immobilien | 4634 | 2.4 | 1892/1901 | vor 0min | 🟢 aktiv |
+| LPE Immobilien | 4502 | 2.4 | 1514/1901 | vor 48min | 🟢 aktiv |
 | Rohrer Firmengruppe | 3996 | 2.1 | 1851/1901 | vor 0min | 🟢 aktiv |
 | KSWM | 3791 | 2.0 | 1830/1901 | vor 0min | 🟢 aktiv |
 | Südhausbau | 3504 | 1.8 | 1874/1901 | vor 0min | 🟢 aktiv |
 | Lehmann Hueber | 3495 | 1.8 | 1901/1901 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 3308 | 1.7 | 1901/1901 | vor 0min | 🟢 aktiv |
-| ImmoSmart | 2091 | 1.1 | 1466/1901 | vor 0min | 🟢 aktiv |
+| ImmoSmart | 2088 | 1.1 | 1465/1901 | vor 18min | 🟢 aktiv |
 | Dawonia | 1901 | 1.0 | 1901/1901 | vor 0min | 🟢 aktiv |
 | Vonovia | 1901 | 1.0 | 1901/1901 | vor 0min | 🟢 aktiv |
 | DAHLER München | 1900 | 1.0 | 1900/1901 | vor 0min | 🟢 aktiv |
