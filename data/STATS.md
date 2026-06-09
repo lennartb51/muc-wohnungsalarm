@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-06-09T18:33:28+00:00_  
+_Auto-generiert. Letzter Run: 2026-06-09T18:36:41+00:00_  
 _Total Runs: 1986_  
-_Letzte Run-Zusammenfassung: 585 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 534 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -13,7 +13,7 @@ _Letzte Run-Zusammenfassung: 585 scraped, 0 matches, 0 sent_
 | WSB Bayern | 73623 | 37.1 | 1957/1986 | vor 0min | 🟢 aktiv |
 | Pandion Service | 59492 | 30.0 | 1984/1986 | vor 0min | 🟢 aktiv |
 | Immobilien Schlamp | 59412 | 29.9 | 1981/1986 | vor 0min | 🟢 aktiv |
-| WG-Gesucht | 52326 | 26.3 | 1938/1986 | vor 0min | 🟢 aktiv |
+| WG-Gesucht | 52299 | 26.3 | 1937/1986 | vor 18min | 🟢 aktiv |
 | ohne-makler.net | 47664 | 24.0 | 1986/1986 | vor 0min | 🟢 aktiv |
 | Immobilo | 41201 | 20.7 | 1986/1986 | vor 0min | 🟢 aktiv |
 | Idowa | 38980 | 19.6 | 1982/1986 | vor 0min | 🟢 aktiv |
@@ -24,7 +24,7 @@ _Letzte Run-Zusammenfassung: 585 scraped, 0 matches, 0 sent_
 | Wegener Immobilien | 21846 | 11.0 | 1986/1986 | vor 0min | 🟢 aktiv |
 | Heimhuber Immobilien | 19839 | 10.0 | 1982/1986 | vor 0min | 🟢 aktiv |
 | Idowa Altstadt-Lehel | 17836 | 9.0 | 1985/1986 | vor 0min | 🟢 aktiv |
-| Wohnreferat München | 17539 | 8.8 | 1731/1986 | vor 0min | 🟢 aktiv |
+| Wohnreferat München | 17526 | 8.8 | 1730/1986 | vor 18min | 🟢 aktiv |
 | Immler Martin Hausverwaltung | 15888 | 8.0 | 1986/1986 | vor 0min | 🟢 aktiv |
 | Franziskanerhof | 15468 | 7.8 | 1985/1986 | vor 0min | 🟢 aktiv |
 | Hegerich Immobilien | 13789 | 6.9 | 1983/1986 | vor 0min | 🟢 aktiv |
@@ -35,7 +35,7 @@ _Letzte Run-Zusammenfassung: 585 scraped, 0 matches, 0 sent_
 | Kleinanzeigen | 10409 | 5.2 | 1986/1986 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 10110 | 5.1 | 1986/1986 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 7944 | 4.0 | 1986/1986 | vor 0min | 🟢 aktiv |
-| Sedlmayr AG | 7897 | 4.0 | 1732/1986 | vor 0min | 🟢 aktiv |
+| Sedlmayr AG | 7892 | 4.0 | 1731/1986 | vor 18min | 🟢 aktiv |
 | DIBAG | 7824 | 3.9 | 1956/1986 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 6807 | 3.4 | 1914/1984 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 6642 | 3.3 | 1983/1986 | vor 0min | 🟢 aktiv |
@@ -43,13 +43,13 @@ _Letzte Run-Zusammenfassung: 585 scraped, 0 matches, 0 sent_
 | Alsaol | 5450 | 2.7 | 1986/1986 | vor 0min | 🟢 aktiv |
 | GVG Net | 5258 | 2.6 | 1985/1986 | vor 0min | 🟢 aktiv |
 | Scheel Immobilien | 4893 | 2.5 | 1977/1986 | vor 0min | 🟢 aktiv |
-| LPE Immobilien | 4697 | 2.4 | 1579/1986 | vor 0min | 🟢 aktiv |
+| LPE Immobilien | 4694 | 2.4 | 1578/1986 | vor 18min | 🟢 aktiv |
 | Rohrer Firmengruppe | 4164 | 2.1 | 1935/1986 | vor 0min | 🟢 aktiv |
 | KSWM | 3959 | 2.0 | 1914/1986 | vor 0min | 🟢 aktiv |
 | Südhausbau | 3756 | 1.9 | 1958/1986 | vor 0min | 🟢 aktiv |
 | Lehmann Hueber | 3665 | 1.8 | 1986/1986 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 3393 | 1.7 | 1986/1986 | vor 0min | 🟢 aktiv |
-| ImmoSmart | 2313 | 1.2 | 1540/1986 | vor 0min | 🟢 aktiv |
+| ImmoSmart | 2310 | 1.2 | 1539/1986 | vor 18min | 🟢 aktiv |
 | Dawonia | 1986 | 1.0 | 1986/1986 | vor 0min | 🟢 aktiv |
 | Vonovia | 1986 | 1.0 | 1986/1986 | vor 0min | 🟢 aktiv |
 | HI Wohnbau | 1985 | 1.0 | 1985/1986 | vor 0min | 🟢 aktiv |
@@ -60,7 +60,7 @@ _Letzte Run-Zusammenfassung: 585 scraped, 0 matches, 0 sent_
 | Immobilie1 | 1374 | 0.7 | 1374/1986 | vor 5d | 🟡 inaktiv (lange leer) |
 | KLN Immobilien | 584 | 0.3 | 584/1986 | vor 0min | 🟢 aktiv |
 | EBM München | 384 | 0.2 | 384/1986 | vor 8d | 🟡 inaktiv (lange leer) |
-| Email Inbox | 302 | 0.2 | 238/1986 | vor 15min | 🟢 aktiv |
+| Email Inbox | 302 | 0.2 | 238/1986 | vor 18min | 🟢 aktiv |
 | Immowelt | 32 | 0.0 | 1/1986 | vor 12d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 20d | 🟢 aktiv |
 | Munich Property | 10 | 5.0 | 2/2 | vor 20d | 🟢 aktiv |
