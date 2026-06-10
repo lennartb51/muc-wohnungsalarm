@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-06-10T08:31:32+00:00_  
+_Auto-generiert. Letzter Run: 2026-06-10T08:34:08+00:00_  
 _Total Runs: 2043_  
-_Letzte Run-Zusammenfassung: 591 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 556 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -13,7 +13,7 @@ _Letzte Run-Zusammenfassung: 591 scraped, 0 matches, 0 sent_
 | WSB Bayern | 75675 | 37.0 | 2014/2043 | vor 0min | 🟢 aktiv |
 | Pandion Service | 61202 | 30.0 | 2041/2043 | vor 0min | 🟢 aktiv |
 | Immobilien Schlamp | 61089 | 29.9 | 2037/2043 | vor 0min | 🟢 aktiv |
-| WG-Gesucht | 53811 | 26.3 | 1993/2043 | vor 0min | 🟢 aktiv |
+| WG-Gesucht | 53784 | 26.3 | 1992/2043 | vor 16min | 🟢 aktiv |
 | ohne-makler.net | 49032 | 24.0 | 2043/2043 | vor 0min | 🟢 aktiv |
 | Immobilo | 42397 | 20.8 | 2043/2043 | vor 0min | 🟢 aktiv |
 | Idowa | 40177 | 19.7 | 2039/2043 | vor 0min | 🟢 aktiv |
@@ -32,7 +32,7 @@ _Letzte Run-Zusammenfassung: 591 scraped, 0 matches, 0 sent_
 | Immo-Hyp | 14132 | 6.9 | 2036/2043 | vor 0min | 🟢 aktiv |
 | Ab ins Zuhause | 13800 | 6.8 | 1725/2043 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 12246 | 6.0 | 2041/2043 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 10832 | 5.3 | 2043/2043 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 10840 | 5.3 | 2043/2043 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 10452 | 5.1 | 2043/2043 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 8172 | 4.0 | 2043/2043 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 8152 | 4.0 | 1783/2043 | vor 0min | 🟢 aktiv |
@@ -42,7 +42,7 @@ _Letzte Run-Zusammenfassung: 591 scraped, 0 matches, 0 sent_
 | Rogers Immobilien | 6072 | 3.0 | 2024/2043 | vor 0min | 🟢 aktiv |
 | Alsaol | 5621 | 2.8 | 2043/2043 | vor 0min | 🟢 aktiv |
 | GVG Net | 5429 | 2.7 | 2042/2043 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 5047 | 2.5 | 2034/2043 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 5031 | 2.5 | 2034/2043 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 4826 | 2.4 | 1622/2043 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 4276 | 2.1 | 1991/2043 | vor 0min | 🟢 aktiv |
 | KSWM | 4071 | 2.0 | 1970/2043 | vor 0min | 🟢 aktiv |
