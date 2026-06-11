@@ -1,15 +1,15 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-06-11T09:48:07+00:00_  
+_Auto-generiert. Letzter Run: 2026-06-11T09:50:41+00:00_  
 _Total Runs: 2147_  
-_Letzte Run-Zusammenfassung: 577 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 528 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
 | Adapter | Scraped (Σ) | Avg/Run | Runs aktiv | Letzte Aktivität | Status |
 |---|---:|---:|---|---|---|
 | Citigrund | 173803 | 81.0 | 2108/2147 | vor 0min | 🟢 aktiv |
-| Park Avenue Immobilien | 104748 | 48.8 | 2137/2147 | vor 0min | 🟢 aktiv |
+| Park Avenue Immobilien | 104699 | 48.8 | 2136/2147 | vor 17min | 🟢 aktiv |
 | WSB Bayern | 79254 | 36.9 | 2116/2147 | vor 0min | 🟢 aktiv |
 | Pandion Service | 64322 | 30.0 | 2145/2147 | vor 0min | 🟢 aktiv |
 | Immobilien Schlamp | 64213 | 29.9 | 2138/2147 | vor 0min | 🟢 aktiv |
