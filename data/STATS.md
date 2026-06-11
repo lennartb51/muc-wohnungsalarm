@@ -1,19 +1,19 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-06-11T05:16:32+00:00_  
+_Auto-generiert. Letzter Run: 2026-06-11T05:19:38+00:00_  
 _Total Runs: 2129_  
-_Letzte Run-Zusammenfassung: 468 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 580 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
 | Adapter | Scraped (Σ) | Avg/Run | Runs aktiv | Letzte Aktivität | Status |
 |---|---:|---:|---|---|---|
-| Citigrund | 172495 | 81.0 | 2092/2129 | vor 13min | 🟢 aktiv |
+| Citigrund | 172577 | 81.1 | 2093/2129 | vor 0min | 🟢 aktiv |
 | Park Avenue Immobilien | 104062 | 48.9 | 2123/2129 | vor 0min | 🟢 aktiv |
 | WSB Bayern | 78659 | 36.9 | 2099/2129 | vor 0min | 🟢 aktiv |
 | Pandion Service | 63782 | 30.0 | 2127/2129 | vor 0min | 🟢 aktiv |
 | Immobilien Schlamp | 63655 | 29.9 | 2120/2129 | vor 0min | 🟢 aktiv |
-| WG-Gesucht | 55998 | 26.3 | 2074/2129 | vor 13min | 🟢 aktiv |
+| WG-Gesucht | 56025 | 26.3 | 2075/2129 | vor 0min | 🟢 aktiv |
 | ohne-makler.net | 51096 | 24.0 | 2129/2129 | vor 0min | 🟢 aktiv |
 | Immobilo | 44199 | 20.8 | 2129/2129 | vor 0min | 🟢 aktiv |
 | Idowa | 41980 | 19.7 | 2125/2129 | vor 0min | 🟢 aktiv |
@@ -42,8 +42,8 @@ _Letzte Run-Zusammenfassung: 468 scraped, 0 matches, 0 sent_
 | Rogers Immobilien | 6327 | 3.0 | 2109/2129 | vor 0min | 🟢 aktiv |
 | Alsaol | 5879 | 2.8 | 2129/2129 | vor 0min | 🟢 aktiv |
 | GVG Net | 5687 | 2.7 | 2128/2129 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 5234 | 2.5 | 2120/2129 | vor 0min | 🟢 aktiv |
-| LPE Immobilien | 4984 | 2.3 | 1681/2129 | vor 28min | 🟢 aktiv |
+| Scheel Immobilien | 5235 | 2.5 | 2120/2129 | vor 0min | 🟢 aktiv |
+| LPE Immobilien | 4986 | 2.3 | 1682/2129 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 4470 | 2.1 | 2076/2129 | vor 0min | 🟢 aktiv |
 | KSWM | 4239 | 2.0 | 2054/2129 | vor 0min | 🟢 aktiv |
 | Südhausbau | 4185 | 2.0 | 2101/2129 | vor 0min | 🟢 aktiv |
@@ -59,7 +59,7 @@ _Letzte Run-Zusammenfassung: 468 scraped, 0 matches, 0 sent_
 | Egger Immobilien | 2032 | 1.0 | 2032/2129 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 1433 | 0.7 | 1433/2129 | vor 0min | 🟢 aktiv |
 | KLN Immobilien | 724 | 0.3 | 724/2129 | vor 0min | 🟢 aktiv |
-| EBM München | 384 | 0.2 | 384/2129 | vor 9d | 🟡 inaktiv (lange leer) |
+| EBM München | 384 | 0.2 | 384/2129 | vor 10d | 🟡 inaktiv (lange leer) |
 | Email Inbox | 316 | 0.1 | 250/2129 | vor 8h | 🟢 aktiv |
 | Immowelt | 32 | 0.0 | 1/2129 | vor 14d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 21d | 🟢 aktiv |
