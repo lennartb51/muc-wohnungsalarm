@@ -1,18 +1,18 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-06-11T14:03:13+00:00_  
+_Auto-generiert. Letzter Run: 2026-06-11T14:06:21+00:00_  
 _Total Runs: 2164_  
-_Letzte Run-Zusammenfassung: 572 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 486 scraped, 1 matches, 1 sent_
 
 ## Adapter-Übersicht
 
 | Adapter | Scraped (Σ) | Avg/Run | Runs aktiv | Letzte Aktivität | Status |
 |---|---:|---:|---|---|---|
-| Citigrund | 175190 | 81.0 | 2125/2164 | vor 0min | 🟢 aktiv |
+| Citigrund | 175107 | 80.9 | 2124/2164 | vor 18min | 🟢 aktiv |
 | Park Avenue Immobilien | 105532 | 48.8 | 2153/2164 | vor 0min | 🟢 aktiv |
 | WSB Bayern | 79849 | 36.9 | 2133/2164 | vor 0min | 🟢 aktiv |
 | Pandion Service | 64832 | 30.0 | 2162/2164 | vor 0min | 🟢 aktiv |
-| Immobilien Schlamp | 64706 | 29.9 | 2154/2164 | vor 0min | 🟢 aktiv |
+| Immobilien Schlamp | 64703 | 29.9 | 2154/2164 | vor 0min | 🟢 aktiv |
 | WG-Gesucht | 56943 | 26.3 | 2109/2164 | vor 0min | 🟢 aktiv |
 | ohne-makler.net | 51936 | 24.0 | 2164/2164 | vor 0min | 🟢 aktiv |
 | Immobilo | 44931 | 20.8 | 2164/2164 | vor 0min | 🟢 aktiv |
@@ -42,8 +42,8 @@ _Letzte Run-Zusammenfassung: 572 scraped, 0 matches, 0 sent_
 | Rogers Immobilien | 6429 | 3.0 | 2143/2164 | vor 0min | 🟢 aktiv |
 | Alsaol | 5984 | 2.8 | 2164/2164 | vor 0min | 🟢 aktiv |
 | GVG Net | 5793 | 2.7 | 2163/2164 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 5323 | 2.5 | 2155/2164 | vor 0min | 🟢 aktiv |
-| LPE Immobilien | 5034 | 2.3 | 1706/2164 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 5325 | 2.5 | 2155/2164 | vor 0min | 🟢 aktiv |
+| LPE Immobilien | 5032 | 2.3 | 1705/2164 | vor 1h | 🟢 aktiv |
 | Rohrer Firmengruppe | 4536 | 2.1 | 2109/2164 | vor 0min | 🟢 aktiv |
 | KSWM | 4305 | 2.0 | 2087/2164 | vor 0min | 🟢 aktiv |
 | Südhausbau | 4290 | 2.0 | 2136/2164 | vor 0min | 🟢 aktiv |
@@ -60,7 +60,7 @@ _Letzte Run-Zusammenfassung: 572 scraped, 0 matches, 0 sent_
 | Immobilie1 | 1468 | 0.7 | 1468/2164 | vor 0min | 🟢 aktiv |
 | KLN Immobilien | 757 | 0.3 | 757/2164 | vor 0min | 🟢 aktiv |
 | EBM München | 384 | 0.2 | 384/2164 | vor 10d | 🟡 inaktiv (lange leer) |
-| Email Inbox | 325 | 0.2 | 257/2164 | vor 59min | 🟢 aktiv |
+| Email Inbox | 325 | 0.2 | 257/2164 | vor 1h | 🟢 aktiv |
 | Immowelt | 32 | 0.0 | 1/2164 | vor 14d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 22d | 🟢 aktiv |
 | Munich Property | 10 | 5.0 | 2/2 | vor 22d | 🟢 aktiv |
