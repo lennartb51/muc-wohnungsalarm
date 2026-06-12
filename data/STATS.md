@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-06-12T22:15:36+00:00_  
+_Auto-generiert. Letzter Run: 2026-06-12T22:18:32+00:00_  
 _Total Runs: 2300_  
-_Letzte Run-Zusammenfassung: 552 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 587 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -10,7 +10,7 @@ _Letzte Run-Zusammenfassung: 552 scraped, 0 matches, 0 sent_
 |---|---:|---:|---|---|---|
 | Citigrund | 185786 | 80.8 | 2252/2300 | vor 0min | 🟢 aktiv |
 | Park Avenue Immobilien | 111951 | 48.7 | 2284/2300 | vor 0min | 🟢 aktiv |
-| WSB Bayern | 84504 | 36.7 | 2266/2300 | vor 12min | 🟢 aktiv |
+| WSB Bayern | 84539 | 36.8 | 2267/2300 | vor 0min | 🟢 aktiv |
 | Pandion Service | 68912 | 30.0 | 2298/2300 | vor 0min | 🟢 aktiv |
 | Immobilien Schlamp | 68857 | 29.9 | 2288/2300 | vor 0min | 🟢 aktiv |
 | WG-Gesucht | 60399 | 26.3 | 2237/2300 | vor 0min | 🟢 aktiv |
@@ -42,7 +42,7 @@ _Letzte Run-Zusammenfassung: 552 scraped, 0 matches, 0 sent_
 | Rogers Immobilien | 6831 | 3.0 | 2277/2300 | vor 0min | 🟢 aktiv |
 | Alsaol | 6392 | 2.8 | 2300/2300 | vor 0min | 🟢 aktiv |
 | GVG Net | 6337 | 2.8 | 2299/2300 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 5685 | 2.5 | 2290/2300 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 5686 | 2.5 | 2290/2300 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 5212 | 2.3 | 1795/2300 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 4852 | 2.1 | 2243/2300 | vor 0min | 🟢 aktiv |
 | Südhausbau | 4698 | 2.0 | 2272/2300 | vor 0min | 🟢 aktiv |
@@ -60,7 +60,7 @@ _Letzte Run-Zusammenfassung: 552 scraped, 0 matches, 0 sent_
 | Immobilie1 | 1604 | 0.7 | 1604/2300 | vor 0min | 🟢 aktiv |
 | KLN Immobilien | 890 | 0.4 | 890/2300 | vor 0min | 🟢 aktiv |
 | EBM München | 384 | 0.2 | 384/2300 | vor 11d | 🟡 inaktiv (lange leer) |
-| Email Inbox | 350 | 0.2 | 278/2300 | vor 0min | 🟢 aktiv |
+| Email Inbox | 349 | 0.2 | 277/2300 | vor 15min | 🟢 aktiv |
 | Immowelt | 32 | 0.0 | 1/2300 | vor 16d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 23d | 🟢 aktiv |
 | Munich Property | 10 | 5.0 | 2/2 | vor 23d | 🟢 aktiv |
