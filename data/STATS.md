@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-06-13T16:03:09+00:00_  
+_Auto-generiert. Letzter Run: 2026-06-13T16:06:06+00:00_  
 _Total Runs: 2374_  
-_Letzte Run-Zusammenfassung: 598 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 582 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -42,8 +42,8 @@ _Letzte Run-Zusammenfassung: 598 scraped, 0 matches, 0 sent_
 | Rogers Immobilien | 7047 | 3.0 | 2349/2374 | vor 0min | 🟢 aktiv |
 | GVG Net | 6633 | 2.8 | 2373/2374 | vor 0min | 🟢 aktiv |
 | Alsaol | 6614 | 2.8 | 2374/2374 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 5878 | 2.5 | 2364/2374 | vor 0min | 🟢 aktiv |
-| LPE Immobilien | 5308 | 2.2 | 1843/2374 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 5864 | 2.5 | 2364/2374 | vor 0min | 🟢 aktiv |
+| LPE Immobilien | 5306 | 2.2 | 1842/2374 | vor 18min | 🟢 aktiv |
 | Rohrer Firmengruppe | 5024 | 2.1 | 2317/2374 | vor 0min | 🟢 aktiv |
 | Südhausbau | 4920 | 2.1 | 2346/2374 | vor 0min | 🟢 aktiv |
 | KSWM | 4717 | 2.0 | 2293/2374 | vor 0min | 🟢 aktiv |
@@ -60,7 +60,7 @@ _Letzte Run-Zusammenfassung: 598 scraped, 0 matches, 0 sent_
 | Immobilie1 | 1678 | 0.7 | 1678/2374 | vor 0min | 🟢 aktiv |
 | KLN Immobilien | 963 | 0.4 | 963/2374 | vor 0min | 🟢 aktiv |
 | EBM München | 384 | 0.2 | 384/2374 | vor 12d | 🟡 inaktiv (lange leer) |
-| Email Inbox | 358 | 0.2 | 286/2374 | vor 30min | 🟢 aktiv |
+| Email Inbox | 358 | 0.2 | 286/2374 | vor 33min | 🟢 aktiv |
 | Immowelt | 32 | 0.0 | 1/2374 | vor 16d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 24d | 🟢 aktiv |
 | Munich Property | 10 | 5.0 | 2/2 | vor 24d | 🟢 aktiv |
