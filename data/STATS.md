@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-06-13T14:33:56+00:00_  
+_Auto-generiert. Letzter Run: 2026-06-13T14:36:26+00:00_  
 _Total Runs: 2368_  
-_Letzte Run-Zusammenfassung: 576 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 583 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -16,7 +16,7 @@ _Letzte Run-Zusammenfassung: 576 scraped, 0 matches, 0 sent_
 | WG-Gesucht | 62046 | 26.2 | 2298/2368 | vor 0min | 🟢 aktiv |
 | ohne-makler.net | 56832 | 24.0 | 2368/2368 | vor 0min | 🟢 aktiv |
 | Immobilo | 49213 | 20.8 | 2368/2368 | vor 0min | 🟢 aktiv |
-| Idowa | 46893 | 19.8 | 2364/2368 | vor 0min | 🟢 aktiv |
+| Idowa | 46894 | 19.8 | 2364/2368 | vor 0min | 🟢 aktiv |
 | SZ Immobilien | 46025 | 19.4 | 2364/2368 | vor 0min | 🟢 aktiv |
 | FAZ Immobilien | 44595 | 18.8 | 2366/2368 | vor 0min | 🟢 aktiv |
 | Nuroa | 39613 | 16.7 | 2282/2368 | vor 0min | 🟢 aktiv |
@@ -33,16 +33,16 @@ _Letzte Run-Zusammenfassung: 576 scraped, 0 matches, 0 sent_
 | Ab ins Zuhause | 16024 | 6.8 | 2003/2368 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 14196 | 6.0 | 2366/2368 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 12402 | 5.2 | 2368/2368 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 12168 | 5.1 | 2368/2368 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 12170 | 5.1 | 2368/2368 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 9736 | 4.1 | 2065/2368 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 9468 | 4.0 | 2367/2368 | vor 0min | 🟢 aktiv |
 | DIBAG | 9328 | 3.9 | 2332/2368 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 8198 | 3.5 | 2364/2368 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 7926 | 3.3 | 2287/2366 | vor 0min | 🟢 aktiv |
-| Rogers Immobilien | 7029 | 3.0 | 2343/2368 | vor 16min | 🟢 aktiv |
+| Rogers Immobilien | 7032 | 3.0 | 2344/2368 | vor 0min | 🟢 aktiv |
 | GVG Net | 6609 | 2.8 | 2367/2368 | vor 0min | 🟢 aktiv |
 | Alsaol | 6596 | 2.8 | 2368/2368 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 5849 | 2.5 | 2358/2368 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 5850 | 2.5 | 2358/2368 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 5298 | 2.2 | 1838/2368 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 5012 | 2.1 | 2311/2368 | vor 0min | 🟢 aktiv |
 | Südhausbau | 4902 | 2.1 | 2340/2368 | vor 0min | 🟢 aktiv |
