@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-06-13T17:48:38+00:00_  
+_Auto-generiert. Letzter Run: 2026-06-13T17:51:20+00:00_  
 _Total Runs: 2381_  
-_Letzte Run-Zusammenfassung: 558 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 584 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -24,7 +24,7 @@ _Letzte Run-Zusammenfassung: 558 scraped, 0 matches, 0 sent_
 | Wegener Immobilien | 26191 | 11.0 | 2381/2381 | vor 0min | 🟢 aktiv |
 | KPC Immobilien | 25984 | 31.9 | 812/814 | vor 0min | 🟢 aktiv |
 | Heimhuber Immobilien | 23710 | 10.0 | 2374/2381 | vor 0min | 🟢 aktiv |
-| Wohnreferat München | 21998 | 9.2 | 2074/2381 | vor 15min | 🟢 aktiv |
+| Wohnreferat München | 22011 | 9.2 | 2075/2381 | vor 0min | 🟢 aktiv |
 | Idowa Altstadt-Lehel | 20750 | 8.7 | 2380/2381 | vor 0min | 🟢 aktiv |
 | Immler Martin Hausverwaltung | 19048 | 8.0 | 2381/2381 | vor 0min | 🟢 aktiv |
 | Franziskanerhof | 18628 | 7.8 | 2380/2381 | vor 0min | 🟢 aktiv |
@@ -34,7 +34,7 @@ _Letzte Run-Zusammenfassung: 558 scraped, 0 matches, 0 sent_
 | Chalet Immobilien | 14274 | 6.0 | 2379/2381 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 12480 | 5.2 | 2381/2381 | vor 0min | 🟢 aktiv |
 | Kleinanzeigen | 12196 | 5.1 | 2381/2381 | vor 0min | 🟢 aktiv |
-| Sedlmayr AG | 9802 | 4.1 | 2076/2381 | vor 15min | 🟢 aktiv |
+| Sedlmayr AG | 9808 | 4.1 | 2077/2381 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 9520 | 4.0 | 2380/2381 | vor 0min | 🟢 aktiv |
 | DIBAG | 9380 | 3.9 | 2345/2381 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 8263 | 3.5 | 2377/2381 | vor 0min | 🟢 aktiv |
@@ -42,14 +42,14 @@ _Letzte Run-Zusammenfassung: 558 scraped, 0 matches, 0 sent_
 | Rogers Immobilien | 7068 | 3.0 | 2356/2381 | vor 0min | 🟢 aktiv |
 | GVG Net | 6661 | 2.8 | 2380/2381 | vor 0min | 🟢 aktiv |
 | Alsaol | 6635 | 2.8 | 2381/2381 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 5894 | 2.5 | 2371/2381 | vor 0min | 🟢 aktiv |
-| LPE Immobilien | 5314 | 2.2 | 1846/2381 | vor 15min | 🟢 aktiv |
+| Scheel Immobilien | 5896 | 2.5 | 2371/2381 | vor 0min | 🟢 aktiv |
+| LPE Immobilien | 5316 | 2.2 | 1847/2381 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 5038 | 2.1 | 2324/2381 | vor 0min | 🟢 aktiv |
 | Südhausbau | 4941 | 2.1 | 2353/2381 | vor 0min | 🟢 aktiv |
 | KSWM | 4731 | 2.0 | 2300/2381 | vor 0min | 🟢 aktiv |
 | Lehmann Hueber | 4544 | 1.9 | 2381/2381 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 3788 | 1.6 | 2381/2381 | vor 0min | 🟢 aktiv |
-| ImmoSmart | 3316 | 1.4 | 1885/2381 | vor 15min | 🟢 aktiv |
+| ImmoSmart | 3319 | 1.4 | 1886/2381 | vor 0min | 🟢 aktiv |
 | HI Wohnbau | 2380 | 1.0 | 2380/2381 | vor 0min | 🟢 aktiv |
 | Vonovia | 2380 | 1.0 | 2380/2381 | vor 0min | 🟢 aktiv |
 | DAHLER München | 2377 | 1.0 | 2377/2381 | vor 0min | 🟢 aktiv |
@@ -60,7 +60,7 @@ _Letzte Run-Zusammenfassung: 558 scraped, 0 matches, 0 sent_
 | Immobilie1 | 1685 | 0.7 | 1685/2381 | vor 0min | 🟢 aktiv |
 | KLN Immobilien | 970 | 0.4 | 970/2381 | vor 0min | 🟢 aktiv |
 | EBM München | 384 | 0.2 | 384/2381 | vor 12d | 🟡 inaktiv (lange leer) |
-| Email Inbox | 360 | 0.2 | 288/2381 | vor 15min | 🟢 aktiv |
+| Email Inbox | 360 | 0.2 | 288/2381 | vor 18min | 🟢 aktiv |
 | Immowelt | 32 | 0.0 | 1/2381 | vor 16d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 24d | 🟢 aktiv |
 | Munich Property | 10 | 5.0 | 2/2 | vor 24d | 🟢 aktiv |
