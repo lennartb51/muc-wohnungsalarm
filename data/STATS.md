@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-06-13T12:16:01+00:00_  
+_Auto-generiert. Letzter Run: 2026-06-13T12:18:37+00:00_  
 _Total Runs: 2359_  
-_Letzte Run-Zusammenfassung: 583 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 584 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -42,7 +42,7 @@ _Letzte Run-Zusammenfassung: 583 scraped, 0 matches, 0 sent_
 | Rogers Immobilien | 7005 | 3.0 | 2335/2359 | vor 0min | 🟢 aktiv |
 | GVG Net | 6573 | 2.8 | 2358/2359 | vor 0min | 🟢 aktiv |
 | Alsaol | 6569 | 2.8 | 2359/2359 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 5836 | 2.5 | 2349/2359 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 5837 | 2.5 | 2349/2359 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 5280 | 2.2 | 1829/2359 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 4994 | 2.1 | 2302/2359 | vor 0min | 🟢 aktiv |
 | Südhausbau | 4875 | 2.1 | 2331/2359 | vor 0min | 🟢 aktiv |
@@ -60,7 +60,7 @@ _Letzte Run-Zusammenfassung: 583 scraped, 0 matches, 0 sent_
 | Immobilie1 | 1663 | 0.7 | 1663/2359 | vor 0min | 🟢 aktiv |
 | KLN Immobilien | 948 | 0.4 | 948/2359 | vor 0min | 🟢 aktiv |
 | EBM München | 384 | 0.2 | 384/2359 | vor 12d | 🟡 inaktiv (lange leer) |
-| Email Inbox | 357 | 0.2 | 285/2359 | vor 58min | 🟢 aktiv |
+| Email Inbox | 357 | 0.2 | 285/2359 | vor 1h | 🟢 aktiv |
 | Immowelt | 32 | 0.0 | 1/2359 | vor 16d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 24d | 🟢 aktiv |
 | Munich Property | 10 | 5.0 | 2/2 | vor 24d | 🟢 aktiv |
