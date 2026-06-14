@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-06-14T18:48:15+00:00_  
+_Auto-generiert. Letzter Run: 2026-06-14T18:50:39+00:00_  
 _Total Runs: 2488_  
-_Letzte Run-Zusammenfassung: 569 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 588 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -13,7 +13,7 @@ _Letzte Run-Zusammenfassung: 569 scraped, 0 matches, 0 sent_
 | WSB Bayern | 90979 | 36.6 | 2451/2488 | vor 0min | 🟢 aktiv |
 | Immobilien Schlamp | 74592 | 30.0 | 2473/2488 | vor 0min | 🟢 aktiv |
 | Pandion Service | 74552 | 30.0 | 2486/2488 | vor 0min | 🟢 aktiv |
-| WG-Gesucht | 64881 | 26.1 | 2403/2488 | vor 15min | 🟢 aktiv |
+| WG-Gesucht | 64908 | 26.1 | 2404/2488 | vor 0min | 🟢 aktiv |
 | ohne-makler.net | 59712 | 24.0 | 2488/2488 | vor 0min | 🟢 aktiv |
 | Immobilo | 51586 | 20.7 | 2486/2488 | vor 0min | 🟢 aktiv |
 | Idowa | 49372 | 19.8 | 2482/2488 | vor 0min | 🟢 aktiv |
@@ -30,7 +30,7 @@ _Letzte Run-Zusammenfassung: 569 scraped, 0 matches, 0 sent_
 | Franziskanerhof | 19484 | 7.8 | 2487/2488 | vor 0min | 🟢 aktiv |
 | Hegerich Immobilien | 17303 | 7.0 | 2485/2488 | vor 0min | 🟢 aktiv |
 | Immo-Hyp | 16897 | 6.8 | 2477/2488 | vor 0min | 🟢 aktiv |
-| Ab ins Zuhause | 16816 | 6.8 | 2102/2488 | vor 15min | 🟢 aktiv |
+| Ab ins Zuhause | 16824 | 6.8 | 2103/2488 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 14916 | 6.0 | 2486/2488 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 13122 | 5.3 | 2488/2488 | vor 0min | 🟢 aktiv |
 | Kleinanzeigen | 12456 | 5.0 | 2488/2488 | vor 0min | 🟢 aktiv |
@@ -38,15 +38,15 @@ _Letzte Run-Zusammenfassung: 569 scraped, 0 matches, 0 sent_
 | VS Immobilienservice | 9948 | 4.0 | 2487/2488 | vor 0min | 🟢 aktiv |
 | DIBAG | 9796 | 3.9 | 2449/2488 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 8798 | 3.5 | 2484/2488 | vor 0min | 🟢 aktiv |
-| Pienzenauer Immobilien | 8268 | 3.3 | 2401/2486 | vor 15min | 🟢 aktiv |
+| Pienzenauer Immobilien | 8271 | 3.3 | 2402/2486 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 7383 | 3.0 | 2461/2488 | vor 0min | 🟢 aktiv |
 | GVG Net | 7089 | 2.8 | 2487/2488 | vor 0min | 🟢 aktiv |
 | Alsaol | 6956 | 2.8 | 2488/2488 | vor 0min | 🟢 aktiv |
 | Scheel Immobilien | 6221 | 2.5 | 2478/2488 | vor 0min | 🟢 aktiv |
-| LPE Immobilien | 5438 | 2.2 | 1908/2488 | vor 15min | 🟢 aktiv |
-| Rohrer Firmengruppe | 5266 | 2.1 | 2426/2488 | vor 0min | 🟢 aktiv |
+| LPE Immobilien | 5440 | 2.2 | 1909/2488 | vor 0min | 🟢 aktiv |
 | Südhausbau | 5262 | 2.1 | 2460/2488 | vor 0min | 🟢 aktiv |
-| KSWM | 4933 | 2.0 | 2401/2488 | vor 15min | 🟢 aktiv |
+| Rohrer Firmengruppe | 5242 | 2.1 | 2426/2488 | vor 0min | 🟢 aktiv |
+| KSWM | 4935 | 2.0 | 2402/2488 | vor 0min | 🟢 aktiv |
 | Lehmann Hueber | 4865 | 2.0 | 2488/2488 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 3895 | 1.6 | 2488/2488 | vor 0min | 🟢 aktiv |
 | ImmoSmart | 3595 | 1.4 | 1978/2488 | vor 0min | 🟢 aktiv |
@@ -58,7 +58,7 @@ _Letzte Run-Zusammenfassung: 569 scraped, 0 matches, 0 sent_
 | Egger Immobilien | 2391 | 1.0 | 2391/2488 | vor 0min | 🟢 aktiv |
 | Dawonia | 2157 | 0.9 | 2157/2488 | vor 3d | 🟡 inaktiv (lange leer) |
 | Immobilie1 | 1792 | 0.7 | 1792/2488 | vor 0min | 🟢 aktiv |
-| KLN Immobilien | 1071 | 0.4 | 1071/2488 | vor 15min | 🟢 aktiv |
+| KLN Immobilien | 1072 | 0.4 | 1072/2488 | vor 0min | 🟢 aktiv |
 | EBM München | 384 | 0.2 | 384/2488 | vor 13d | 🟡 inaktiv (lange leer) |
 | Email Inbox | 367 | 0.1 | 294/2488 | vor 6h | 🟢 aktiv |
 | Immowelt | 32 | 0.0 | 1/2488 | vor 18d | 🟡 inaktiv (lange leer) |
