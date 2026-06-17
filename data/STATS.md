@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-06-17T07:16:41+00:00_  
+_Auto-generiert. Letzter Run: 2026-06-17T07:19:26+00:00_  
 _Total Runs: 2743_  
-_Letzte Run-Zusammenfassung: 550 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 578 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -13,7 +13,7 @@ _Letzte Run-Zusammenfassung: 550 scraped, 0 matches, 0 sent_
 | WSB Bayern | 99659 | 36.3 | 2699/2743 | vor 0min | 🟢 aktiv |
 | Immobilien Schlamp | 82494 | 30.1 | 2728/2743 | vor 0min | 🟢 aktiv |
 | Pandion Service | 82202 | 30.0 | 2741/2743 | vor 0min | 🟢 aktiv |
-| WG-Gesucht | 71091 | 25.9 | 2633/2743 | vor 28min | 🟢 aktiv |
+| WG-Gesucht | 71118 | 25.9 | 2634/2743 | vor 0min | 🟢 aktiv |
 | ohne-makler.net | 65832 | 24.0 | 2743/2743 | vor 0min | 🟢 aktiv |
 | Immobilo | 56813 | 20.7 | 2740/2743 | vor 0min | 🟢 aktiv |
 | Idowa | 54489 | 19.9 | 2736/2743 | vor 0min | 🟢 aktiv |
@@ -29,7 +29,7 @@ _Letzte Run-Zusammenfassung: 550 scraped, 0 matches, 0 sent_
 | Immler Martin Hausverwaltung | 21944 | 8.0 | 2743/2743 | vor 0min | 🟢 aktiv |
 | Franziskanerhof | 21524 | 7.8 | 2742/2743 | vor 0min | 🟢 aktiv |
 | Hegerich Immobilien | 19088 | 7.0 | 2740/2743 | vor 0min | 🟢 aktiv |
-| Ab ins Zuhause | 18544 | 6.8 | 2318/2743 | vor 43min | 🟢 aktiv |
+| Ab ins Zuhause | 18544 | 6.8 | 2318/2743 | vor 46min | 🟢 aktiv |
 | Immo-Hyp | 18521 | 6.8 | 2731/2743 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 16440 | 6.0 | 2740/2743 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 14850 | 5.4 | 2743/2743 | vor 0min | 🟢 aktiv |
@@ -42,7 +42,7 @@ _Letzte Run-Zusammenfassung: 550 scraped, 0 matches, 0 sent_
 | Rogers Immobilien | 8118 | 3.0 | 2706/2743 | vor 0min | 🟢 aktiv |
 | GVG Net | 8109 | 3.0 | 2742/2743 | vor 0min | 🟢 aktiv |
 | Alsaol | 7721 | 2.8 | 2743/2743 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 6801 | 2.5 | 2732/2743 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 6802 | 2.5 | 2732/2743 | vor 0min | 🟢 aktiv |
 | Südhausbau | 6027 | 2.2 | 2715/2743 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 5859 | 2.1 | 2072/2743 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 5788 | 2.1 | 2675/2743 | vor 0min | 🟢 aktiv |
@@ -56,10 +56,10 @@ _Letzte Run-Zusammenfassung: 550 scraped, 0 matches, 0 sent_
 | Immobilien Schneider | 2737 | 1.0 | 2737/2743 | vor 0min | 🟢 aktiv |
 | Maier Immobilien | 2704 | 1.0 | 2704/2743 | vor 0min | 🟢 aktiv |
 | Egger Immobilien | 2646 | 1.0 | 2646/2743 | vor 0min | 🟢 aktiv |
-| Dawonia | 2290 | 0.8 | 2290/2743 | vor 14h | 🟢 aktiv |
+| Dawonia | 2290 | 0.8 | 2290/2743 | vor 15h | 🟢 aktiv |
 | Immobilie1 | 2047 | 0.7 | 2047/2743 | vor 0min | 🟢 aktiv |
 | KLN Immobilien | 1319 | 0.5 | 1319/2743 | vor 0min | 🟢 aktiv |
-| Email Inbox | 404 | 0.1 | 329/2743 | vor 12min | 🟢 aktiv |
+| Email Inbox | 404 | 0.1 | 329/2743 | vor 15min | 🟢 aktiv |
 | EBM München | 384 | 0.1 | 384/2743 | vor 16d | 🟡 inaktiv (lange leer) |
 | Immovision München | 87 | 0.0 | 87/2743 | vor 0min | 🟢 aktiv |
 | Immowelt | 32 | 0.0 | 1/2743 | vor 20d | 🟡 inaktiv (lange leer) |
