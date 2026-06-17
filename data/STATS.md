@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-06-17T22:47:55+00:00_  
+_Auto-generiert. Letzter Run: 2026-06-17T22:50:41+00:00_  
 _Total Runs: 2808_  
-_Letzte Run-Zusammenfassung: 588 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 567 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -24,7 +24,7 @@ _Letzte Run-Zusammenfassung: 588 scraped, 0 matches, 0 sent_
 | KPC Immobilien | 39616 | 31.9 | 1238/1241 | vor 0min | 🟢 aktiv |
 | Wegener Immobilien | 30888 | 11.0 | 2808/2808 | vor 0min | 🟢 aktiv |
 | Heimhuber Immobilien | 28194 | 10.0 | 2801/2808 | vor 0min | 🟢 aktiv |
-| Wohnreferat München | 26914 | 9.6 | 2453/2808 | vor 0min | 🟢 aktiv |
+| Wohnreferat München | 26901 | 9.6 | 2452/2808 | vor 17min | 🟢 aktiv |
 | Idowa Altstadt-Lehel | 26231 | 9.3 | 2805/2808 | vor 0min | 🟢 aktiv |
 | Immler Martin Hausverwaltung | 22464 | 8.0 | 2808/2808 | vor 0min | 🟢 aktiv |
 | Franziskanerhof | 22044 | 7.9 | 2807/2808 | vor 0min | 🟢 aktiv |
@@ -35,21 +35,21 @@ _Letzte Run-Zusammenfassung: 588 scraped, 0 matches, 0 sent_
 | EP Immobilien | 15305 | 5.5 | 2808/2808 | vor 0min | 🟢 aktiv |
 | Kleinanzeigen | 13266 | 4.7 | 2808/2808 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 11228 | 4.0 | 2807/2808 | vor 0min | 🟢 aktiv |
-| Sedlmayr AG | 11206 | 4.0 | 2455/2808 | vor 0min | 🟢 aktiv |
+| Sedlmayr AG | 11203 | 4.0 | 2454/2808 | vor 17min | 🟢 aktiv |
 | DIBAG | 11044 | 3.9 | 2761/2808 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 10393 | 3.7 | 2803/2808 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 8921 | 3.2 | 2713/2806 | vor 0min | 🟢 aktiv |
 | GVG Net | 8322 | 3.0 | 2807/2808 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 8310 | 3.0 | 2770/2808 | vor 0min | 🟢 aktiv |
 | Alsaol | 7915 | 2.8 | 2808/2808 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 6965 | 2.5 | 2797/2808 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 6964 | 2.5 | 2797/2808 | vor 0min | 🟢 aktiv |
 | Südhausbau | 6222 | 2.2 | 2780/2808 | vor 0min | 🟢 aktiv |
-| LPE Immobilien | 6003 | 2.1 | 2120/2808 | vor 0min | 🟢 aktiv |
+| LPE Immobilien | 6000 | 2.1 | 2119/2808 | vor 17min | 🟢 aktiv |
 | Rohrer Firmengruppe | 5942 | 2.1 | 2740/2808 | vor 0min | 🟢 aktiv |
 | Lehmann Hueber | 5556 | 2.0 | 2808/2808 | vor 0min | 🟢 aktiv |
 | KSWM | 5555 | 2.0 | 2712/2808 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 4215 | 1.5 | 2808/2808 | vor 0min | 🟢 aktiv |
-| ImmoSmart | 4020 | 1.4 | 2262/2808 | vor 0min | 🟢 aktiv |
+| ImmoSmart | 4019 | 1.4 | 2261/2808 | vor 17min | 🟢 aktiv |
 | HI Wohnbau | 2807 | 1.0 | 2807/2808 | vor 0min | 🟢 aktiv |
 | Vonovia | 2806 | 1.0 | 2806/2808 | vor 0min | 🟢 aktiv |
 | DAHLER München | 2804 | 1.0 | 2804/2808 | vor 0min | 🟢 aktiv |
