@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-06-17T12:00:37+00:00_  
+_Auto-generiert. Letzter Run: 2026-06-17T12:03:18+00:00_  
 _Total Runs: 2762_  
-_Letzte Run-Zusammenfassung: 557 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 586 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -13,7 +13,7 @@ _Letzte Run-Zusammenfassung: 557 scraped, 0 matches, 0 sent_
 | WSB Bayern | 100324 | 36.3 | 2718/2762 | vor 0min | 🟢 aktiv |
 | Immobilien Schlamp | 83052 | 30.1 | 2746/2762 | vor 0min | 🟢 aktiv |
 | Pandion Service | 82772 | 30.0 | 2760/2762 | vor 0min | 🟢 aktiv |
-| WG-Gesucht | 71604 | 25.9 | 2652/2762 | vor 12min | 🟢 aktiv |
+| WG-Gesucht | 71631 | 25.9 | 2653/2762 | vor 0min | 🟢 aktiv |
 | ohne-makler.net | 66288 | 24.0 | 2762/2762 | vor 0min | 🟢 aktiv |
 | Immobilo | 57210 | 20.7 | 2759/2762 | vor 0min | 🟢 aktiv |
 | Idowa | 54849 | 19.9 | 2755/2762 | vor 0min | 🟢 aktiv |
@@ -39,12 +39,12 @@ _Letzte Run-Zusammenfassung: 557 scraped, 0 matches, 0 sent_
 | DIBAG | 10864 | 3.9 | 2716/2762 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 10168 | 3.7 | 2758/2762 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 8861 | 3.2 | 2668/2760 | vor 0min | 🟢 aktiv |
-| GVG Net | 8185 | 3.0 | 2761/2762 | vor 0min | 🟢 aktiv |
+| GVG Net | 8184 | 3.0 | 2761/2762 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 8175 | 3.0 | 2725/2762 | vor 0min | 🟢 aktiv |
 | Alsaol | 7778 | 2.8 | 2762/2762 | vor 0min | 🟢 aktiv |
 | Scheel Immobilien | 6844 | 2.5 | 2751/2762 | vor 0min | 🟢 aktiv |
 | Südhausbau | 6084 | 2.2 | 2734/2762 | vor 0min | 🟢 aktiv |
-| LPE Immobilien | 5898 | 2.1 | 2085/2762 | vor 12min | 🟢 aktiv |
+| LPE Immobilien | 5901 | 2.1 | 2086/2762 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 5826 | 2.1 | 2694/2762 | vor 0min | 🟢 aktiv |
 | Lehmann Hueber | 5510 | 2.0 | 2762/2762 | vor 0min | 🟢 aktiv |
 | KSWM | 5465 | 2.0 | 2667/2762 | vor 0min | 🟢 aktiv |
@@ -59,7 +59,7 @@ _Letzte Run-Zusammenfassung: 557 scraped, 0 matches, 0 sent_
 | Dawonia | 2297 | 0.8 | 2297/2762 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 2066 | 0.7 | 2066/2762 | vor 0min | 🟢 aktiv |
 | KLN Immobilien | 1338 | 0.5 | 1338/2762 | vor 0min | 🟢 aktiv |
-| Email Inbox | 407 | 0.1 | 332/2762 | vor 27min | 🟢 aktiv |
+| Email Inbox | 407 | 0.1 | 332/2762 | vor 30min | 🟢 aktiv |
 | EBM München | 384 | 0.1 | 384/2762 | vor 16d | 🟡 inaktiv (lange leer) |
 | Immovision München | 106 | 0.0 | 106/2762 | vor 0min | 🟢 aktiv |
 | Immowelt | 32 | 0.0 | 1/2762 | vor 20d | 🟡 inaktiv (lange leer) |
