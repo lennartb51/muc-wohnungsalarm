@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-06-18T00:18:01+00:00_  
+_Auto-generiert. Letzter Run: 2026-06-18T00:20:33+00:00_  
 _Total Runs: 2814_  
-_Letzte Run-Zusammenfassung: 587 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 586 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -42,7 +42,7 @@ _Letzte Run-Zusammenfassung: 587 scraped, 0 matches, 0 sent_
 | GVG Net | 8340 | 3.0 | 2813/2814 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 8328 | 3.0 | 2776/2814 | vor 0min | 🟢 aktiv |
 | Alsaol | 7933 | 2.8 | 2814/2814 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 6978 | 2.5 | 2803/2814 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 6977 | 2.5 | 2803/2814 | vor 0min | 🟢 aktiv |
 | Südhausbau | 6240 | 2.2 | 2786/2814 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 6012 | 2.1 | 2123/2814 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 5954 | 2.1 | 2746/2814 | vor 0min | 🟢 aktiv |
@@ -56,7 +56,7 @@ _Letzte Run-Zusammenfassung: 587 scraped, 0 matches, 0 sent_
 | Immobilien Schneider | 2808 | 1.0 | 2808/2814 | vor 0min | 🟢 aktiv |
 | Maier Immobilien | 2774 | 1.0 | 2774/2814 | vor 0min | 🟢 aktiv |
 | Egger Immobilien | 2717 | 1.0 | 2717/2814 | vor 0min | 🟢 aktiv |
-| Dawonia | 2298 | 0.8 | 2298/2814 | vor 11h | 🟢 aktiv |
+| Dawonia | 2298 | 0.8 | 2298/2814 | vor 12h | 🟢 aktiv |
 | Immobilie1 | 2118 | 0.8 | 2118/2814 | vor 0min | 🟢 aktiv |
 | KLN Immobilien | 1389 | 0.5 | 1389/2814 | vor 0min | 🟢 aktiv |
 | Email Inbox | 416 | 0.1 | 341/2814 | vor 5h | 🟢 aktiv |
