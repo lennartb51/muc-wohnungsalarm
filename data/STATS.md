@@ -1,6 +1,6 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-06-18T21:33:19+00:00_  
+_Auto-generiert. Letzter Run: 2026-06-18T21:36:10+00:00_  
 _Total Runs: 2904_  
 _Letzte Run-Zusammenfassung: 581 scraped, 0 matches, 0 sent_
 
@@ -33,7 +33,7 @@ _Letzte Run-Zusammenfassung: 581 scraped, 0 matches, 0 sent_
 | Immo-Hyp | 19609 | 6.8 | 2891/2904 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 17406 | 6.0 | 2901/2904 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 15921 | 5.5 | 2902/2904 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 13746 | 4.7 | 2904/2904 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 13747 | 4.7 | 2904/2904 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 11612 | 4.0 | 2903/2904 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 11461 | 3.9 | 2540/2904 | vor 0min | 🟢 aktiv |
 | DIBAG | 11416 | 3.9 | 2854/2904 | vor 0min | 🟢 aktiv |
@@ -42,7 +42,7 @@ _Letzte Run-Zusammenfassung: 581 scraped, 0 matches, 0 sent_
 | GVG Net | 8610 | 3.0 | 2903/2904 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 8589 | 3.0 | 2863/2904 | vor 0min | 🟢 aktiv |
 | Alsaol | 8203 | 2.8 | 2904/2904 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 7172 | 2.5 | 2892/2904 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 7171 | 2.5 | 2892/2904 | vor 0min | 🟢 aktiv |
 | Südhausbau | 6473 | 2.2 | 2876/2904 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 6210 | 2.1 | 2189/2904 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 6182 | 2.1 | 2836/2904 | vor 0min | 🟢 aktiv |
@@ -59,7 +59,7 @@ _Letzte Run-Zusammenfassung: 581 scraped, 0 matches, 0 sent_
 | Dawonia | 2298 | 0.8 | 2298/2904 | vor 1d | 🟡 inaktiv (lange leer) |
 | Immobilie1 | 2208 | 0.8 | 2208/2904 | vor 0min | 🟢 aktiv |
 | KLN Immobilien | 1477 | 0.5 | 1477/2904 | vor 0min | 🟢 aktiv |
-| Email Inbox | 437 | 0.2 | 359/2904 | vor 15min | 🟢 aktiv |
+| Email Inbox | 437 | 0.2 | 359/2904 | vor 18min | 🟢 aktiv |
 | EBM München | 384 | 0.1 | 384/2904 | vor 17d | 🟡 inaktiv (lange leer) |
 | Immovision München | 242 | 0.1 | 242/2904 | vor 0min | 🟢 aktiv |
 | Immowelt | 32 | 0.0 | 1/2904 | vor 22d | 🟡 inaktiv (lange leer) |
