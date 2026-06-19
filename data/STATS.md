@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-06-19T23:47:58+00:00_  
+_Auto-generiert. Letzter Run: 2026-06-19T23:50:33+00:00_  
 _Total Runs: 3016_  
-_Letzte Run-Zusammenfassung: 596 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 594 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -42,7 +42,7 @@ _Letzte Run-Zusammenfassung: 596 scraped, 0 matches, 0 sent_
 | Rogers Immobilien | 8919 | 3.0 | 2973/3016 | vor 0min | 🟢 aktiv |
 | GVG Net | 8890 | 2.9 | 3015/3016 | vor 0min | 🟢 aktiv |
 | Alsaol | 8539 | 2.8 | 3016/3016 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 7424 | 2.5 | 3004/3016 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 7422 | 2.5 | 3004/3016 | vor 0min | 🟢 aktiv |
 | Südhausbau | 6697 | 2.2 | 2988/3016 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 6432 | 2.1 | 2274/3016 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 6404 | 2.1 | 2947/3016 | vor 0min | 🟢 aktiv |
