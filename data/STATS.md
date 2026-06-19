@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-06-19T18:03:51+00:00_  
+_Auto-generiert. Letzter Run: 2026-06-19T18:06:15+00:00_  
 _Total Runs: 2990_  
-_Letzte Run-Zusammenfassung: 552 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 595 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -11,7 +11,7 @@ _Letzte Run-Zusammenfassung: 552 scraped, 0 matches, 0 sent_
 | Citigrund | 241850 | 80.9 | 2922/2990 | vor 0min | 🟢 aktiv |
 | Park Avenue Immobilien | 145083 | 48.5 | 2945/2990 | vor 0min | 🟢 aktiv |
 | WSB Bayern | 108544 | 36.3 | 2941/2990 | vor 0min | 🟢 aktiv |
-| Immobilien Schlamp | 90560 | 30.3 | 2973/2990 | vor 15min | 🟢 aktiv |
+| Immobilien Schlamp | 90594 | 30.3 | 2974/2990 | vor 0min | 🟢 aktiv |
 | Pandion Service | 89612 | 30.0 | 2988/2990 | vor 0min | 🟢 aktiv |
 | WG-Gesucht | 77164 | 25.8 | 2857/2990 | vor 0min | 🟢 aktiv |
 | ohne-makler.net | 71760 | 24.0 | 2990/2990 | vor 0min | 🟢 aktiv |
@@ -32,8 +32,8 @@ _Letzte Run-Zusammenfassung: 552 scraped, 0 matches, 0 sent_
 | Ab ins Zuhause | 20200 | 6.8 | 2525/2990 | vor 0min | 🟢 aktiv |
 | Immo-Hyp | 20125 | 6.7 | 2977/2990 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 17922 | 6.0 | 2987/2990 | vor 0min | 🟢 aktiv |
-| EP Immobilien | 16398 | 5.5 | 2980/2990 | vor 30min | 🟢 aktiv |
-| Kleinanzeigen | 14150 | 4.7 | 2990/2990 | vor 0min | 🟢 aktiv |
+| EP Immobilien | 16405 | 5.5 | 2981/2990 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 14151 | 4.7 | 2990/2990 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 11956 | 4.0 | 2989/2990 | vor 0min | 🟢 aktiv |
 | DIBAG | 11756 | 3.9 | 2939/2990 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 11686 | 3.9 | 2615/2990 | vor 0min | 🟢 aktiv |
@@ -42,7 +42,7 @@ _Letzte Run-Zusammenfassung: 552 scraped, 0 matches, 0 sent_
 | Rogers Immobilien | 8844 | 3.0 | 2948/2990 | vor 0min | 🟢 aktiv |
 | GVG Net | 8838 | 3.0 | 2989/2990 | vor 0min | 🟢 aktiv |
 | Alsaol | 8461 | 2.8 | 2990/2990 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 7366 | 2.5 | 2978/2990 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 7367 | 2.5 | 2978/2990 | vor 0min | 🟢 aktiv |
 | Südhausbau | 6645 | 2.2 | 2962/2990 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 6392 | 2.1 | 2254/2990 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 6352 | 2.1 | 2921/2990 | vor 0min | 🟢 aktiv |
@@ -59,7 +59,7 @@ _Letzte Run-Zusammenfassung: 552 scraped, 0 matches, 0 sent_
 | Dawonia | 2322 | 0.8 | 2322/2990 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 2294 | 0.8 | 2294/2990 | vor 0min | 🟢 aktiv |
 | KLN Immobilien | 1562 | 0.5 | 1562/2990 | vor 0min | 🟢 aktiv |
-| Email Inbox | 446 | 0.1 | 367/2990 | vor 15min | 🟢 aktiv |
+| Email Inbox | 446 | 0.1 | 367/2990 | vor 18min | 🟢 aktiv |
 | EBM München | 384 | 0.1 | 384/2990 | vor 18d | 🟡 inaktiv (lange leer) |
 | Immovision München | 324 | 0.1 | 324/2990 | vor 0min | 🟢 aktiv |
 | Immowelt | 32 | 0.0 | 1/2990 | vor 22d | 🟡 inaktiv (lange leer) |
