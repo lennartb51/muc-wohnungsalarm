@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-06-19T08:18:15+00:00_  
+_Auto-generiert. Letzter Run: 2026-06-19T08:21:02+00:00_  
 _Total Runs: 2949_  
-_Letzte Run-Zusammenfassung: 528 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 581 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -13,7 +13,7 @@ _Letzte Run-Zusammenfassung: 528 scraped, 0 matches, 0 sent_
 | WSB Bayern | 106989 | 36.3 | 2900/2949 | vor 0min | 🟢 aktiv |
 | Immobilien Schlamp | 89204 | 30.2 | 2933/2949 | vor 0min | 🟢 aktiv |
 | Pandion Service | 88382 | 30.0 | 2947/2949 | vor 0min | 🟢 aktiv |
-| WG-Gesucht | 76059 | 25.8 | 2817/2949 | vor 15min | 🟢 aktiv |
+| WG-Gesucht | 76086 | 25.8 | 2818/2949 | vor 0min | 🟢 aktiv |
 | ohne-makler.net | 70776 | 24.0 | 2949/2949 | vor 0min | 🟢 aktiv |
 | Immobilo | 61113 | 20.7 | 2945/2949 | vor 0min | 🟢 aktiv |
 | Idowa | 58406 | 19.8 | 2942/2949 | vor 0min | 🟢 aktiv |
@@ -24,7 +24,7 @@ _Letzte Run-Zusammenfassung: 528 scraped, 0 matches, 0 sent_
 | Engel & Völkers | 41877 | 14.2 | 2948/2949 | vor 0min | 🟢 aktiv |
 | Wegener Immobilien | 32439 | 11.0 | 2949/2949 | vor 0min | 🟢 aktiv |
 | Heimhuber Immobilien | 29845 | 10.1 | 2942/2949 | vor 0min | 🟢 aktiv |
-| Wohnreferat München | 28434 | 9.6 | 2576/2949 | vor 15min | 🟢 aktiv |
+| Wohnreferat München | 28446 | 9.6 | 2577/2949 | vor 0min | 🟢 aktiv |
 | Idowa Altstadt-Lehel | 28328 | 9.6 | 2945/2949 | vor 0min | 🟢 aktiv |
 | Immler Martin Hausverwaltung | 23592 | 8.0 | 2949/2949 | vor 0min | 🟢 aktiv |
 | Franziskanerhof | 23140 | 7.8 | 2944/2949 | vor 0min | 🟢 aktiv |
@@ -32,11 +32,11 @@ _Letzte Run-Zusammenfassung: 528 scraped, 0 matches, 0 sent_
 | Ab ins Zuhause | 19936 | 6.8 | 2492/2949 | vor 0min | 🟢 aktiv |
 | Immo-Hyp | 19879 | 6.7 | 2936/2949 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 17676 | 6.0 | 2946/2949 | vor 0min | 🟢 aktiv |
-| EP Immobilien | 16185 | 5.5 | 2946/2949 | vor 15min | 🟢 aktiv |
+| EP Immobilien | 16191 | 5.5 | 2947/2949 | vor 0min | 🟢 aktiv |
 | Kleinanzeigen | 14028 | 4.8 | 2949/2949 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 11792 | 4.0 | 2948/2949 | vor 0min | 🟢 aktiv |
 | DIBAG | 11592 | 3.9 | 2898/2949 | vor 0min | 🟢 aktiv |
-| Sedlmayr AG | 11575 | 3.9 | 2578/2949 | vor 15min | 🟢 aktiv |
+| Sedlmayr AG | 11578 | 3.9 | 2579/2949 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 11098 | 3.8 | 2944/2949 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 9059 | 3.1 | 2851/2947 | vor 0min | 🟢 aktiv |
 | GVG Net | 8745 | 3.0 | 2948/2949 | vor 0min | 🟢 aktiv |
@@ -44,12 +44,12 @@ _Letzte Run-Zusammenfassung: 528 scraped, 0 matches, 0 sent_
 | Alsaol | 8338 | 2.8 | 2949/2949 | vor 0min | 🟢 aktiv |
 | Scheel Immobilien | 7263 | 2.5 | 2937/2949 | vor 0min | 🟢 aktiv |
 | Südhausbau | 6563 | 2.2 | 2921/2949 | vor 0min | 🟢 aktiv |
-| LPE Immobilien | 6303 | 2.1 | 2220/2949 | vor 15min | 🟢 aktiv |
+| LPE Immobilien | 6306 | 2.1 | 2221/2949 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 6270 | 2.1 | 2880/2949 | vor 0min | 🟢 aktiv |
 | KSWM | 5842 | 2.0 | 2849/2949 | vor 0min | 🟢 aktiv |
 | Lehmann Hueber | 5697 | 1.9 | 2949/2949 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 4356 | 1.5 | 2949/2949 | vor 0min | 🟢 aktiv |
-| ImmoSmart | 4227 | 1.4 | 2385/2949 | vor 15min | 🟢 aktiv |
+| ImmoSmart | 4229 | 1.4 | 2386/2949 | vor 0min | 🟢 aktiv |
 | HI Wohnbau | 2948 | 1.0 | 2948/2949 | vor 0min | 🟢 aktiv |
 | Vonovia | 2947 | 1.0 | 2947/2949 | vor 0min | 🟢 aktiv |
 | DAHLER München | 2945 | 1.0 | 2945/2949 | vor 0min | 🟢 aktiv |
