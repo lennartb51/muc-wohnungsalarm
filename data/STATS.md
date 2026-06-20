@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-06-20T04:00:58+00:00_  
+_Auto-generiert. Letzter Run: 2026-06-20T04:03:36+00:00_  
 _Total Runs: 3033_  
-_Letzte Run-Zusammenfassung: 566 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 592 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -13,7 +13,7 @@ _Letzte Run-Zusammenfassung: 566 scraped, 0 matches, 0 sent_
 | WSB Bayern | 110098 | 36.3 | 2983/3033 | vor 0min | 🟢 aktiv |
 | Immobilien Schlamp | 92056 | 30.4 | 3017/3033 | vor 0min | 🟢 aktiv |
 | Pandion Service | 90902 | 30.0 | 3031/3033 | vor 0min | 🟢 aktiv |
-| WG-Gesucht | 78172 | 25.8 | 2893/3033 | vor 12min | 🟢 aktiv |
+| WG-Gesucht | 78200 | 25.8 | 2894/3033 | vor 0min | 🟢 aktiv |
 | ohne-makler.net | 72792 | 24.0 | 3033/3033 | vor 0min | 🟢 aktiv |
 | Immobilo | 62855 | 20.7 | 3028/3033 | vor 0min | 🟢 aktiv |
 | Idowa | 60065 | 19.8 | 3025/3033 | vor 0min | 🟢 aktiv |
@@ -44,7 +44,7 @@ _Letzte Run-Zusammenfassung: 566 scraped, 0 matches, 0 sent_
 | Alsaol | 8590 | 2.8 | 3033/3033 | vor 0min | 🟢 aktiv |
 | Scheel Immobilien | 7459 | 2.5 | 3021/3033 | vor 0min | 🟢 aktiv |
 | Südhausbau | 6731 | 2.2 | 3005/3033 | vor 0min | 🟢 aktiv |
-| LPE Immobilien | 6460 | 2.1 | 2288/3033 | vor 0min | 🟢 aktiv |
+| LPE Immobilien | 6458 | 2.1 | 2287/3033 | vor 15min | 🟢 aktiv |
 | Rohrer Firmengruppe | 6438 | 2.1 | 2964/3033 | vor 0min | 🟢 aktiv |
 | KSWM | 5944 | 2.0 | 2932/3033 | vor 0min | 🟢 aktiv |
 | Lehmann Hueber | 5781 | 1.9 | 3033/3033 | vor 0min | 🟢 aktiv |
@@ -59,7 +59,7 @@ _Letzte Run-Zusammenfassung: 566 scraped, 0 matches, 0 sent_
 | Dawonia | 2365 | 0.8 | 2365/3033 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 2337 | 0.8 | 2337/3033 | vor 0min | 🟢 aktiv |
 | KLN Immobilien | 1605 | 0.5 | 1605/3033 | vor 0min | 🟢 aktiv |
-| Email Inbox | 449 | 0.1 | 370/3033 | vor 57min | 🟢 aktiv |
+| Email Inbox | 449 | 0.1 | 370/3033 | vor 59min | 🟢 aktiv |
 | EBM München | 384 | 0.1 | 384/3033 | vor 18d | 🟡 inaktiv (lange leer) |
 | Immovision München | 366 | 0.1 | 366/3033 | vor 0min | 🟢 aktiv |
 | Immowelt | 32 | 0.0 | 1/3033 | vor 23d | 🟡 inaktiv (lange leer) |
