@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-06-20T22:48:27+00:00_  
+_Auto-generiert. Letzter Run: 2026-06-20T22:50:54+00:00_  
 _Total Runs: 3115_  
-_Letzte Run-Zusammenfassung: 560 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 594 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -13,7 +13,7 @@ _Letzte Run-Zusammenfassung: 560 scraped, 0 matches, 0 sent_
 | WSB Bayern | 112984 | 36.3 | 3062/3115 | vor 0min | 🟢 aktiv |
 | Immobilien Schlamp | 94844 | 30.4 | 3099/3115 | vor 0min | 🟢 aktiv |
 | Pandion Service | 93362 | 30.0 | 3113/3115 | vor 0min | 🟢 aktiv |
-| WG-Gesucht | 80244 | 25.8 | 2967/3115 | vor 15min | 🟢 aktiv |
+| WG-Gesucht | 80272 | 25.8 | 2968/3115 | vor 0min | 🟢 aktiv |
 | ohne-makler.net | 74760 | 24.0 | 3115/3115 | vor 0min | 🟢 aktiv |
 | Immobilo | 64576 | 20.7 | 3110/3115 | vor 0min | 🟢 aktiv |
 | Idowa | 61704 | 19.8 | 3107/3115 | vor 0min | 🟢 aktiv |
@@ -32,7 +32,7 @@ _Letzte Run-Zusammenfassung: 560 scraped, 0 matches, 0 sent_
 | Ab ins Zuhause | 21104 | 6.8 | 2638/3115 | vor 0min | 🟢 aktiv |
 | Immo-Hyp | 20927 | 6.7 | 3101/3115 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 18672 | 6.0 | 3112/3115 | vor 0min | 🟢 aktiv |
-| EP Immobilien | 17063 | 5.5 | 3075/3115 | vor 15min | 🟢 aktiv |
+| EP Immobilien | 17070 | 5.5 | 3076/3115 | vor 0min | 🟢 aktiv |
 | Kleinanzeigen | 14525 | 4.7 | 3115/3115 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 12456 | 4.0 | 3114/3115 | vor 0min | 🟢 aktiv |
 | DIBAG | 12236 | 3.9 | 3059/3115 | vor 0min | 🟢 aktiv |
@@ -42,7 +42,7 @@ _Letzte Run-Zusammenfassung: 560 scraped, 0 matches, 0 sent_
 | Rogers Immobilien | 9207 | 3.0 | 3069/3115 | vor 0min | 🟢 aktiv |
 | GVG Net | 9088 | 2.9 | 3114/3115 | vor 0min | 🟢 aktiv |
 | Alsaol | 8836 | 2.8 | 3115/3115 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 7671 | 2.5 | 3103/3115 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 7670 | 2.5 | 3103/3115 | vor 0min | 🟢 aktiv |
 | Südhausbau | 6895 | 2.2 | 3087/3115 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 6602 | 2.1 | 3046/3115 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 6584 | 2.1 | 2350/3115 | vor 0min | 🟢 aktiv |
