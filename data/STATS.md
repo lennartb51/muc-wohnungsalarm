@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-06-21T18:02:02+00:00_  
+_Auto-generiert. Letzter Run: 2026-06-21T18:05:24+00:00_  
 _Total Runs: 3196_  
-_Letzte Run-Zusammenfassung: 591 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 519 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -10,7 +10,7 @@ _Letzte Run-Zusammenfassung: 591 scraped, 0 matches, 0 sent_
 |---|---:|---:|---|---|---|
 | Citigrund | 257557 | 80.6 | 3120/3196 | vor 0min | 🟢 aktiv |
 | Park Avenue Immobilien | 155436 | 48.6 | 3148/3196 | vor 0min | 🟢 aktiv |
-| WSB Bayern | 116084 | 36.3 | 3140/3196 | vor 0min | 🟢 aktiv |
+| WSB Bayern | 116041 | 36.3 | 3139/3196 | vor 17min | 🟢 aktiv |
 | Immobilien Schlamp | 97598 | 30.5 | 3180/3196 | vor 0min | 🟢 aktiv |
 | Pandion Service | 95792 | 30.0 | 3194/3196 | vor 0min | 🟢 aktiv |
 | WG-Gesucht | 82344 | 25.8 | 3042/3196 | vor 0min | 🟢 aktiv |
@@ -25,42 +25,42 @@ _Letzte Run-Zusammenfassung: 591 scraped, 0 matches, 0 sent_
 | Wegener Immobilien | 35156 | 11.0 | 3196/3196 | vor 0min | 🟢 aktiv |
 | Heimhuber Immobilien | 32315 | 10.1 | 3189/3196 | vor 0min | 🟢 aktiv |
 | Idowa Altstadt-Lehel | 31734 | 9.9 | 3191/3196 | vor 0min | 🟢 aktiv |
-| Wohnreferat München | 30978 | 9.7 | 2788/3196 | vor 0min | 🟢 aktiv |
+| Wohnreferat München | 30966 | 9.7 | 2787/3196 | vor 17min | 🟢 aktiv |
 | Immler Martin Hausverwaltung | 25568 | 8.0 | 3196/3196 | vor 0min | 🟢 aktiv |
 | Franziskanerhof | 25116 | 7.9 | 3191/3196 | vor 0min | 🟢 aktiv |
 | Hegerich Immobilien | 22259 | 7.0 | 3193/3196 | vor 0min | 🟢 aktiv |
 | Ab ins Zuhause | 21656 | 6.8 | 2707/3196 | vor 0min | 🟢 aktiv |
 | Immo-Hyp | 21487 | 6.7 | 3181/3196 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 19158 | 6.0 | 3193/3196 | vor 0min | 🟢 aktiv |
-| EP Immobilien | 17490 | 5.5 | 3136/3196 | vor 14min | 🟢 aktiv |
+| EP Immobilien | 17490 | 5.5 | 3136/3196 | vor 17min | 🟢 aktiv |
 | Kleinanzeigen | 14797 | 4.6 | 3196/3196 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 12780 | 4.0 | 3195/3196 | vor 0min | 🟢 aktiv |
-| DIBAG | 12552 | 3.9 | 3138/3196 | vor 0min | 🟢 aktiv |
-| Sedlmayr AG | 12214 | 3.8 | 2791/3196 | vor 0min | 🟢 aktiv |
+| DIBAG | 12548 | 3.9 | 3137/3196 | vor 17min | 🟢 aktiv |
+| Sedlmayr AG | 12211 | 3.8 | 2790/3196 | vor 17min | 🟢 aktiv |
 | Rosenberger Immobilien | 12100 | 3.8 | 3191/3196 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 9533 | 3.0 | 3098/3194 | vor 0min | 🟢 aktiv |
-| Rogers Immobilien | 9444 | 3.0 | 3148/3196 | vor 0min | 🟢 aktiv |
+| Rogers Immobilien | 9441 | 3.0 | 3147/3196 | vor 17min | 🟢 aktiv |
 | GVG Net | 9250 | 2.9 | 3195/3196 | vor 0min | 🟢 aktiv |
 | Alsaol | 9079 | 2.8 | 3196/3196 | vor 0min | 🟢 aktiv |
 | Scheel Immobilien | 7828 | 2.4 | 3184/3196 | vor 0min | 🟢 aktiv |
 | Südhausbau | 7057 | 2.2 | 3168/3196 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 6764 | 2.1 | 3127/3196 | vor 0min | 🟢 aktiv |
-| LPE Immobilien | 6712 | 2.1 | 2414/3196 | vor 0min | 🟢 aktiv |
+| LPE Immobilien | 6710 | 2.1 | 2413/3196 | vor 17min | 🟢 aktiv |
 | KSWM | 6107 | 1.9 | 3095/3196 | vor 0min | 🟢 aktiv |
 | Lehmann Hueber | 5944 | 1.9 | 3196/3196 | vor 0min | 🟢 aktiv |
-| ImmoSmart | 4844 | 1.5 | 2598/3196 | vor 0min | 🟢 aktiv |
+| ImmoSmart | 4841 | 1.5 | 2597/3196 | vor 17min | 🟢 aktiv |
 | Eichler Immobilien | 4603 | 1.4 | 3196/3196 | vor 0min | 🟢 aktiv |
 | HI Wohnbau | 3195 | 1.0 | 3195/3196 | vor 0min | 🟢 aktiv |
 | Vonovia | 3193 | 1.0 | 3193/3196 | vor 0min | 🟢 aktiv |
 | DAHLER München | 3192 | 1.0 | 3192/3196 | vor 0min | 🟢 aktiv |
 | Immobilien Schneider | 3190 | 1.0 | 3190/3196 | vor 0min | 🟢 aktiv |
-| Maier Immobilien | 3146 | 1.0 | 3146/3196 | vor 0min | 🟢 aktiv |
+| Maier Immobilien | 3145 | 1.0 | 3145/3196 | vor 17min | 🟢 aktiv |
 | Egger Immobilien | 3099 | 1.0 | 3099/3196 | vor 0min | 🟢 aktiv |
 | Dawonia | 2528 | 0.8 | 2528/3196 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 2500 | 0.8 | 2500/3196 | vor 0min | 🟢 aktiv |
 | KLN Immobilien | 1768 | 0.6 | 1768/3196 | vor 0min | 🟢 aktiv |
 | Immovision München | 524 | 0.2 | 524/3196 | vor 0min | 🟢 aktiv |
-| Email Inbox | 466 | 0.1 | 387/3196 | vor 0min | 🟢 aktiv |
+| Email Inbox | 465 | 0.1 | 386/3196 | vor 2h | 🟢 aktiv |
 | EBM München | 384 | 0.1 | 384/3196 | vor 20d | 🟡 inaktiv (lange leer) |
 | Immowelt | 32 | 0.0 | 1/3196 | vor 24d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 32d | 🟢 aktiv |
