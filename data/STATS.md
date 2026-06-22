@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-06-22T23:47:39+00:00_  
+_Auto-generiert. Letzter Run: 2026-06-22T23:49:57+00:00_  
 _Total Runs: 3321_  
-_Letzte Run-Zusammenfassung: 603 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 611 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -33,7 +33,7 @@ _Letzte Run-Zusammenfassung: 603 scraped, 0 matches, 0 sent_
 | Immo-Hyp | 22355 | 6.7 | 3305/3321 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 19892 | 6.0 | 3318/3321 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 18142 | 5.5 | 3230/3321 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 15196 | 4.6 | 3321/3321 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 15204 | 4.6 | 3321/3321 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 13280 | 4.0 | 3320/3321 | vor 0min | 🟢 aktiv |
 | DIBAG | 13032 | 3.9 | 3258/3321 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 12600 | 3.8 | 3316/3321 | vor 0min | 🟢 aktiv |
@@ -57,7 +57,7 @@ _Letzte Run-Zusammenfassung: 603 scraped, 0 matches, 0 sent_
 | Maier Immobilien | 3266 | 1.0 | 3266/3321 | vor 0min | 🟢 aktiv |
 | Egger Immobilien | 3224 | 1.0 | 3224/3321 | vor 0min | 🟢 aktiv |
 | Dawonia | 2653 | 0.8 | 2653/3321 | vor 0min | 🟢 aktiv |
-| Immobilie1 | 2611 | 0.8 | 2611/3321 | vor 2h | 🟢 aktiv |
+| Immobilie1 | 2611 | 0.8 | 2611/3321 | vor 3h | 🟢 aktiv |
 | KLN Immobilien | 1893 | 0.6 | 1893/3321 | vor 0min | 🟢 aktiv |
 | Immovision München | 644 | 0.2 | 644/3321 | vor 0min | 🟢 aktiv |
 | Email Inbox | 484 | 0.1 | 402/3321 | vor 5h | 🟢 aktiv |
