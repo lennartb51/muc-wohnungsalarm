@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-06-23T16:47:11+00:00_  
+_Auto-generiert. Letzter Run: 2026-06-23T16:49:38+00:00_  
 _Total Runs: 3391_  
-_Letzte Run-Zusammenfassung: 549 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 593 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -10,7 +10,7 @@ _Letzte Run-Zusammenfassung: 549 scraped, 0 matches, 0 sent_
 |---|---:|---:|---|---|---|
 | Citigrund | 272330 | 80.3 | 3304/3391 | vor 0min | 🟢 aktiv |
 | Park Avenue Immobilien | 164259 | 48.4 | 3321/3391 | vor 0min | 🟢 aktiv |
-| WSB Bayern | 124172 | 36.6 | 3326/3391 | vor 13min | 🟢 aktiv |
+| WSB Bayern | 124213 | 36.6 | 3327/3391 | vor 0min | 🟢 aktiv |
 | Immobilien Schlamp | 103799 | 30.6 | 3373/3391 | vor 0min | 🟢 aktiv |
 | Pandion Service | 101642 | 30.0 | 3389/3391 | vor 0min | 🟢 aktiv |
 | WG-Gesucht | 87356 | 25.8 | 3221/3391 | vor 0min | 🟢 aktiv |
@@ -29,11 +29,11 @@ _Letzte Run-Zusammenfassung: 549 scraped, 0 matches, 0 sent_
 | Immler Martin Hausverwaltung | 27128 | 8.0 | 3391/3391 | vor 0min | 🟢 aktiv |
 | Franziskanerhof | 26676 | 7.9 | 3386/3391 | vor 0min | 🟢 aktiv |
 | Hegerich Immobilien | 23610 | 7.0 | 3386/3391 | vor 0min | 🟢 aktiv |
-| Ab ins Zuhause | 23040 | 6.8 | 2880/3391 | vor 13min | 🟢 aktiv |
+| Ab ins Zuhause | 23040 | 6.8 | 2880/3391 | vor 16min | 🟢 aktiv |
 | Immo-Hyp | 22845 | 6.7 | 3375/3391 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 20237 | 6.0 | 3387/3391 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 18534 | 5.5 | 3286/3391 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 15483 | 4.6 | 3391/3391 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 15484 | 4.6 | 3391/3391 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 13560 | 4.0 | 3390/3391 | vor 0min | 🟢 aktiv |
 | DIBAG | 13312 | 3.9 | 3328/3391 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 12880 | 3.8 | 3386/3391 | vor 0min | 🟢 aktiv |
@@ -45,7 +45,7 @@ _Letzte Run-Zusammenfassung: 549 scraped, 0 matches, 0 sent_
 | Scheel Immobilien | 8246 | 2.4 | 3379/3391 | vor 0min | 🟢 aktiv |
 | Südhausbau | 7567 | 2.2 | 3363/3391 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 7174 | 2.1 | 3322/3391 | vor 0min | 🟢 aktiv |
-| LPE Immobilien | 7044 | 2.1 | 2580/3391 | vor 13min | 🟢 aktiv |
+| LPE Immobilien | 7046 | 2.1 | 2581/3391 | vor 0min | 🟢 aktiv |
 | KSWM | 6302 | 1.9 | 3289/3391 | vor 0min | 🟢 aktiv |
 | Lehmann Hueber | 6139 | 1.8 | 3391/3391 | vor 0min | 🟢 aktiv |
 | ImmoSmart | 5356 | 1.6 | 2771/3391 | vor 0min | 🟢 aktiv |
@@ -57,7 +57,7 @@ _Letzte Run-Zusammenfassung: 549 scraped, 0 matches, 0 sent_
 | Maier Immobilien | 3336 | 1.0 | 3336/3391 | vor 0min | 🟢 aktiv |
 | Egger Immobilien | 3294 | 1.0 | 3294/3391 | vor 0min | 🟢 aktiv |
 | Dawonia | 2723 | 0.8 | 2723/3391 | vor 0min | 🟢 aktiv |
-| Immobilie1 | 2611 | 0.8 | 2611/3391 | vor 19h | 🟢 aktiv |
+| Immobilie1 | 2611 | 0.8 | 2611/3391 | vor 20h | 🟢 aktiv |
 | KLN Immobilien | 1961 | 0.6 | 1961/3391 | vor 0min | 🟢 aktiv |
 | Immovision München | 713 | 0.2 | 713/3391 | vor 0min | 🟢 aktiv |
 | Email Inbox | 491 | 0.1 | 408/3391 | vor 5h | 🟢 aktiv |
