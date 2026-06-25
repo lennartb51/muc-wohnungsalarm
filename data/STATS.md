@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-06-25T21:17:55+00:00_  
+_Auto-generiert. Letzter Run: 2026-06-25T21:20:34+00:00_  
 _Total Runs: 3616_  
-_Letzte Run-Zusammenfassung: 608 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 603 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -33,16 +33,16 @@ _Letzte Run-Zusammenfassung: 608 scraped, 0 matches, 0 sent_
 | Immo-Hyp | 24420 | 6.8 | 3600/3616 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 21362 | 5.9 | 3612/3616 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 19999 | 5.5 | 3486/3616 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 16514 | 4.6 | 3616/3616 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 16511 | 4.6 | 3616/3616 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 14460 | 4.0 | 3615/3616 | vor 0min | 🟢 aktiv |
 | DIBAG | 14196 | 3.9 | 3549/3616 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 13710 | 3.8 | 3174/3616 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 13476 | 3.7 | 3611/3616 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 10693 | 3.0 | 3512/3614 | vor 0min | 🟢 aktiv |
-| Rogers Immobilien | 10677 | 3.0 | 3559/3616 | vor 0min | 🟢 aktiv |
+| Rogers Immobilien | 10674 | 3.0 | 3558/3616 | vor 17min | 🟢 aktiv |
 | Alsaol | 10339 | 2.9 | 3616/3616 | vor 0min | 🟢 aktiv |
 | GVG Net | 10248 | 2.8 | 3614/3616 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 8790 | 2.4 | 3603/3616 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 8791 | 2.4 | 3603/3616 | vor 0min | 🟢 aktiv |
 | Südhausbau | 8242 | 2.3 | 3588/3616 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 7702 | 2.1 | 3546/3616 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 7522 | 2.1 | 2795/3616 | vor 0min | 🟢 aktiv |
@@ -56,7 +56,7 @@ _Letzte Run-Zusammenfassung: 608 scraped, 0 matches, 0 sent_
 | Immobilien Schneider | 3610 | 1.0 | 3610/3616 | vor 0min | 🟢 aktiv |
 | Maier Immobilien | 3557 | 1.0 | 3557/3616 | vor 0min | 🟢 aktiv |
 | Egger Immobilien | 3519 | 1.0 | 3519/3616 | vor 0min | 🟢 aktiv |
-| Dawonia | 2891 | 0.8 | 2891/3616 | vor 12h | 🟢 aktiv |
+| Dawonia | 2891 | 0.8 | 2891/3616 | vor 13h | 🟢 aktiv |
 | Immobilie1 | 2611 | 0.7 | 2611/3616 | vor 3d | 🟡 inaktiv (lange leer) |
 | KLN Immobilien | 2181 | 0.6 | 2181/3616 | vor 0min | 🟢 aktiv |
 | Immovision München | 929 | 0.3 | 929/3616 | vor 0min | 🟢 aktiv |
