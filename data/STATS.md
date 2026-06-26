@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-06-26T21:48:03+00:00_  
+_Auto-generiert. Letzter Run: 2026-06-26T21:50:30+00:00_  
 _Total Runs: 3718_  
-_Letzte Run-Zusammenfassung: 613 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 607 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -33,7 +33,7 @@ _Letzte Run-Zusammenfassung: 613 scraped, 0 matches, 0 sent_
 | Immo-Hyp | 25134 | 6.8 | 3702/3718 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 21872 | 5.9 | 3714/3718 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 20751 | 5.6 | 3580/3718 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 16850 | 4.5 | 3718/3718 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 16844 | 4.5 | 3718/3718 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 14868 | 4.0 | 3717/3718 | vor 0min | 🟢 aktiv |
 | DIBAG | 14600 | 3.9 | 3650/3718 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 14215 | 3.8 | 3275/3718 | vor 0min | 🟢 aktiv |
@@ -42,7 +42,7 @@ _Letzte Run-Zusammenfassung: 613 scraped, 0 matches, 0 sent_
 | Rogers Immobilien | 10977 | 3.0 | 3659/3718 | vor 0min | 🟢 aktiv |
 | Alsaol | 10645 | 2.9 | 3718/3718 | vor 0min | 🟢 aktiv |
 | GVG Net | 10554 | 2.8 | 3716/3718 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 9059 | 2.4 | 3705/3718 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 9060 | 2.4 | 3705/3718 | vor 0min | 🟢 aktiv |
 | Südhausbau | 8548 | 2.3 | 3690/3718 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 7906 | 2.1 | 3648/3718 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 7783 | 2.1 | 2882/3718 | vor 0min | 🟢 aktiv |
@@ -60,7 +60,7 @@ _Letzte Run-Zusammenfassung: 613 scraped, 0 matches, 0 sent_
 | Immobilie1 | 2611 | 0.7 | 2611/3718 | vor 4d | 🟡 inaktiv (lange leer) |
 | KLN Immobilien | 2283 | 0.6 | 2283/3718 | vor 0min | 🟢 aktiv |
 | Immovision München | 1029 | 0.3 | 1029/3718 | vor 0min | 🟢 aktiv |
-| Email Inbox | 546 | 0.1 | 451/3718 | vor 0min | 🟢 aktiv |
+| Email Inbox | 545 | 0.1 | 450/3718 | vor 2h | 🟢 aktiv |
 | EBM München | 410 | 0.1 | 410/3718 | vor 1d | 🟡 inaktiv (lange leer) |
 | Immowelt | 32 | 0.0 | 1/3718 | vor 30d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 37d | 🟢 aktiv |
