@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-06-26T11:32:03+00:00_  
+_Auto-generiert. Letzter Run: 2026-06-26T11:34:44+00:00_  
 _Total Runs: 3675_  
-_Letzte Run-Zusammenfassung: 607 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 605 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -32,8 +32,8 @@ _Letzte Run-Zusammenfassung: 607 scraped, 0 matches, 0 sent_
 | Ab ins Zuhause | 25008 | 6.8 | 3126/3675 | vor 0min | 🟢 aktiv |
 | Immo-Hyp | 24833 | 6.8 | 3659/3675 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 21657 | 5.9 | 3671/3675 | vor 0min | 🟢 aktiv |
-| EP Immobilien | 20439 | 5.6 | 3541/3675 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 16694 | 4.5 | 3675/3675 | vor 0min | 🟢 aktiv |
+| EP Immobilien | 20431 | 5.6 | 3540/3675 | vor 16min | 🟢 aktiv |
+| Kleinanzeigen | 16700 | 4.5 | 3675/3675 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 14696 | 4.0 | 3674/3675 | vor 0min | 🟢 aktiv |
 | DIBAG | 14428 | 3.9 | 3607/3675 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 14000 | 3.8 | 3232/3675 | vor 0min | 🟢 aktiv |
@@ -61,7 +61,7 @@ _Letzte Run-Zusammenfassung: 607 scraped, 0 matches, 0 sent_
 | KLN Immobilien | 2240 | 0.6 | 2240/3675 | vor 0min | 🟢 aktiv |
 | Immovision München | 987 | 0.3 | 987/3675 | vor 0min | 🟢 aktiv |
 | Email Inbox | 535 | 0.1 | 443/3675 | vor 1h | 🟢 aktiv |
-| EBM München | 410 | 0.1 | 410/3675 | vor 20h | 🟢 aktiv |
+| EBM München | 410 | 0.1 | 410/3675 | vor 21h | 🟢 aktiv |
 | Immowelt | 32 | 0.0 | 1/3675 | vor 29d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 37d | 🟢 aktiv |
 | Munich Property | 10 | 5.0 | 2/2 | vor 37d | 🟢 aktiv |
