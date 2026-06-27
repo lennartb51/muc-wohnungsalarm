@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-06-27T22:32:49+00:00_  
+_Auto-generiert. Letzter Run: 2026-06-27T22:35:15+00:00_  
 _Total Runs: 3826_  
-_Letzte Run-Zusammenfassung: 607 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 611 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -30,10 +30,10 @@ _Letzte Run-Zusammenfassung: 607 scraped, 0 matches, 0 sent_
 | Franziskanerhof | 29578 | 7.7 | 3821/3826 | vor 0min | 🟢 aktiv |
 | Hegerich Immobilien | 26655 | 7.0 | 3821/3826 | vor 0min | 🟢 aktiv |
 | Ab ins Zuhause | 26024 | 6.8 | 3253/3826 | vor 0min | 🟢 aktiv |
-| Immo-Hyp | 25890 | 6.8 | 3810/3826 | vor 0min | 🟢 aktiv |
+| Immo-Hyp | 25883 | 6.8 | 3809/3826 | vor 17min | 🟢 aktiv |
 | Chalet Immobilien | 22404 | 5.9 | 3821/3826 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 21559 | 5.6 | 3681/3826 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 17328 | 4.5 | 3826/3826 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 17324 | 4.5 | 3826/3826 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 15300 | 4.0 | 3825/3826 | vor 0min | 🟢 aktiv |
 | DIBAG | 15016 | 3.9 | 3754/3826 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 14735 | 3.9 | 3379/3826 | vor 0min | 🟢 aktiv |
@@ -42,7 +42,7 @@ _Letzte Run-Zusammenfassung: 607 scraped, 0 matches, 0 sent_
 | Rogers Immobilien | 11289 | 3.0 | 3763/3826 | vor 0min | 🟢 aktiv |
 | Alsaol | 10969 | 2.9 | 3826/3826 | vor 0min | 🟢 aktiv |
 | GVG Net | 10878 | 2.8 | 3824/3826 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 9322 | 2.4 | 3812/3826 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 9337 | 2.4 | 3812/3826 | vor 0min | 🟢 aktiv |
 | Südhausbau | 8872 | 2.3 | 3798/3826 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 8116 | 2.1 | 3753/3826 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 8062 | 2.1 | 2975/3826 | vor 0min | 🟢 aktiv |
