@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-06-27T17:16:07+00:00_  
+_Auto-generiert. Letzter Run: 2026-06-27T17:18:29+00:00_  
 _Total Runs: 3802_  
-_Letzte Run-Zusammenfassung: 596 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 595 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -29,11 +29,11 @@ _Letzte Run-Zusammenfassung: 596 scraped, 0 matches, 0 sent_
 | Immler Martin Hausverwaltung | 30416 | 8.0 | 3802/3802 | vor 0min | 🟢 aktiv |
 | Franziskanerhof | 29434 | 7.7 | 3797/3802 | vor 0min | 🟢 aktiv |
 | Hegerich Immobilien | 26487 | 7.0 | 3797/3802 | vor 0min | 🟢 aktiv |
-| Ab ins Zuhause | 25840 | 6.8 | 3230/3802 | vor 42min | 🟢 aktiv |
+| Ab ins Zuhause | 25840 | 6.8 | 3230/3802 | vor 45min | 🟢 aktiv |
 | Immo-Hyp | 25722 | 6.8 | 3786/3802 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 22292 | 5.9 | 3798/3802 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 21383 | 5.6 | 3659/3802 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 17234 | 4.5 | 3802/3802 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 17233 | 4.5 | 3802/3802 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 15204 | 4.0 | 3801/3802 | vor 0min | 🟢 aktiv |
 | DIBAG | 14924 | 3.9 | 3731/3802 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 14615 | 3.8 | 3355/3802 | vor 0min | 🟢 aktiv |
