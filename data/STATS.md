@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-06-27T12:03:09+00:00_  
+_Auto-generiert. Letzter Run: 2026-06-27T12:05:50+00:00_  
 _Total Runs: 3779_  
-_Letzte Run-Zusammenfassung: 575 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 601 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -13,7 +13,7 @@ _Letzte Run-Zusammenfassung: 575 scraped, 0 matches, 0 sent_
 | WSB Bayern | 140352 | 37.1 | 3706/3779 | vor 0min | 🟢 aktiv |
 | Immobilien Schlamp | 114635 | 30.3 | 3760/3779 | vor 0min | 🟢 aktiv |
 | Pandion Service | 113282 | 30.0 | 3777/3779 | vor 0min | 🟢 aktiv |
-| WG-Gesucht | 97296 | 25.7 | 3576/3779 | vor 15min | 🟢 aktiv |
+| WG-Gesucht | 97324 | 25.8 | 3577/3779 | vor 0min | 🟢 aktiv |
 | ohne-makler.net | 90696 | 24.0 | 3779/3779 | vor 0min | 🟢 aktiv |
 | Immobilo | 78403 | 20.7 | 3773/3779 | vor 0min | 🟢 aktiv |
 | SZ Immobilien | 75334 | 19.9 | 3769/3779 | vor 0min | 🟢 aktiv |
@@ -33,7 +33,7 @@ _Letzte Run-Zusammenfassung: 575 scraped, 0 matches, 0 sent_
 | Immo-Hyp | 25561 | 6.8 | 3763/3779 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 22177 | 5.9 | 3775/3779 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 21207 | 5.6 | 3637/3779 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 17183 | 4.5 | 3779/3779 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 17180 | 4.5 | 3779/3779 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 15112 | 4.0 | 3778/3779 | vor 0min | 🟢 aktiv |
 | DIBAG | 14832 | 3.9 | 3708/3779 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 14500 | 3.8 | 3332/3779 | vor 0min | 🟢 aktiv |
@@ -42,10 +42,10 @@ _Letzte Run-Zusammenfassung: 575 scraped, 0 matches, 0 sent_
 | Rogers Immobilien | 11151 | 3.0 | 3717/3779 | vor 0min | 🟢 aktiv |
 | Alsaol | 10828 | 2.9 | 3779/3779 | vor 0min | 🟢 aktiv |
 | GVG Net | 10737 | 2.8 | 3777/3779 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 9208 | 2.4 | 3766/3779 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 9206 | 2.4 | 3766/3779 | vor 0min | 🟢 aktiv |
 | Südhausbau | 8731 | 2.3 | 3751/3779 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 8022 | 2.1 | 3706/3779 | vor 0min | 🟢 aktiv |
-| LPE Immobilien | 7936 | 2.1 | 2933/3779 | vor 15min | 🟢 aktiv |
+| LPE Immobilien | 7939 | 2.1 | 2934/3779 | vor 0min | 🟢 aktiv |
 | KSWM | 6681 | 1.8 | 3668/3779 | vor 0min | 🟢 aktiv |
 | ImmoSmart | 6568 | 1.7 | 3139/3779 | vor 0min | 🟢 aktiv |
 | Lehmann Hueber | 6527 | 1.7 | 3779/3779 | vor 0min | 🟢 aktiv |
