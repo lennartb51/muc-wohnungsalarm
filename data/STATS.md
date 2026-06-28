@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-06-28T23:32:52+00:00_  
+_Auto-generiert. Letzter Run: 2026-06-28T23:35:46+00:00_  
 _Total Runs: 3935_  
-_Letzte Run-Zusammenfassung: 610 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 598 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -32,8 +32,8 @@ _Letzte Run-Zusammenfassung: 610 scraped, 0 matches, 0 sent_
 | Ab ins Zuhause | 26776 | 6.8 | 3347/3935 | vor 0min | 🟢 aktiv |
 | Immo-Hyp | 26639 | 6.8 | 3917/3935 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 22949 | 5.8 | 3930/3935 | vor 0min | 🟢 aktiv |
-| EP Immobilien | 22399 | 5.7 | 3786/3935 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 17735 | 4.5 | 3935/3935 | vor 0min | 🟢 aktiv |
+| EP Immobilien | 22391 | 5.7 | 3785/3935 | vor 17min | 🟢 aktiv |
+| Kleinanzeigen | 17734 | 4.5 | 3935/3935 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 15736 | 4.0 | 3934/3935 | vor 0min | 🟢 aktiv |
 | DIBAG | 15448 | 3.9 | 3862/3935 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 15265 | 3.9 | 3485/3935 | vor 0min | 🟢 aktiv |
@@ -45,7 +45,7 @@ _Letzte Run-Zusammenfassung: 610 scraped, 0 matches, 0 sent_
 | Scheel Immobilien | 9580 | 2.4 | 3920/3935 | vor 0min | 🟢 aktiv |
 | Südhausbau | 9199 | 2.3 | 3907/3935 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 8353 | 2.1 | 3861/3935 | vor 0min | 🟢 aktiv |
-| LPE Immobilien | 8323 | 2.1 | 3062/3935 | vor 0min | 🟢 aktiv |
+| LPE Immobilien | 8320 | 2.1 | 3061/3935 | vor 17min | 🟢 aktiv |
 | ImmoSmart | 6874 | 1.7 | 3292/3935 | vor 0min | 🟢 aktiv |
 | KSWM | 6835 | 1.7 | 3822/3935 | vor 0min | 🟢 aktiv |
 | Lehmann Hueber | 6683 | 1.7 | 3935/3935 | vor 0min | 🟢 aktiv |
@@ -60,7 +60,7 @@ _Letzte Run-Zusammenfassung: 610 scraped, 0 matches, 0 sent_
 | Immobilie1 | 2611 | 0.7 | 2611/3935 | vor 6d | 🟡 inaktiv (lange leer) |
 | KLN Immobilien | 2495 | 0.6 | 2495/3935 | vor 0min | 🟢 aktiv |
 | Immovision München | 1238 | 0.3 | 1238/3935 | vor 0min | 🟢 aktiv |
-| Email Inbox | 561 | 0.1 | 466/3935 | vor 44min | 🟢 aktiv |
+| Email Inbox | 561 | 0.1 | 466/3935 | vor 47min | 🟢 aktiv |
 | EBM München | 410 | 0.1 | 410/3935 | vor 3d | 🟡 inaktiv (lange leer) |
 | Immowelt | 32 | 0.0 | 1/3935 | vor 32d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 39d | 🟢 aktiv |
