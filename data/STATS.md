@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-06-29T12:02:53+00:00_  
+_Auto-generiert. Letzter Run: 2026-06-29T12:05:47+00:00_  
 _Total Runs: 3987_  
-_Letzte Run-Zusammenfassung: 607 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 575 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -13,7 +13,7 @@ _Letzte Run-Zusammenfassung: 607 scraped, 0 matches, 0 sent_
 | WSB Bayern | 149465 | 37.5 | 3912/3987 | vor 0min | 🟢 aktiv |
 | Immobilien Schlamp | 120464 | 30.2 | 3968/3987 | vor 0min | 🟢 aktiv |
 | Pandion Service | 119522 | 30.0 | 3985/3987 | vor 0min | 🟢 aktiv |
-| WG-Gesucht | 102728 | 25.8 | 3770/3987 | vor 0min | 🟢 aktiv |
+| WG-Gesucht | 102700 | 25.8 | 3769/3987 | vor 18min | 🟢 aktiv |
 | ohne-makler.net | 95688 | 24.0 | 3987/3987 | vor 0min | 🟢 aktiv |
 | Immobilo | 82510 | 20.7 | 3980/3987 | vor 0min | 🟢 aktiv |
 | SZ Immobilien | 79681 | 20.0 | 3976/3987 | vor 0min | 🟢 aktiv |
@@ -32,8 +32,8 @@ _Letzte Run-Zusammenfassung: 607 scraped, 0 matches, 0 sent_
 | Ab ins Zuhause | 27152 | 6.8 | 3394/3987 | vor 0min | 🟢 aktiv |
 | Immo-Hyp | 27003 | 6.8 | 3969/3987 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 23209 | 5.8 | 3982/3987 | vor 0min | 🟢 aktiv |
-| EP Immobilien | 22799 | 5.7 | 3836/3987 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 17934 | 4.5 | 3987/3987 | vor 0min | 🟢 aktiv |
+| EP Immobilien | 22791 | 5.7 | 3835/3987 | vor 18min | 🟢 aktiv |
+| Kleinanzeigen | 17940 | 4.5 | 3987/3987 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 15944 | 4.0 | 3986/3987 | vor 0min | 🟢 aktiv |
 | DIBAG | 15656 | 3.9 | 3914/3987 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 15516 | 3.9 | 3537/3987 | vor 0min | 🟢 aktiv |
@@ -42,10 +42,10 @@ _Letzte Run-Zusammenfassung: 607 scraped, 0 matches, 0 sent_
 | Rogers Immobilien | 11769 | 3.0 | 3923/3987 | vor 0min | 🟢 aktiv |
 | Alsaol | 11452 | 2.9 | 3987/3987 | vor 0min | 🟢 aktiv |
 | GVG Net | 11361 | 2.8 | 3985/3987 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 9714 | 2.4 | 3972/3987 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 9715 | 2.4 | 3972/3987 | vor 0min | 🟢 aktiv |
 | Südhausbau | 9355 | 2.3 | 3959/3987 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 8470 | 2.1 | 3913/3987 | vor 0min | 🟢 aktiv |
-| LPE Immobilien | 8464 | 2.1 | 3109/3987 | vor 0min | 🟢 aktiv |
+| LPE Immobilien | 8461 | 2.1 | 3108/3987 | vor 18min | 🟢 aktiv |
 | ImmoSmart | 6978 | 1.8 | 3344/3987 | vor 0min | 🟢 aktiv |
 | KSWM | 6887 | 1.7 | 3874/3987 | vor 0min | 🟢 aktiv |
 | Lehmann Hueber | 6735 | 1.7 | 3987/3987 | vor 0min | 🟢 aktiv |
@@ -60,7 +60,7 @@ _Letzte Run-Zusammenfassung: 607 scraped, 0 matches, 0 sent_
 | Immobilie1 | 2611 | 0.7 | 2611/3987 | vor 6d | 🟡 inaktiv (lange leer) |
 | KLN Immobilien | 2547 | 0.6 | 2547/3987 | vor 0min | 🟢 aktiv |
 | Immovision München | 1289 | 0.3 | 1289/3987 | vor 0min | 🟢 aktiv |
-| Email Inbox | 565 | 0.1 | 469/3987 | vor 59min | 🟢 aktiv |
+| Email Inbox | 565 | 0.1 | 469/3987 | vor 1h | 🟢 aktiv |
 | EBM München | 418 | 0.1 | 418/3987 | vor 4h | 🟢 aktiv |
 | Immowelt | 32 | 0.0 | 1/3987 | vor 32d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 40d | 🟢 aktiv |
