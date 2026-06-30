@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-06-30T22:45:40+00:00_  
+_Auto-generiert. Letzter Run: 2026-06-30T22:48:28+00:00_  
 _Total Runs: 4133_  
-_Letzte Run-Zusammenfassung: 576 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 589 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -33,7 +33,7 @@ _Letzte Run-Zusammenfassung: 576 scraped, 0 matches, 0 sent_
 | Immo-Hyp | 28025 | 6.8 | 4115/4133 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 23939 | 5.8 | 4128/4133 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 23927 | 5.8 | 3977/4133 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 18695 | 4.5 | 4131/4133 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 18708 | 4.5 | 4131/4133 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 16528 | 4.0 | 4132/4133 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 16241 | 3.9 | 3682/4133 | vor 0min | 🟢 aktiv |
 | DIBAG | 16232 | 3.9 | 4058/4133 | vor 0min | 🟢 aktiv |
