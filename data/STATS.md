@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-07-02T13:02:20+00:00_  
+_Auto-generiert. Letzter Run: 2026-07-02T13:04:59+00:00_  
 _Total Runs: 4297_  
-_Letzte Run-Zusammenfassung: 571 scraped, 1 matches, 1 sent_
+_Letzte Run-Zusammenfassung: 568 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -29,11 +29,11 @@ _Letzte Run-Zusammenfassung: 571 scraped, 1 matches, 1 sent_
 | Immler Martin Hausverwaltung | 34376 | 8.0 | 4297/4297 | vor 0min | 🟢 aktiv |
 | Franziskanerhof | 32404 | 7.5 | 4292/4297 | vor 0min | 🟢 aktiv |
 | Hegerich Immobilien | 29952 | 7.0 | 4292/4297 | vor 0min | 🟢 aktiv |
-| Ab ins Zuhause | 29248 | 6.8 | 3656/4297 | vor 29min | 🟢 aktiv |
+| Ab ins Zuhause | 29248 | 6.8 | 3656/4297 | vor 31min | 🟢 aktiv |
 | Immo-Hyp | 29185 | 6.8 | 4278/4297 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 25215 | 5.9 | 4138/4297 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 24759 | 5.8 | 4292/4297 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 20264 | 4.7 | 4294/4297 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 20263 | 4.7 | 4294/4297 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 17184 | 4.0 | 4296/4297 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 17020 | 4.0 | 3843/4297 | vor 0min | 🟢 aktiv |
 | DIBAG | 16884 | 3.9 | 4221/4297 | vor 0min | 🟢 aktiv |
@@ -60,8 +60,8 @@ _Letzte Run-Zusammenfassung: 571 scraped, 1 matches, 1 sent_
 | KLN Immobilien | 2850 | 0.7 | 2850/4297 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 2611 | 0.6 | 2611/4297 | vor 9d | 🟡 inaktiv (lange leer) |
 | Immovision München | 1591 | 0.4 | 1591/4297 | vor 0min | 🟢 aktiv |
-| Email Inbox | 597 | 0.1 | 494/4297 | vor 0min | 🟢 aktiv |
-| EBM München | 457 | 0.1 | 454/4297 | vor 0min | 🟢 aktiv |
+| Email Inbox | 596 | 0.1 | 493/4297 | vor 4h | 🟢 aktiv |
+| EBM München | 456 | 0.1 | 454/4297 | vor 0min | 🟢 aktiv |
 | Immowelt | 32 | 0.0 | 1/4297 | vor 35d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 43d | 🟢 aktiv |
 | Wagnis | 19 | 0.0 | 19/4297 | vor 0min | 🟢 aktiv |
