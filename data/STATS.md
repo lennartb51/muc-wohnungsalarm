@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-07-02T10:46:31+00:00_  
+_Auto-generiert. Letzter Run: 2026-07-02T10:49:32+00:00_  
 _Total Runs: 4288_  
-_Letzte Run-Zusammenfassung: 564 scraped, 1 matches, 1 sent_
+_Letzte Run-Zusammenfassung: 572 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -31,9 +31,9 @@ _Letzte Run-Zusammenfassung: 564 scraped, 1 matches, 1 sent_
 | Hegerich Immobilien | 29889 | 7.0 | 4283/4288 | vor 0min | 🟢 aktiv |
 | Ab ins Zuhause | 29192 | 6.8 | 3649/4288 | vor 0min | 🟢 aktiv |
 | Immo-Hyp | 29113 | 6.8 | 4269/4288 | vor 0min | 🟢 aktiv |
-| EP Immobilien | 25135 | 5.9 | 4128/4288 | vor 13min | 🟢 aktiv |
+| EP Immobilien | 25143 | 5.9 | 4129/4288 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 24714 | 5.8 | 4283/4288 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 20248 | 4.7 | 4285/4288 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 20247 | 4.7 | 4285/4288 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 17148 | 4.0 | 4287/4288 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 16992 | 4.0 | 3834/4288 | vor 0min | 🟢 aktiv |
 | DIBAG | 16848 | 3.9 | 4212/4288 | vor 0min | 🟢 aktiv |
@@ -41,8 +41,8 @@ _Letzte Run-Zusammenfassung: 564 scraped, 1 matches, 1 sent_
 | Pienzenauer Immobilien | 13189 | 3.1 | 4172/4286 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 12663 | 3.0 | 4221/4288 | vor 0min | 🟢 aktiv |
 | Alsaol | 12355 | 2.9 | 4288/4288 | vor 0min | 🟢 aktiv |
-| GVG Net | 12252 | 2.9 | 4282/4288 | vor 43min | 🟢 aktiv |
-| Scheel Immobilien | 10473 | 2.4 | 4272/4288 | vor 0min | 🟢 aktiv |
+| GVG Net | 12252 | 2.9 | 4282/4288 | vor 46min | 🟢 aktiv |
+| Scheel Immobilien | 10474 | 2.4 | 4272/4288 | vor 0min | 🟢 aktiv |
 | Südhausbau | 10255 | 2.4 | 4259/4288 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 9397 | 2.2 | 4208/4288 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 9004 | 2.1 | 3369/4288 | vor 0min | 🟢 aktiv |
@@ -60,7 +60,7 @@ _Letzte Run-Zusammenfassung: 564 scraped, 1 matches, 1 sent_
 | KLN Immobilien | 2841 | 0.7 | 2841/4288 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 2611 | 0.6 | 2611/4288 | vor 9d | 🟡 inaktiv (lange leer) |
 | Immovision München | 1582 | 0.4 | 1582/4288 | vor 0min | 🟢 aktiv |
-| Email Inbox | 596 | 0.1 | 493/4288 | vor 1h | 🟢 aktiv |
+| Email Inbox | 596 | 0.1 | 493/4288 | vor 2h | 🟢 aktiv |
 | EBM München | 447 | 0.1 | 447/4288 | vor 1d | 🟡 inaktiv (lange leer) |
 | Immowelt | 32 | 0.0 | 1/4288 | vor 35d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 43d | 🟢 aktiv |
