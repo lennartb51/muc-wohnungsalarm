@@ -1,6 +1,6 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-07-02T17:18:00+00:00_  
+_Auto-generiert. Letzter Run: 2026-07-02T17:20:33+00:00_  
 _Total Runs: 4315_  
 _Letzte Run-Zusammenfassung: 570 scraped, 0 matches, 0 sent_
 
@@ -29,7 +29,7 @@ _Letzte Run-Zusammenfassung: 570 scraped, 0 matches, 0 sent_
 | Immler Martin Hausverwaltung | 34520 | 8.0 | 4315/4315 | vor 0min | 🟢 aktiv |
 | Franziskanerhof | 32512 | 7.5 | 4310/4315 | vor 0min | 🟢 aktiv |
 | Hegerich Immobilien | 30078 | 7.0 | 4310/4315 | vor 0min | 🟢 aktiv |
-| Ab ins Zuhause | 29352 | 6.8 | 3669/4315 | vor 44min | 🟢 aktiv |
+| Ab ins Zuhause | 29352 | 6.8 | 3669/4315 | vor 47min | 🟢 aktiv |
 | Immo-Hyp | 29329 | 6.8 | 4296/4315 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 25351 | 5.9 | 4155/4315 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 24849 | 5.8 | 4310/4315 | vor 0min | 🟢 aktiv |
@@ -60,7 +60,7 @@ _Letzte Run-Zusammenfassung: 570 scraped, 0 matches, 0 sent_
 | KLN Immobilien | 2868 | 0.7 | 2868/4315 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 2611 | 0.6 | 2611/4315 | vor 9d | 🟡 inaktiv (lange leer) |
 | Immovision München | 1603 | 0.4 | 1603/4315 | vor 1h | 🟢 aktiv |
-| Email Inbox | 600 | 0.1 | 497/4315 | vor 44min | 🟢 aktiv |
+| Email Inbox | 600 | 0.1 | 497/4315 | vor 47min | 🟢 aktiv |
 | EBM München | 474 | 0.1 | 472/4315 | vor 0min | 🟢 aktiv |
 | Wagnis | 37 | 0.0 | 37/4315 | vor 0min | 🟢 aktiv |
 | Immowelt | 32 | 0.0 | 1/4315 | vor 35d | 🟡 inaktiv (lange leer) |
