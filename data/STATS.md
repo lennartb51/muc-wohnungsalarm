@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-07-03T13:17:55+00:00_  
+_Auto-generiert. Letzter Run: 2026-07-03T13:20:32+00:00_  
 _Total Runs: 4399_  
-_Letzte Run-Zusammenfassung: 581 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 583 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -30,7 +30,7 @@ _Letzte Run-Zusammenfassung: 581 scraped, 0 matches, 0 sent_
 | Franziskanerhof | 33010 | 7.5 | 4393/4399 | vor 0min | 🟢 aktiv |
 | Hegerich Immobilien | 30666 | 7.0 | 4394/4399 | vor 0min | 🟢 aktiv |
 | Immo-Hyp | 30009 | 6.8 | 4379/4399 | vor 0min | 🟢 aktiv |
-| Ab ins Zuhause | 29960 | 6.8 | 3745/4399 | vor 44min | 🟢 aktiv |
+| Ab ins Zuhause | 29960 | 6.8 | 3745/4399 | vor 47min | 🟢 aktiv |
 | EP Immobilien | 25999 | 5.9 | 4236/4399 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 25266 | 5.7 | 4394/4399 | vor 0min | 🟢 aktiv |
 | Kleinanzeigen | 20505 | 4.7 | 4396/4399 | vor 0min | 🟢 aktiv |
@@ -42,7 +42,7 @@ _Letzte Run-Zusammenfassung: 581 scraped, 0 matches, 0 sent_
 | Rogers Immobilien | 12993 | 3.0 | 4331/4399 | vor 0min | 🟢 aktiv |
 | Alsaol | 12688 | 2.9 | 4399/4399 | vor 0min | 🟢 aktiv |
 | GVG Net | 12582 | 2.9 | 4392/4399 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 10704 | 2.4 | 4383/4399 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 10705 | 2.4 | 4383/4399 | vor 0min | 🟢 aktiv |
 | Südhausbau | 10588 | 2.4 | 4370/4399 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 9752 | 2.2 | 4319/4399 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 9202 | 2.1 | 3468/4399 | vor 0min | 🟢 aktiv |
@@ -59,8 +59,8 @@ _Letzte Run-Zusammenfassung: 581 scraped, 0 matches, 0 sent_
 | Dawonia | 3289 | 0.7 | 3289/4399 | vor 0min | 🟢 aktiv |
 | KLN Immobilien | 2952 | 0.7 | 2952/4399 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 2611 | 0.6 | 2611/4399 | vor 10d | 🟡 inaktiv (lange leer) |
-| Immovision München | 1658 | 0.4 | 1658/4399 | vor 14min | 🟢 aktiv |
-| Email Inbox | 610 | 0.1 | 506/4399 | vor 14min | 🟢 aktiv |
+| Immovision München | 1659 | 0.4 | 1659/4399 | vor 0min | 🟢 aktiv |
+| Email Inbox | 610 | 0.1 | 506/4399 | vor 16min | 🟢 aktiv |
 | EBM München | 558 | 0.1 | 556/4399 | vor 0min | 🟢 aktiv |
 | Wagnis | 121 | 0.0 | 121/4399 | vor 0min | 🟢 aktiv |
 | Immowelt | 32 | 0.0 | 1/4399 | vor 36d | 🟡 inaktiv (lange leer) |
