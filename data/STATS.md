@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-07-03T20:17:43+00:00_  
+_Auto-generiert. Letzter Run: 2026-07-03T20:20:36+00:00_  
 _Total Runs: 4428_  
-_Letzte Run-Zusammenfassung: 592 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 553 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -13,7 +13,7 @@ _Letzte Run-Zusammenfassung: 592 scraped, 0 matches, 0 sent_
 | WSB Bayern | 166730 | 37.7 | 4349/4428 | vor 0min | 🟢 aktiv |
 | Immobilien Schlamp | 133224 | 30.1 | 4408/4428 | vor 0min | 🟢 aktiv |
 | Pandion Service | 132752 | 30.0 | 4426/4428 | vor 0min | 🟢 aktiv |
-| WG-Gesucht | 113844 | 25.7 | 4167/4428 | vor 0min | 🟢 aktiv |
+| WG-Gesucht | 113816 | 25.7 | 4166/4428 | vor 17min | 🟢 aktiv |
 | ohne-makler.net | 106272 | 24.0 | 4428/4428 | vor 0min | 🟢 aktiv |
 | Immobilo | 91735 | 20.7 | 4420/4428 | vor 0min | 🟢 aktiv |
 | KPC Immobilien | 89854 | 31.4 | 2857/2861 | vor 0min | 🟢 aktiv |
@@ -31,9 +31,9 @@ _Letzte Run-Zusammenfassung: 592 scraped, 0 matches, 0 sent_
 | Hegerich Immobilien | 30869 | 7.0 | 4423/4428 | vor 0min | 🟢 aktiv |
 | Immo-Hyp | 30328 | 6.8 | 4408/4428 | vor 0min | 🟢 aktiv |
 | Ab ins Zuhause | 30152 | 6.8 | 3769/4428 | vor 0min | 🟢 aktiv |
-| EP Immobilien | 26223 | 5.9 | 4264/4428 | vor 0min | 🟢 aktiv |
+| EP Immobilien | 26215 | 5.9 | 4263/4428 | vor 17min | 🟢 aktiv |
 | Chalet Immobilien | 25411 | 5.7 | 4423/4428 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 20606 | 4.7 | 4425/4428 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 20603 | 4.7 | 4425/4428 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 17708 | 4.0 | 4427/4428 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 17544 | 4.0 | 3974/4428 | vor 0min | 🟢 aktiv |
 | DIBAG | 17404 | 3.9 | 4351/4428 | vor 0min | 🟢 aktiv |
@@ -60,7 +60,7 @@ _Letzte Run-Zusammenfassung: 592 scraped, 0 matches, 0 sent_
 | KLN Immobilien | 2981 | 0.7 | 2981/4428 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 2611 | 0.6 | 2611/4428 | vor 10d | 🟡 inaktiv (lange leer) |
 | Immovision München | 1684 | 0.4 | 1684/4428 | vor 0min | 🟢 aktiv |
-| Email Inbox | 618 | 0.1 | 511/4428 | vor 29min | 🟢 aktiv |
+| Email Inbox | 618 | 0.1 | 511/4428 | vor 32min | 🟢 aktiv |
 | EBM München | 586 | 0.1 | 584/4428 | vor 0min | 🟢 aktiv |
 | Wagnis | 149 | 0.0 | 149/4428 | vor 0min | 🟢 aktiv |
 | Immowelt | 32 | 0.0 | 1/4428 | vor 37d | 🟡 inaktiv (lange leer) |
