@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-07-03T23:46:09+00:00_  
+_Auto-generiert. Letzter Run: 2026-07-03T23:48:54+00:00_  
 _Total Runs: 4444_  
-_Letzte Run-Zusammenfassung: 505 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 563 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -10,10 +10,10 @@ _Letzte Run-Zusammenfassung: 505 scraped, 0 matches, 0 sent_
 |---|---:|---:|---|---|---|
 | Citigrund | 362045 | 81.5 | 4343/4444 | vor 0min | 🟢 aktiv |
 | Park Avenue Immobilien | 215717 | 48.5 | 4330/4444 | vor 0min | 🟢 aktiv |
-| WSB Bayern | 167375 | 37.7 | 4364/4444 | vor 13min | 🟢 aktiv |
+| WSB Bayern | 167418 | 37.7 | 4365/4444 | vor 0min | 🟢 aktiv |
 | Immobilien Schlamp | 133688 | 30.1 | 4424/4444 | vor 0min | 🟢 aktiv |
 | Pandion Service | 133232 | 30.0 | 4442/4444 | vor 0min | 🟢 aktiv |
-| WG-Gesucht | 114068 | 25.7 | 4175/4444 | vor 13min | 🟢 aktiv |
+| WG-Gesucht | 114068 | 25.7 | 4175/4444 | vor 15min | 🟢 aktiv |
 | ohne-makler.net | 106656 | 24.0 | 4444/4444 | vor 0min | 🟢 aktiv |
 | Immobilo | 92071 | 20.7 | 4436/4444 | vor 0min | 🟢 aktiv |
 | KPC Immobilien | 90350 | 31.4 | 2873/2877 | vor 0min | 🟢 aktiv |
@@ -33,19 +33,19 @@ _Letzte Run-Zusammenfassung: 505 scraped, 0 matches, 0 sent_
 | Ab ins Zuhause | 30272 | 6.8 | 3784/4444 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 26335 | 5.9 | 4278/4444 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 25491 | 5.7 | 4439/4444 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 20652 | 4.6 | 4441/4444 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 20655 | 4.6 | 4441/4444 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 17772 | 4.0 | 4443/4444 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 17608 | 4.0 | 3990/4444 | vor 0min | 🟢 aktiv |
-| DIBAG | 17464 | 3.9 | 4366/4444 | vor 13min | 🟢 aktiv |
+| DIBAG | 17468 | 3.9 | 4367/4444 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 15119 | 3.4 | 4431/4444 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 13654 | 3.1 | 4327/4442 | vor 0min | 🟢 aktiv |
-| Rogers Immobilien | 13122 | 3.0 | 4374/4444 | vor 13min | 🟢 aktiv |
+| Rogers Immobilien | 13125 | 3.0 | 4375/4444 | vor 0min | 🟢 aktiv |
 | Alsaol | 12823 | 2.9 | 4444/4444 | vor 0min | 🟢 aktiv |
 | GVG Net | 12717 | 2.9 | 4437/4444 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 10818 | 2.4 | 4428/4444 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 10820 | 2.4 | 4428/4444 | vor 0min | 🟢 aktiv |
 | Südhausbau | 10723 | 2.4 | 4415/4444 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 9911 | 2.2 | 4364/4444 | vor 0min | 🟢 aktiv |
-| LPE Immobilien | 9278 | 2.1 | 3506/4444 | vor 13min | 🟢 aktiv |
+| LPE Immobilien | 9280 | 2.1 | 3507/4444 | vor 0min | 🟢 aktiv |
 | ImmoSmart | 7884 | 1.8 | 3797/4444 | vor 0min | 🟢 aktiv |
 | KSWM | 7424 | 1.7 | 4324/4444 | vor 0min | 🟢 aktiv |
 | Lehmann Hueber | 7181 | 1.6 | 4433/4444 | vor 0min | 🟢 aktiv |
@@ -54,15 +54,15 @@ _Letzte Run-Zusammenfassung: 505 scraped, 0 matches, 0 sent_
 | Vonovia | 4441 | 1.0 | 4441/4444 | vor 0min | 🟢 aktiv |
 | DAHLER München | 4437 | 1.0 | 4437/4444 | vor 0min | 🟢 aktiv |
 | Immobilien Schneider | 4435 | 1.0 | 4435/4444 | vor 0min | 🟢 aktiv |
-| Maier Immobilien | 4371 | 1.0 | 4371/4444 | vor 13min | 🟢 aktiv |
+| Maier Immobilien | 4372 | 1.0 | 4372/4444 | vor 0min | 🟢 aktiv |
 | Egger Immobilien | 4346 | 1.0 | 4346/4444 | vor 0min | 🟢 aktiv |
 | Dawonia | 3334 | 0.8 | 3334/4444 | vor 0min | 🟢 aktiv |
 | KLN Immobilien | 2996 | 0.7 | 2996/4444 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 2611 | 0.6 | 2611/4444 | vor 11d | 🟡 inaktiv (lange leer) |
-| Immovision München | 1698 | 0.4 | 1698/4444 | vor 0min | 🟢 aktiv |
+| Immovision München | 1697 | 0.4 | 1697/4444 | vor 45min | 🟢 aktiv |
 | Email Inbox | 619 | 0.1 | 512/4444 | vor 2h | 🟢 aktiv |
 | EBM München | 602 | 0.1 | 600/4444 | vor 0min | 🟢 aktiv |
-| Wagnis | 164 | 0.0 | 164/4444 | vor 13min | 🟢 aktiv |
+| Wagnis | 165 | 0.0 | 165/4444 | vor 0min | 🟢 aktiv |
 | Immowelt | 32 | 0.0 | 1/4444 | vor 37d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 44d | 🟢 aktiv |
 | Munich Property | 10 | 5.0 | 2/2 | vor 44d | 🟢 aktiv |
