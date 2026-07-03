@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-07-03T08:31:48+00:00_  
+_Auto-generiert. Letzter Run: 2026-07-03T08:34:13+00:00_  
 _Total Runs: 4380_  
-_Letzte Run-Zusammenfassung: 575 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 573 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -33,7 +33,7 @@ _Letzte Run-Zusammenfassung: 575 scraped, 0 matches, 0 sent_
 | Ab ins Zuhause | 29832 | 6.8 | 3729/4380 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 25855 | 5.9 | 4218/4380 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 25171 | 5.7 | 4375/4380 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 20464 | 4.7 | 4377/4380 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 20462 | 4.7 | 4377/4380 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 17516 | 4.0 | 4379/4380 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 17352 | 4.0 | 3926/4380 | vor 0min | 🟢 aktiv |
 | DIBAG | 17216 | 3.9 | 4304/4380 | vor 0min | 🟢 aktiv |
@@ -60,7 +60,7 @@ _Letzte Run-Zusammenfassung: 575 scraped, 0 matches, 0 sent_
 | KLN Immobilien | 2933 | 0.7 | 2933/4380 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 2611 | 0.6 | 2611/4380 | vor 10d | 🟡 inaktiv (lange leer) |
 | Immovision München | 1641 | 0.4 | 1641/4380 | vor 0min | 🟢 aktiv |
-| Email Inbox | 605 | 0.1 | 502/4380 | vor 13min | 🟢 aktiv |
+| Email Inbox | 605 | 0.1 | 502/4380 | vor 16min | 🟢 aktiv |
 | EBM München | 539 | 0.1 | 537/4380 | vor 0min | 🟢 aktiv |
 | Wagnis | 102 | 0.0 | 102/4380 | vor 0min | 🟢 aktiv |
 | Immowelt | 32 | 0.0 | 1/4380 | vor 36d | 🟡 inaktiv (lange leer) |
