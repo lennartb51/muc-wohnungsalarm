@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-07-03T15:32:00+00:00_  
+_Auto-generiert. Letzter Run: 2026-07-03T15:34:46+00:00_  
 _Total Runs: 4408_  
-_Letzte Run-Zusammenfassung: 589 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 582 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -31,9 +31,9 @@ _Letzte Run-Zusammenfassung: 589 scraped, 0 matches, 0 sent_
 | Hegerich Immobilien | 30729 | 7.0 | 4403/4408 | vor 0min | 🟢 aktiv |
 | Immo-Hyp | 30108 | 6.8 | 4388/4408 | vor 0min | 🟢 aktiv |
 | Ab ins Zuhause | 30024 | 6.8 | 3753/4408 | vor 0min | 🟢 aktiv |
-| EP Immobilien | 26071 | 5.9 | 4245/4408 | vor 0min | 🟢 aktiv |
+| EP Immobilien | 26063 | 5.9 | 4244/4408 | vor 16min | 🟢 aktiv |
 | Chalet Immobilien | 25311 | 5.7 | 4403/4408 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 20535 | 4.7 | 4405/4408 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 20537 | 4.7 | 4405/4408 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 17628 | 4.0 | 4407/4408 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 17464 | 4.0 | 3954/4408 | vor 0min | 🟢 aktiv |
 | DIBAG | 17328 | 3.9 | 4332/4408 | vor 0min | 🟢 aktiv |
@@ -42,10 +42,10 @@ _Letzte Run-Zusammenfassung: 589 scraped, 0 matches, 0 sent_
 | Rogers Immobilien | 13020 | 3.0 | 4340/4408 | vor 0min | 🟢 aktiv |
 | Alsaol | 12715 | 2.9 | 4408/4408 | vor 0min | 🟢 aktiv |
 | GVG Net | 12609 | 2.9 | 4401/4408 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 10738 | 2.4 | 4392/4408 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 10739 | 2.4 | 4392/4408 | vor 0min | 🟢 aktiv |
 | Südhausbau | 10615 | 2.4 | 4379/4408 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 9779 | 2.2 | 4328/4408 | vor 0min | 🟢 aktiv |
-| LPE Immobilien | 9220 | 2.1 | 3477/4408 | vor 0min | 🟢 aktiv |
+| LPE Immobilien | 9218 | 2.1 | 3476/4408 | vor 16min | 🟢 aktiv |
 | ImmoSmart | 7812 | 1.8 | 3761/4408 | vor 0min | 🟢 aktiv |
 | KSWM | 7389 | 1.7 | 4289/4408 | vor 0min | 🟢 aktiv |
 | Lehmann Hueber | 7145 | 1.6 | 4397/4408 | vor 0min | 🟢 aktiv |
@@ -60,7 +60,7 @@ _Letzte Run-Zusammenfassung: 589 scraped, 0 matches, 0 sent_
 | KLN Immobilien | 2961 | 0.7 | 2961/4408 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 2611 | 0.6 | 2611/4408 | vor 10d | 🟡 inaktiv (lange leer) |
 | Immovision München | 1667 | 0.4 | 1667/4408 | vor 0min | 🟢 aktiv |
-| Email Inbox | 613 | 0.1 | 507/4408 | vor 28min | 🟢 aktiv |
+| Email Inbox | 613 | 0.1 | 507/4408 | vor 31min | 🟢 aktiv |
 | EBM München | 567 | 0.1 | 565/4408 | vor 0min | 🟢 aktiv |
 | Wagnis | 130 | 0.0 | 130/4408 | vor 0min | 🟢 aktiv |
 | Immowelt | 32 | 0.0 | 1/4408 | vor 36d | 🟡 inaktiv (lange leer) |
