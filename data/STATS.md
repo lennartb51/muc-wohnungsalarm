@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-07-03T11:17:34+00:00_  
+_Auto-generiert. Letzter Run: 2026-07-03T11:19:59+00:00_  
 _Total Runs: 4391_  
-_Letzte Run-Zusammenfassung: 577 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 578 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -33,7 +33,7 @@ _Letzte Run-Zusammenfassung: 577 scraped, 0 matches, 0 sent_
 | Ab ins Zuhause | 29920 | 6.8 | 3740/4391 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 25943 | 5.9 | 4229/4391 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 25226 | 5.7 | 4386/4391 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 20481 | 4.7 | 4388/4391 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 20484 | 4.7 | 4388/4391 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 17560 | 4.0 | 4390/4391 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 17396 | 4.0 | 3937/4391 | vor 0min | 🟢 aktiv |
 | DIBAG | 17260 | 3.9 | 4315/4391 | vor 0min | 🟢 aktiv |
@@ -42,7 +42,7 @@ _Letzte Run-Zusammenfassung: 577 scraped, 0 matches, 0 sent_
 | Rogers Immobilien | 12969 | 3.0 | 4323/4391 | vor 0min | 🟢 aktiv |
 | Alsaol | 12664 | 2.9 | 4391/4391 | vor 0min | 🟢 aktiv |
 | GVG Net | 12558 | 2.9 | 4384/4391 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 10687 | 2.4 | 4375/4391 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 10686 | 2.4 | 4375/4391 | vor 0min | 🟢 aktiv |
 | Südhausbau | 10564 | 2.4 | 4362/4391 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 9728 | 2.2 | 4311/4391 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 9186 | 2.1 | 3460/4391 | vor 0min | 🟢 aktiv |
@@ -60,7 +60,7 @@ _Letzte Run-Zusammenfassung: 577 scraped, 0 matches, 0 sent_
 | KLN Immobilien | 2944 | 0.7 | 2944/4391 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 2611 | 0.6 | 2611/4391 | vor 10d | 🟡 inaktiv (lange leer) |
 | Immovision München | 1652 | 0.4 | 1652/4391 | vor 0min | 🟢 aktiv |
-| Email Inbox | 607 | 0.1 | 504/4391 | vor 0min | 🟢 aktiv |
+| Email Inbox | 606 | 0.1 | 503/4391 | vor 1h | 🟢 aktiv |
 | EBM München | 550 | 0.1 | 548/4391 | vor 0min | 🟢 aktiv |
 | Wagnis | 113 | 0.0 | 113/4391 | vor 0min | 🟢 aktiv |
 | Immowelt | 32 | 0.0 | 1/4391 | vor 36d | 🟡 inaktiv (lange leer) |
