@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-07-03T05:03:17+00:00_  
+_Auto-generiert. Letzter Run: 2026-07-03T05:05:42+00:00_  
 _Total Runs: 4366_  
-_Letzte Run-Zusammenfassung: 578 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 580 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -42,7 +42,7 @@ _Letzte Run-Zusammenfassung: 578 scraped, 0 matches, 0 sent_
 | Rogers Immobilien | 12894 | 3.0 | 4298/4366 | vor 0min | 🟢 aktiv |
 | Alsaol | 12589 | 2.9 | 4366/4366 | vor 0min | 🟢 aktiv |
 | GVG Net | 12483 | 2.9 | 4359/4366 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 10634 | 2.4 | 4350/4366 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 10635 | 2.4 | 4350/4366 | vor 0min | 🟢 aktiv |
 | Südhausbau | 10489 | 2.4 | 4337/4366 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 9653 | 2.2 | 4286/4366 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 9142 | 2.1 | 3438/4366 | vor 0min | 🟢 aktiv |
@@ -59,7 +59,7 @@ _Letzte Run-Zusammenfassung: 578 scraped, 0 matches, 0 sent_
 | Dawonia | 3256 | 0.7 | 3256/4366 | vor 0min | 🟢 aktiv |
 | KLN Immobilien | 2919 | 0.7 | 2919/4366 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 2611 | 0.6 | 2611/4366 | vor 10d | 🟡 inaktiv (lange leer) |
-| Immovision München | 1627 | 0.4 | 1627/4366 | vor 15min | 🟢 aktiv |
+| Immovision München | 1628 | 0.4 | 1628/4366 | vor 0min | 🟢 aktiv |
 | Email Inbox | 604 | 0.1 | 501/4366 | vor 3h | 🟢 aktiv |
 | EBM München | 525 | 0.1 | 523/4366 | vor 0min | 🟢 aktiv |
 | Wagnis | 88 | 0.0 | 88/4366 | vor 0min | 🟢 aktiv |
