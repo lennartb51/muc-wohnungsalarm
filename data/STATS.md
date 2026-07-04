@@ -1,19 +1,19 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-07-04T11:03:31+00:00_  
+_Auto-generiert. Letzter Run: 2026-07-04T11:06:06+00:00_  
 _Total Runs: 4492_  
-_Letzte Run-Zusammenfassung: 480 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 592 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
 | Adapter | Scraped (Σ) | Avg/Run | Runs aktiv | Letzte Aktivität | Status |
 |---|---:|---:|---|---|---|
-| Citigrund | 366040 | 81.5 | 4390/4492 | vor 15min | 🟢 aktiv |
+| Citigrund | 366125 | 81.5 | 4391/4492 | vor 0min | 🟢 aktiv |
 | Park Avenue Immobilien | 218165 | 48.6 | 4378/4492 | vor 0min | 🟢 aktiv |
 | WSB Bayern | 169471 | 37.7 | 4413/4492 | vor 0min | 🟢 aktiv |
 | Immobilien Schlamp | 135080 | 30.1 | 4472/4492 | vor 0min | 🟢 aktiv |
 | Pandion Service | 134672 | 30.0 | 4490/4492 | vor 0min | 🟢 aktiv |
-| WG-Gesucht | 114908 | 25.6 | 4205/4492 | vor 30min | 🟢 aktiv |
+| WG-Gesucht | 114936 | 25.6 | 4206/4492 | vor 0min | 🟢 aktiv |
 | ohne-makler.net | 107808 | 24.0 | 4492/4492 | vor 0min | 🟢 aktiv |
 | Immobilo | 93079 | 20.7 | 4484/4492 | vor 0min | 🟢 aktiv |
 | KPC Immobilien | 91838 | 31.4 | 2921/2925 | vor 0min | 🟢 aktiv |
@@ -42,7 +42,7 @@ _Letzte Run-Zusammenfassung: 480 scraped, 0 matches, 0 sent_
 | Rogers Immobilien | 13269 | 3.0 | 4423/4492 | vor 0min | 🟢 aktiv |
 | Alsaol | 12967 | 2.9 | 4492/4492 | vor 0min | 🟢 aktiv |
 | GVG Net | 12861 | 2.9 | 4485/4492 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 10949 | 2.4 | 4476/4492 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 10948 | 2.4 | 4476/4492 | vor 0min | 🟢 aktiv |
 | Südhausbau | 10867 | 2.4 | 4463/4492 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 10079 | 2.2 | 4412/4492 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 9362 | 2.1 | 3548/4492 | vor 0min | 🟢 aktiv |
