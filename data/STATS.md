@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-07-04T14:16:23+00:00_  
+_Auto-generiert. Letzter Run: 2026-07-04T14:18:46+00:00_  
 _Total Runs: 4506_  
-_Letzte Run-Zusammenfassung: 565 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 594 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -13,7 +13,7 @@ _Letzte Run-Zusammenfassung: 565 scraped, 0 matches, 0 sent_
 | WSB Bayern | 170064 | 37.7 | 4427/4506 | vor 0min | 🟢 aktiv |
 | Immobilien Schlamp | 135486 | 30.1 | 4486/4506 | vor 0min | 🟢 aktiv |
 | Pandion Service | 135092 | 30.0 | 4504/4506 | vor 0min | 🟢 aktiv |
-| WG-Gesucht | 115216 | 25.6 | 4216/4506 | vor 13min | 🟢 aktiv |
+| WG-Gesucht | 115244 | 25.6 | 4217/4506 | vor 0min | 🟢 aktiv |
 | ohne-makler.net | 108144 | 24.0 | 4506/4506 | vor 0min | 🟢 aktiv |
 | Immobilo | 93372 | 20.7 | 4498/4506 | vor 0min | 🟢 aktiv |
 | KPC Immobilien | 92272 | 31.4 | 2935/2939 | vor 0min | 🟢 aktiv |
@@ -42,7 +42,7 @@ _Letzte Run-Zusammenfassung: 565 scraped, 0 matches, 0 sent_
 | Rogers Immobilien | 13311 | 3.0 | 4437/4506 | vor 0min | 🟢 aktiv |
 | Alsaol | 13009 | 2.9 | 4506/4506 | vor 0min | 🟢 aktiv |
 | GVG Net | 12903 | 2.9 | 4499/4506 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 10977 | 2.4 | 4490/4506 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 10978 | 2.4 | 4490/4506 | vor 0min | 🟢 aktiv |
 | Südhausbau | 10909 | 2.4 | 4477/4506 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 10121 | 2.2 | 4426/4506 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 9390 | 2.1 | 3562/4506 | vor 0min | 🟢 aktiv |
@@ -61,7 +61,7 @@ _Letzte Run-Zusammenfassung: 565 scraped, 0 matches, 0 sent_
 | Immobilie1 | 2611 | 0.6 | 2611/4506 | vor 11d | 🟡 inaktiv (lange leer) |
 | Immovision München | 1758 | 0.4 | 1758/4506 | vor 0min | 🟢 aktiv |
 | EBM München | 664 | 0.1 | 662/4506 | vor 0min | 🟢 aktiv |
-| Email Inbox | 628 | 0.1 | 519/4506 | vor 43min | 🟢 aktiv |
+| Email Inbox | 628 | 0.1 | 519/4506 | vor 45min | 🟢 aktiv |
 | Wagnis | 227 | 0.1 | 227/4506 | vor 0min | 🟢 aktiv |
 | Immowelt | 32 | 0.0 | 1/4506 | vor 37d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 45d | 🟢 aktiv |
