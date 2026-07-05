@@ -1,6 +1,6 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-07-05T21:32:38+00:00_  
+_Auto-generiert. Letzter Run: 2026-07-05T21:35:19+00:00_  
 _Total Runs: 4644_  
 _Letzte Run-Zusammenfassung: 588 scraped, 0 matches, 0 sent_
 
@@ -43,7 +43,7 @@ _Letzte Run-Zusammenfassung: 588 scraped, 0 matches, 0 sent_
 | Alsaol | 13423 | 2.9 | 4644/4644 | vor 0min | 🟢 aktiv |
 | GVG Net | 13317 | 2.9 | 4637/4644 | vor 0min | 🟢 aktiv |
 | Südhausbau | 11323 | 2.4 | 4615/4644 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 11287 | 2.4 | 4628/4644 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 11288 | 2.4 | 4628/4644 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 10631 | 2.3 | 4564/4644 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 9630 | 2.1 | 3682/4644 | vor 0min | 🟢 aktiv |
 | ImmoSmart | 8280 | 1.8 | 3995/4644 | vor 0min | 🟢 aktiv |
@@ -61,8 +61,8 @@ _Letzte Run-Zusammenfassung: 588 scraped, 0 matches, 0 sent_
 | Immobilie1 | 2611 | 0.6 | 2611/4644 | vor 13d | 🟡 inaktiv (lange leer) |
 | Immovision München | 1892 | 0.4 | 1892/4644 | vor 0min | 🟢 aktiv |
 | EBM München | 802 | 0.2 | 800/4644 | vor 0min | 🟢 aktiv |
-| Email Inbox | 637 | 0.1 | 528/4644 | vor 1h | 🟢 aktiv |
-| Wagnis | 356 | 0.1 | 356/4644 | vor 0min | 🟢 aktiv |
+| Email Inbox | 637 | 0.1 | 528/4644 | vor 2h | 🟢 aktiv |
+| Wagnis | 355 | 0.1 | 355/4644 | vor 17min | 🟢 aktiv |
 | Immowelt | 32 | 0.0 | 1/4644 | vor 39d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 46d | 🟢 aktiv |
 | Munich Property | 10 | 5.0 | 2/2 | vor 46d | 🟢 aktiv |
