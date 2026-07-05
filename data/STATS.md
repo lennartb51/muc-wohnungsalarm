@@ -1,6 +1,6 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-07-05T07:31:37+00:00_  
+_Auto-generiert. Letzter Run: 2026-07-05T07:34:22+00:00_  
 _Total Runs: 4582_  
 _Letzte Run-Zusammenfassung: 584 scraped, 0 matches, 0 sent_
 
@@ -30,7 +30,7 @@ _Letzte Run-Zusammenfassung: 584 scraped, 0 matches, 0 sent_
 | Franziskanerhof | 34108 | 7.4 | 4576/4582 | vor 0min | 🟢 aktiv |
 | Immo-Hyp | 32011 | 7.0 | 4561/4582 | vor 0min | 🟢 aktiv |
 | Hegerich Immobilien | 31947 | 7.0 | 4577/4582 | vor 0min | 🟢 aktiv |
-| Ab ins Zuhause | 31200 | 6.8 | 3900/4582 | vor 58min | 🟢 aktiv |
+| Ab ins Zuhause | 31200 | 6.8 | 3900/4582 | vor 1h | 🟢 aktiv |
 | EP Immobilien | 27341 | 6.0 | 4412/4582 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 26181 | 5.7 | 4577/4582 | vor 0min | 🟢 aktiv |
 | Kleinanzeigen | 21117 | 4.6 | 4579/4582 | vor 0min | 🟢 aktiv |
