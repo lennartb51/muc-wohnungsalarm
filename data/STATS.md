@@ -1,14 +1,14 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-07-06T20:33:25+00:00_  
+_Auto-generiert. Letzter Run: 2026-07-06T20:36:00+00:00_  
 _Total Runs: 4743_  
-_Letzte Run-Zusammenfassung: 513 scraped, 1 matches, 1 sent_
+_Letzte Run-Zusammenfassung: 595 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
 | Adapter | Scraped (Σ) | Avg/Run | Runs aktiv | Letzte Aktivität | Status |
 |---|---:|---:|---|---|---|
-| Citigrund | 387026 | 81.6 | 4635/4743 | vor 15min | 🟢 aktiv |
+| Citigrund | 387112 | 81.6 | 4636/4743 | vor 0min | 🟢 aktiv |
 | Park Avenue Immobilien | 230915 | 48.7 | 4628/4743 | vor 0min | 🟢 aktiv |
 | WSB Bayern | 179039 | 37.7 | 4654/4743 | vor 0min | 🟢 aktiv |
 | Immobilien Schlamp | 142330 | 30.0 | 4722/4743 | vor 0min | 🟢 aktiv |
@@ -43,7 +43,7 @@ _Letzte Run-Zusammenfassung: 513 scraped, 1 matches, 1 sent_
 | Alsaol | 13720 | 2.9 | 4743/4743 | vor 0min | 🟢 aktiv |
 | GVG Net | 13614 | 2.9 | 4736/4743 | vor 0min | 🟢 aktiv |
 | Südhausbau | 11620 | 2.4 | 4714/4743 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 11536 | 2.4 | 4727/4743 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 11534 | 2.4 | 4727/4743 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 11000 | 2.3 | 4663/4743 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 9859 | 2.1 | 3776/4743 | vor 0min | 🟢 aktiv |
 | ImmoSmart | 8474 | 1.8 | 4092/4743 | vor 0min | 🟢 aktiv |
@@ -61,7 +61,7 @@ _Letzte Run-Zusammenfassung: 513 scraped, 1 matches, 1 sent_
 | Immobilie1 | 2611 | 0.6 | 2611/4743 | vor 13d | 🟡 inaktiv (lange leer) |
 | Immovision München | 1987 | 0.4 | 1987/4743 | vor 0min | 🟢 aktiv |
 | EBM München | 864 | 0.2 | 862/4743 | vor 8h | 🟢 aktiv |
-| Email Inbox | 649 | 0.1 | 537/4743 | vor 0min | 🟢 aktiv |
+| Email Inbox | 647 | 0.1 | 536/4743 | vor 18min | 🟢 aktiv |
 | Wagnis | 452 | 0.1 | 452/4743 | vor 0min | 🟢 aktiv |
 | Immowelt | 32 | 0.0 | 1/4743 | vor 40d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 47d | 🟢 aktiv |
