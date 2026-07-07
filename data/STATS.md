@@ -1,6 +1,6 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-07-07T22:32:56+00:00_  
+_Auto-generiert. Letzter Run: 2026-07-07T22:35:30+00:00_  
 _Total Runs: 4853_  
 _Letzte Run-Zusammenfassung: 603 scraped, 0 matches, 0 sent_
 
@@ -33,7 +33,7 @@ _Letzte Run-Zusammenfassung: 603 scraped, 0 matches, 0 sent_
 | Ab ins Zuhause | 33040 | 6.8 | 4130/4853 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 29212 | 6.0 | 4675/4853 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 27536 | 5.7 | 4848/4853 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 22150 | 4.6 | 4850/4853 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 22151 | 4.6 | 4850/4853 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 19408 | 4.0 | 4852/4853 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 19220 | 4.0 | 4393/4853 | vor 0min | 🟢 aktiv |
 | DIBAG | 19044 | 3.9 | 4761/4853 | vor 0min | 🟢 aktiv |
@@ -61,7 +61,7 @@ _Letzte Run-Zusammenfassung: 603 scraped, 0 matches, 0 sent_
 | Immobilie1 | 2611 | 0.5 | 2611/4853 | vor 15d | 🟡 inaktiv (lange leer) |
 | Immovision München | 2094 | 0.4 | 2094/4853 | vor 0min | 🟢 aktiv |
 | EBM München | 864 | 0.2 | 862/4853 | vor 1d | 🟡 inaktiv (lange leer) |
-| Email Inbox | 669 | 0.1 | 555/4853 | vor 0min | 🟢 aktiv |
+| Email Inbox | 668 | 0.1 | 554/4853 | vor 1h | 🟢 aktiv |
 | Wagnis | 557 | 0.1 | 557/4853 | vor 0min | 🟢 aktiv |
 | Immowelt | 32 | 0.0 | 1/4853 | vor 41d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 48d | 🟢 aktiv |
