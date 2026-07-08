@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-07-08T20:47:36+00:00_  
+_Auto-generiert. Letzter Run: 2026-07-08T20:50:21+00:00_  
 _Total Runs: 4951_  
-_Letzte Run-Zusammenfassung: 607 scraped, 1 matches, 1 sent_
+_Letzte Run-Zusammenfassung: 602 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -33,7 +33,7 @@ _Letzte Run-Zusammenfassung: 607 scraped, 1 matches, 1 sent_
 | Ab ins Zuhause | 33704 | 6.8 | 4213/4951 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 29877 | 6.0 | 4770/4951 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 28026 | 5.7 | 4946/4951 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 22554 | 4.6 | 4948/4951 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 22553 | 4.6 | 4948/4951 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 19800 | 4.0 | 4950/4951 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 19505 | 3.9 | 4491/4951 | vor 0min | 🟢 aktiv |
 | DIBAG | 19420 | 3.9 | 4855/4951 | vor 0min | 🟢 aktiv |
@@ -45,7 +45,7 @@ _Letzte Run-Zusammenfassung: 607 scraped, 1 matches, 1 sent_
 | Südhausbau | 12244 | 2.5 | 4922/4951 | vor 0min | 🟢 aktiv |
 | Scheel Immobilien | 11984 | 2.4 | 4935/4951 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 11826 | 2.4 | 4871/4951 | vor 0min | 🟢 aktiv |
-| LPE Immobilien | 10438 | 2.1 | 3969/4951 | vor 0min | 🟢 aktiv |
+| LPE Immobilien | 10435 | 2.1 | 3968/4951 | vor 17min | 🟢 aktiv |
 | ImmoSmart | 8886 | 1.8 | 4298/4951 | vor 0min | 🟢 aktiv |
 | KSWM | 7951 | 1.6 | 4808/4951 | vor 0min | 🟢 aktiv |
 | Lehmann Hueber | 7688 | 1.6 | 4940/4951 | vor 0min | 🟢 aktiv |
@@ -58,10 +58,10 @@ _Letzte Run-Zusammenfassung: 607 scraped, 1 matches, 1 sent_
 | Egger Immobilien | 4853 | 1.0 | 4853/4951 | vor 0min | 🟢 aktiv |
 | Dawonia | 3822 | 0.8 | 3822/4951 | vor 0min | 🟢 aktiv |
 | KLN Immobilien | 3692 | 0.7 | 3495/4951 | vor 0min | 🟢 aktiv |
-| Immobilie1 | 2611 | 0.5 | 2611/4951 | vor 15d | 🟡 inaktiv (lange leer) |
+| Immobilie1 | 2611 | 0.5 | 2611/4951 | vor 16d | 🟡 inaktiv (lange leer) |
 | Immovision München | 2189 | 0.4 | 2189/4951 | vor 0min | 🟢 aktiv |
 | EBM München | 864 | 0.2 | 862/4951 | vor 2d | 🟡 inaktiv (lange leer) |
-| Email Inbox | 684 | 0.1 | 568/4951 | vor 0min | 🟢 aktiv |
+| Email Inbox | 683 | 0.1 | 567/4951 | vor 17min | 🟢 aktiv |
 | Wagnis | 651 | 0.1 | 651/4951 | vor 0min | 🟢 aktiv |
 | Immowelt | 32 | 0.0 | 1/4951 | vor 42d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 49d | 🟢 aktiv |
