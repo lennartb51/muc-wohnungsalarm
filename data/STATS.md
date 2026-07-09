@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-07-09T09:01:05+00:00_  
+_Auto-generiert. Letzter Run: 2026-07-09T09:03:30+00:00_  
 _Total Runs: 5000_  
-_Letzte Run-Zusammenfassung: 611 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 612 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -16,7 +16,7 @@ _Letzte Run-Zusammenfassung: 611 scraped, 0 matches, 0 sent_
 | WG-Gesucht | 127900 | 25.6 | 4669/5000 | vor 0min | 🟢 aktiv |
 | ohne-makler.net | 120000 | 24.0 | 5000/5000 | vor 0min | 🟢 aktiv |
 | KPC Immobilien | 107763 | 31.4 | 3429/3433 | vor 0min | 🟢 aktiv |
-| Immobilo | 103739 | 20.7 | 4992/5000 | vor 0min | 🟢 aktiv |
+| Immobilo | 103740 | 20.7 | 4992/5000 | vor 0min | 🟢 aktiv |
 | SZ Immobilien | 100949 | 20.2 | 4989/5000 | vor 0min | 🟢 aktiv |
 | Nuroa | 100456 | 20.1 | 4880/5000 | vor 0min | 🟢 aktiv |
 | Idowa | 98142 | 19.6 | 4990/5000 | vor 0min | 🟢 aktiv |
@@ -62,10 +62,10 @@ _Letzte Run-Zusammenfassung: 611 scraped, 0 matches, 0 sent_
 | Immovision München | 2238 | 0.4 | 2238/5000 | vor 0min | 🟢 aktiv |
 | EBM München | 864 | 0.2 | 862/5000 | vor 2d | 🟡 inaktiv (lange leer) |
 | Wagnis | 699 | 0.1 | 699/5000 | vor 0min | 🟢 aktiv |
-| Email Inbox | 685 | 0.1 | 569/5000 | vor 32min | 🟢 aktiv |
+| Email Inbox | 685 | 0.1 | 569/5000 | vor 35min | 🟢 aktiv |
 | Immowelt | 32 | 0.0 | 1/5000 | vor 42d | 🟡 inaktiv (lange leer) |
-| Drescher Immobilien | 20 | 10.0 | 2/2 | vor 49d | 🟢 aktiv |
-| Munich Property | 10 | 5.0 | 2/2 | vor 49d | 🟢 aktiv |
+| Drescher Immobilien | 20 | 10.0 | 2/2 | vor 50d | 🟢 aktiv |
+| Munich Property | 10 | 5.0 | 2/2 | vor 50d | 🟢 aktiv |
 | A&C Immobilien | 0 | 0.0 | 0/5000 | nie | ⚪ leer (nie aktiv) |
 | ACM Immobilien Hausverwaltung | 0 | 0.0 | 0/5000 | nie | ⚪ leer (nie aktiv) |
 | ADM GmbH Hausverwaltung | 0 | 0.0 | 0/2 | nie | ⚪ leer (nie aktiv) |
