@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-07-10T07:03:23+00:00_  
+_Auto-generiert. Letzter Run: 2026-07-10T07:05:57+00:00_  
 _Total Runs: 5092_  
-_Letzte Run-Zusammenfassung: 595 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 596 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -30,10 +30,10 @@ _Letzte Run-Zusammenfassung: 595 scraped, 0 matches, 0 sent_
 | Immo-Hyp | 37437 | 7.4 | 5071/5092 | vor 0min | 🟢 aktiv |
 | Franziskanerhof | 37168 | 7.3 | 5086/5092 | vor 0min | 🟢 aktiv |
 | Hegerich Immobilien | 35517 | 7.0 | 5087/5092 | vor 0min | 🟢 aktiv |
-| Ab ins Zuhause | 34720 | 6.8 | 4340/5092 | vor 30min | 🟢 aktiv |
+| Ab ins Zuhause | 34720 | 6.8 | 4340/5092 | vor 32min | 🟢 aktiv |
 | EP Immobilien | 30850 | 6.1 | 4909/5092 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 28731 | 5.6 | 5087/5092 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 23007 | 4.5 | 5089/5092 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 23008 | 4.5 | 5089/5092 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 20364 | 4.0 | 5091/5092 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 19980 | 3.9 | 4632/5092 | vor 0min | 🟢 aktiv |
 | DIBAG | 19976 | 3.9 | 4994/5092 | vor 0min | 🟢 aktiv |
