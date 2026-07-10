@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-07-10T23:17:35+00:00_  
+_Auto-generiert. Letzter Run: 2026-07-10T23:20:01+00:00_  
 _Total Runs: 5162_  
-_Letzte Run-Zusammenfassung: 584 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 587 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -33,7 +33,7 @@ _Letzte Run-Zusammenfassung: 584 scraped, 0 matches, 0 sent_
 | Ab ins Zuhause | 35160 | 6.8 | 4395/5162 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 31215 | 6.0 | 4978/5162 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 29076 | 5.6 | 5156/5162 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 23238 | 4.5 | 5159/5162 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 23242 | 4.5 | 5159/5162 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 20644 | 4.0 | 5161/5162 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 20260 | 3.9 | 4702/5162 | vor 0min | 🟢 aktiv |
 | DIBAG | 20252 | 3.9 | 5063/5162 | vor 0min | 🟢 aktiv |
@@ -44,7 +44,7 @@ _Letzte Run-Zusammenfassung: 584 scraped, 0 matches, 0 sent_
 | GVG Net | 14871 | 2.9 | 5155/5162 | vor 0min | 🟢 aktiv |
 | Südhausbau | 12877 | 2.5 | 5133/5162 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 12760 | 2.5 | 5082/5162 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 12459 | 2.4 | 5145/5162 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 12458 | 2.4 | 5145/5162 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 11023 | 2.1 | 4164/5162 | vor 0min | 🟢 aktiv |
 | ImmoSmart | 9308 | 1.8 | 4509/5162 | vor 0min | 🟢 aktiv |
 | KSWM | 8354 | 1.6 | 5014/5162 | vor 0min | 🟢 aktiv |
@@ -62,7 +62,7 @@ _Letzte Run-Zusammenfassung: 584 scraped, 0 matches, 0 sent_
 | Immovision München | 2391 | 0.5 | 2391/5162 | vor 0min | 🟢 aktiv |
 | EBM München | 957 | 0.2 | 955/5162 | vor 13h | 🟢 aktiv |
 | Wagnis | 859 | 0.2 | 859/5162 | vor 0min | 🟢 aktiv |
-| Email Inbox | 716 | 0.1 | 592/5162 | vor 2h | 🟢 aktiv |
+| Email Inbox | 716 | 0.1 | 592/5162 | vor 3h | 🟢 aktiv |
 | Immowelt | 32 | 0.0 | 1/5162 | vor 44d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 51d | 🟢 aktiv |
 | Munich Property | 10 | 5.0 | 2/2 | vor 51d | 🟢 aktiv |
