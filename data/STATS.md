@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-07-11T03:47:38+00:00_  
+_Auto-generiert. Letzter Run: 2026-07-11T03:50:13+00:00_  
 _Total Runs: 5180_  
-_Letzte Run-Zusammenfassung: 587 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 579 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -33,7 +33,7 @@ _Letzte Run-Zusammenfassung: 587 scraped, 0 matches, 0 sent_
 | Ab ins Zuhause | 35304 | 6.8 | 4413/5180 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 31305 | 6.0 | 4996/5180 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 29166 | 5.6 | 5174/5180 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 23333 | 4.5 | 5177/5180 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 23329 | 4.5 | 5177/5180 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 20716 | 4.0 | 5179/5180 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 20332 | 3.9 | 4720/5180 | vor 0min | 🟢 aktiv |
 | DIBAG | 20320 | 3.9 | 5080/5180 | vor 0min | 🟢 aktiv |
@@ -45,7 +45,7 @@ _Letzte Run-Zusammenfassung: 587 scraped, 0 matches, 0 sent_
 | Südhausbau | 12931 | 2.5 | 5151/5180 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 12828 | 2.5 | 5099/5180 | vor 0min | 🟢 aktiv |
 | Scheel Immobilien | 12501 | 2.4 | 5163/5180 | vor 0min | 🟢 aktiv |
-| LPE Immobilien | 11071 | 2.1 | 4180/5180 | vor 0min | 🟢 aktiv |
+| LPE Immobilien | 11068 | 2.1 | 4179/5180 | vor 17min | 🟢 aktiv |
 | ImmoSmart | 9344 | 1.8 | 4527/5180 | vor 0min | 🟢 aktiv |
 | KSWM | 8390 | 1.6 | 5032/5180 | vor 0min | 🟢 aktiv |
 | Lehmann Hueber | 7917 | 1.5 | 5169/5180 | vor 0min | 🟢 aktiv |
@@ -59,7 +59,7 @@ _Letzte Run-Zusammenfassung: 587 scraped, 0 matches, 0 sent_
 | KLN Immobilien | 4371 | 0.8 | 3724/5180 | vor 0min | 🟢 aktiv |
 | Dawonia | 4051 | 0.8 | 4051/5180 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 2611 | 0.5 | 2611/5180 | vor 18d | 🟡 inaktiv (lange leer) |
-| Immovision München | 2409 | 0.5 | 2409/5180 | vor 0min | 🟢 aktiv |
+| Immovision München | 2408 | 0.5 | 2408/5180 | vor 17min | 🟢 aktiv |
 | EBM München | 957 | 0.2 | 955/5180 | vor 17h | 🟢 aktiv |
 | Wagnis | 877 | 0.2 | 877/5180 | vor 0min | 🟢 aktiv |
 | Email Inbox | 716 | 0.1 | 592/5180 | vor 7h | 🟢 aktiv |
