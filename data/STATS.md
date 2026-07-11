@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-07-11T18:32:59+00:00_  
+_Auto-generiert. Letzter Run: 2026-07-11T18:35:22+00:00_  
 _Total Runs: 5245_  
-_Letzte Run-Zusammenfassung: 592 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 562 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -13,7 +13,7 @@ _Letzte Run-Zusammenfassung: 592 scraped, 0 matches, 0 sent_
 | WSB Bayern | 199392 | 38.0 | 5141/5245 | vor 0min | 🟢 aktiv |
 | Pandion Service | 157232 | 30.0 | 5242/5245 | vor 0min | 🟢 aktiv |
 | Immobilien Schlamp | 156888 | 29.9 | 5224/5245 | vor 0min | 🟢 aktiv |
-| WG-Gesucht | 134340 | 25.6 | 4899/5245 | vor 0min | 🟢 aktiv |
+| WG-Gesucht | 134312 | 25.6 | 4898/5245 | vor 17min | 🟢 aktiv |
 | ohne-makler.net | 125880 | 24.0 | 5245/5245 | vor 0min | 🟢 aktiv |
 | KPC Immobilien | 115603 | 31.4 | 3674/3678 | vor 0min | 🟢 aktiv |
 | Immobilo | 108882 | 20.8 | 5237/5245 | vor 0min | 🟢 aktiv |
@@ -33,7 +33,7 @@ _Letzte Run-Zusammenfassung: 592 scraped, 0 matches, 0 sent_
 | Ab ins Zuhause | 35720 | 6.8 | 4465/5245 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 31620 | 6.0 | 5059/5245 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 29491 | 5.6 | 5239/5245 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 23657 | 4.5 | 5241/5245 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 23655 | 4.5 | 5241/5245 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 20976 | 4.0 | 5244/5245 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 20588 | 3.9 | 4784/5245 | vor 0min | 🟢 aktiv |
 | DIBAG | 20572 | 3.9 | 5143/5245 | vor 0min | 🟢 aktiv |
@@ -62,7 +62,7 @@ _Letzte Run-Zusammenfassung: 592 scraped, 0 matches, 0 sent_
 | Immovision München | 2468 | 0.5 | 2468/5245 | vor 0min | 🟢 aktiv |
 | EBM München | 957 | 0.2 | 955/5245 | vor 1d | 🟡 inaktiv (lange leer) |
 | Wagnis | 940 | 0.2 | 940/5245 | vor 0min | 🟢 aktiv |
-| Email Inbox | 721 | 0.1 | 597/5245 | vor 29min | 🟢 aktiv |
+| Email Inbox | 721 | 0.1 | 597/5245 | vor 32min | 🟢 aktiv |
 | Immowelt | 32 | 0.0 | 1/5245 | vor 44d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 52d | 🟢 aktiv |
 | Munich Property | 10 | 5.0 | 2/2 | vor 52d | 🟢 aktiv |
