@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-07-12T17:31:32+00:00_  
+_Auto-generiert. Letzter Run: 2026-07-12T17:33:56+00:00_  
 _Total Runs: 5348_  
-_Letzte Run-Zusammenfassung: 582 scraped, 1 matches, 1 sent_
+_Letzte Run-Zusammenfassung: 584 scraped, 1 matches, 1 sent_
 
 ## Adapter-Übersicht
 
@@ -30,10 +30,10 @@ _Letzte Run-Zusammenfassung: 582 scraped, 1 matches, 1 sent_
 | Immo-Hyp | 40497 | 7.6 | 5326/5348 | vor 0min | 🟢 aktiv |
 | Franziskanerhof | 38460 | 7.2 | 5342/5348 | vor 0min | 🟢 aktiv |
 | Hegerich Immobilien | 37309 | 7.0 | 5343/5348 | vor 0min | 🟢 aktiv |
-| Ab ins Zuhause | 36416 | 6.8 | 4552/5348 | vor 58min | 🟢 aktiv |
+| Ab ins Zuhause | 36416 | 6.8 | 4552/5348 | vor 1h | 🟢 aktiv |
 | EP Immobilien | 32120 | 6.0 | 5159/5348 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 30006 | 5.6 | 5342/5348 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 24206 | 4.5 | 5344/5348 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 24208 | 4.5 | 5344/5348 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 21388 | 4.0 | 5347/5348 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 20996 | 3.9 | 4886/5348 | vor 0min | 🟢 aktiv |
 | DIBAG | 20968 | 3.9 | 5242/5348 | vor 0min | 🟢 aktiv |
@@ -62,7 +62,7 @@ _Letzte Run-Zusammenfassung: 582 scraped, 1 matches, 1 sent_
 | Immovision München | 2565 | 0.5 | 2565/5348 | vor 0min | 🟢 aktiv |
 | Wagnis | 1040 | 0.2 | 1040/5348 | vor 0min | 🟢 aktiv |
 | EBM München | 957 | 0.2 | 955/5348 | vor 2d | 🟡 inaktiv (lange leer) |
-| Email Inbox | 728 | 0.1 | 604/5348 | vor 1h | 🟢 aktiv |
+| Email Inbox | 728 | 0.1 | 604/5348 | vor 2h | 🟢 aktiv |
 | Immowelt | 32 | 0.0 | 1/5348 | vor 45d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 53d | 🟢 aktiv |
 | Munich Property | 10 | 5.0 | 2/2 | vor 53d | 🟢 aktiv |
