@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-07-12T16:02:58+00:00_  
+_Auto-generiert. Letzter Run: 2026-07-12T16:05:26+00:00_  
 _Total Runs: 5342_  
-_Letzte Run-Zusammenfassung: 592 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 574 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -27,13 +27,13 @@ _Letzte Run-Zusammenfassung: 592 scraped, 0 matches, 0 sent_
 | Wohnreferat München | 57912 | 10.8 | 4877/5342 | vor 0min | 🟢 aktiv |
 | Heimhuber Immobilien | 54186 | 10.1 | 5333/5342 | vor 0min | 🟢 aktiv |
 | Immler Martin Hausverwaltung | 42736 | 8.0 | 5342/5342 | vor 0min | 🟢 aktiv |
-| Immo-Hyp | 40437 | 7.6 | 5321/5342 | vor 0min | 🟢 aktiv |
+| Immo-Hyp | 40425 | 7.6 | 5320/5342 | vor 17min | 🟢 aktiv |
 | Franziskanerhof | 38430 | 7.2 | 5336/5342 | vor 0min | 🟢 aktiv |
 | Hegerich Immobilien | 37267 | 7.0 | 5337/5342 | vor 0min | 🟢 aktiv |
 | Ab ins Zuhause | 36400 | 6.8 | 4550/5342 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 32090 | 6.0 | 5153/5342 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 29976 | 5.6 | 5336/5342 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 24189 | 4.5 | 5338/5342 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 24183 | 4.5 | 5338/5342 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 21364 | 4.0 | 5341/5342 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 20972 | 3.9 | 4880/5342 | vor 0min | 🟢 aktiv |
 | DIBAG | 20944 | 3.9 | 5236/5342 | vor 0min | 🟢 aktiv |
@@ -62,7 +62,7 @@ _Letzte Run-Zusammenfassung: 592 scraped, 0 matches, 0 sent_
 | Immovision München | 2559 | 0.5 | 2559/5342 | vor 0min | 🟢 aktiv |
 | Wagnis | 1034 | 0.2 | 1034/5342 | vor 0min | 🟢 aktiv |
 | EBM München | 957 | 0.2 | 955/5342 | vor 2d | 🟡 inaktiv (lange leer) |
-| Email Inbox | 728 | 0.1 | 604/5342 | vor 29min | 🟢 aktiv |
+| Email Inbox | 728 | 0.1 | 604/5342 | vor 32min | 🟢 aktiv |
 | Immowelt | 32 | 0.0 | 1/5342 | vor 45d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 53d | 🟢 aktiv |
 | Munich Property | 10 | 5.0 | 2/2 | vor 53d | 🟢 aktiv |
