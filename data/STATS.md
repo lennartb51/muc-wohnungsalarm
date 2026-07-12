@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-07-12T19:47:55+00:00_  
+_Auto-generiert. Letzter Run: 2026-07-12T19:50:23+00:00_  
 _Total Runs: 5358_  
-_Letzte Run-Zusammenfassung: 594 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 591 scraped, 1 matches, 1 sent_
 
 ## Adapter-Übersicht
 
@@ -33,7 +33,7 @@ _Letzte Run-Zusammenfassung: 594 scraped, 0 matches, 0 sent_
 | Ab ins Zuhause | 36496 | 6.8 | 4562/5358 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 32170 | 6.0 | 5169/5358 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 30056 | 5.6 | 5352/5358 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 24259 | 4.5 | 5354/5358 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 24257 | 4.5 | 5354/5358 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 21428 | 4.0 | 5357/5358 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 21036 | 3.9 | 4896/5358 | vor 0min | 🟢 aktiv |
 | DIBAG | 21008 | 3.9 | 5252/5358 | vor 0min | 🟢 aktiv |
@@ -44,7 +44,7 @@ _Letzte Run-Zusammenfassung: 594 scraped, 0 matches, 0 sent_
 | GVG Net | 15459 | 2.9 | 5351/5358 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 13598 | 2.5 | 5275/5358 | vor 0min | 🟢 aktiv |
 | Südhausbau | 13465 | 2.5 | 5329/5358 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 12888 | 2.4 | 5339/5358 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 12887 | 2.4 | 5339/5358 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 11560 | 2.2 | 4343/5358 | vor 0min | 🟢 aktiv |
 | ImmoSmart | 9701 | 1.8 | 4703/5358 | vor 0min | 🟢 aktiv |
 | KSWM | 8740 | 1.6 | 5207/5358 | vor 0min | 🟢 aktiv |
