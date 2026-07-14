@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-07-14T21:03:14+00:00_  
+_Auto-generiert. Letzter Run: 2026-07-14T21:06:04+00:00_  
 _Total Runs: 5471_  
-_Letzte Run-Zusammenfassung: 598 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 594 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -33,7 +33,7 @@ _Letzte Run-Zusammenfassung: 598 scraped, 0 matches, 0 sent_
 | Ab ins Zuhause | 37312 | 6.8 | 4664/5471 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 32700 | 6.0 | 5279/5471 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 30621 | 5.6 | 5465/5471 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 24873 | 4.5 | 5467/5471 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 24869 | 4.5 | 5467/5471 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 21880 | 4.0 | 5470/5471 | vor 0min | 🟢 aktiv |
 | DIBAG | 21444 | 3.9 | 5361/5471 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 21424 | 3.9 | 5007/5471 | vor 0min | 🟢 aktiv |
@@ -44,7 +44,7 @@ _Letzte Run-Zusammenfassung: 598 scraped, 0 matches, 0 sent_
 | GVG Net | 15798 | 2.9 | 5464/5471 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 14138 | 2.6 | 5388/5471 | vor 0min | 🟢 aktiv |
 | Südhausbau | 13738 | 2.5 | 5442/5471 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 13136 | 2.4 | 5452/5471 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 13137 | 2.4 | 5452/5471 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 11872 | 2.2 | 4447/5471 | vor 0min | 🟢 aktiv |
 | ImmoSmart | 10062 | 1.8 | 4814/5471 | vor 0min | 🟢 aktiv |
 | KSWM | 8901 | 1.6 | 5316/5471 | vor 0min | 🟢 aktiv |
@@ -58,7 +58,7 @@ _Letzte Run-Zusammenfassung: 598 scraped, 0 matches, 0 sent_
 | Maier Immobilien | 5363 | 1.0 | 5363/5471 | vor 0min | 🟢 aktiv |
 | KLN Immobilien | 5230 | 1.0 | 4015/5471 | vor 0min | 🟢 aktiv |
 | Dawonia | 4342 | 0.8 | 4342/5471 | vor 0min | 🟢 aktiv |
-| Immovision München | 2682 | 0.5 | 2682/5471 | vor 0min | 🟢 aktiv |
+| Immovision München | 2681 | 0.5 | 2681/5471 | vor 18min | 🟢 aktiv |
 | Immobilie1 | 2611 | 0.5 | 2611/5471 | vor 22d | 🟡 inaktiv (lange leer) |
 | Wagnis | 1159 | 0.2 | 1159/5471 | vor 0min | 🟢 aktiv |
 | EBM München | 957 | 0.2 | 955/5471 | vor 4d | 🟡 inaktiv (lange leer) |
