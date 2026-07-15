@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-07-15T22:17:53+00:00_  
+_Auto-generiert. Letzter Run: 2026-07-15T22:20:34+00:00_  
 _Total Runs: 5581_  
-_Letzte Run-Zusammenfassung: 596 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 595 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -58,11 +58,11 @@ _Letzte Run-Zusammenfassung: 596 scraped, 0 matches, 0 sent_
 | Egger Immobilien | 5483 | 1.0 | 5483/5581 | vor 0min | 🟢 aktiv |
 | Maier Immobilien | 5467 | 1.0 | 5467/5581 | vor 0min | 🟢 aktiv |
 | Dawonia | 4451 | 0.8 | 4451/5581 | vor 0min | 🟢 aktiv |
-| Immovision München | 2785 | 0.5 | 2785/5581 | vor 0min | 🟢 aktiv |
+| Immovision München | 2784 | 0.5 | 2784/5581 | vor 17min | 🟢 aktiv |
 | Immobilie1 | 2611 | 0.5 | 2611/5581 | vor 23d | 🟡 inaktiv (lange leer) |
 | Wagnis | 1263 | 0.2 | 1263/5581 | vor 0min | 🟢 aktiv |
 | EBM München | 957 | 0.2 | 955/5581 | vor 5d | 🟡 inaktiv (lange leer) |
-| Email Inbox | 787 | 0.1 | 638/5581 | vor 14min | 🟢 aktiv |
+| Email Inbox | 787 | 0.1 | 638/5581 | vor 17min | 🟢 aktiv |
 | Immowelt | 64 | 0.0 | 2/5581 | vor 21h | 🟢 aktiv |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 56d | 🟢 aktiv |
 | Munich Property | 10 | 5.0 | 2/2 | vor 56d | 🟢 aktiv |
