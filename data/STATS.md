@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-07-16T15:17:21+00:00_  
+_Auto-generiert. Letzter Run: 2026-07-16T15:20:01+00:00_  
 _Total Runs: 5654_  
-_Letzte Run-Zusammenfassung: 552 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 551 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -44,12 +44,12 @@ _Letzte Run-Zusammenfassung: 552 scraped, 0 matches, 0 sent_
 | GVG Net | 16347 | 2.9 | 5647/5654 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 15068 | 2.7 | 5570/5654 | vor 0min | 🟢 aktiv |
 | Südhausbau | 13921 | 2.5 | 5625/5654 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 13609 | 2.4 | 5633/5654 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 13608 | 2.4 | 5633/5654 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 12367 | 2.2 | 4612/5654 | vor 0min | 🟢 aktiv |
 | Lehmann Hueber | 10954 | 1.9 | 5643/5654 | vor 0min | 🟢 aktiv |
 | ImmoSmart | 10774 | 1.9 | 4992/5654 | vor 0min | 🟢 aktiv |
 | KSWM | 9082 | 1.6 | 5497/5654 | vor 0min | 🟢 aktiv |
-| Eichler Immobilien | 7993 | 1.4 | 5653/5654 | vor 14min | 🟢 aktiv |
+| Eichler Immobilien | 7993 | 1.4 | 5653/5654 | vor 16min | 🟢 aktiv |
 | KLN Immobilien | 5751 | 1.0 | 4197/5654 | vor 0min | 🟢 aktiv |
 | HI Wohnbau | 5652 | 1.0 | 5652/5654 | vor 0min | 🟢 aktiv |
 | Vonovia | 5651 | 1.0 | 5651/5654 | vor 0min | 🟢 aktiv |
@@ -62,7 +62,7 @@ _Letzte Run-Zusammenfassung: 552 scraped, 0 matches, 0 sent_
 | Immobilie1 | 2611 | 0.5 | 2611/5654 | vor 23d | 🟡 inaktiv (lange leer) |
 | Wagnis | 1333 | 0.2 | 1333/5654 | vor 0min | 🟢 aktiv |
 | EBM München | 957 | 0.2 | 955/5654 | vor 6d | 🟡 inaktiv (lange leer) |
-| Email Inbox | 795 | 0.1 | 645/5654 | vor 2h | 🟢 aktiv |
+| Email Inbox | 795 | 0.1 | 645/5654 | vor 3h | 🟢 aktiv |
 | Immowelt | 64 | 0.0 | 2/5654 | vor 1d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 57d | 🟢 aktiv |
 | Munich Property | 10 | 5.0 | 2/2 | vor 57d | 🟢 aktiv |
