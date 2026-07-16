@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-07-16T04:30:48+00:00_  
+_Auto-generiert. Letzter Run: 2026-07-16T04:33:29+00:00_  
 _Total Runs: 5608_  
-_Letzte Run-Zusammenfassung: 597 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 596 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -44,7 +44,7 @@ _Letzte Run-Zusammenfassung: 597 scraped, 0 matches, 0 sent_
 | GVG Net | 16209 | 2.9 | 5601/5608 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 14838 | 2.6 | 5524/5608 | vor 0min | 🟢 aktiv |
 | Südhausbau | 13875 | 2.5 | 5579/5608 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 13482 | 2.4 | 5588/5608 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 13481 | 2.4 | 5588/5608 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 12241 | 2.2 | 4570/5608 | vor 0min | 🟢 aktiv |
 | ImmoSmart | 10598 | 1.9 | 4948/5608 | vor 0min | 🟢 aktiv |
 | Lehmann Hueber | 10402 | 1.9 | 5597/5608 | vor 0min | 🟢 aktiv |
