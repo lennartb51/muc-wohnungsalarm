@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-07-16T23:01:21+00:00_  
+_Auto-generiert. Letzter Run: 2026-07-16T23:04:09+00:00_  
 _Total Runs: 5689_  
-_Letzte Run-Zusammenfassung: 547 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 546 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -10,7 +10,7 @@ _Letzte Run-Zusammenfassung: 547 scraped, 0 matches, 0 sent_
 |---|---:|---:|---|---|---|
 | Citigrund | 464049 | 81.6 | 5548/5689 | vor 0min | 🟢 aktiv |
 | Park Avenue Immobilien | 279161 | 49.1 | 5574/5689 | vor 0min | 🟢 aktiv |
-| WSB Bayern | 214356 | 37.7 | 5529/5689 | vor 8h | 🟢 aktiv |
+| WSB Bayern | 214356 | 37.7 | 5529/5689 | vor 9h | 🟢 aktiv |
 | Pandion Service | 170552 | 30.0 | 5686/5689 | vor 0min | 🟢 aktiv |
 | Immobilien Schlamp | 169735 | 29.8 | 5667/5689 | vor 0min | 🟢 aktiv |
 | WG-Gesucht | 145764 | 25.6 | 5307/5689 | vor 0min | 🟢 aktiv |
@@ -33,10 +33,10 @@ _Letzte Run-Zusammenfassung: 547 scraped, 0 matches, 0 sent_
 | Ab ins Zuhause | 38840 | 6.8 | 4855/5689 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 33548 | 5.9 | 5491/5689 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 31711 | 5.6 | 5683/5689 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 25790 | 4.5 | 5685/5689 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 25789 | 4.5 | 5685/5689 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 22752 | 4.0 | 5688/5689 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 22382 | 3.9 | 5219/5689 | vor 0min | 🟢 aktiv |
-| DIBAG | 22120 | 3.9 | 5530/5689 | vor 8h | 🟢 aktiv |
+| DIBAG | 22120 | 3.9 | 5530/5689 | vor 9h | 🟢 aktiv |
 | Rosenberger Immobilien | 17603 | 3.1 | 5673/5689 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 17254 | 3.0 | 5546/5687 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 16731 | 2.9 | 5577/5689 | vor 0min | 🟢 aktiv |
@@ -49,7 +49,7 @@ _Letzte Run-Zusammenfassung: 547 scraped, 0 matches, 0 sent_
 | Lehmann Hueber | 11374 | 2.0 | 5678/5689 | vor 0min | 🟢 aktiv |
 | ImmoSmart | 10910 | 1.9 | 5026/5689 | vor 0min | 🟢 aktiv |
 | KSWM | 9116 | 1.6 | 5531/5689 | vor 0min | 🟢 aktiv |
-| Eichler Immobilien | 7993 | 1.4 | 5653/5689 | vor 7h | 🟢 aktiv |
+| Eichler Immobilien | 7993 | 1.4 | 5653/5689 | vor 8h | 🟢 aktiv |
 | KLN Immobilien | 5819 | 1.0 | 4231/5689 | vor 0min | 🟢 aktiv |
 | HI Wohnbau | 5687 | 1.0 | 5687/5689 | vor 0min | 🟢 aktiv |
 | Vonovia | 5686 | 1.0 | 5686/5689 | vor 0min | 🟢 aktiv |
