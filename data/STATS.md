@@ -1,6 +1,6 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-07-17T19:16:38+00:00_  
+_Auto-generiert. Letzter Run: 2026-07-17T19:19:15+00:00_  
 _Total Runs: 5777_  
 _Letzte Run-Zusammenfassung: 553 scraped, 0 matches, 0 sent_
 
@@ -10,7 +10,7 @@ _Letzte Run-Zusammenfassung: 553 scraped, 0 matches, 0 sent_
 |---|---:|---:|---|---|---|
 | Citigrund | 471427 | 81.6 | 5636/5777 | vor 0min | 🟢 aktiv |
 | Park Avenue Immobilien | 283649 | 49.1 | 5662/5777 | vor 0min | 🟢 aktiv |
-| WSB Bayern | 216476 | 37.5 | 5582/5777 | vor 58min | 🟢 aktiv |
+| WSB Bayern | 216476 | 37.5 | 5582/5777 | vor 1h | 🟢 aktiv |
 | Pandion Service | 173192 | 30.0 | 5774/5777 | vor 0min | 🟢 aktiv |
 | Immobilien Schlamp | 172287 | 29.8 | 5755/5777 | vor 0min | 🟢 aktiv |
 | WG-Gesucht | 147948 | 25.6 | 5385/5777 | vor 0min | 🟢 aktiv |
@@ -36,7 +36,7 @@ _Letzte Run-Zusammenfassung: 553 scraped, 0 matches, 0 sent_
 | Kleinanzeigen | 26189 | 4.5 | 5773/5777 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 23104 | 4.0 | 5776/5777 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 22817 | 3.9 | 5306/5777 | vor 0min | 🟢 aktiv |
-| DIBAG | 22328 | 3.9 | 5582/5777 | vor 58min | 🟢 aktiv |
+| DIBAG | 22328 | 3.9 | 5582/5777 | vor 1h | 🟢 aktiv |
 | Rosenberger Immobilien | 17779 | 3.1 | 5761/5777 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 17428 | 3.0 | 5633/5775 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 16989 | 2.9 | 5663/5777 | vor 0min | 🟢 aktiv |
