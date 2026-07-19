@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-07-19T16:32:53+00:00_  
+_Auto-generiert. Letzter Run: 2026-07-19T16:35:35+00:00_  
 _Total Runs: 5984_  
-_Letzte Run-Zusammenfassung: 564 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 555 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -10,7 +10,7 @@ _Letzte Run-Zusammenfassung: 564 scraped, 0 matches, 0 sent_
 |---|---:|---:|---|---|---|
 | Citigrund | 488794 | 81.7 | 5841/5984 | vor 0min | 🟢 aktiv |
 | Park Avenue Immobilien | 294155 | 49.2 | 5868/5984 | vor 0min | 🟢 aktiv |
-| WSB Bayern | 219755 | 36.7 | 5670/5984 | vor 8h | 🟢 aktiv |
+| WSB Bayern | 219755 | 36.7 | 5670/5984 | vor 9h | 🟢 aktiv |
 | Pandion Service | 179402 | 30.0 | 5981/5984 | vor 0min | 🟢 aktiv |
 | Immobilien Schlamp | 178290 | 29.8 | 5962/5984 | vor 0min | 🟢 aktiv |
 | WG-Gesucht | 153128 | 25.6 | 5570/5984 | vor 0min | 🟢 aktiv |
@@ -28,15 +28,15 @@ _Letzte Run-Zusammenfassung: 564 scraped, 0 matches, 0 sent_
 | Heimhuber Immobilien | 61806 | 10.3 | 5974/5984 | vor 0min | 🟢 aktiv |
 | Immler Martin Hausverwaltung | 47872 | 8.0 | 5984/5984 | vor 0min | 🟢 aktiv |
 | Immo-Hyp | 47507 | 7.9 | 5959/5984 | vor 0min | 🟢 aktiv |
-| Franziskanerhof | 42075 | 7.0 | 5977/5984 | vor 0min | 🟢 aktiv |
+| Franziskanerhof | 42074 | 7.0 | 5977/5984 | vor 0min | 🟢 aktiv |
 | Hegerich Immobilien | 41761 | 7.0 | 5979/5984 | vor 0min | 🟢 aktiv |
 | Ab ins Zuhause | 40920 | 6.8 | 5115/5984 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 34708 | 5.8 | 5781/5984 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 33186 | 5.5 | 5978/5984 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 27339 | 4.6 | 5980/5984 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 27332 | 4.6 | 5980/5984 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 23932 | 4.0 | 5983/5984 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 23827 | 4.0 | 5508/5984 | vor 0min | 🟢 aktiv |
-| DIBAG | 22684 | 3.8 | 5671/5984 | vor 8h | 🟢 aktiv |
+| DIBAG | 22684 | 3.8 | 5671/5984 | vor 9h | 🟢 aktiv |
 | Rosenberger Immobilien | 18193 | 3.0 | 5968/5984 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 17838 | 3.0 | 5838/5982 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 17586 | 2.9 | 5862/5984 | vor 0min | 🟢 aktiv |
@@ -58,11 +58,11 @@ _Letzte Run-Zusammenfassung: 564 scraped, 0 matches, 0 sent_
 | Egger Immobilien | 5885 | 1.0 | 5885/5984 | vor 0min | 🟢 aktiv |
 | Maier Immobilien | 5852 | 1.0 | 5852/5984 | vor 0min | 🟢 aktiv |
 | Dawonia | 4854 | 0.8 | 4854/5984 | vor 0min | 🟢 aktiv |
-| Immovision München | 3173 | 0.5 | 3173/5984 | vor 0min | 🟢 aktiv |
+| Immovision München | 3172 | 0.5 | 3172/5984 | vor 17min | 🟢 aktiv |
 | Immobilie1 | 2611 | 0.4 | 2611/5984 | vor 26d | 🟡 inaktiv (lange leer) |
 | Wagnis | 1650 | 0.3 | 1650/5984 | vor 0min | 🟢 aktiv |
 | EBM München | 957 | 0.2 | 955/5984 | vor 9d | 🟡 inaktiv (lange leer) |
-| Email Inbox | 831 | 0.1 | 677/5984 | vor 44min | 🟢 aktiv |
+| Email Inbox | 831 | 0.1 | 677/5984 | vor 47min | 🟢 aktiv |
 | Immowelt | 64 | 0.0 | 2/5984 | vor 4d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 60d | 🟢 aktiv |
 | Munich Property | 10 | 5.0 | 2/2 | vor 60d | 🟢 aktiv |
