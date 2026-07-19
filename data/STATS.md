@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-07-19T12:33:16+00:00_  
+_Auto-generiert. Letzter Run: 2026-07-19T12:35:59+00:00_  
 _Total Runs: 5966_  
-_Letzte Run-Zusammenfassung: 562 scraped, 1 matches, 1 sent_
+_Letzte Run-Zusammenfassung: 555 scraped, 1 matches, 1 sent_
 
 ## Adapter-Übersicht
 
@@ -10,7 +10,7 @@ _Letzte Run-Zusammenfassung: 562 scraped, 1 matches, 1 sent_
 |---|---:|---:|---|---|---|
 | Citigrund | 487247 | 81.7 | 5823/5966 | vor 0min | 🟢 aktiv |
 | Park Avenue Immobilien | 293237 | 49.2 | 5850/5966 | vor 0min | 🟢 aktiv |
-| WSB Bayern | 219755 | 36.8 | 5670/5966 | vor 4h | 🟢 aktiv |
+| WSB Bayern | 219755 | 36.8 | 5670/5966 | vor 5h | 🟢 aktiv |
 | Pandion Service | 178862 | 30.0 | 5963/5966 | vor 0min | 🟢 aktiv |
 | Immobilien Schlamp | 177768 | 29.8 | 5944/5966 | vor 0min | 🟢 aktiv |
 | WG-Gesucht | 152680 | 25.6 | 5554/5966 | vor 0min | 🟢 aktiv |
@@ -33,10 +33,10 @@ _Letzte Run-Zusammenfassung: 562 scraped, 1 matches, 1 sent_
 | Ab ins Zuhause | 40808 | 6.8 | 5101/5966 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 34636 | 5.8 | 5763/5966 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 33096 | 5.5 | 5960/5966 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 27216 | 4.6 | 5962/5966 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 27208 | 4.6 | 5962/5966 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 23860 | 4.0 | 5965/5966 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 23737 | 4.0 | 5490/5966 | vor 0min | 🟢 aktiv |
-| DIBAG | 22684 | 3.8 | 5671/5966 | vor 4h | 🟢 aktiv |
+| DIBAG | 22684 | 3.8 | 5671/5966 | vor 5h | 🟢 aktiv |
 | Rosenberger Immobilien | 18157 | 3.0 | 5950/5966 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 17804 | 3.0 | 5821/5964 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 17532 | 2.9 | 5844/5966 | vor 0min | 🟢 aktiv |
@@ -44,7 +44,7 @@ _Letzte Run-Zusammenfassung: 562 scraped, 1 matches, 1 sent_
 | GVG Net | 17276 | 2.9 | 5959/5966 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 16701 | 2.8 | 5882/5966 | vor 0min | 🟢 aktiv |
 | Lehmann Hueber | 14698 | 2.5 | 5955/5966 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 14323 | 2.4 | 5943/5966 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 14324 | 2.4 | 5943/5966 | vor 0min | 🟢 aktiv |
 | Südhausbau | 14233 | 2.4 | 5937/5966 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 13219 | 2.2 | 4896/5966 | vor 0min | 🟢 aktiv |
 | ImmoSmart | 11773 | 2.0 | 5297/5966 | vor 0min | 🟢 aktiv |
@@ -62,7 +62,7 @@ _Letzte Run-Zusammenfassung: 562 scraped, 1 matches, 1 sent_
 | Immobilie1 | 2611 | 0.4 | 2611/5966 | vor 26d | 🟡 inaktiv (lange leer) |
 | Wagnis | 1633 | 0.3 | 1633/5966 | vor 0min | 🟢 aktiv |
 | EBM München | 957 | 0.2 | 955/5966 | vor 9d | 🟡 inaktiv (lange leer) |
-| Email Inbox | 827 | 0.1 | 673/5966 | vor 45min | 🟢 aktiv |
+| Email Inbox | 827 | 0.1 | 673/5966 | vor 48min | 🟢 aktiv |
 | Immowelt | 64 | 0.0 | 2/5966 | vor 4d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 60d | 🟢 aktiv |
 | Munich Property | 10 | 5.0 | 2/2 | vor 60d | 🟢 aktiv |
