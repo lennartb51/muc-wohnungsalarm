@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-07-20T16:47:53+00:00_  
+_Auto-generiert. Letzter Run: 2026-07-20T16:50:26+00:00_  
 _Total Runs: 6087_  
-_Letzte Run-Zusammenfassung: 584 scraped, 1 matches, 1 sent_
+_Letzte Run-Zusammenfassung: 582 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -30,10 +30,10 @@ _Letzte Run-Zusammenfassung: 584 scraped, 1 matches, 1 sent_
 | Immo-Hyp | 48642 | 8.0 | 6062/6087 | vor 0min | 🟢 aktiv |
 | Franziskanerhof | 42589 | 7.0 | 6080/6087 | vor 0min | 🟢 aktiv |
 | Hegerich Immobilien | 42475 | 7.0 | 6081/6087 | vor 0min | 🟢 aktiv |
-| Ab ins Zuhause | 41616 | 6.8 | 5202/6087 | vor 14min | 🟢 aktiv |
+| Ab ins Zuhause | 41616 | 6.8 | 5202/6087 | vor 17min | 🟢 aktiv |
 | EP Immobilien | 35116 | 5.8 | 5883/6087 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 33701 | 5.5 | 6081/6087 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 27868 | 4.6 | 6083/6087 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 27865 | 4.6 | 6083/6087 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 24344 | 4.0 | 6086/6087 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 24296 | 4.0 | 5610/6087 | vor 0min | 🟢 aktiv |
 | DIBAG | 23048 | 3.8 | 5762/6087 | vor 0min | 🟢 aktiv |
@@ -44,7 +44,7 @@ _Letzte Run-Zusammenfassung: 584 scraped, 1 matches, 1 sent_
 | GVG Net | 17609 | 2.9 | 6080/6087 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 17331 | 2.8 | 6003/6087 | vor 0min | 🟢 aktiv |
 | Lehmann Hueber | 15941 | 2.6 | 6060/6087 | vor 3h | 🟢 aktiv |
-| Scheel Immobilien | 14611 | 2.4 | 6064/6087 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 14613 | 2.4 | 6064/6087 | vor 0min | 🟢 aktiv |
 | Südhausbau | 14354 | 2.4 | 6058/6087 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 13558 | 2.2 | 5009/6087 | vor 0min | 🟢 aktiv |
 | ImmoSmart | 12040 | 2.0 | 5417/6087 | vor 0min | 🟢 aktiv |
@@ -62,7 +62,7 @@ _Letzte Run-Zusammenfassung: 584 scraped, 1 matches, 1 sent_
 | Immobilie1 | 2611 | 0.4 | 2611/6087 | vor 27d | 🟡 inaktiv (lange leer) |
 | Wagnis | 1751 | 0.3 | 1751/6087 | vor 0min | 🟢 aktiv |
 | EBM München | 957 | 0.2 | 955/6087 | vor 10d | 🟡 inaktiv (lange leer) |
-| Email Inbox | 849 | 0.1 | 692/6087 | vor 0min | 🟢 aktiv |
+| Email Inbox | 848 | 0.1 | 691/6087 | vor 1h | 🟢 aktiv |
 | Immowelt | 64 | 0.0 | 2/6087 | vor 5d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 61d | 🟢 aktiv |
 | Munich Property | 10 | 5.0 | 2/2 | vor 61d | 🟢 aktiv |
