@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-07-21T13:03:17+00:00_  
+_Auto-generiert. Letzter Run: 2026-07-21T13:05:53+00:00_  
 _Total Runs: 6172_  
-_Letzte Run-Zusammenfassung: 581 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 582 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -26,11 +26,11 @@ _Letzte Run-Zusammenfassung: 581 scraped, 0 matches, 0 sent_
 | Wohnreferat München | 69206 | 11.2 | 5691/6172 | vor 0min | 🟢 aktiv |
 | Wegener Immobilien | 67892 | 11.0 | 6172/6172 | vor 0min | 🟢 aktiv |
 | Heimhuber Immobilien | 63962 | 10.4 | 6162/6172 | vor 0min | 🟢 aktiv |
-| Immo-Hyp | 49650 | 8.0 | 6147/6172 | vor 0min | 🟢 aktiv |
+| Immo-Hyp | 49651 | 8.0 | 6147/6172 | vor 0min | 🟢 aktiv |
 | Immler Martin Hausverwaltung | 49376 | 8.0 | 6172/6172 | vor 0min | 🟢 aktiv |
 | Hegerich Immobilien | 43070 | 7.0 | 6166/6172 | vor 0min | 🟢 aktiv |
 | Franziskanerhof | 43014 | 7.0 | 6165/6172 | vor 0min | 🟢 aktiv |
-| Ab ins Zuhause | 42200 | 6.8 | 5275/6172 | vor 30min | 🟢 aktiv |
+| Ab ins Zuhause | 42200 | 6.8 | 5275/6172 | vor 32min | 🟢 aktiv |
 | EP Immobilien | 35444 | 5.7 | 5965/6172 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 34126 | 5.5 | 6166/6172 | vor 0min | 🟢 aktiv |
 | Kleinanzeigen | 28424 | 4.6 | 6168/6172 | vor 0min | 🟢 aktiv |
@@ -62,7 +62,7 @@ _Letzte Run-Zusammenfassung: 581 scraped, 0 matches, 0 sent_
 | Immobilie1 | 2611 | 0.4 | 2611/6172 | vor 28d | 🟡 inaktiv (lange leer) |
 | Wagnis | 1833 | 0.3 | 1833/6172 | vor 0min | 🟢 aktiv |
 | EBM München | 957 | 0.2 | 955/6172 | vor 11d | 🟡 inaktiv (lange leer) |
-| Email Inbox | 858 | 0.1 | 700/6172 | vor 45min | 🟢 aktiv |
+| Email Inbox | 858 | 0.1 | 700/6172 | vor 48min | 🟢 aktiv |
 | Immowelt | 64 | 0.0 | 2/6172 | vor 6d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 62d | 🟢 aktiv |
 | Munich Property | 10 | 5.0 | 2/2 | vor 62d | 🟢 aktiv |
