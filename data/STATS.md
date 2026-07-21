@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-07-21T21:16:59+00:00_  
+_Auto-generiert. Letzter Run: 2026-07-21T21:19:30+00:00_  
 _Total Runs: 6207_  
-_Letzte Run-Zusammenfassung: 556 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 591 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -13,7 +13,7 @@ _Letzte Run-Zusammenfassung: 556 scraped, 0 matches, 0 sent_
 | WSB Bayern | 227251 | 36.6 | 5877/6207 | vor 0min | 🟢 aktiv |
 | Pandion Service | 186092 | 30.0 | 6204/6207 | vor 0min | 🟢 aktiv |
 | Immobilien Schlamp | 184757 | 29.8 | 6185/6207 | vor 0min | 🟢 aktiv |
-| WG-Gesucht | 159036 | 25.6 | 5781/6207 | vor 29min | 🟢 aktiv |
+| WG-Gesucht | 159064 | 25.6 | 5782/6207 | vor 0min | 🟢 aktiv |
 | ohne-makler.net | 148872 | 24.0 | 6203/6207 | vor 0min | 🟢 aktiv |
 | KPC Immobilien | 146951 | 31.7 | 4636/4640 | vor 0min | 🟢 aktiv |
 | Immobilo | 128788 | 20.7 | 6198/6207 | vor 0min | 🟢 aktiv |
@@ -33,7 +33,7 @@ _Letzte Run-Zusammenfassung: 556 scraped, 0 matches, 0 sent_
 | Ab ins Zuhause | 42424 | 6.8 | 5303/6207 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 35584 | 5.7 | 6000/6207 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 34301 | 5.5 | 6201/6207 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 28559 | 4.6 | 6203/6207 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 28563 | 4.6 | 6203/6207 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 24824 | 4.0 | 6206/6207 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 24772 | 4.0 | 5729/6207 | vor 0min | 🟢 aktiv |
 | DIBAG | 23508 | 3.8 | 5877/6207 | vor 0min | 🟢 aktiv |
@@ -46,7 +46,7 @@ _Letzte Run-Zusammenfassung: 556 scraped, 0 matches, 0 sent_
 | Lehmann Hueber | 15941 | 2.6 | 6060/6207 | vor 1d | 🟡 inaktiv (lange leer) |
 | Scheel Immobilien | 14887 | 2.4 | 6183/6207 | vor 0min | 🟢 aktiv |
 | Südhausbau | 14474 | 2.3 | 6178/6207 | vor 0min | 🟢 aktiv |
-| LPE Immobilien | 13879 | 2.2 | 5116/6207 | vor 13min | 🟢 aktiv |
+| LPE Immobilien | 13882 | 2.2 | 5117/6207 | vor 0min | 🟢 aktiv |
 | ImmoSmart | 12277 | 2.0 | 5536/6207 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 10827 | 1.7 | 6128/6207 | vor 0min | 🟢 aktiv |
 | KSWM | 9629 | 1.6 | 6044/6207 | vor 0min | 🟢 aktiv |
@@ -62,7 +62,7 @@ _Letzte Run-Zusammenfassung: 556 scraped, 0 matches, 0 sent_
 | Immobilie1 | 2611 | 0.4 | 2611/6207 | vor 29d | 🟡 inaktiv (lange leer) |
 | Wagnis | 1866 | 0.3 | 1866/6207 | vor 0min | 🟢 aktiv |
 | EBM München | 957 | 0.2 | 955/6207 | vor 11d | 🟡 inaktiv (lange leer) |
-| Email Inbox | 865 | 0.1 | 706/6207 | vor 43min | 🟢 aktiv |
+| Email Inbox | 865 | 0.1 | 706/6207 | vor 46min | 🟢 aktiv |
 | Immowelt | 64 | 0.0 | 2/6207 | vor 6d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 62d | 🟢 aktiv |
 | Munich Property | 10 | 5.0 | 2/2 | vor 62d | 🟢 aktiv |
