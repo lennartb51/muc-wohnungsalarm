@@ -1,15 +1,15 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-07-21T09:17:29+00:00_  
+_Auto-generiert. Letzter Run: 2026-07-21T09:20:31+00:00_  
 _Total Runs: 6156_  
-_Letzte Run-Zusammenfassung: 532 scraped, 1 matches, 1 sent_
+_Letzte Run-Zusammenfassung: 534 scraped, 1 matches, 1 sent_
 
 ## Adapter-Übersicht
 
 | Adapter | Scraped (Σ) | Avg/Run | Runs aktiv | Letzte Aktivität | Status |
 |---|---:|---:|---|---|---|
 | Citigrund | 503068 | 81.7 | 6007/6156 | vor 0min | 🟢 aktiv |
-| Park Avenue Immobilien | 302825 | 49.2 | 6038/6156 | vor 29min | 🟢 aktiv |
+| Park Avenue Immobilien | 302825 | 49.2 | 6038/6156 | vor 32min | 🟢 aktiv |
 | WSB Bayern | 225314 | 36.6 | 5829/6156 | vor 0min | 🟢 aktiv |
 | Pandion Service | 184562 | 30.0 | 6153/6156 | vor 0min | 🟢 aktiv |
 | Immobilien Schlamp | 183278 | 29.8 | 6134/6156 | vor 0min | 🟢 aktiv |
@@ -44,7 +44,7 @@ _Letzte Run-Zusammenfassung: 532 scraped, 1 matches, 1 sent_
 | GVG Net | 17747 | 2.9 | 6149/6156 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 17701 | 2.9 | 6072/6156 | vor 0min | 🟢 aktiv |
 | Lehmann Hueber | 15941 | 2.6 | 6060/6156 | vor 20h | 🟢 aktiv |
-| Scheel Immobilien | 14776 | 2.4 | 6133/6156 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 14778 | 2.4 | 6133/6156 | vor 0min | 🟢 aktiv |
 | Südhausbau | 14423 | 2.3 | 6127/6156 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 13744 | 2.2 | 5071/6156 | vor 0min | 🟢 aktiv |
 | ImmoSmart | 12175 | 2.0 | 5485/6156 | vor 0min | 🟢 aktiv |
