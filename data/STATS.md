@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-07-22T09:15:41+00:00_  
+_Auto-generiert. Letzter Run: 2026-07-22T09:18:07+00:00_  
 _Total Runs: 6257_  
-_Letzte Run-Zusammenfassung: 611 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 585 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -13,7 +13,7 @@ _Letzte Run-Zusammenfassung: 611 scraped, 0 matches, 0 sent_
 | WSB Bayern | 229316 | 36.6 | 5926/6257 | vor 0min | 🟢 aktiv |
 | Pandion Service | 187592 | 30.0 | 6254/6257 | vor 0min | 🟢 aktiv |
 | Immobilien Schlamp | 186207 | 29.8 | 6235/6257 | vor 0min | 🟢 aktiv |
-| WG-Gesucht | 160352 | 25.6 | 5828/6257 | vor 0min | 🟢 aktiv |
+| WG-Gesucht | 160324 | 25.6 | 5827/6257 | vor 15min | 🟢 aktiv |
 | ohne-makler.net | 150072 | 24.0 | 6253/6257 | vor 0min | 🟢 aktiv |
 | KPC Immobilien | 148601 | 31.7 | 4686/4690 | vor 0min | 🟢 aktiv |
 | Immobilo | 129796 | 20.7 | 6248/6257 | vor 0min | 🟢 aktiv |
@@ -44,7 +44,7 @@ _Letzte Run-Zusammenfassung: 611 scraped, 0 matches, 0 sent_
 | Rohrer Firmengruppe | 18258 | 2.9 | 6173/6257 | vor 0min | 🟢 aktiv |
 | GVG Net | 17949 | 2.9 | 6250/6257 | vor 0min | 🟢 aktiv |
 | Lehmann Hueber | 15941 | 2.5 | 6060/6257 | vor 1d | 🟡 inaktiv (lange leer) |
-| Scheel Immobilien | 15019 | 2.4 | 6233/6257 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 15021 | 2.4 | 6233/6257 | vor 0min | 🟢 aktiv |
 | Südhausbau | 14524 | 2.3 | 6228/6257 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 14029 | 2.2 | 5166/6257 | vor 0min | 🟢 aktiv |
 | ImmoSmart | 12377 | 2.0 | 5586/6257 | vor 0min | 🟢 aktiv |
@@ -62,7 +62,7 @@ _Letzte Run-Zusammenfassung: 611 scraped, 0 matches, 0 sent_
 | Immobilie1 | 2611 | 0.4 | 2611/6257 | vor 29d | 🟡 inaktiv (lange leer) |
 | Wagnis | 1915 | 0.3 | 1915/6257 | vor 0min | 🟢 aktiv |
 | EBM München | 957 | 0.2 | 955/6257 | vor 11d | 🟡 inaktiv (lange leer) |
-| Email Inbox | 869 | 0.1 | 709/6257 | vor 12min | 🟢 aktiv |
+| Email Inbox | 869 | 0.1 | 709/6257 | vor 15min | 🟢 aktiv |
 | Immowelt | 64 | 0.0 | 2/6257 | vor 7d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 63d | 🟢 aktiv |
 | Munich Property | 10 | 5.0 | 2/2 | vor 63d | 🟢 aktiv |
