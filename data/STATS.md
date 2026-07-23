@@ -1,6 +1,6 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-07-23T21:45:46+00:00_  
+_Auto-generiert. Letzter Run: 2026-07-23T21:48:06+00:00_  
 _Total Runs: 6421_  
 _Letzte Run-Zusammenfassung: 600 scraped, 0 matches, 0 sent_
 
