@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-07-25T10:47:49+00:00_  
+_Auto-generiert. Letzter Run: 2026-07-25T10:50:24+00:00_  
 _Total Runs: 6581_  
-_Letzte Run-Zusammenfassung: 605 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 588 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -23,7 +23,7 @@ _Letzte Run-Zusammenfassung: 605 scraped, 0 matches, 0 sent_
 | FAZ Immobilien | 123625 | 18.8 | 6572/6581 | vor 0min | 🟢 aktiv |
 | Engel & Völkers | 103150 | 15.7 | 6580/6581 | vor 0min | 🟢 aktiv |
 | Idowa Altstadt-Lehel | 80734 | 12.3 | 6573/6581 | vor 0min | 🟢 aktiv |
-| Wohnreferat München | 74469 | 11.3 | 6096/6581 | vor 0min | 🟢 aktiv |
+| Wohnreferat München | 74456 | 11.3 | 6095/6581 | vor 17min | 🟢 aktiv |
 | Wegener Immobilien | 72391 | 11.0 | 6581/6581 | vor 0min | 🟢 aktiv |
 | Heimhuber Immobilien | 68654 | 10.4 | 6570/6581 | vor 0min | 🟢 aktiv |
 | Immo-Hyp | 54646 | 8.3 | 6555/6581 | vor 0min | 🟢 aktiv |
@@ -35,7 +35,7 @@ _Letzte Run-Zusammenfassung: 605 scraped, 0 matches, 0 sent_
 | Chalet Immobilien | 36274 | 5.5 | 6575/6581 | vor 0min | 🟢 aktiv |
 | Kleinanzeigen | 30419 | 4.6 | 6577/6581 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 26320 | 4.0 | 6580/6581 | vor 0min | 🟢 aktiv |
-| Sedlmayr AG | 26139 | 4.0 | 6099/6581 | vor 0min | 🟢 aktiv |
+| Sedlmayr AG | 26136 | 4.0 | 6098/6581 | vor 17min | 🟢 aktiv |
 | DIBAG | 24960 | 3.8 | 6240/6581 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 20184 | 3.1 | 6565/6581 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 19977 | 3.0 | 6496/6581 | vor 0min | 🟢 aktiv |
@@ -44,11 +44,11 @@ _Letzte Run-Zusammenfassung: 605 scraped, 0 matches, 0 sent_
 | Pienzenauer Immobilien | 19000 | 2.9 | 6426/6579 | vor 0min | 🟢 aktiv |
 | GVG Net | 18597 | 2.8 | 6574/6581 | vor 0min | 🟢 aktiv |
 | Lehmann Hueber | 15941 | 2.4 | 6060/6581 | vor 4d | 🟡 inaktiv (lange leer) |
-| Scheel Immobilien | 15774 | 2.4 | 6557/6581 | vor 0min | 🟢 aktiv |
-| LPE Immobilien | 14905 | 2.3 | 5458/6581 | vor 14min | 🟢 aktiv |
+| Scheel Immobilien | 15773 | 2.4 | 6557/6581 | vor 0min | 🟢 aktiv |
+| LPE Immobilien | 14905 | 2.3 | 5458/6581 | vor 17min | 🟢 aktiv |
 | Südhausbau | 14848 | 2.3 | 6552/6581 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 13041 | 2.0 | 6497/6581 | vor 0min | 🟢 aktiv |
-| ImmoSmart | 12894 | 2.0 | 5902/6581 | vor 59min | 🟢 aktiv |
+| ImmoSmart | 12894 | 2.0 | 5902/6581 | vor 1h | 🟢 aktiv |
 | KSWM | 9997 | 1.5 | 6412/6581 | vor 0min | 🟢 aktiv |
 | KLN Immobilien | 7651 | 1.2 | 5112/6581 | vor 0min | 🟢 aktiv |
 | HI Wohnbau | 6579 | 1.0 | 6579/6581 | vor 0min | 🟢 aktiv |
