@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-07-25T04:32:48+00:00_  
+_Auto-generiert. Letzter Run: 2026-07-25T04:35:05+00:00_  
 _Total Runs: 6556_  
-_Letzte Run-Zusammenfassung: 579 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 602 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -13,7 +13,7 @@ _Letzte Run-Zusammenfassung: 579 scraped, 0 matches, 0 sent_
 | WSB Bayern | 240854 | 36.7 | 6214/6556 | vor 0min | 🟢 aktiv |
 | Pandion Service | 196532 | 30.0 | 6552/6556 | vor 0min | 🟢 aktiv |
 | Immobilien Schlamp | 194820 | 29.7 | 6532/6556 | vor 0min | 🟢 aktiv |
-| WG-Gesucht | 168332 | 25.7 | 6113/6556 | vor 15min | 🟢 aktiv |
+| WG-Gesucht | 168360 | 25.7 | 6114/6556 | vor 0min | 🟢 aktiv |
 | KPC Immobilien | 158646 | 31.8 | 4985/4989 | vor 0min | 🟢 aktiv |
 | ohne-makler.net | 157248 | 24.0 | 6552/6556 | vor 0min | 🟢 aktiv |
 | Immobilo | 135797 | 20.7 | 6547/6556 | vor 0min | 🟢 aktiv |
@@ -33,7 +33,7 @@ _Letzte Run-Zusammenfassung: 579 scraped, 0 matches, 0 sent_
 | Ab ins Zuhause | 44872 | 6.8 | 5609/6556 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 36980 | 5.6 | 6349/6556 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 36124 | 5.5 | 6550/6556 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 30320 | 4.6 | 6552/6556 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 30314 | 4.6 | 6552/6556 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 26220 | 4.0 | 6555/6556 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 26064 | 4.0 | 6074/6556 | vor 0min | 🟢 aktiv |
 | DIBAG | 24860 | 3.8 | 6215/6556 | vor 0min | 🟢 aktiv |
@@ -44,7 +44,7 @@ _Letzte Run-Zusammenfassung: 579 scraped, 0 matches, 0 sent_
 | Pienzenauer Immobilien | 18950 | 2.9 | 6401/6554 | vor 0min | 🟢 aktiv |
 | GVG Net | 18547 | 2.8 | 6549/6556 | vor 0min | 🟢 aktiv |
 | Lehmann Hueber | 15941 | 2.4 | 6060/6556 | vor 4d | 🟡 inaktiv (lange leer) |
-| Scheel Immobilien | 15715 | 2.4 | 6532/6556 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 15716 | 2.4 | 6532/6556 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 14836 | 2.3 | 5435/6556 | vor 0min | 🟢 aktiv |
 | Südhausbau | 14823 | 2.3 | 6527/6556 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 12891 | 2.0 | 6472/6556 | vor 0min | 🟢 aktiv |
