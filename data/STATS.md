@@ -1,6 +1,6 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-07-25T23:18:02+00:00_  
+_Auto-generiert. Letzter Run: 2026-07-25T23:20:34+00:00_  
 _Total Runs: 6636_  
 _Letzte Run-Zusammenfassung: 602 scraped, 0 matches, 0 sent_
 
@@ -33,7 +33,7 @@ _Letzte Run-Zusammenfassung: 602 scraped, 0 matches, 0 sent_
 | Franziskanerhof | 45334 | 6.8 | 6629/6636 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 37300 | 5.6 | 6429/6636 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 36604 | 5.5 | 6630/6636 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 30633 | 4.6 | 6632/6636 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 30632 | 4.6 | 6632/6636 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 26540 | 4.0 | 6635/6636 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 26298 | 4.0 | 6152/6636 | vor 0min | 🟢 aktiv |
 | DIBAG | 25176 | 3.8 | 6294/6636 | vor 0min | 🟢 aktiv |
@@ -44,7 +44,7 @@ _Letzte Run-Zusammenfassung: 602 scraped, 0 matches, 0 sent_
 | Pienzenauer Immobilien | 19110 | 2.9 | 6481/6634 | vor 0min | 🟢 aktiv |
 | GVG Net | 18707 | 2.8 | 6629/6636 | vor 0min | 🟢 aktiv |
 | Lehmann Hueber | 15941 | 2.4 | 6060/6636 | vor 5d | 🟡 inaktiv (lange leer) |
-| Scheel Immobilien | 15899 | 2.4 | 6612/6636 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 15900 | 2.4 | 6612/6636 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 15052 | 2.3 | 5507/6636 | vor 0min | 🟢 aktiv |
 | Südhausbau | 14903 | 2.2 | 6607/6636 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 13371 | 2.0 | 6552/6636 | vor 0min | 🟢 aktiv |
