@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-07-26T04:03:01+00:00_  
+_Auto-generiert. Letzter Run: 2026-07-26T04:05:35+00:00_  
 _Total Runs: 6655_  
-_Letzte Run-Zusammenfassung: 602 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 574 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -13,7 +13,7 @@ _Letzte Run-Zusammenfassung: 602 scraped, 0 matches, 0 sent_
 | WSB Bayern | 244774 | 36.8 | 6312/6655 | vor 0min | 🟢 aktiv |
 | Pandion Service | 199502 | 30.0 | 6651/6655 | vor 0min | 🟢 aktiv |
 | Immobilien Schlamp | 197691 | 29.7 | 6631/6655 | vor 0min | 🟢 aktiv |
-| WG-Gesucht | 171020 | 25.7 | 6209/6655 | vor 0min | 🟢 aktiv |
+| WG-Gesucht | 170992 | 25.7 | 6208/6655 | vor 17min | 🟢 aktiv |
 | KPC Immobilien | 162084 | 31.9 | 5084/5088 | vor 0min | 🟢 aktiv |
 | ohne-makler.net | 159624 | 24.0 | 6651/6655 | vor 0min | 🟢 aktiv |
 | Immobilo | 137823 | 20.7 | 6646/6655 | vor 0min | 🟢 aktiv |
@@ -45,7 +45,7 @@ _Letzte Run-Zusammenfassung: 602 scraped, 0 matches, 0 sent_
 | GVG Net | 18745 | 2.8 | 6648/6655 | vor 0min | 🟢 aktiv |
 | Scheel Immobilien | 15946 | 2.4 | 6631/6655 | vor 0min | 🟢 aktiv |
 | Lehmann Hueber | 15941 | 2.4 | 6060/6655 | vor 5d | 🟡 inaktiv (lange leer) |
-| LPE Immobilien | 15100 | 2.3 | 5523/6655 | vor 15min | 🟢 aktiv |
+| LPE Immobilien | 15100 | 2.3 | 5523/6655 | vor 17min | 🟢 aktiv |
 | Südhausbau | 14922 | 2.2 | 6626/6655 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 13485 | 2.0 | 6571/6655 | vor 0min | 🟢 aktiv |
 | ImmoSmart | 12894 | 1.9 | 5902/6655 | vor 18h | 🟢 aktiv |
