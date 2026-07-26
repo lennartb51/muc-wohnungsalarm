@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-07-26T19:17:26+00:00_  
+_Auto-generiert. Letzter Run: 2026-07-26T19:19:57+00:00_  
 _Total Runs: 6723_  
-_Letzte Run-Zusammenfassung: 576 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 606 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -13,7 +13,7 @@ _Letzte Run-Zusammenfassung: 576 scraped, 0 matches, 0 sent_
 | WSB Bayern | 247454 | 36.8 | 6379/6723 | vor 0min | 🟢 aktiv |
 | Pandion Service | 201542 | 30.0 | 6719/6723 | vor 0min | 🟢 aktiv |
 | Immobilien Schlamp | 199663 | 29.7 | 6699/6723 | vor 0min | 🟢 aktiv |
-| WG-Gesucht | 172784 | 25.7 | 6272/6723 | vor 14min | 🟢 aktiv |
+| WG-Gesucht | 172812 | 25.7 | 6273/6723 | vor 0min | 🟢 aktiv |
 | KPC Immobilien | 164464 | 31.9 | 5152/5156 | vor 0min | 🟢 aktiv |
 | ohne-makler.net | 161256 | 24.0 | 6719/6723 | vor 0min | 🟢 aktiv |
 | Immobilo | 139140 | 20.7 | 6714/6723 | vor 0min | 🟢 aktiv |
@@ -33,7 +33,7 @@ _Letzte Run-Zusammenfassung: 576 scraped, 0 matches, 0 sent_
 | Franziskanerhof | 45769 | 6.8 | 6716/6723 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 37644 | 5.6 | 6515/6723 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 37126 | 5.5 | 6717/6723 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 30910 | 4.6 | 6719/6723 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 30907 | 4.6 | 6719/6723 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 26888 | 4.0 | 6722/6723 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 26556 | 4.0 | 6238/6723 | vor 0min | 🟢 aktiv |
 | DIBAG | 25524 | 3.8 | 6381/6723 | vor 0min | 🟢 aktiv |
@@ -43,9 +43,9 @@ _Letzte Run-Zusammenfassung: 576 scraped, 0 matches, 0 sent_
 | Alsaol | 19660 | 2.9 | 6723/6723 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 19272 | 2.9 | 6562/6721 | vor 0min | 🟢 aktiv |
 | GVG Net | 18881 | 2.8 | 6716/6723 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 16117 | 2.4 | 6699/6723 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 16119 | 2.4 | 6699/6723 | vor 0min | 🟢 aktiv |
 | Lehmann Hueber | 15941 | 2.4 | 6060/6723 | vor 6d | 🟡 inaktiv (lange leer) |
-| LPE Immobilien | 15271 | 2.3 | 5580/6723 | vor 14min | 🟢 aktiv |
+| LPE Immobilien | 15274 | 2.3 | 5581/6723 | vor 0min | 🟢 aktiv |
 | Südhausbau | 14990 | 2.2 | 6694/6723 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 13893 | 2.1 | 6639/6723 | vor 0min | 🟢 aktiv |
 | ImmoSmart | 12894 | 1.9 | 5902/6723 | vor 1d | 🟡 inaktiv (lange leer) |
