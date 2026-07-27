@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-07-27T18:01:00+00:00_  
+_Auto-generiert. Letzter Run: 2026-07-27T18:03:36+00:00_  
 _Total Runs: 6820_  
-_Letzte Run-Zusammenfassung: 605 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 603 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -43,9 +43,9 @@ _Letzte Run-Zusammenfassung: 605 scraped, 0 matches, 0 sent_
 | Alsaol | 19951 | 2.9 | 6820/6820 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 19464 | 2.9 | 6658/6818 | vor 0min | 🟢 aktiv |
 | GVG Net | 19075 | 2.8 | 6813/6820 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 16355 | 2.4 | 6796/6820 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 16356 | 2.4 | 6796/6820 | vor 0min | 🟢 aktiv |
 | Lehmann Hueber | 15941 | 2.3 | 6060/6820 | vor 7d | 🟡 inaktiv (lange leer) |
-| LPE Immobilien | 15541 | 2.3 | 5670/6820 | vor 0min | 🟢 aktiv |
+| LPE Immobilien | 15538 | 2.3 | 5669/6820 | vor 15min | 🟢 aktiv |
 | Südhausbau | 15087 | 2.2 | 6791/6820 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 14469 | 2.1 | 6735/6820 | vor 0min | 🟢 aktiv |
 | ImmoSmart | 12894 | 1.9 | 5902/6820 | vor 2d | 🟡 inaktiv (lange leer) |
@@ -62,7 +62,7 @@ _Letzte Run-Zusammenfassung: 605 scraped, 0 matches, 0 sent_
 | Immobilie1 | 2611 | 0.4 | 2611/6820 | vor 34d | 🟡 inaktiv (lange leer) |
 | Wagnis | 2466 | 0.4 | 2466/6820 | vor 0min | 🟢 aktiv |
 | EBM München | 957 | 0.1 | 955/6820 | vor 17d | 🟡 inaktiv (lange leer) |
-| Email Inbox | 929 | 0.1 | 760/6820 | vor 42min | 🟢 aktiv |
+| Email Inbox | 929 | 0.1 | 760/6820 | vor 45min | 🟢 aktiv |
 | Immowelt | 64 | 0.0 | 2/6820 | vor 12d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 68d | 🟢 aktiv |
 | Munich Property | 10 | 5.0 | 2/2 | vor 68d | 🟢 aktiv |
