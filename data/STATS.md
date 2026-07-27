@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-07-27T22:32:35+00:00_  
+_Auto-generiert. Letzter Run: 2026-07-27T22:35:19+00:00_  
 _Total Runs: 6838_  
-_Letzte Run-Zusammenfassung: 550 scraped, 1 matches, 1 sent_
+_Letzte Run-Zusammenfassung: 606 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -10,7 +10,7 @@ _Letzte Run-Zusammenfassung: 550 scraped, 1 matches, 1 sent_
 |---|---:|---:|---|---|---|
 | Citigrund | 559551 | 81.8 | 6680/6838 | vor 0min | 🟢 aktiv |
 | Park Avenue Immobilien | 337556 | 49.4 | 6719/6838 | vor 0min | 🟢 aktiv |
-| WSB Bayern | 252018 | 36.9 | 6493/6838 | vor 14min | 🟢 aktiv |
+| WSB Bayern | 252058 | 36.9 | 6494/6838 | vor 0min | 🟢 aktiv |
 | Pandion Service | 204992 | 30.0 | 6834/6838 | vor 0min | 🟢 aktiv |
 | Immobilien Schlamp | 202998 | 29.7 | 6814/6838 | vor 0min | 🟢 aktiv |
 | WG-Gesucht | 175892 | 25.7 | 6383/6838 | vor 0min | 🟢 aktiv |
@@ -31,21 +31,21 @@ _Letzte Run-Zusammenfassung: 550 scraped, 1 matches, 1 sent_
 | Hegerich Immobilien | 47725 | 7.0 | 6831/6838 | vor 0min | 🟢 aktiv |
 | Ab ins Zuhause | 46776 | 6.8 | 5847/6838 | vor 0min | 🟢 aktiv |
 | Franziskanerhof | 46344 | 6.8 | 6831/6838 | vor 0min | 🟢 aktiv |
-| EP Immobilien | 38100 | 5.6 | 6629/6838 | vor 14min | 🟢 aktiv |
+| EP Immobilien | 38104 | 5.6 | 6630/6838 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 37816 | 5.5 | 6832/6838 | vor 0min | 🟢 aktiv |
 | Kleinanzeigen | 31257 | 4.6 | 6834/6838 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 27348 | 4.0 | 6837/6838 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 26898 | 3.9 | 6352/6838 | vor 0min | 🟢 aktiv |
-| DIBAG | 25980 | 3.8 | 6495/6838 | vor 14min | 🟢 aktiv |
+| DIBAG | 25984 | 3.8 | 6496/6838 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 22562 | 3.3 | 6822/6838 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 21289 | 3.1 | 6748/6838 | vor 0min | 🟢 aktiv |
-| Rogers Immobilien | 20082 | 2.9 | 6694/6838 | vor 14min | 🟢 aktiv |
+| Rogers Immobilien | 20085 | 2.9 | 6695/6838 | vor 0min | 🟢 aktiv |
 | Alsaol | 20005 | 2.9 | 6838/6838 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 19500 | 2.9 | 6676/6836 | vor 0min | 🟢 aktiv |
 | GVG Net | 19111 | 2.8 | 6831/6838 | vor 0min | 🟢 aktiv |
 | Scheel Immobilien | 16400 | 2.4 | 6814/6838 | vor 0min | 🟢 aktiv |
 | Lehmann Hueber | 15941 | 2.3 | 6060/6838 | vor 7d | 🟡 inaktiv (lange leer) |
-| LPE Immobilien | 15580 | 2.3 | 5683/6838 | vor 14min | 🟢 aktiv |
+| LPE Immobilien | 15583 | 2.3 | 5684/6838 | vor 0min | 🟢 aktiv |
 | Südhausbau | 15105 | 2.2 | 6809/6838 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 14577 | 2.1 | 6753/6838 | vor 0min | 🟢 aktiv |
 | ImmoSmart | 12894 | 1.9 | 5902/6838 | vor 2d | 🟡 inaktiv (lange leer) |
@@ -56,13 +56,13 @@ _Letzte Run-Zusammenfassung: 550 scraped, 1 matches, 1 sent_
 | DAHLER München | 6831 | 1.0 | 6831/6838 | vor 0min | 🟢 aktiv |
 | Immobilien Schneider | 6829 | 1.0 | 6829/6838 | vor 0min | 🟢 aktiv |
 | Egger Immobilien | 6739 | 1.0 | 6739/6838 | vor 0min | 🟢 aktiv |
-| Maier Immobilien | 6686 | 1.0 | 6686/6838 | vor 14min | 🟢 aktiv |
+| Maier Immobilien | 6687 | 1.0 | 6687/6838 | vor 0min | 🟢 aktiv |
 | Dawonia | 5707 | 0.8 | 5707/6838 | vor 0min | 🟢 aktiv |
 | Immovision München | 4005 | 0.6 | 4005/6838 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 2611 | 0.4 | 2611/6838 | vor 35d | 🟡 inaktiv (lange leer) |
-| Wagnis | 2483 | 0.4 | 2483/6838 | vor 14min | 🟢 aktiv |
+| Wagnis | 2484 | 0.4 | 2484/6838 | vor 0min | 🟢 aktiv |
 | EBM München | 957 | 0.1 | 955/6838 | vor 17d | 🟡 inaktiv (lange leer) |
-| Email Inbox | 933 | 0.1 | 764/6838 | vor 44min | 🟢 aktiv |
+| Email Inbox | 933 | 0.1 | 764/6838 | vor 47min | 🟢 aktiv |
 | Immowelt | 64 | 0.0 | 2/6838 | vor 12d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 68d | 🟢 aktiv |
 | Munich Property | 10 | 5.0 | 2/2 | vor 68d | 🟢 aktiv |
