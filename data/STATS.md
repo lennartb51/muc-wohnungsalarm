@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-07-27T21:15:50+00:00_  
+_Auto-generiert. Letzter Run: 2026-07-27T21:18:26+00:00_  
 _Total Runs: 6833_  
-_Letzte Run-Zusammenfassung: 604 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 606 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -33,7 +33,7 @@ _Letzte Run-Zusammenfassung: 604 scraped, 0 matches, 0 sent_
 | Franziskanerhof | 46319 | 6.8 | 6826/6833 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 38084 | 5.6 | 6625/6833 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 37786 | 5.5 | 6827/6833 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 31242 | 4.6 | 6829/6833 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 31244 | 4.6 | 6829/6833 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 27328 | 4.0 | 6832/6833 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 26883 | 3.9 | 6347/6833 | vor 0min | 🟢 aktiv |
 | DIBAG | 25964 | 3.8 | 6491/6833 | vor 0min | 🟢 aktiv |
@@ -62,7 +62,7 @@ _Letzte Run-Zusammenfassung: 604 scraped, 0 matches, 0 sent_
 | Immobilie1 | 2611 | 0.4 | 2611/6833 | vor 35d | 🟡 inaktiv (lange leer) |
 | Wagnis | 2479 | 0.4 | 2479/6833 | vor 0min | 🟢 aktiv |
 | EBM München | 957 | 0.1 | 955/6833 | vor 17d | 🟡 inaktiv (lange leer) |
-| Email Inbox | 932 | 0.1 | 763/6833 | vor 42min | 🟢 aktiv |
+| Email Inbox | 932 | 0.1 | 763/6833 | vor 45min | 🟢 aktiv |
 | Immowelt | 64 | 0.0 | 2/6833 | vor 12d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 68d | 🟢 aktiv |
 | Munich Property | 10 | 5.0 | 2/2 | vor 68d | 🟢 aktiv |
