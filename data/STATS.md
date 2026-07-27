@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-07-27T10:47:22+00:00_  
+_Auto-generiert. Letzter Run: 2026-07-27T10:49:51+00:00_  
 _Total Runs: 6790_  
-_Letzte Run-Zusammenfassung: 587 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 606 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -29,7 +29,7 @@ _Letzte Run-Zusammenfassung: 587 scraped, 0 matches, 0 sent_
 | Immo-Hyp | 57142 | 8.4 | 6763/6790 | vor 0min | 🟢 aktiv |
 | Immler Martin Hausverwaltung | 54320 | 8.0 | 6790/6790 | vor 0min | 🟢 aktiv |
 | Hegerich Immobilien | 47389 | 7.0 | 6783/6790 | vor 0min | 🟢 aktiv |
-| Ab ins Zuhause | 46456 | 6.8 | 5807/6790 | vor 29min | 🟢 aktiv |
+| Ab ins Zuhause | 46464 | 6.8 | 5808/6790 | vor 0min | 🟢 aktiv |
 | Franziskanerhof | 46104 | 6.8 | 6783/6790 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 37912 | 5.6 | 6582/6790 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 37528 | 5.5 | 6784/6790 | vor 0min | 🟢 aktiv |
@@ -38,19 +38,19 @@ _Letzte Run-Zusammenfassung: 587 scraped, 0 matches, 0 sent_
 | Sedlmayr AG | 26757 | 3.9 | 6305/6790 | vor 0min | 🟢 aktiv |
 | DIBAG | 25792 | 3.8 | 6448/6790 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 22082 | 3.3 | 6774/6790 | vor 0min | 🟢 aktiv |
-| Rohrer Firmengruppe | 21018 | 3.1 | 6699/6790 | vor 13min | 🟢 aktiv |
+| Rohrer Firmengruppe | 21023 | 3.1 | 6700/6790 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 19941 | 2.9 | 6647/6790 | vor 0min | 🟢 aktiv |
 | Alsaol | 19861 | 2.9 | 6790/6790 | vor 0min | 🟢 aktiv |
-| Pienzenauer Immobilien | 19404 | 2.9 | 6628/6788 | vor 13min | 🟢 aktiv |
+| Pienzenauer Immobilien | 19406 | 2.9 | 6629/6788 | vor 0min | 🟢 aktiv |
 | GVG Net | 19015 | 2.8 | 6783/6790 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 16268 | 2.4 | 6766/6790 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 16270 | 2.4 | 6766/6790 | vor 0min | 🟢 aktiv |
 | Lehmann Hueber | 15941 | 2.3 | 6060/6790 | vor 6d | 🟡 inaktiv (lange leer) |
 | LPE Immobilien | 15463 | 2.3 | 5644/6790 | vor 0min | 🟢 aktiv |
 | Südhausbau | 15057 | 2.2 | 6761/6790 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 14295 | 2.1 | 6706/6790 | vor 0min | 🟢 aktiv |
 | ImmoSmart | 12894 | 1.9 | 5902/6790 | vor 2d | 🟡 inaktiv (lange leer) |
-| KSWM | 10198 | 1.5 | 6613/6790 | vor 13min | 🟢 aktiv |
-| KLN Immobilien | 8043 | 1.2 | 5314/6790 | vor 13min | 🟢 aktiv |
+| KSWM | 10199 | 1.5 | 6614/6790 | vor 0min | 🟢 aktiv |
+| KLN Immobilien | 8044 | 1.2 | 5315/6790 | vor 0min | 🟢 aktiv |
 | HI Wohnbau | 6788 | 1.0 | 6788/6790 | vor 0min | 🟢 aktiv |
 | Vonovia | 6787 | 1.0 | 6787/6790 | vor 0min | 🟢 aktiv |
 | DAHLER München | 6783 | 1.0 | 6783/6790 | vor 0min | 🟢 aktiv |
