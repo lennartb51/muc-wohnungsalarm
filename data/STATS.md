@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-07-29T19:48:06+00:00_  
+_Auto-generiert. Letzter Run: 2026-07-29T19:50:41+00:00_  
 _Total Runs: 7035_  
-_Letzte Run-Zusammenfassung: 598 scraped, 1 matches, 1 sent_
+_Letzte Run-Zusammenfassung: 604 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -10,7 +10,7 @@ _Letzte Run-Zusammenfassung: 598 scraped, 1 matches, 1 sent_
 |---|---:|---:|---|---|---|
 | Citigrund | 575291 | 81.8 | 6877/7035 | vor 0min | 🟢 aktiv |
 | Park Avenue Immobilien | 347501 | 49.4 | 6914/7035 | vor 0min | 🟢 aktiv |
-| WSB Bayern | 259718 | 36.9 | 6683/7035 | vor 0min | 🟢 aktiv |
+| WSB Bayern | 259716 | 36.9 | 6683/7035 | vor 0min | 🟢 aktiv |
 | Pandion Service | 210872 | 30.0 | 7030/7035 | vor 0min | 🟢 aktiv |
 | Immobilien Schlamp | 208711 | 29.7 | 7011/7035 | vor 0min | 🟢 aktiv |
 | WG-Gesucht | 181156 | 25.8 | 6571/7035 | vor 0min | 🟢 aktiv |
@@ -33,7 +33,7 @@ _Letzte Run-Zusammenfassung: 598 scraped, 1 matches, 1 sent_
 | Franziskanerhof | 47329 | 6.7 | 7028/7035 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 38998 | 5.5 | 7029/7035 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 38880 | 5.5 | 6824/7035 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 31866 | 4.5 | 7027/7035 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 31871 | 4.5 | 7027/7035 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 28136 | 4.0 | 7034/7035 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 27486 | 3.9 | 6548/7035 | vor 0min | 🟢 aktiv |
 | DIBAG | 26744 | 3.8 | 6686/7035 | vor 0min | 🟢 aktiv |
@@ -44,7 +44,7 @@ _Letzte Run-Zusammenfassung: 598 scraped, 1 matches, 1 sent_
 | Pienzenauer Immobilien | 19880 | 2.8 | 6866/7033 | vor 0min | 🟢 aktiv |
 | GVG Net | 19505 | 2.8 | 7028/7035 | vor 0min | 🟢 aktiv |
 | Scheel Immobilien | 16849 | 2.4 | 7010/7035 | vor 0min | 🟢 aktiv |
-| LPE Immobilien | 16066 | 2.3 | 5845/7035 | vor 30min | 🟢 aktiv |
+| LPE Immobilien | 16069 | 2.3 | 5846/7035 | vor 0min | 🟢 aktiv |
 | Lehmann Hueber | 15941 | 2.3 | 6060/7035 | vor 9d | 🟡 inaktiv (lange leer) |
 | Eichler Immobilien | 15759 | 2.2 | 6950/7035 | vor 0min | 🟢 aktiv |
 | Südhausbau | 15302 | 2.2 | 7006/7035 | vor 0min | 🟢 aktiv |
