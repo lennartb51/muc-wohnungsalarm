@@ -1,14 +1,14 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-07-30T20:17:49+00:00_  
+_Auto-generiert. Letzter Run: 2026-07-30T20:20:36+00:00_  
 _Total Runs: 7142_  
-_Letzte Run-Zusammenfassung: 521 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 519 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
 | Adapter | Scraped (Σ) | Avg/Run | Runs aktiv | Letzte Aktivität | Status |
 |---|---:|---:|---|---|---|
-| Citigrund | 583654 | 81.7 | 6983/7142 | vor 14min | 🟢 aktiv |
+| Citigrund | 583654 | 81.7 | 6983/7142 | vor 17min | 🟢 aktiv |
 | Park Avenue Immobilien | 352856 | 49.4 | 7019/7142 | vor 0min | 🟢 aktiv |
 | WSB Bayern | 264681 | 37.1 | 6788/7142 | vor 0min | 🟢 aktiv |
 | Pandion Service | 214082 | 30.0 | 7137/7142 | vor 0min | 🟢 aktiv |
@@ -43,7 +43,7 @@ _Letzte Run-Zusammenfassung: 521 scraped, 0 matches, 0 sent_
 | Alsaol | 20917 | 2.9 | 7142/7142 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 20088 | 2.8 | 6970/7140 | vor 0min | 🟢 aktiv |
 | GVG Net | 19719 | 2.8 | 7135/7142 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 17136 | 2.4 | 7117/7142 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 17135 | 2.4 | 7117/7142 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 16401 | 2.3 | 7057/7142 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 16363 | 2.3 | 5944/7142 | vor 0min | 🟢 aktiv |
 | Lehmann Hueber | 15941 | 2.2 | 6060/7142 | vor 10d | 🟡 inaktiv (lange leer) |
@@ -58,7 +58,7 @@ _Letzte Run-Zusammenfassung: 521 scraped, 0 matches, 0 sent_
 | Egger Immobilien | 7042 | 1.0 | 7042/7142 | vor 0min | 🟢 aktiv |
 | Maier Immobilien | 6984 | 1.0 | 6984/7142 | vor 0min | 🟢 aktiv |
 | Dawonia | 6011 | 0.8 | 6011/7142 | vor 0min | 🟢 aktiv |
-| Immovision München | 4299 | 0.6 | 4299/7142 | vor 0min | 🟢 aktiv |
+| Immovision München | 4298 | 0.6 | 4298/7142 | vor 17min | 🟢 aktiv |
 | Wagnis | 2781 | 0.4 | 2781/7142 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 2611 | 0.4 | 2611/7142 | vor 37d | 🟡 inaktiv (lange leer) |
 | Email Inbox | 967 | 0.1 | 795/7142 | vor 4h | 🟢 aktiv |
