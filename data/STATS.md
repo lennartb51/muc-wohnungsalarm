@@ -1,6 +1,6 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-07-31T21:32:55+00:00_  
+_Auto-generiert. Letzter Run: 2026-07-31T21:35:24+00:00_  
 _Total Runs: 7249_  
 _Letzte Run-Zusammenfassung: 592 scraped, 0 matches, 0 sent_
 
@@ -61,7 +61,7 @@ _Letzte Run-Zusammenfassung: 592 scraped, 0 matches, 0 sent_
 | Immovision München | 4402 | 0.6 | 4402/7249 | vor 0min | 🟢 aktiv |
 | Wagnis | 2888 | 0.4 | 2888/7249 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 2611 | 0.4 | 2611/7249 | vor 39d | 🟡 inaktiv (lange leer) |
-| Email Inbox | 979 | 0.1 | 807/7249 | vor 45min | 🟢 aktiv |
+| Email Inbox | 979 | 0.1 | 807/7249 | vor 47min | 🟢 aktiv |
 | EBM München | 957 | 0.1 | 955/7249 | vor 21d | 🟡 inaktiv (lange leer) |
 | Immowelt | 64 | 0.0 | 2/7249 | vor 16d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 72d | 🟢 aktiv |
