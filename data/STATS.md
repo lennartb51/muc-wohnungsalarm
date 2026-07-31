@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-07-31T06:47:52+00:00_  
+_Auto-generiert. Letzter Run: 2026-07-31T06:50:14+00:00_  
 _Total Runs: 7187_  
-_Letzte Run-Zusammenfassung: 594 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 582 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -28,12 +28,12 @@ _Letzte Run-Zusammenfassung: 594 scraped, 0 matches, 0 sent_
 | Heimhuber Immobilien | 75857 | 10.6 | 7176/7187 | vor 0min | 🟢 aktiv |
 | Immo-Hyp | 61308 | 8.5 | 7160/7187 | vor 0min | 🟢 aktiv |
 | Immler Martin Hausverwaltung | 57496 | 8.0 | 7187/7187 | vor 0min | 🟢 aktiv |
-| Hegerich Immobilien | 50168 | 7.0 | 7180/7187 | vor 0min | 🟢 aktiv |
-| Ab ins Zuhause | 49048 | 6.8 | 6146/7187 | vor 14min | 🟢 aktiv |
+| Hegerich Immobilien | 50161 | 7.0 | 7179/7187 | vor 17min | 🟢 aktiv |
+| Ab ins Zuhause | 49048 | 6.8 | 6146/7187 | vor 17min | 🟢 aktiv |
 | Franziskanerhof | 48089 | 6.7 | 7180/7187 | vor 0min | 🟢 aktiv |
-| Chalet Immobilien | 39904 | 5.6 | 7180/7187 | vor 14min | 🟢 aktiv |
+| Chalet Immobilien | 39910 | 5.6 | 7181/7187 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 39488 | 5.5 | 6976/7187 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 32978 | 4.6 | 7179/7187 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 32967 | 4.6 | 7179/7187 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 28740 | 4.0 | 7185/7187 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 27939 | 3.9 | 6699/7187 | vor 0min | 🟢 aktiv |
 | DIBAG | 27344 | 3.8 | 6836/7187 | vor 0min | 🟢 aktiv |
@@ -61,7 +61,7 @@ _Letzte Run-Zusammenfassung: 594 scraped, 0 matches, 0 sent_
 | Immovision München | 4342 | 0.6 | 4342/7187 | vor 0min | 🟢 aktiv |
 | Wagnis | 2826 | 0.4 | 2826/7187 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 2611 | 0.4 | 2611/7187 | vor 38d | 🟡 inaktiv (lange leer) |
-| Email Inbox | 969 | 0.1 | 797/7187 | vor 29min | 🟢 aktiv |
+| Email Inbox | 969 | 0.1 | 797/7187 | vor 32min | 🟢 aktiv |
 | EBM München | 957 | 0.1 | 955/7187 | vor 20d | 🟡 inaktiv (lange leer) |
 | Immowelt | 64 | 0.0 | 2/7187 | vor 16d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 71d | 🟢 aktiv |
