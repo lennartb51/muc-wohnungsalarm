@@ -1,6 +1,6 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-07-31T12:03:01+00:00_  
+_Auto-generiert. Letzter Run: 2026-07-31T12:05:32+00:00_  
 _Total Runs: 7208_  
 _Letzte Run-Zusammenfassung: 599 scraped, 0 matches, 0 sent_
 
@@ -16,10 +16,10 @@ _Letzte Run-Zusammenfassung: 599 scraped, 0 matches, 0 sent_
 | WG-Gesucht | 185832 | 25.8 | 6738/7208 | vor 0min | 🟢 aktiv |
 | KPC Immobilien | 180897 | 32.1 | 5636/5641 | vor 0min | 🟢 aktiv |
 | ohne-makler.net | 172896 | 24.0 | 7204/7208 | vor 0min | 🟢 aktiv |
-| Immobilo | 149156 | 20.7 | 7199/7208 | vor 0min | 🟢 aktiv |
+| Immobilo | 149155 | 20.7 | 7199/7208 | vor 0min | 🟢 aktiv |
 | SZ Immobilien | 147315 | 20.4 | 7197/7208 | vor 0min | 🟢 aktiv |
 | Nuroa | 145222 | 20.1 | 7086/7208 | vor 0min | 🟢 aktiv |
-| Idowa | 143276 | 19.9 | 7198/7208 | vor 0min | 🟢 aktiv |
+| Idowa | 143275 | 19.9 | 7198/7208 | vor 0min | 🟢 aktiv |
 | FAZ Immobilien | 136165 | 18.9 | 7199/7208 | vor 0min | 🟢 aktiv |
 | Engel & Völkers | 111317 | 15.4 | 7207/7208 | vor 0min | 🟢 aktiv |
 | Idowa Altstadt-Lehel | 90828 | 12.6 | 7200/7208 | vor 0min | 🟢 aktiv |
@@ -43,7 +43,7 @@ _Letzte Run-Zusammenfassung: 599 scraped, 0 matches, 0 sent_
 | Alsaol | 21115 | 2.9 | 7208/7208 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 20214 | 2.8 | 7033/7206 | vor 0min | 🟢 aktiv |
 | GVG Net | 19851 | 2.8 | 7201/7208 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 17288 | 2.4 | 7183/7208 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 17290 | 2.4 | 7183/7208 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 16797 | 2.3 | 7123/7208 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 16546 | 2.3 | 6005/7208 | vor 0min | 🟢 aktiv |
 | Lehmann Hueber | 15941 | 2.2 | 6060/7208 | vor 10d | 🟡 inaktiv (lange leer) |
@@ -61,7 +61,7 @@ _Letzte Run-Zusammenfassung: 599 scraped, 0 matches, 0 sent_
 | Immovision München | 4363 | 0.6 | 4363/7208 | vor 0min | 🟢 aktiv |
 | Wagnis | 2847 | 0.4 | 2847/7208 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 2611 | 0.4 | 2611/7208 | vor 38d | 🟡 inaktiv (lange leer) |
-| Email Inbox | 971 | 0.1 | 799/7208 | vor 59min | 🟢 aktiv |
+| Email Inbox | 971 | 0.1 | 799/7208 | vor 1h | 🟢 aktiv |
 | EBM München | 957 | 0.1 | 955/7208 | vor 21d | 🟡 inaktiv (lange leer) |
 | Immowelt | 64 | 0.0 | 2/7208 | vor 16d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 72d | 🟢 aktiv |
