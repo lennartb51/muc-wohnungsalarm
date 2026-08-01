@@ -119,7 +119,71 @@ EXCLUDE_PATH_KEYWORDS = [
     "referenzen", "referenzobjekte", "referenz-objekte",
     "vorankündigung",  # Vorab-Hinweise statt aktuelle Listings
     "mietenverwaltung",  # Service, kein Listing
+
+    # ─── NACHTRAG: aus Log-Analyse echter Fehlgriffe ───────────────
+    # Jeder Eintrag hier hat einen konkreten Adapter, bei dem die
+    # Auto-Discovery auf dieser Seite gelandet ist statt auf den Angeboten.
+
+    # B2B-/Eigentümer-Service-Seiten (richten sich an Vermieter, nicht Mieter)
+    "mietverwaltung",           # Born Wohnungsbau, Ries Immobilien
+    "immobilienmanagement",     # Omnium
+    "vermietungsmanagement",    # IntigrA
+    "technische-verwaltung", "technische_verwaltung", "kaufmaennische-verwaltung",
+    "immobilienbuchhaltung", "buchhaltung",   # Immobilienbüro 24
+    "betreuung",                # A&C Immobilien
+    "maklerservice",            # CM CASA (deckt auch maklerservices)
+    "immobilienbewertung", "wertermittlung",  # Finestep
+    "leistungspektrum", "leistungsspektrum",  # Gegenfurtner (Tippfehler im Original)
+    "verwaltungsobjekte",       # Erl Wilhelm
+    "fuer-mieter", "für-mieter", "fuer_mieter",   # MG Haus (Info für Bestandsmieter)
+    "vermieter",                # Geisinger (#vermieter)
+    "hausverwaltung-",          # LIKKA (/standort/hausverwaltung-olching)
+    "standort",                 # LIKKA — Standortseiten
+    "zertifizierung", "zertifikat",  # LIKKA (/zertifizierung/carmen-reiner)
+    "mitarbeiter", "ansprechpartner",
+
+    # Kauf-Seiten
+    "kaufobjekt", "kaufobjekte",   # MHM Hausverwaltung
+    "fonds", "immobilien-fonds",   # ADVISUM
+    "kapitalanlage", "investment", "rendite",
+    "immobilienbesitzer", "kaeufer", "käufer",  # S2H (Blog-Slug)
+    "eigentumswohnung",
+
+    # Nicht-Listing-Inhalte
+    "presse", "pressemitteilung",  # Bossert (/presse/archiv/)
+    "archiv",                      # Bossert
+    "download", "downloads",       # KITHAN (landete auf einer PDF!)
+    "galerie", "gallery", "bilder", "fotos",  # AV Immobilien
+    "halben-preis", "halber-preis",  # Zippold (Marketing-Landingpage)
+    "veranstaltung", "termine", "event",
+    "faq", "hilfe", "service-center",
+    "cookie", "einwilligung", "widerruf", "barrierefrei", "sitemap",
+    "login", "anmelden", "registrieren", "merkliste", "warenkorb",
+
+    # Falscher Objekttyp
+    "zimmer/",                  # Münchner Mietbörse (/finder/private/zimmer/miete)
+    "wg-zimmer", "moebliert", "möbliert",
+    "gewerbe", "buero", "büro", "ladenflaeche", "praxis",
+    "stellplatz", "garage", "tiefgarage",
+    "grundstueck", "grundstück",
+    "haus-kaufen", "haus-mieten",
+    "senioren", "pflege", "studentenwohnheim",
 ]
+
+# Datei-Endungen die nie eine Listing-HTML-Seite sind. KITHAN hat gezeigt,
+# dass Auto-Discovery sonst auf einer PDF landet (Wohnungsbewerbung.pdf).
+EXCLUDE_EXTENSIONS = (
+    ".pdf", ".doc", ".docx", ".xls", ".xlsx", ".ppt", ".pptx",
+    ".zip", ".rar", ".7z", ".csv",
+    ".jpg", ".jpeg", ".png", ".gif", ".webp", ".svg", ".ico",
+    ".mp4", ".mp3", ".avi", ".mov", ".webm",
+)
+
+# Mindest-Score damit ein Kandidat überhaupt akzeptiert wird. Ohne Schwelle
+# gewinnt sonst irgendein Link mit Text "Immobilien" (Score 3) und wir landen
+# auf einer Marketing- oder Root-Seite. Ab 4 braucht es mindestens ein
+# mittelstarkes Signal wie "vermietung", "angebote" oder "mietwohnungen".
+MIN_DISCOVERY_SCORE = 4
 
 
 class GenericTextAdapter(Adapter):
@@ -197,17 +261,52 @@ class GenericTextAdapter(Adapter):
         except Exception:
             return None
 
-        scored: list[tuple[int, str]] = []
+        start_parsed = urlparse(start_url)
+        # Normalisierte Ausgangs-URL (ohne Fragment, ohne trailing slash) um zu
+        # erkennen, ob ein "Kandidat" eigentlich die Seite ist, auf der wir schon
+        # stehen. Genau das passierte bei Krautbauer (/#vermietung),
+        # Projekt M (/#standorte), Arnold (/index.html) und Schlagenhaufer (/).
+        def _normalize(u: str) -> str:
+            p = urlparse(u)
+            path = p.path.rstrip("/") or "/"
+            for index_file in ("/index.html", "/index.php", "/index.htm", "/home"):
+                if path.lower().endswith(index_file):
+                    path = path[: -len(index_file)] or "/"
+            return f"{p.netloc}{path}?{p.query}" if p.query else f"{p.netloc}{path}"
+
+        start_norm = _normalize(start_url)
+
+        scored: list[tuple[int, int, str]] = []
         for a in soup.find_all("a", href=True):
             href = a["href"]
             if not href or href.startswith(("#", "mailto:", "tel:", "javascript:")):
                 continue
 
             full_url = urljoin(start_url, href)
+            parsed = urlparse(full_url)
             full_lower = full_url.lower()
 
             # Nur Links auf derselben Domain
-            if urlparse(full_url).netloc != urlparse(start_url).netloc:
+            if parsed.netloc != start_parsed.netloc:
+                continue
+
+            # Nur http(s) — filtert data:, ftp: etc.
+            if parsed.scheme not in ("http", "https"):
+                continue
+
+            # Keine Downloads/Bilder. KITHAN landete sonst auf einer PDF.
+            if parsed.path.lower().endswith(EXCLUDE_EXTENSIONS):
+                continue
+
+            # Kandidat ist die Seite, auf der wir schon stehen → kein Gewinn.
+            # Deckt "/", "/index.html" und reine "#fragment"-Links ab.
+            if _normalize(full_url) == start_norm:
+                continue
+
+            # Leere Query-Werte: Horrer lieferte "?s=" — eine leere Suchanfrage.
+            if parsed.query and all(
+                not v for v in (p.split("=", 1)[1] if "=" in p else "" for p in parsed.query.split("&"))
+            ):
                 continue
 
             # Harte Blacklist auf Pfad-Ebene
@@ -227,14 +326,28 @@ class GenericTextAdapter(Adapter):
                 if kw in full_lower:
                     score += weight
 
-            if score > 0:
-                scored.append((score, full_url))
+            if score < MIN_DISCOVERY_SCORE:
+                continue
+
+            # Tiefe des Pfads als Tiebreaker. Eine Übersichtsseite liegt fast
+            # immer flacher als eine Unterkategorie oder ein Einzelobjekt.
+            # KLN landete auf /vermietung-2/wohnungen/dachgeschoss-terrassen-
+            # wohnungen/ (Tiefe 3) statt auf /vermietung-2/wohnungen/ (Tiefe 2);
+            # HI Wohnbau auf einem Einzelprojekt statt der Übersicht.
+            depth = len([seg for seg in parsed.path.split("/") if seg])
+            scored.append((score, -depth, full_url))
 
         if not scored:
             return None
 
+        # Sortierung: Score absteigend, bei Gleichstand flacherer Pfad zuerst
         scored.sort(reverse=True)
-        return scored[0][1]
+        best_score, neg_depth, best_url = scored[0]
+        logger.debug(
+            f"[{self.name}] Discovery-Kandidaten: "
+            + ", ".join(f"{u} ({s}, Tiefe {-d})" for s, d, u in scored[:3])
+        )
+        return best_url
 
     def _parse_block(self, block: Tag, page_url: str) -> Optional[Listing]:
         text = block.get_text(" ", strip=True)
