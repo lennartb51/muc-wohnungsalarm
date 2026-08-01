@@ -2,23 +2,6 @@
 # Filter-Konfiguration
 # Anpassen und committen — Änderungen greifen ab dem nächsten Run.
 # ---------------------------------------------------------------
-#
-# MULTI-PROFILE (optional): Wenn du Freunde mit eigenen Suchparametern
-# bedienen willst, dekommentiere unten den `profiles:` Block. Jedes
-# Profil bekommt eigenen Telegram-Chat + eigenen seen-State.
-#
-# Beispiel:
-# profiles:
-#   - name: lennart
-#     chat_id: ${TELEGRAM_CHAT_ID}     # env var (existiert schon)
-#     # alle Filter werden vom top-level übernommen
-#   - name: max
-#     chat_id: ${TELEGRAM_CHAT_ID_MAX} # env var setzen in GitHub Secrets
-#     max_price: 2500                  # Profil-spezifisch, überschreibt top-level
-#     min_sqm: 60
-#     districts_whitelist: [Bogenhausen, Schwabing, Lehel]
-#
-# Wenn `profiles` fehlt: Single-Profile-Modus mit TELEGRAM_CHAT_ID (wie bisher).
 
 # Preis (warm bevorzugt, fällt auf kalt zurück wenn nicht verfügbar)
 max_price: 1800   # €
@@ -263,6 +246,75 @@ exclude_keywords:
   - Bungalow
   - Villa
 
+  # ───── Status-Wörter: Schlamp-Stil mit gespacten Buchstaben ─────
+  # Schlamp setzt VERMIETET-Banner als "* * * V E R M I E T E T * * *"
+  # — die normalen vermietet-Keywords matchen das nicht.
+  - "V E R M I E T E T"
+  - "V E R K A U F T"
+  - "R E S E R V I E R T"
+
+  # ───── befristet-Beugungen (nur "befristet" alleine matcht nicht "befristete") ─────
+  - befristete
+  - befristeter
+  - befristetes
+  - befristeten
+  - "befristete Vermietung"
+  - "befristet bis"
+
+  # ───── Untervermietung (Untermiete ≠ Untervermietung als Wort) ─────
+  - Untervermietung
+  - Untervermieten
+  - Untervermieter
+  - Untervermieterin
+  - untervermietet
+  - "auf Zeit"
+
+  # ───── WG-Prefix in Titeln (WG-Zimmer matched nicht "WG:") ─────
+  # Wortgrenze sorgt dafür dass "WG" nur als alleinstehendes Wort matcht
+  # (matched also "WG: Modisches" aber nicht "Werkstattgemeinschaft").
+  - "WG"
+
+  # ───── Kauf-Inserate (lone "Kauf" mit Pipe-Trennung bei Citigrund) ─────
+  # \bKauf\b matcht "| Kauf |" sauber, nicht "Kaufpreis", "Verkauf",
+  # "Einkaufszentrum" — die haben jeweils Wortzeichen direkt um "Kauf".
+  - Kauf
+
+  # ───── Nur-Studenten/Auszubildende ─────
+  - "nur für Studenten"
+  - "nur für Studierende"
+  - "ausschließlich Studenten"
+  - Auszubildende
+  - Studentenapartment
+  - Studentenappartement
+  - "Apartment für Studenten"
+
+  # ───── möbliert-Beugungen (nur "möbliert" alleine matcht nicht "möblierte") ─────
+  - möblierte
+  - möblierter
+  - möbliertes
+  - möblierten
+  - vollmöbliert
+  - vollmöblierte
+  - vollmöblierter
+  - teilmöbliert
+  - teilmöblierte
+  - "möbliertes Apartment"
+  - "möbliertes Zimmer"
+
+  # ───── Kaufen-Varianten ("Kauf" matcht nicht "Kaufen"/"zu kaufen") ─────
+  - Kaufen
+  - "zu kaufen"
+  - Verkauf
+  - "zu vermieten und verkaufen"
+  - Eigentumswohnungen
+
 # Adapter, die deaktiviert werden sollen
-disabled_adapters: []
+disabled_adapters:
+  # Liefert seit dem letzten Run HTTP 401 (Unauthorized) — die Seite verlangt
+  # jetzt Login/API-Key. Bis das geklärt ist deaktiviert, damit der Log sauber
+  # bleibt. Der Adapter-Code (src/adapters/wohnungsboerse.py) bleibt liegen.
+  - Wohnungsboerse
+  # Liefert dauerhaft HTTP 403 (Cloudflare/Bot-Schutz von Datacenter-IPs).
+  # Immowelt-Inserate kommen stattdessen über die Email-Pipeline rein.
+  - Immowelt
   # - Kleinanzeigen
