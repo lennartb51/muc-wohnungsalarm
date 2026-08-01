@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-01T23:17:13+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-01T23:20:22+00:00_  
 _Total Runs: 7364_  
-_Letzte Run-Zusammenfassung: 561 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 533 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -13,7 +13,7 @@ _Letzte Run-Zusammenfassung: 561 scraped, 0 matches, 0 sent_
 | WSB Bayern | 274638 | 37.3 | 7008/7364 | vor 0min | 🟢 aktiv |
 | Pandion Service | 220715 | 30.0 | 7359/7364 | vor 0min | 🟢 aktiv |
 | Immobilien Schlamp | 218223 | 29.6 | 7339/7364 | vor 0min | 🟢 aktiv |
-| WG-Gesucht | 190060 | 25.8 | 6889/7364 | vor 0min | 🟢 aktiv |
+| WG-Gesucht | 190032 | 25.8 | 6888/7364 | vor 17min | 🟢 aktiv |
 | KPC Immobilien | 186045 | 32.1 | 5792/5797 | vor 0min | 🟢 aktiv |
 | ohne-makler.net | 176640 | 24.0 | 7360/7364 | vor 0min | 🟢 aktiv |
 | Immobilo | 152427 | 20.7 | 7355/7364 | vor 0min | 🟢 aktiv |
