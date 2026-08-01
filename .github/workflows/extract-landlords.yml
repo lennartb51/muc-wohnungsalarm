@@ -1,0 +1,76 @@
+name: Vermieter extrahieren
+
+# Nur manuell startbar — das ist ein Analyse-Tool, kein Teil des Scrape-Zyklus.
+# Actions-Tab → "Vermieter extrahieren" → "Run workflow"
+on:
+  workflow_dispatch:
+    inputs:
+      list_folders:
+        description: 'Nur Postfächer auflisten (beim ersten Mal ankreuzen)'
+        type: boolean
+        required: false
+        default: false
+      folder:
+        description: 'Postfach'
+        required: false
+        default: '[Gmail]/Alle Nachrichten'
+      limit:
+        description: 'Anzahl neuester Mails'
+        required: false
+        default: '2000'
+      min_count:
+        description: 'Mindest-Trefferzahl pro Anbieter'
+        required: false
+        default: '2'
+
+# Bewusst nur Lesezugriff: dieser Job committet nichts ins Repo.
+permissions:
+  contents: read
+
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Setup Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install beautifulsoup4
+
+      - name: Postfächer auflisten
+        if: ${{ inputs.list_folders }}
+        env:
+          EMAIL_IMAP_USER: ${{ secrets.EMAIL_IMAP_USER }}
+          EMAIL_IMAP_PASSWORD: ${{ secrets.EMAIL_IMAP_PASSWORD }}
+          EMAIL_IMAP_HOST: ${{ secrets.EMAIL_IMAP_HOST }}
+        run: python3 tools/extract_landlords.py --list-folders
+
+      - name: Vermieter extrahieren
+        if: ${{ ! inputs.list_folders }}
+        env:
+          EMAIL_IMAP_USER: ${{ secrets.EMAIL_IMAP_USER }}
+          EMAIL_IMAP_PASSWORD: ${{ secrets.EMAIL_IMAP_PASSWORD }}
+          EMAIL_IMAP_HOST: ${{ secrets.EMAIL_IMAP_HOST }}
+        run: |
+          python3 tools/extract_landlords.py \
+            --folder "${{ inputs.folder }}" \
+            --limit "${{ inputs.limit }}" \
+            --min-count "${{ inputs.min_count }}" \
+            --csv vermieter.csv
+
+      - name: CSV als Artifact hochladen
+        if: ${{ ! inputs.list_folders }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: vermieter-liste
+          path: vermieter.csv
+          retention-days: 30
+          if-no-files-found: warn
