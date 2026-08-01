@@ -17,6 +17,7 @@ Erweiterte Nachrichten:
 """
 from __future__ import annotations
 
+import html as _html
 import logging
 import os
 import re
@@ -347,6 +348,8 @@ def _build_smart_title(listing: Listing) -> str:
         loc = listing.district.split(",")[0].strip()
         loc = re.sub(r"^München\s*[-–]?\s*", "", loc, flags=re.I).strip()
         loc = re.sub(r"\s*[-–,]?\s*München\s*$", "", loc, flags=re.I).strip()
+        # Führende PLZ entfernen ("80802 Schwabing-Freimann" → "Schwabing-Freimann")
+        loc = re.sub(r"^\d{5}\s+", "", loc).strip()
         if loc:
             parts.append(loc)
 
@@ -456,15 +459,17 @@ def _send_one(token: str, chat_id: str, listing: Listing) -> bool:
 # ─── Nachrichten-Format ─────────────────────────────────────────────
 def format_message_html(l: Listing) -> str:
     """HTML-Variante mit Bold und Detailfeldern."""
+    _clean_listing_fields(l)
     smart_title = _build_smart_title(l)
     lines = [f"🏠 <b>{_esc(smart_title)}</b>"]
 
-    # Lage-Zeile
+    # Lage-Zeile (PLZ nicht doppelt, wenn schon im district enthalten)
     location_bits = []
     if l.district:
         location_bits.append(l.district)
-    if getattr(l, "postcode", None):
-        location_bits.append(l.postcode)
+    pc = getattr(l, "postcode", None)
+    if pc and not (l.district and pc in l.district):
+        location_bits.append(pc)
     if l.address and (not location_bits or l.address not in location_bits[0]):
         location_bits.append(l.address)
     if location_bits:
@@ -535,14 +540,16 @@ def format_message_html(l: Listing) -> str:
 
 def format_message_plain(l: Listing) -> str:
     """Plain-Text-Variante (kein parse_mode)."""
+    _clean_listing_fields(l)
     smart_title = _build_smart_title(l)
     lines = [f"🏠 {smart_title}"]
 
     location_bits = []
     if l.district:
         location_bits.append(l.district)
-    if getattr(l, "postcode", None):
-        location_bits.append(l.postcode)
+    pc = getattr(l, "postcode", None)
+    if pc and not (l.district and pc in l.district):
+        location_bits.append(pc)
     if location_bits:
         lines.append(f"📍 {' · '.join(str(b) for b in location_bits[:2])}")
 
@@ -645,6 +652,31 @@ def _looks_redundant(original: str, smart: str) -> bool:
     if re.fullmatch(generic_only_pattern, o):
         return True
     return False
+
+
+def _clean(s):
+    """Dekodiert HTML-Entities, entfernt Zero-Width-Chars, kollabiert Whitespace."""
+    if not s or not isinstance(s, str):
+        return s
+    # HTML-Entities dekodieren (&amp; &#8203; etc.) — zweifach gegen Doppel-Encoding
+    s = _html.unescape(_html.unescape(s))
+    # Zero-Width-Entities als Text-Rest entfernen (&#8203; / &#x200b;)
+    s = re.sub(r"&#x?200[bcd];?", "", s, flags=re.I)
+    # Tatsächliche Zero-Width / Soft-Hyphen-Zeichen entfernen
+    s = re.sub(r"[\u200b\u200c\u200d\ufeff\u00ad]", "", s)
+    # Whitespace (Zeilenumbrüche, Tabs, Mehrfach-Spaces) zu einem Space
+    s = re.sub(r"\s+", " ", s).strip()
+    # Leerzeichen vor schließender Klammer / Satzzeichen aufräumen
+    s = re.sub(r"\s+([)\].,;:])", r"\1", s)
+    return s
+
+
+def _clean_listing_fields(l: Listing) -> None:
+    """Säubert die Text-Felder eines Listings in-place vor dem Formatieren."""
+    for attr in ("title", "description", "district", "address", "postcode"):
+        val = getattr(l, attr, None)
+        if isinstance(val, str):
+            setattr(l, attr, _clean(val))
 
 
 def _esc(s) -> str:
