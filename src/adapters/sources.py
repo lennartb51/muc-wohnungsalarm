@@ -23,6 +23,129 @@ GENOSSENSCHAFTEN: list[tuple[str, str]] = [
     ("KSWM", "https://www.kswm.de/leistungsspektrum/mietwohnungen.html"),
 ]
 
+# ---------- GENOSSENSCHAFTEN ★ GIMA-VERBUND ----------
+# Quelle: gima-muenchen.de/mitgliedsunternehmen.html — 33 Genossenschaften +
+# 6 ehemals gemeinnützige Unternehmen mit zusammen ~40.000 Mietwohnungen in
+# München. Alle haben sich auf Mietspiegel-Bindung und Verzicht auf
+# Luxusmodernisierung/Aufteilung verpflichtet — also strukturell günstiger als
+# der freie Markt.
+#
+# Wichtig zum Bewerbungsmodus: die meisten führen KEINE Wartelisten mehr,
+# sondern vergeben über die Wohnungsangebote-Seite. Genau deshalb sind sie für
+# den Scraper wertvoll: wer die Seite als Erster sieht, bewirbt sich als Erster.
+# Mitgliedschaft entsteht meist erst MIT dem Wohnungsbezug (kein Vorrat nötig).
+#
+# Nur Genossenschaften mit tatsächlichem Bestand in München und ohne
+# Berufsgruppen-Beschränkung. Nicht aufgenommen (Begründung im Kommentar):
+#   - bwv Beamtenwohnungsverein: nur öffentlicher Dienst
+#   - BRF Reichsbahnwerk: satzungsgemäß nur DB-Beschäftigte
+#   - Stadibau: nur Freistaat-Beschäftigte
+#   - WG München-West (3.400 WE, größte): robots.txt verbietet automatisierten
+#     Zugriff → bitte manuell registrieren, nicht scrapen
+#   - Junge Genossenschaften ohne Bestand (Progeno, Stadtbaustein, wabe.zwo,
+#     wohntURBAN, BbvM, Kooperative Großstadt, Stadtimpuls, GeWoo)
+#   - Außerhalb München (Ober-/Unterschleißheim, AmperWoGe, Maro)
+GENOSSENSCHAFTEN_GIMA: list[tuple] = [
+    # --- Kernbezirke (deine Districts) ---
+    # 1.563 WE in Au-Haidhausen, Bogenhausen, Giesing, Berg am Laim, Riem.
+    # Listing-URL verifiziert, keine Wartelisten, Direktbewerbung online.
+    ("Bauverein München-Haidhausen", "https://bauverein-haidhausen.de/wohnungsangebote", False),
+    # 620 WE Schwabing + Fürstenried, überwiegend Altbau
+    ("Münchner Zentralbaugenossenschaft", "https://www.mzb-muenchen.de/"),
+    # 838 WE Oberwiesenfeld/Schwabing (Freistaat-Bedienstete bevorzugt, aber
+    # auch Mitglieder + deren Kinder)
+    ("BG München-Oberwiesenfeld", "https://www.bgmo.de/"),
+
+    # --- Große Bestände, stadtweit ---
+    # 1.714 WE Untersendling, Obersendling, Obergiesing, Blumenau, Fürstenried
+    ("Münchener Kleinwohnungs-BG", "https://www.mkb-eg.de/"),
+    # 1.900 WE, ursprünglich Post-Personal, heute breiter
+    ("Postbaugenossenschaft München", "https://bptm.de/"),
+    # 1.100 WE Ober- und Untergiesing
+    ("Bauverein Giesing", "https://www.bvgiesing.de/"),
+    # 1.000 WE Laim, Sendling, Blumenau — meiste mit Balkon
+    ("VfW Verein für Wohnungskultur", "https://www.vfw-muenchen.de/"),
+    # 1.000 WE stadtweit
+    ("Münchner Baugenossenschaft", "https://www.muenchner-baugenossenschaft.de/"),
+    # 942 WE, älteste Genossenschaft Deutschlands, Baujahre 1897-1971
+    ("Baugenossenschaft von 1871", "https://www.baugen1871.de/"),
+    # 840 WE Hartmannshofen (Norden)
+    ("BG Hartmannshofen", "https://bg-hartmannshofen.de/"),
+    # 760 WE Sendling
+    ("Baugenossenschaft München-Süd", "https://www.bms-eg.de/"),
+    # 595 WE München-Ost
+    ("Eisenbahner-BG München-Ost", "https://www.ebg-muenchen-ost.de/"),
+    # 544 WE Pasing
+    ("WG München-Pasing", "https://www.wg-pasing.de/"),
+    # 530 WE, selbstverwaltet/ökologisch, 19 Häuser
+    ("Wogeno München", "https://www.wogeno.de/"),
+    # 300 WE Pasing (Nähe Westbad)
+    ("Heimstättenbaugenossenschaft Pasing", "https://hbgpasing.de/"),
+    # 270 WE Isarvorstadt, Thalkirchen, Sendling, Untergiesing.
+    # ACHTUNG: nimmt laut Website derzeit keine neuen Mitglieder auf —
+    # trotzdem drin, kostet nichts und kann sich ändern.
+    ("Isar Wohnbaugenossenschaft (IWG)", "https://www.iwg-muenchen.de/"),
+
+    # --- Ehemals gemeinnützige Wohnungsunternehmen (keine Genossenschaft,
+    #     aber gleiche GIMA-Selbstverpflichtung: Mietspiegel-Bindung) ---
+    # ~2.100 verwaltete Einheiten, Familienbetrieb
+    ("TERRA Danhuber", "https://www.terra-danhuber.de/"),
+    # 1.735 WE Neuaubing + Fürstenfeldbruck
+    ("GFBW München", "https://gfbw-muenchen.de/"),
+    # ~900 WE München (plus 900 Augsburg)
+    ("IGEWO", "https://www.igewo.com/"),
+    # Kauft laufend Bestandsobjekte zu, >1.200 Einheiten in 5 Jahren
+    ("Heimbau Bayern", "https://www.heimbau-bayern.de/"),
+]
+
+# ---------- STÄDTISCHE & STAATLICHE VERMIETER ----------
+# Größenordnung ist hier enorm (Münchner Wohnen allein ~75.000 WE), aber der
+# Großteil ist gefördert (EOF/München-Modell) und läuft über SOWON bzw. über
+# Einkommensgrenzen, die für dich nicht passen.
+#
+# Der relevante Teil: freifinanzierte und München-Modell-Wohnungen werden über
+# ImmoScout24 und Immowelt vermarktet — die hast du schon über die
+# Email-Pipeline drin. Die eigenen Websites sind trotzdem billig mitzunehmen,
+# weil dort gelegentlich Objekte zuerst oder exklusiv auftauchen.
+# ---------- INSTITUTIONELLE GROSSVERMIETER ----------
+# Versorgungswerke, Versicherer und Fondsverwalter halten in München riesige
+# Wohnungsbestände als Kapitalanlage. Sie sind Bestandshalter (verkaufen also
+# nicht weiter) und vermieten langfristig zu marktüblichen, aber nicht
+# maximierten Mieten.
+#
+# Charakteristikum: die meisten vermarkten primär über ImmoScout24, haben aber
+# eigene Seiten, auf denen Objekte teilweise früher oder exklusiv erscheinen.
+# Genau dieses Zeitfenster ist für den Scraper interessant.
+INSTITUTIONELLE: list[tuple] = [
+    # Bayerische Versorgungskammer: ~11.000 Wohnungen bundesweit, davon
+    # ~6.500 in München. Reiner Bestandshalter, keine Umwandlung in Eigentum.
+    # Vergibt direkt; Interessentenbogen unter /Interessenten/Suchanfrage.
+    ("BVK Immobilien", "https://www.bvk-immobilien.de/Wohnungen", False),
+    # Versicherungskammer Bayern (andere Gesellschaft als BVK): Bestand laut
+    # eigener Angabe in Bogenhausen, Lehel, Isarvorstadt, Sendling und
+    # Schwabing — also fast deckungsgleich mit deiner Districts-Whitelist.
+    # Führt bewusst KEINE Wartelisten, daher zählt Geschwindigkeit.
+    ("Versicherungskammer Bayern", "https://www.vkb.de/service/wohnungsmarkt.html", False),
+    # BUWOG Immobilien Treuhand: Bestandsverwaltung inkl. Neubau-Erstvermietung
+    # (u.a. Quartier Neuperlach). Eigene Mietwohnungssuche.
+    ("BUWOG Immobilien Treuhand", "https://www.buwog-immobilientreuhand.de/wohnung-mieten", False),
+    # CAPERA: laut IS24-Anbieterprofil 303 inserierte Objekte, davon 100%
+    # Mietobjekte. Standort München (Arnulfstr. 37) deckt die Metropolregion ab.
+    ("CAPERA Immobilien", "https://capera-immobilien.de/"),
+    # BPL Immobilien: Makler seit 1981, Schwerpunkt München/Starnberg.
+    # Mischt Kauf und Vermietung — exclude_keywords filtert die Kauf-Objekte.
+    ("BPL Immobilien", "https://www.bpl-immobilien.de/"),
+    # BVG Verwaltung (Immobiliengesellschaft von vinzenzmurr): Wohn- und
+    # Gewerbebestand "überwiegend im Herzen von München".
+    ("BVG Verwaltung", "https://www.bvg-verwaltung.de/"),
+]
+
+STAEDTISCH_STAATLICH: list[tuple] = [
+    ("Münchner Wohnen", "https://www.muenchner-wohnen.de/mieten/wohnungsangebote", False),
+    ("GWG Gruppe München", "https://gwg-gruppe.de/standorte/muenchen", False),
+    ("BayernHeim", "https://bayernheim.de/"),
+]
+
 # ---------- HAUSVERWALTUNGEN ★★★ TOP-PRIORITÄT ----------
 HAUSVERWALTUNGEN_TOP: list[tuple[str, str]] = [
     # Innenstadt-nah
@@ -46,7 +169,10 @@ HAUSVERWALTUNGEN_TOP: list[tuple[str, str]] = [
     ("Foisinger Miethausverwaltungen", "https://www.miethausverwaltungen.net"),
     ("HV Papa", "https://www.hvpapa.de"),
     ("Häusl", "https://haeusl-hv.de"),
-    ("LIKKA Immobilien", "https://www.likka-immobilien.de"),
+    # Auto-Discovery lief auf /zertifizierung/carmen-reiner bzw.
+    # /standort/hausverwaltung-olching (Mitarbeiter-/Standortseiten).
+    # Deshalb abgeschaltet: nur noch die Startseite parsen.
+    ("LIKKA Immobilien", "https://www.likka-immobilien.de", False),
     ("MARAX", "https://www.marax-hausverwaltung.de"),
     ("HARPUT", "https://harput-immobilien.de"),
     ("Immobilien Mößel", "https://immobilien-moessel.de"),
@@ -61,7 +187,8 @@ HAUSVERWALTUNGEN_HOCH: list[tuple[str, str]] = [
     ("Lederer Max", "https://www.hausverwaltung-lederer.de"),
 
     # Großer Bestand / Gute Signale
-    ("Bossert Immobilien", "https://www.bossert-immobilien.de"),
+    # Auto-Discovery lief auf /presse/archiv/ statt auf Angebote.
+    ("Bossert Immobilien", "https://www.bossert-immobilien.de", False),
 
     # Weitere
     ("Hans Sieber", "https://sieber-muenchen.de"),
@@ -91,7 +218,12 @@ USER_SOURCES: list[tuple[str, str]] = [
     ("Friedl Maier Immobilien", "https://friedlmaier-immobilien.de/immobilienangebote-in-muenchen-und-umgebung/"),
     ("FGHM", "https://www.fghm.de/mietangebote/"),
     ("Immobilien Schneider", "https://www.immobilienschneider.com/mietangebote/"),
-    ("Citigrund", "https://citigrund.de/immobilienangebote/"),
+    # ENTFERNT: Citigrund vermittelt ausschließlich zum KAUF.
+    # Belege: Immowelt-Anbieterprofil ("vermittelt Wohnimmobilien zum Kauf"),
+    # eigene Angebotsseite listet ausnahmslos "Wohnung | Kauf | ...", und der
+    # Newsletter bewirbt "Kaufimmobilien". Lieferte ~85 Listings/Run — also
+    # rund 15% aller gescrapten Inserate — mit 0% Miet-Relevanz.
+    # ("Citigrund", "https://citigrund.de/immobilienangebote/"),
     ("Immo-Hyp", "https://www.immo-hyp.de/immobilien-ort/muenchen/"),
     ("Kaltenberger HV", "https://kaltenberger-hausverwaltung.de/vermietung/aktuelle-angebote/"),
     ("Chalet Immobilien", "https://www.chalet-immobilien.com/Angebote.htm"),
@@ -152,7 +284,9 @@ USER_SOURCES: list[tuple[str, str]] = [
     ("Wohnreferat München", "https://www.wohnref-muenchen.de/immobilien/"),
     ("Garant Immo", "https://www.garant-immo.de/result.html?search=rent&t=rental-apartment&q=M%C3%BCnchen&qt=county", False),
     ("VR-Bank München Land", "https://www.vr-bank-muenchen-land.de/privatkunden/immobilie-und-wohnen/produkte/immobilien/immobiliensuche.html"),
-    ("Lehmann Hueber", "https://lehmannhueber.de/immobilien/?post_type=immomakler_object&vermarktungsart=miete&nutzungsart=wohnen", False),
+    # Alte Query-URL gab HTTP 404 (immomakler-Plugin-Struktur geaendert).
+    # Root + Auto-Discovery findet die neue Angebotsseite selbst.
+    ("Lehmann Hueber", "https://lehmannhueber.de/"),
     ("Egger Immobilien", "https://egger-immo.de/immobilien/immobilien-muenchen/"),
     ("Immobilien PS", "https://www.immobilien-ps.de/aktuelle-mietangebote?slg=immomakler_object&mdf_cat=40&page_mdf=9134&order_by=mverfuegbarkeit&order=DESC", False),
     ("Roethig Immobilien", "https://www.roethig-immobilien.de/angebote/vermietung/", False),
@@ -255,7 +389,8 @@ HAUSVERWALTUNGEN_AUDIT: list[tuple[str, str]] = [
     ("Hartlaub / Cocon Immobilienstiftung", "https://www.cocon.de"),
     ("HOMEFacilities Seelbach", "https://www.homefacilities.de"),
     ("IMCON Immobilien Consulting", "https://www.imcon.info"),
-    ("Immobilien Zippold", "https://www.immobilien-zippold.de"),
+    # Auto-Discovery lief auf /wohnen-zum-halben-preis/ (Marketing-Landingpage).
+    ("Immobilien Zippold", "https://www.immobilien-zippold.de", False),
     ("IntigrA Immobilien Management", "https://www.intigra-immobilien.de"),
     ("KITHAN GmbH", "https://www.kithan.de"),
     ("Norbert Marte Immobilien", "https://www.immobilienmarte.de/immobilienangebote.xhtml", False),
@@ -430,6 +565,9 @@ def all_simple_adapters() -> List[GenericTextAdapter]:
     skipped = 0
     for entry in (
         GENOSSENSCHAFTEN
+        + GENOSSENSCHAFTEN_GIMA
+        + INSTITUTIONELLE
+        + STAEDTISCH_STAATLICH
         + HAUSVERWALTUNGEN_TOP
         + HAUSVERWALTUNGEN_HOCH
         + HAUSVERWALTUNGEN_MITTEL
