@@ -1,14 +1,14 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-02T04:02:16+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-02T04:05:17+00:00_  
 _Total Runs: 7383_  
-_Letzte Run-Zusammenfassung: 552 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 560 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
 | Adapter | Scraped (Σ) | Avg/Run | Runs aktiv | Letzte Aktivität | Status |
 |---|---:|---:|---|---|---|
-| Citigrund | 596772 | 81.6 | 7151/7312 | vor 15h | 🟢 aktiv |
+| Citigrund | 596772 | 81.6 | 7151/7312 | vor 16h | 🟢 aktiv |
 | Park Avenue Immobilien | 365147 | 49.5 | 7260/7383 | vor 0min | 🟢 aktiv |
 | WSB Bayern | 275430 | 37.3 | 7026/7383 | vor 0min | 🟢 aktiv |
 | Pandion Service | 221285 | 30.0 | 7378/7383 | vor 0min | 🟢 aktiv |
@@ -33,7 +33,7 @@ _Letzte Run-Zusammenfassung: 552 scraped, 0 matches, 0 sent_
 | Franziskanerhof | 49069 | 6.6 | 7376/7383 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 41086 | 5.6 | 7377/7383 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 40260 | 5.5 | 7169/7383 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 34163 | 4.6 | 7375/7383 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 34172 | 4.6 | 7375/7383 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 29524 | 4.0 | 7381/7383 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 28521 | 3.9 | 6893/7383 | vor 0min | 🟢 aktiv |
 | DIBAG | 28116 | 3.8 | 7029/7383 | vor 0min | 🟢 aktiv |
@@ -43,8 +43,8 @@ _Letzte Run-Zusammenfassung: 552 scraped, 0 matches, 0 sent_
 | Alsaol | 21640 | 2.9 | 7383/7383 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 20562 | 2.8 | 7207/7381 | vor 0min | 🟢 aktiv |
 | GVG Net | 20201 | 2.7 | 7376/7383 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 17717 | 2.4 | 7358/7383 | vor 0min | 🟢 aktiv |
-| Eichler Immobilien | 17221 | 2.3 | 7227/7383 | vor 15h | 🟢 aktiv |
+| Scheel Immobilien | 17716 | 2.4 | 7358/7383 | vor 0min | 🟢 aktiv |
+| Eichler Immobilien | 17221 | 2.3 | 7227/7383 | vor 16h | 🟢 aktiv |
 | LPE Immobilien | 16881 | 2.3 | 6161/7383 | vor 0min | 🟢 aktiv |
 | Lehmann Hueber | 15941 | 2.2 | 6060/7383 | vor 12d | 🟡 inaktiv (lange leer) |
 | Südhausbau | 15650 | 2.1 | 7354/7383 | vor 0min | 🟢 aktiv |
