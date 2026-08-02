@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-02T19:16:46+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-02T19:19:45+00:00_  
 _Total Runs: 7450_  
-_Letzte Run-Zusammenfassung: 518 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 522 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -43,9 +43,9 @@ _Letzte Run-Zusammenfassung: 518 scraped, 0 matches, 0 sent_
 | Alsaol | 21841 | 2.9 | 7450/7450 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 20738 | 2.8 | 7272/7448 | vor 0min | 🟢 aktiv |
 | GVG Net | 20335 | 2.7 | 7443/7450 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 17862 | 2.4 | 7425/7450 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 17863 | 2.4 | 7425/7450 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 17221 | 2.3 | 7227/7450 | vor 1d | 🟡 inaktiv (lange leer) |
-| LPE Immobilien | 16991 | 2.3 | 6216/7450 | vor 43min | 🟢 aktiv |
+| LPE Immobilien | 16993 | 2.3 | 6217/7450 | vor 0min | 🟢 aktiv |
 | Lehmann Hueber | 15941 | 2.1 | 6060/7450 | vor 13d | 🟡 inaktiv (lange leer) |
 | Südhausbau | 15717 | 2.1 | 7421/7450 | vor 0min | 🟢 aktiv |
 | ImmoSmart | 15342 | 2.1 | 6038/7450 | vor 0min | 🟢 aktiv |
@@ -60,7 +60,7 @@ _Letzte Run-Zusammenfassung: 518 scraped, 0 matches, 0 sent_
 | Dawonia | 6319 | 0.8 | 6319/7450 | vor 0min | 🟢 aktiv |
 | Immovision München | 4596 | 0.6 | 4596/7450 | vor 0min | 🟢 aktiv |
 | BVK Immobilien | 4002 | 29.0 | 138/138 | vor 0min | 🟢 aktiv |
-| Wagnis | 3084 | 0.4 | 3084/7450 | vor 12min | 🟢 aktiv |
+| Wagnis | 3085 | 0.4 | 3085/7450 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 2611 | 0.4 | 2611/7450 | vor 40d | 🟡 inaktiv (lange leer) |
 | Email Inbox | 996 | 0.1 | 823/7450 | vor 3h | 🟢 aktiv |
 | EBM München | 957 | 0.1 | 955/7450 | vor 23d | 🟡 inaktiv (lange leer) |
