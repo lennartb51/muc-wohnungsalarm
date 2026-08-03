@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-03T00:18:42+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-03T00:21:35+00:00_  
 _Total Runs: 7470_  
-_Letzte Run-Zusammenfassung: 525 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 558 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -23,7 +23,7 @@ _Letzte Run-Zusammenfassung: 525 scraped, 0 matches, 0 sent_
 | FAZ Immobilien | 141099 | 18.9 | 7459/7470 | vor 0min | 🟢 aktiv |
 | Engel & Völkers | 114283 | 15.3 | 7469/7470 | vor 0min | 🟢 aktiv |
 | Idowa Altstadt-Lehel | 94607 | 12.7 | 7460/7470 | vor 0min | 🟢 aktiv |
-| Wohnreferat München | 85569 | 11.5 | 6975/7470 | vor 15min | 🟢 aktiv |
+| Wohnreferat München | 85581 | 11.5 | 6976/7470 | vor 0min | 🟢 aktiv |
 | Wegener Immobilien | 82170 | 11.0 | 7470/7470 | vor 0min | 🟢 aktiv |
 | Heimhuber Immobilien | 78970 | 10.6 | 7459/7470 | vor 0min | 🟢 aktiv |
 | Immo-Hyp | 63855 | 8.5 | 7443/7470 | vor 0min | 🟢 aktiv |
@@ -36,7 +36,7 @@ _Letzte Run-Zusammenfassung: 525 scraped, 0 matches, 0 sent_
 | Kleinanzeigen | 34895 | 4.7 | 7462/7470 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 29872 | 4.0 | 7468/7470 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 28862 | 3.9 | 7452/7470 | vor 0min | 🟢 aktiv |
-| Sedlmayr AG | 28776 | 3.9 | 6978/7470 | vor 15min | 🟢 aktiv |
+| Sedlmayr AG | 28779 | 3.9 | 6979/7470 | vor 0min | 🟢 aktiv |
 | DIBAG | 28460 | 3.8 | 7115/7470 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 24257 | 3.2 | 7375/7470 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 21945 | 2.9 | 7315/7470 | vor 0min | 🟢 aktiv |
@@ -45,10 +45,10 @@ _Letzte Run-Zusammenfassung: 525 scraped, 0 matches, 0 sent_
 | GVG Net | 20375 | 2.7 | 7463/7470 | vor 0min | 🟢 aktiv |
 | Scheel Immobilien | 17905 | 2.4 | 7445/7470 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 17221 | 2.3 | 7227/7470 | vor 1d | 🟡 inaktiv (lange leer) |
-| LPE Immobilien | 17023 | 2.3 | 6232/7470 | vor 15min | 🟢 aktiv |
+| LPE Immobilien | 17023 | 2.3 | 6232/7470 | vor 18min | 🟢 aktiv |
 | Lehmann Hueber | 15941 | 2.1 | 6060/7470 | vor 13d | 🟡 inaktiv (lange leer) |
 | Südhausbau | 15737 | 2.1 | 7441/7470 | vor 0min | 🟢 aktiv |
-| ImmoSmart | 15684 | 2.1 | 6057/7470 | vor 15min | 🟢 aktiv |
+| ImmoSmart | 15702 | 2.1 | 6058/7470 | vor 0min | 🟢 aktiv |
 | KSWM | 11173 | 1.5 | 7277/7470 | vor 0min | 🟢 aktiv |
 | KLN Immobilien | 8706 | 1.2 | 5977/7470 | vor 0min | 🟢 aktiv |
 | HI Wohnbau | 7468 | 1.0 | 7468/7470 | vor 0min | 🟢 aktiv |
