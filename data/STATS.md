@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-04T11:48:08+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-04T11:51:02+00:00_  
 _Total Runs: 7618_  
-_Letzte Run-Zusammenfassung: 548 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 542 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -17,7 +17,7 @@ _Letzte Run-Zusammenfassung: 548 scraped, 0 matches, 0 sent_
 | KPC Immobilien | 194419 | 32.1 | 6046/6051 | vor 0min | 🟢 aktiv |
 | ohne-makler.net | 182736 | 24.0 | 7614/7618 | vor 0min | 🟢 aktiv |
 | Immobilo | 157641 | 20.7 | 7608/7618 | vor 0min | 🟢 aktiv |
-| SZ Immobilien | 155825 | 20.5 | 7607/7618 | vor 0min | 🟢 aktiv |
+| SZ Immobilien | 155826 | 20.5 | 7607/7618 | vor 0min | 🟢 aktiv |
 | Nuroa | 155410 | 20.4 | 7495/7618 | vor 0min | 🟢 aktiv |
 | Idowa | 151320 | 19.9 | 7607/7618 | vor 0min | 🟢 aktiv |
 | FAZ Immobilien | 143783 | 18.9 | 7607/7618 | vor 0min | 🟢 aktiv |
@@ -33,7 +33,7 @@ _Letzte Run-Zusammenfassung: 548 scraped, 0 matches, 0 sent_
 | Franziskanerhof | 50244 | 6.6 | 7611/7618 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 42496 | 5.6 | 7612/7618 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 41196 | 5.4 | 7403/7618 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 35585 | 4.7 | 7610/7618 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 35578 | 4.7 | 7610/7618 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 30464 | 4.0 | 7616/7618 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 30148 | 4.0 | 7598/7618 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 29101 | 3.8 | 7124/7618 | vor 0min | 🟢 aktiv |
