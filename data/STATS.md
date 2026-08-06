@@ -1,6 +1,6 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-06T06:33:18+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-06T06:35:51+00:00_  
 _Total Runs: 7801_  
 _Letzte Run-Zusammenfassung: 548 scraped, 0 matches, 0 sent_
 
@@ -33,7 +33,7 @@ _Letzte Run-Zusammenfassung: 548 scraped, 0 matches, 0 sent_
 | Franziskanerhof | 51159 | 6.6 | 7794/7801 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 43594 | 5.6 | 7795/7801 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 41924 | 5.4 | 7585/7801 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 36771 | 4.7 | 7793/7801 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 36773 | 4.7 | 7793/7801 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 31971 | 4.1 | 7781/7801 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 31196 | 4.0 | 7799/7801 | vor 0min | 🟢 aktiv |
 | DIBAG | 29772 | 3.8 | 7443/7801 | vor 0min | 🟢 aktiv |
@@ -45,7 +45,7 @@ _Letzte Run-Zusammenfassung: 548 scraped, 0 matches, 0 sent_
 | Pienzenauer Immobilien | 21466 | 2.8 | 7614/7799 | vor 0min | 🟢 aktiv |
 | GVG Net | 21210 | 2.7 | 7793/7801 | vor 0min | 🟢 aktiv |
 | Scheel Immobilien | 18683 | 2.4 | 7775/7801 | vor 0min | 🟢 aktiv |
-| LPE Immobilien | 17593 | 2.3 | 6517/7801 | vor 0min | 🟢 aktiv |
+| LPE Immobilien | 17591 | 2.3 | 6516/7801 | vor 17min | 🟢 aktiv |
 | Eichler Immobilien | 17221 | 2.2 | 7227/7801 | vor 4d | 🟡 inaktiv (lange leer) |
 | Südhausbau | 16068 | 2.1 | 7772/7801 | vor 0min | 🟢 aktiv |
 | Lehmann Hueber | 15941 | 2.0 | 6060/7801 | vor 16d | 🟡 inaktiv (lange leer) |
@@ -62,7 +62,7 @@ _Letzte Run-Zusammenfassung: 548 scraped, 0 matches, 0 sent_
 | Immovision München | 4938 | 0.6 | 4938/7801 | vor 0min | 🟢 aktiv |
 | Wagnis | 3434 | 0.4 | 3434/7801 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 2682 | 0.3 | 2682/7801 | vor 0min | 🟢 aktiv |
-| Email Inbox | 1033 | 0.1 | 856/7801 | vor 45min | 🟢 aktiv |
+| Email Inbox | 1033 | 0.1 | 856/7801 | vor 48min | 🟢 aktiv |
 | EBM München | 964 | 0.1 | 962/7801 | vor 23h | 🟢 aktiv |
 | Isar Wohnbaugenossenschaft (IWG) | 482 | 1.0 | 482/489 | vor 0min | 🟢 aktiv |
 | Immowelt | 64 | 0.0 | 2/7801 | vor 22d | 🟡 inaktiv (lange leer) |
