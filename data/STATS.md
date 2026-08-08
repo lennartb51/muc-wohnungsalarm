@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-08T16:02:57+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-08T16:05:41+00:00_  
 _Total Runs: 8035_  
-_Letzte Run-Zusammenfassung: 526 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 524 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -33,7 +33,7 @@ _Letzte Run-Zusammenfassung: 526 scraped, 0 matches, 0 sent_
 | Franziskanerhof | 52324 | 6.5 | 8027/8035 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 44998 | 5.6 | 8029/8035 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 42856 | 5.3 | 7818/8035 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 37754 | 4.7 | 8027/8035 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 37753 | 4.7 | 8027/8035 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 34284 | 4.3 | 8013/8035 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 32132 | 4.0 | 8033/8035 | vor 0min | 🟢 aktiv |
 | DIBAG | 30708 | 3.8 | 7677/8035 | vor 0min | 🟢 aktiv |
@@ -59,10 +59,10 @@ _Letzte Run-Zusammenfassung: 526 scraped, 0 matches, 0 sent_
 | Egger Immobilien | 7934 | 1.0 | 7934/8035 | vor 0min | 🟢 aktiv |
 | Maier Immobilien | 7870 | 1.0 | 7870/8035 | vor 0min | 🟢 aktiv |
 | Dawonia | 6903 | 0.9 | 6903/8035 | vor 0min | 🟢 aktiv |
-| Immovision München | 5162 | 0.6 | 5162/8035 | vor 0min | 🟢 aktiv |
+| Immovision München | 5161 | 0.6 | 5161/8035 | vor 17min | 🟢 aktiv |
 | Wagnis | 3661 | 0.5 | 3661/8035 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 2916 | 0.4 | 2916/8035 | vor 0min | 🟢 aktiv |
-| Email Inbox | 1069 | 0.1 | 881/8035 | vor 25min | 🟢 aktiv |
+| Email Inbox | 1069 | 0.1 | 881/8035 | vor 28min | 🟢 aktiv |
 | EBM München | 964 | 0.1 | 962/8035 | vor 3d | 🟡 inaktiv (lange leer) |
 | Isar Wohnbaugenossenschaft (IWG) | 711 | 1.0 | 711/723 | vor 0min | 🟢 aktiv |
 | Immowelt | 64 | 0.0 | 2/8035 | vor 24d | 🟡 inaktiv (lange leer) |
