@@ -1,6 +1,6 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-08T12:01:33+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-08T12:04:08+00:00_  
 _Total Runs: 8017_  
 _Letzte Run-Zusammenfassung: 526 scraped, 1 matches, 1 sent_
 
@@ -8,7 +8,7 @@ _Letzte Run-Zusammenfassung: 526 scraped, 1 matches, 1 sent_
 
 | Adapter | Scraped (Σ) | Avg/Run | Runs aktiv | Letzte Aktivität | Status |
 |---|---:|---:|---|---|---|
-| Citigrund | 596772 | 81.6 | 7151/7312 | vor 6d | 🟢 aktiv |
+| Citigrund | 596772 | 81.6 | 7151/7312 | vor 7d | 🟢 aktiv |
 | Park Avenue Immobilien | 397328 | 49.6 | 7891/8017 | vor 0min | 🟢 aktiv |
 | WSB Bayern | 304214 | 37.9 | 7657/8017 | vor 0min | 🟢 aktiv |
 | Pandion Service | 240305 | 30.0 | 8012/8017 | vor 0min | 🟢 aktiv |
@@ -33,7 +33,7 @@ _Letzte Run-Zusammenfassung: 526 scraped, 1 matches, 1 sent_
 | Franziskanerhof | 52234 | 6.5 | 8009/8017 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 44890 | 5.6 | 8011/8017 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 42784 | 5.3 | 7800/8017 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 37672 | 4.7 | 8009/8017 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 37673 | 4.7 | 8009/8017 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 34114 | 4.3 | 7996/8017 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 32060 | 4.0 | 8015/8017 | vor 0min | 🟢 aktiv |
 | DIBAG | 30636 | 3.8 | 7659/8017 | vor 0min | 🟢 aktiv |
@@ -45,9 +45,9 @@ _Letzte Run-Zusammenfassung: 526 scraped, 1 matches, 1 sent_
 | GVG Net | 21858 | 2.7 | 8009/8017 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 21787 | 2.7 | 7821/8015 | vor 0min | 🟢 aktiv |
 | BVK Immobilien | 19249 | 27.3 | 705/705 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 19190 | 2.4 | 7991/8017 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 19189 | 2.4 | 7991/8017 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 17973 | 2.2 | 6707/8017 | vor 0min | 🟢 aktiv |
-| Eichler Immobilien | 17221 | 2.1 | 7227/8017 | vor 6d | 🟡 inaktiv (lange leer) |
+| Eichler Immobilien | 17221 | 2.1 | 7227/8017 | vor 7d | 🟡 inaktiv (lange leer) |
 | Südhausbau | 16284 | 2.0 | 7988/8017 | vor 0min | 🟢 aktiv |
 | Lehmann Hueber | 15941 | 2.0 | 6060/8017 | vor 18d | 🟡 inaktiv (lange leer) |
 | KSWM | 11331 | 1.4 | 7435/8017 | vor 3d | 🟡 inaktiv (lange leer) |
