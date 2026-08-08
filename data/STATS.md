@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-08T20:33:57+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-08T20:36:51+00:00_  
 _Total Runs: 8055_  
-_Letzte Run-Zusammenfassung: 527 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 531 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -39,13 +39,13 @@ _Letzte Run-Zusammenfassung: 527 scraped, 0 matches, 0 sent_
 | DIBAG | 30784 | 3.8 | 7696/8055 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 30369 | 3.8 | 7559/8055 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 26680 | 3.3 | 7949/8055 | vor 0min | 🟢 aktiv |
-| Rogers Immobilien | 23685 | 2.9 | 7895/8055 | vor 15min | 🟢 aktiv |
+| Rogers Immobilien | 23688 | 2.9 | 7896/8055 | vor 0min | 🟢 aktiv |
 | Alsaol | 23656 | 2.9 | 8055/8055 | vor 0min | 🟢 aktiv |
 | ImmoSmart | 23584 | 2.9 | 6638/8055 | vor 0min | 🟢 aktiv |
 | GVG Net | 21972 | 2.7 | 8047/8055 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 21824 | 2.7 | 7858/8053 | vor 0min | 🟢 aktiv |
 | BVK Immobilien | 20199 | 27.2 | 743/743 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 19265 | 2.4 | 8029/8055 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 19266 | 2.4 | 8029/8055 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 18039 | 2.2 | 6740/8055 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 17221 | 2.1 | 7227/8055 | vor 7d | 🟡 inaktiv (lange leer) |
 | Südhausbau | 16322 | 2.0 | 8026/8055 | vor 0min | 🟢 aktiv |
