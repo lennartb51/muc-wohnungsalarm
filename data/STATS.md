@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-08T19:47:59+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-08T19:51:37+00:00_  
 _Total Runs: 8052_  
-_Letzte Run-Zusammenfassung: 526 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 527 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -33,19 +33,19 @@ _Letzte Run-Zusammenfassung: 526 scraped, 0 matches, 0 sent_
 | Franziskanerhof | 52409 | 6.5 | 8044/8052 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 45100 | 5.6 | 8046/8052 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 42920 | 5.3 | 7834/8052 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 37820 | 4.7 | 8043/8052 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 37825 | 4.7 | 8043/8052 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 34454 | 4.3 | 8030/8052 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 32200 | 4.0 | 8050/8052 | vor 0min | 🟢 aktiv |
 | DIBAG | 30772 | 3.8 | 7693/8052 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 30357 | 3.8 | 7556/8052 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 26662 | 3.3 | 7946/8052 | vor 0min | 🟢 aktiv |
-| Rogers Immobilien | 23682 | 2.9 | 7894/8052 | vor 0min | 🟢 aktiv |
+| Rogers Immobilien | 23679 | 2.9 | 7893/8052 | vor 18min | 🟢 aktiv |
 | Alsaol | 23647 | 2.9 | 8052/8052 | vor 0min | 🟢 aktiv |
 | ImmoSmart | 23581 | 2.9 | 6635/8052 | vor 0min | 🟢 aktiv |
 | GVG Net | 21963 | 2.7 | 8044/8052 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 21821 | 2.7 | 7855/8050 | vor 0min | 🟢 aktiv |
 | BVK Immobilien | 20124 | 27.2 | 740/740 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 19259 | 2.4 | 8026/8052 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 19258 | 2.4 | 8026/8052 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 18033 | 2.2 | 6737/8052 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 17221 | 2.1 | 7227/8052 | vor 7d | 🟡 inaktiv (lange leer) |
 | Südhausbau | 16319 | 2.0 | 8023/8052 | vor 0min | 🟢 aktiv |
