@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-09T16:03:20+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-09T16:05:48+00:00_  
 _Total Runs: 8145_  
-_Letzte Run-Zusammenfassung: 521 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 529 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -33,7 +33,7 @@ _Letzte Run-Zusammenfassung: 521 scraped, 0 matches, 0 sent_
 | Franziskanerhof | 52874 | 6.5 | 8137/8145 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 45658 | 5.6 | 8139/8145 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 43292 | 5.3 | 7927/8145 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 38425 | 4.7 | 8136/8145 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 38435 | 4.7 | 8136/8145 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 35384 | 4.3 | 8123/8145 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 32572 | 4.0 | 8143/8145 | vor 0min | 🟢 aktiv |
 | DIBAG | 31140 | 3.8 | 7785/8145 | vor 0min | 🟢 aktiv |
@@ -46,7 +46,7 @@ _Letzte Run-Zusammenfassung: 521 scraped, 0 matches, 0 sent_
 | GVG Net | 22242 | 2.7 | 8137/8145 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 21909 | 2.7 | 7943/8143 | vor 0min | 🟢 aktiv |
 | Scheel Immobilien | 19472 | 2.4 | 8119/8145 | vor 0min | 🟢 aktiv |
-| LPE Immobilien | 18193 | 2.2 | 6817/8145 | vor 0min | 🟢 aktiv |
+| LPE Immobilien | 18191 | 2.2 | 6816/8145 | vor 18min | 🟢 aktiv |
 | Eichler Immobilien | 17221 | 2.1 | 7227/8145 | vor 8d | 🟡 inaktiv (lange leer) |
 | Südhausbau | 16412 | 2.0 | 8116/8145 | vor 0min | 🟢 aktiv |
 | Lehmann Hueber | 15941 | 2.0 | 6060/8145 | vor 20d | 🟡 inaktiv (lange leer) |
@@ -62,7 +62,7 @@ _Letzte Run-Zusammenfassung: 521 scraped, 0 matches, 0 sent_
 | Immovision München | 5268 | 0.6 | 5268/8145 | vor 0min | 🟢 aktiv |
 | Wagnis | 3769 | 0.5 | 3769/8145 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 3026 | 0.4 | 3026/8145 | vor 0min | 🟢 aktiv |
-| Email Inbox | 1077 | 0.1 | 889/8145 | vor 1h | 🟢 aktiv |
+| Email Inbox | 1077 | 0.1 | 889/8145 | vor 2h | 🟢 aktiv |
 | EBM München | 964 | 0.1 | 962/8145 | vor 4d | 🟡 inaktiv (lange leer) |
 | Isar Wohnbaugenossenschaft (IWG) | 819 | 1.0 | 819/833 | vor 0min | 🟢 aktiv |
 | Immowelt | 64 | 0.0 | 2/8145 | vor 25d | 🟡 inaktiv (lange leer) |
