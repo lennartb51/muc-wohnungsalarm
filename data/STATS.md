@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-09T06:03:22+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-09T06:05:54+00:00_  
 _Total Runs: 8097_  
-_Letzte Run-Zusammenfassung: 530 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 526 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -33,7 +33,7 @@ _Letzte Run-Zusammenfassung: 530 scraped, 0 matches, 0 sent_
 | Franziskanerhof | 52634 | 6.5 | 8089/8097 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 45370 | 5.6 | 8091/8097 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 43100 | 5.3 | 7879/8097 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 38081 | 4.7 | 8088/8097 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 38077 | 4.7 | 8088/8097 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 34904 | 4.3 | 8075/8097 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 32380 | 4.0 | 8095/8097 | vor 0min | 🟢 aktiv |
 | DIBAG | 30952 | 3.8 | 7738/8097 | vor 0min | 🟢 aktiv |
