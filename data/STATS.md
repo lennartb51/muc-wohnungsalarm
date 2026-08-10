@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-10T14:33:04+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-10T14:35:30+00:00_  
 _Total Runs: 8249_  
-_Letzte Run-Zusammenfassung: 536 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 529 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -33,7 +33,7 @@ _Letzte Run-Zusammenfassung: 536 scraped, 0 matches, 0 sent_
 | Franziskanerhof | 53394 | 6.5 | 8241/8249 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 46282 | 5.6 | 8243/8249 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 43704 | 5.3 | 8030/8249 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 39300 | 4.8 | 8240/8249 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 39294 | 4.8 | 8240/8249 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 36424 | 4.4 | 8227/8249 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 32988 | 4.0 | 8247/8249 | vor 0min | 🟢 aktiv |
 | DIBAG | 31548 | 3.8 | 7887/8249 | vor 0min | 🟢 aktiv |
@@ -45,7 +45,7 @@ _Letzte Run-Zusammenfassung: 536 scraped, 0 matches, 0 sent_
 | ImmoSmart | 23793 | 2.9 | 6831/8249 | vor 0min | 🟢 aktiv |
 | GVG Net | 22554 | 2.7 | 8241/8249 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 21988 | 2.7 | 8022/8247 | vor 5h | 🟢 aktiv |
-| Scheel Immobilien | 19686 | 2.4 | 8223/8249 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 19685 | 2.4 | 8223/8249 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 18369 | 2.2 | 6905/8249 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 17221 | 2.1 | 7227/8249 | vor 9d | 🟡 inaktiv (lange leer) |
 | Südhausbau | 16516 | 2.0 | 8220/8249 | vor 0min | 🟢 aktiv |
@@ -62,7 +62,7 @@ _Letzte Run-Zusammenfassung: 536 scraped, 0 matches, 0 sent_
 | Immovision München | 5369 | 0.7 | 5369/8249 | vor 0min | 🟢 aktiv |
 | Wagnis | 3871 | 0.5 | 3871/8249 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 3130 | 0.4 | 3130/8249 | vor 0min | 🟢 aktiv |
-| Email Inbox | 1086 | 0.1 | 897/8249 | vor 59min | 🟢 aktiv |
+| Email Inbox | 1086 | 0.1 | 897/8249 | vor 1h | 🟢 aktiv |
 | EBM München | 977 | 0.1 | 975/8249 | vor 0min | 🟢 aktiv |
 | Isar Wohnbaugenossenschaft (IWG) | 922 | 1.0 | 922/937 | vor 0min | 🟢 aktiv |
 | Immowelt | 64 | 0.0 | 2/8249 | vor 26d | 🟡 inaktiv (lange leer) |
