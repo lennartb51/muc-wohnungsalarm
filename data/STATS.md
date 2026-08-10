@@ -1,6 +1,6 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-10T02:01:47+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-10T02:04:17+00:00_  
 _Total Runs: 8195_  
 _Letzte Run-Zusammenfassung: 532 scraped, 0 matches, 0 sent_
 
@@ -62,7 +62,7 @@ _Letzte Run-Zusammenfassung: 532 scraped, 0 matches, 0 sent_
 | Immovision München | 5318 | 0.6 | 5318/8195 | vor 0min | 🟢 aktiv |
 | Wagnis | 3817 | 0.5 | 3817/8195 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 3076 | 0.4 | 3076/8195 | vor 0min | 🟢 aktiv |
-| Email Inbox | 1079 | 0.1 | 891/8195 | vor 5h | 🟢 aktiv |
+| Email Inbox | 1079 | 0.1 | 891/8195 | vor 6h | 🟢 aktiv |
 | EBM München | 964 | 0.1 | 962/8195 | vor 4d | 🟡 inaktiv (lange leer) |
 | Isar Wohnbaugenossenschaft (IWG) | 869 | 1.0 | 869/883 | vor 0min | 🟢 aktiv |
 | Immowelt | 64 | 0.0 | 2/8195 | vor 26d | 🟡 inaktiv (lange leer) |
