@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-11T13:47:52+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-11T13:50:44+00:00_  
 _Total Runs: 8353_  
-_Letzte Run-Zusammenfassung: 524 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 536 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -33,7 +33,7 @@ _Letzte Run-Zusammenfassung: 524 scraped, 0 matches, 0 sent_
 | Franziskanerhof | 53914 | 6.5 | 8345/8353 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 46906 | 5.6 | 8347/8353 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 44120 | 5.3 | 8134/8353 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 40489 | 4.8 | 8344/8353 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 40503 | 4.8 | 8344/8353 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 37432 | 4.5 | 8331/8353 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 33404 | 4.0 | 8351/8353 | vor 0min | 🟢 aktiv |
 | DIBAG | 31952 | 3.8 | 7988/8353 | vor 0min | 🟢 aktiv |
@@ -45,7 +45,7 @@ _Letzte Run-Zusammenfassung: 524 scraped, 0 matches, 0 sent_
 | ImmoSmart | 23913 | 2.9 | 6935/8353 | vor 0min | 🟢 aktiv |
 | GVG Net | 22866 | 2.7 | 8345/8353 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 21988 | 2.6 | 8022/8351 | vor 1d | 🟡 inaktiv (lange leer) |
-| Scheel Immobilien | 19948 | 2.4 | 8327/8353 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 19947 | 2.4 | 8327/8353 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 18537 | 2.2 | 6989/8353 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 17221 | 2.1 | 7227/8353 | vor 10d | 🟡 inaktiv (lange leer) |
 | Südhausbau | 16620 | 2.0 | 8324/8353 | vor 0min | 🟢 aktiv |
@@ -59,10 +59,10 @@ _Letzte Run-Zusammenfassung: 524 scraped, 0 matches, 0 sent_
 | Egger Immobilien | 8252 | 1.0 | 8252/8353 | vor 0min | 🟢 aktiv |
 | Maier Immobilien | 8182 | 1.0 | 8182/8353 | vor 0min | 🟢 aktiv |
 | Dawonia | 7221 | 0.9 | 7221/8353 | vor 0min | 🟢 aktiv |
-| Immovision München | 5468 | 0.7 | 5468/8353 | vor 0min | 🟢 aktiv |
+| Immovision München | 5467 | 0.7 | 5467/8353 | vor 17min | 🟢 aktiv |
 | Wagnis | 3973 | 0.5 | 3973/8353 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 3234 | 0.4 | 3234/8353 | vor 0min | 🟢 aktiv |
-| Email Inbox | 1098 | 0.1 | 905/8353 | vor 1h | 🟢 aktiv |
+| Email Inbox | 1098 | 0.1 | 905/8353 | vor 2h | 🟢 aktiv |
 | Isar Wohnbaugenossenschaft (IWG) | 1024 | 1.0 | 1024/1041 | vor 0min | 🟢 aktiv |
 | EBM München | 996 | 0.1 | 994/8353 | vor 0min | 🟢 aktiv |
 | Immowelt | 64 | 0.0 | 2/8353 | vor 27d | 🟡 inaktiv (lange leer) |
