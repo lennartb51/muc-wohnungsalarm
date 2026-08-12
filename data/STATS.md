@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-12T05:17:48+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-12T05:20:09+00:00_  
 _Total Runs: 8423_  
-_Letzte Run-Zusammenfassung: 540 scraped, 1 matches, 1 sent_
+_Letzte Run-Zusammenfassung: 538 scraped, 1 matches, 1 sent_
 
 ## Adapter-Übersicht
 
@@ -45,7 +45,7 @@ _Letzte Run-Zusammenfassung: 540 scraped, 1 matches, 1 sent_
 | ImmoSmart | 23998 | 2.8 | 7005/8423 | vor 0min | 🟢 aktiv |
 | GVG Net | 23076 | 2.7 | 8415/8423 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 21988 | 2.6 | 8022/8421 | vor 1d | 🟡 inaktiv (lange leer) |
-| Scheel Immobilien | 20145 | 2.4 | 8397/8423 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 20143 | 2.4 | 8397/8423 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 18661 | 2.2 | 7051/8423 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 17221 | 2.0 | 7227/8423 | vor 10d | 🟡 inaktiv (lange leer) |
 | Südhausbau | 16690 | 2.0 | 8394/8423 | vor 0min | 🟢 aktiv |
@@ -62,7 +62,7 @@ _Letzte Run-Zusammenfassung: 540 scraped, 1 matches, 1 sent_
 | Immovision München | 5536 | 0.7 | 5536/8423 | vor 0min | 🟢 aktiv |
 | Wagnis | 4043 | 0.5 | 4043/8423 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 3304 | 0.4 | 3304/8423 | vor 0min | 🟢 aktiv |
-| Email Inbox | 1102 | 0.1 | 909/8423 | vor 14min | 🟢 aktiv |
+| Email Inbox | 1102 | 0.1 | 909/8423 | vor 16min | 🟢 aktiv |
 | Isar Wohnbaugenossenschaft (IWG) | 1094 | 1.0 | 1094/1111 | vor 0min | 🟢 aktiv |
 | EBM München | 1066 | 0.1 | 1064/8423 | vor 0min | 🟢 aktiv |
 | Immowelt | 64 | 0.0 | 2/8423 | vor 28d | 🟡 inaktiv (lange leer) |
