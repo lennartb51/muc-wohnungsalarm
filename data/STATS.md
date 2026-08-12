@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-12T19:47:34+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-12T19:50:27+00:00_  
 _Total Runs: 8487_  
-_Letzte Run-Zusammenfassung: 540 scraped, 1 matches, 1 sent_
+_Letzte Run-Zusammenfassung: 539 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -59,11 +59,11 @@ _Letzte Run-Zusammenfassung: 540 scraped, 1 matches, 1 sent_
 | Egger Immobilien | 8386 | 1.0 | 8386/8487 | vor 0min | 🟢 aktiv |
 | Maier Immobilien | 8315 | 1.0 | 8315/8487 | vor 0min | 🟢 aktiv |
 | Dawonia | 7355 | 0.9 | 7355/8487 | vor 0min | 🟢 aktiv |
-| Immovision München | 5593 | 0.7 | 5593/8487 | vor 14min | 🟢 aktiv |
+| Immovision München | 5593 | 0.7 | 5593/8487 | vor 17min | 🟢 aktiv |
 | Wagnis | 4106 | 0.5 | 4106/8487 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 3368 | 0.4 | 3368/8487 | vor 0min | 🟢 aktiv |
 | Isar Wohnbaugenossenschaft (IWG) | 1158 | 1.0 | 1158/1175 | vor 0min | 🟢 aktiv |
-| Email Inbox | 1112 | 0.1 | 919/8487 | vor 0min | 🟢 aktiv |
+| Email Inbox | 1111 | 0.1 | 918/8487 | vor 3h | 🟢 aktiv |
 | EBM München | 1071 | 0.1 | 1069/8487 | vor 13h | 🟢 aktiv |
 | Immowelt | 64 | 0.0 | 2/8487 | vor 28d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 84d | 🟢 aktiv |
