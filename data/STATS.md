@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-12T14:32:55+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-12T14:35:30+00:00_  
 _Total Runs: 8464_  
-_Letzte Run-Zusammenfassung: 552 scraped, 2 matches, 2 sent_
+_Letzte Run-Zusammenfassung: 524 scraped, 1 matches, 1 sent_
 
 ## Adapter-Übersicht
 
@@ -13,8 +13,8 @@ _Letzte Run-Zusammenfassung: 552 scraped, 2 matches, 2 sent_
 | WSB Bayern | 326558 | 38.6 | 8098/8464 | vor 0min | 🟢 aktiv |
 | Pandion Service | 253715 | 30.0 | 8459/8464 | vor 0min | 🟢 aktiv |
 | Immobilien Schlamp | 250065 | 29.5 | 8437/8464 | vor 0min | 🟢 aktiv |
-| KPC Immobilien | 222277 | 32.2 | 6892/6897 | vor 0min | 🟢 aktiv |
-| WG-Gesucht | 218648 | 25.8 | 7910/8464 | vor 0min | 🟢 aktiv |
+| KPC Immobilien | 222278 | 32.2 | 6892/6897 | vor 0min | 🟢 aktiv |
+| WG-Gesucht | 218620 | 25.8 | 7909/8464 | vor 17min | 🟢 aktiv |
 | ohne-makler.net | 203016 | 24.0 | 8459/8464 | vor 0min | 🟢 aktiv |
 | Immobilo | 175068 | 20.7 | 8453/8464 | vor 0min | 🟢 aktiv |
 | Nuroa | 174040 | 20.6 | 8333/8464 | vor 0min | 🟢 aktiv |
@@ -63,8 +63,8 @@ _Letzte Run-Zusammenfassung: 552 scraped, 2 matches, 2 sent_
 | Wagnis | 4084 | 0.5 | 4084/8464 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 3345 | 0.4 | 3345/8464 | vor 0min | 🟢 aktiv |
 | Isar Wohnbaugenossenschaft (IWG) | 1135 | 1.0 | 1135/1152 | vor 0min | 🟢 aktiv |
-| Email Inbox | 1109 | 0.1 | 916/8464 | vor 0min | 🟢 aktiv |
-| EBM München | 1071 | 0.1 | 1069/8464 | vor 7h | 🟢 aktiv |
+| Email Inbox | 1108 | 0.1 | 915/8464 | vor 2h | 🟢 aktiv |
+| EBM München | 1071 | 0.1 | 1069/8464 | vor 8h | 🟢 aktiv |
 | Immowelt | 64 | 0.0 | 2/8464 | vor 28d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 84d | 🟢 aktiv |
 | Munich Property | 10 | 5.0 | 2/2 | vor 84d | 🟢 aktiv |
