@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-13T12:33:19+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-13T12:36:27+00:00_  
 _Total Runs: 8563_  
-_Letzte Run-Zusammenfassung: 515 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 542 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -14,7 +14,7 @@ _Letzte Run-Zusammenfassung: 515 scraped, 0 matches, 0 sent_
 | Pandion Service | 256685 | 30.0 | 8558/8563 | vor 0min | 🟢 aktiv |
 | Immobilien Schlamp | 252936 | 29.5 | 8536/8563 | vor 0min | 🟢 aktiv |
 | KPC Immobilien | 225446 | 32.2 | 6991/6996 | vor 0min | 🟢 aktiv |
-| WG-Gesucht | 221196 | 25.8 | 8001/8563 | vor 14min | 🟢 aktiv |
+| WG-Gesucht | 221224 | 25.8 | 8002/8563 | vor 0min | 🟢 aktiv |
 | ohne-makler.net | 205392 | 24.0 | 8558/8563 | vor 0min | 🟢 aktiv |
 | Immobilo | 177110 | 20.7 | 8552/8563 | vor 0min | 🟢 aktiv |
 | Nuroa | 176239 | 20.6 | 8432/8563 | vor 0min | 🟢 aktiv |
@@ -45,7 +45,7 @@ _Letzte Run-Zusammenfassung: 515 scraped, 0 matches, 0 sent_
 | Alsaol | 25180 | 2.9 | 8563/8563 | vor 0min | 🟢 aktiv |
 | GVG Net | 23499 | 2.7 | 8555/8563 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 21988 | 2.6 | 8022/8561 | vor 3d | 🟡 inaktiv (lange leer) |
-| Scheel Immobilien | 20462 | 2.4 | 8537/8563 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 20461 | 2.4 | 8537/8563 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 18909 | 2.2 | 7175/8563 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 17223 | 2.0 | 7229/8563 | vor 0min | 🟢 aktiv |
 | Südhausbau | 16830 | 2.0 | 8534/8563 | vor 0min | 🟢 aktiv |
