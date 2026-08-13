@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-13T10:33:20+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-13T10:36:05+00:00_  
 _Total Runs: 8554_  
-_Letzte Run-Zusammenfassung: 537 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 540 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -16,10 +16,10 @@ _Letzte Run-Zusammenfassung: 537 scraped, 0 matches, 0 sent_
 | KPC Immobilien | 225158 | 32.2 | 6982/6987 | vor 0min | 🟢 aktiv |
 | WG-Gesucht | 220972 | 25.8 | 7993/8554 | vor 0min | 🟢 aktiv |
 | ohne-makler.net | 205176 | 24.0 | 8549/8554 | vor 0min | 🟢 aktiv |
-| Immobilo | 176929 | 20.7 | 8543/8554 | vor 0min | 🟢 aktiv |
+| Immobilo | 176930 | 20.7 | 8543/8554 | vor 0min | 🟢 aktiv |
 | Nuroa | 176020 | 20.6 | 8423/8554 | vor 0min | 🟢 aktiv |
 | SZ Immobilien | 175305 | 20.5 | 8541/8554 | vor 0min | 🟢 aktiv |
-| Idowa | 169363 | 19.8 | 8541/8554 | vor 0min | 🟢 aktiv |
+| Idowa | 169364 | 19.8 | 8541/8554 | vor 0min | 🟢 aktiv |
 | FAZ Immobilien | 160923 | 18.8 | 8541/8554 | vor 0min | 🟢 aktiv |
 | Engel & Völkers | 127911 | 15.0 | 8553/8554 | vor 0min | 🟢 aktiv |
 | Idowa Altstadt-Lehel | 106339 | 12.4 | 8544/8554 | vor 0min | 🟢 aktiv |
@@ -33,7 +33,7 @@ _Letzte Run-Zusammenfassung: 537 scraped, 0 matches, 0 sent_
 | Franziskanerhof | 54914 | 6.4 | 8545/8554 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 48112 | 5.6 | 8548/8554 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 44912 | 5.3 | 8332/8554 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 42338 | 4.9 | 8545/8554 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 42339 | 4.9 | 8545/8554 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 38532 | 4.5 | 8532/8554 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 34208 | 4.0 | 8552/8554 | vor 0min | 🟢 aktiv |
 | BVK Immobilien | 33200 | 26.7 | 1241/1242 | vor 0min | 🟢 aktiv |
@@ -56,14 +56,14 @@ _Letzte Run-Zusammenfassung: 537 scraped, 0 matches, 0 sent_
 | Vonovia | 8550 | 1.0 | 8550/8554 | vor 0min | 🟢 aktiv |
 | DAHLER München | 8547 | 1.0 | 8547/8554 | vor 0min | 🟢 aktiv |
 | Immobilien Schneider | 8537 | 1.0 | 8537/8554 | vor 0min | 🟢 aktiv |
-| Egger Immobilien | 8452 | 1.0 | 8452/8554 | vor 14min | 🟢 aktiv |
+| Egger Immobilien | 8452 | 1.0 | 8452/8554 | vor 17min | 🟢 aktiv |
 | Maier Immobilien | 8381 | 1.0 | 8381/8554 | vor 0min | 🟢 aktiv |
 | Dawonia | 7422 | 0.9 | 7422/8554 | vor 0min | 🟢 aktiv |
 | Immovision München | 5655 | 0.7 | 5655/8554 | vor 0min | 🟢 aktiv |
 | Wagnis | 4172 | 0.5 | 4172/8554 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 3435 | 0.4 | 3435/8554 | vor 0min | 🟢 aktiv |
 | Isar Wohnbaugenossenschaft (IWG) | 1224 | 1.0 | 1224/1242 | vor 0min | 🟢 aktiv |
-| Email Inbox | 1119 | 0.1 | 924/8554 | vor 45min | 🟢 aktiv |
+| Email Inbox | 1119 | 0.1 | 924/8554 | vor 48min | 🟢 aktiv |
 | EBM München | 1071 | 0.1 | 1069/8554 | vor 1d | 🟡 inaktiv (lange leer) |
 | Immowelt | 64 | 0.0 | 2/8554 | vor 29d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 85d | 🟢 aktiv |
