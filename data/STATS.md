@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-14T21:45:58+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-14T21:48:51+00:00_  
 _Total Runs: 8714_  
-_Letzte Run-Zusammenfassung: 533 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 507 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -14,7 +14,7 @@ _Letzte Run-Zusammenfassung: 533 scraped, 0 matches, 0 sent_
 | Pandion Service | 261215 | 30.0 | 8709/8714 | vor 0min | 🟢 aktiv |
 | Immobilien Schlamp | 257315 | 29.5 | 8687/8714 | vor 0min | 🟢 aktiv |
 | KPC Immobilien | 230418 | 32.2 | 7142/7147 | vor 0min | 🟢 aktiv |
-| WG-Gesucht | 225368 | 25.9 | 8150/8714 | vor 0min | 🟢 aktiv |
+| WG-Gesucht | 225340 | 25.9 | 8149/8714 | vor 15min | 🟢 aktiv |
 | ohne-makler.net | 209016 | 24.0 | 8709/8714 | vor 0min | 🟢 aktiv |
 | Immobilo | 180226 | 20.7 | 8703/8714 | vor 0min | 🟢 aktiv |
 | Nuroa | 179834 | 20.6 | 8583/8714 | vor 0min | 🟢 aktiv |
@@ -33,7 +33,7 @@ _Letzte Run-Zusammenfassung: 533 scraped, 0 matches, 0 sent_
 | Franziskanerhof | 55714 | 6.4 | 8705/8714 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 49072 | 5.6 | 8708/8714 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 45544 | 5.2 | 8490/8714 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 42914 | 4.9 | 8705/8714 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 42917 | 4.9 | 8705/8714 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 39444 | 4.5 | 8692/8714 | vor 0min | 🟢 aktiv |
 | BVK Immobilien | 37478 | 26.7 | 1401/1402 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 34848 | 4.0 | 8712/8714 | vor 0min | 🟢 aktiv |
@@ -45,7 +45,7 @@ _Letzte Run-Zusammenfassung: 533 scraped, 0 matches, 0 sent_
 | Alsaol | 25633 | 2.9 | 8714/8714 | vor 0min | 🟢 aktiv |
 | GVG Net | 23949 | 2.7 | 8705/8714 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 21988 | 2.5 | 8022/8712 | vor 4d | 🟡 inaktiv (lange leer) |
-| Scheel Immobilien | 20821 | 2.4 | 8688/8714 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 20820 | 2.4 | 8688/8714 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 19179 | 2.2 | 7310/8714 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 17374 | 2.0 | 7380/8714 | vor 0min | 🟢 aktiv |
 | Südhausbau | 16981 | 1.9 | 8685/8714 | vor 0min | 🟢 aktiv |
