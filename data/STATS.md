@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-15T13:33:13+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-15T13:35:57+00:00_  
 _Total Runs: 8792_  
-_Letzte Run-Zusammenfassung: 531 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 526 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -29,11 +29,11 @@ _Letzte Run-Zusammenfassung: 531 scraped, 0 matches, 0 sent_
 | Immo-Hyp | 74372 | 8.5 | 8764/8792 | vor 0min | 🟢 aktiv |
 | Immler Martin Hausverwaltung | 66386 | 7.6 | 8792/8792 | vor 0min | 🟢 aktiv |
 | Hegerich Immobilien | 61375 | 7.0 | 8781/8792 | vor 0min | 🟢 aktiv |
-| Ab ins Zuhause | 60440 | 6.9 | 7570/8792 | vor 59min | 🟢 aktiv |
+| Ab ins Zuhause | 60440 | 6.9 | 7570/8792 | vor 1h | 🟢 aktiv |
 | Franziskanerhof | 56104 | 6.4 | 8783/8792 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 49540 | 5.6 | 8786/8792 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 45852 | 5.2 | 8567/8792 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 43213 | 4.9 | 8783/8792 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 43210 | 4.9 | 8783/8792 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 39990 | 4.5 | 8770/8792 | vor 0min | 🟢 aktiv |
 | BVK Immobilien | 39506 | 26.7 | 1479/1480 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 35160 | 4.0 | 8790/8792 | vor 0min | 🟢 aktiv |
@@ -45,7 +45,7 @@ _Letzte Run-Zusammenfassung: 531 scraped, 0 matches, 0 sent_
 | Alsaol | 25867 | 2.9 | 8792/8792 | vor 0min | 🟢 aktiv |
 | GVG Net | 24183 | 2.8 | 8783/8792 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 21988 | 2.5 | 8022/8790 | vor 5d | 🟡 inaktiv (lange leer) |
-| Scheel Immobilien | 20990 | 2.4 | 8765/8792 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 20989 | 2.4 | 8765/8792 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 19325 | 2.2 | 7383/8792 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 17458 | 2.0 | 7458/8792 | vor 0min | 🟢 aktiv |
 | Südhausbau | 17059 | 1.9 | 8763/8792 | vor 0min | 🟢 aktiv |
@@ -59,7 +59,7 @@ _Letzte Run-Zusammenfassung: 531 scraped, 0 matches, 0 sent_
 | Maier Immobilien | 8617 | 1.0 | 8617/8792 | vor 0min | 🟢 aktiv |
 | Egger Immobilien | 8452 | 1.0 | 8452/8792 | vor 2d | 🟡 inaktiv (lange leer) |
 | Dawonia | 7660 | 0.9 | 7660/8792 | vor 0min | 🟢 aktiv |
-| Immovision München | 5885 | 0.7 | 5885/8792 | vor 0min | 🟢 aktiv |
+| Immovision München | 5884 | 0.7 | 5884/8792 | vor 18min | 🟢 aktiv |
 | Wagnis | 4409 | 0.5 | 4409/8792 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 3673 | 0.4 | 3673/8792 | vor 0min | 🟢 aktiv |
 | Isar Wohnbaugenossenschaft (IWG) | 1462 | 1.0 | 1462/1480 | vor 0min | 🟢 aktiv |
