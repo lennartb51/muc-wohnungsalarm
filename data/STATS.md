@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-15T05:47:19+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-15T05:50:00+00:00_  
 _Total Runs: 8753_  
-_Letzte Run-Zusammenfassung: 539 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 540 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -45,7 +45,7 @@ _Letzte Run-Zusammenfassung: 539 scraped, 0 matches, 0 sent_
 | Alsaol | 25750 | 2.9 | 8753/8753 | vor 0min | 🟢 aktiv |
 | GVG Net | 24066 | 2.7 | 8744/8753 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 21988 | 2.5 | 8022/8751 | vor 4d | 🟡 inaktiv (lange leer) |
-| Scheel Immobilien | 20909 | 2.4 | 8727/8753 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 20910 | 2.4 | 8727/8753 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 19253 | 2.2 | 7347/8753 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 17413 | 2.0 | 7419/8753 | vor 0min | 🟢 aktiv |
 | Südhausbau | 17020 | 1.9 | 8724/8753 | vor 0min | 🟢 aktiv |
