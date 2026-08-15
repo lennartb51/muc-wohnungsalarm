@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-15T07:32:53+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-15T07:35:31+00:00_  
 _Total Runs: 8761_  
-_Letzte Run-Zusammenfassung: 531 scraped, 1 matches, 1 sent_
+_Letzte Run-Zusammenfassung: 529 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -29,11 +29,11 @@ _Letzte Run-Zusammenfassung: 531 scraped, 1 matches, 1 sent_
 | Immo-Hyp | 74155 | 8.5 | 8733/8761 | vor 0min | 🟢 aktiv |
 | Immler Martin Hausverwaltung | 66262 | 7.6 | 8761/8761 | vor 0min | 🟢 aktiv |
 | Hegerich Immobilien | 61158 | 7.0 | 8750/8761 | vor 0min | 🟢 aktiv |
-| Ab ins Zuhause | 60248 | 6.9 | 7546/8761 | vor 59min | 🟢 aktiv |
+| Ab ins Zuhause | 60248 | 6.9 | 7546/8761 | vor 1h | 🟢 aktiv |
 | Franziskanerhof | 55949 | 6.4 | 8752/8761 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 49354 | 5.6 | 8755/8761 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 45728 | 5.2 | 8536/8761 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 43101 | 4.9 | 8752/8761 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 43099 | 4.9 | 8752/8761 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 39773 | 4.5 | 8739/8761 | vor 0min | 🟢 aktiv |
 | BVK Immobilien | 38700 | 26.7 | 1448/1449 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 35036 | 4.0 | 8759/8761 | vor 0min | 🟢 aktiv |
