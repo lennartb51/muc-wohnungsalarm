@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-15T14:32:26+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-15T14:35:09+00:00_  
 _Total Runs: 8797_  
-_Letzte Run-Zusammenfassung: 479 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 538 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -14,7 +14,7 @@ _Letzte Run-Zusammenfassung: 479 scraped, 0 matches, 0 sent_
 | Pandion Service | 263705 | 30.0 | 8792/8797 | vor 0min | 🟢 aktiv |
 | Immobilien Schlamp | 259722 | 29.5 | 8770/8797 | vor 0min | 🟢 aktiv |
 | KPC Immobilien | 233124 | 32.2 | 7224/7230 | vor 0min | 🟢 aktiv |
-| WG-Gesucht | 227468 | 25.9 | 8225/8797 | vor 13min | 🟢 aktiv |
+| WG-Gesucht | 227496 | 25.9 | 8226/8797 | vor 0min | 🟢 aktiv |
 | ohne-makler.net | 210984 | 24.0 | 8791/8797 | vor 0min | 🟢 aktiv |
 | Immobilo | 181906 | 20.7 | 8786/8797 | vor 0min | 🟢 aktiv |
 | Nuroa | 181849 | 20.7 | 8666/8797 | vor 0min | 🟢 aktiv |
@@ -23,7 +23,7 @@ _Letzte Run-Zusammenfassung: 479 scraped, 0 matches, 0 sent_
 | FAZ Immobilien | 165763 | 18.8 | 8783/8797 | vor 0min | 🟢 aktiv |
 | Engel & Völkers | 130606 | 14.8 | 8796/8797 | vor 0min | 🟢 aktiv |
 | Idowa Altstadt-Lehel | 108284 | 12.3 | 8787/8797 | vor 0min | 🟢 aktiv |
-| Wohnreferat München | 98986 | 11.3 | 8291/8797 | vor 13min | 🟢 aktiv |
+| Wohnreferat München | 98995 | 11.3 | 8292/8797 | vor 0min | 🟢 aktiv |
 | Wegener Immobilien | 96767 | 11.0 | 8797/8797 | vor 0min | 🟢 aktiv |
 | Heimhuber Immobilien | 93863 | 10.7 | 8785/8797 | vor 0min | 🟢 aktiv |
 | Immo-Hyp | 74407 | 8.5 | 8769/8797 | vor 0min | 🟢 aktiv |
@@ -37,16 +37,16 @@ _Letzte Run-Zusammenfassung: 479 scraped, 0 matches, 0 sent_
 | Rosenberger Immobilien | 40025 | 4.5 | 8775/8797 | vor 0min | 🟢 aktiv |
 | BVK Immobilien | 39636 | 26.7 | 1484/1485 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 35180 | 4.0 | 8795/8797 | vor 0min | 🟢 aktiv |
-| Sedlmayr AG | 33818 | 3.8 | 8295/8797 | vor 13min | 🟢 aktiv |
+| Sedlmayr AG | 33822 | 3.8 | 8296/8797 | vor 0min | 🟢 aktiv |
 | DIBAG | 33708 | 3.8 | 8427/8797 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 31089 | 3.5 | 8680/8797 | vor 0min | 🟢 aktiv |
-| ImmoSmart | 29677 | 3.4 | 7374/8797 | vor 13min | 🟢 aktiv |
+| ImmoSmart | 29693 | 3.4 | 7375/8797 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 25887 | 2.9 | 8629/8797 | vor 0min | 🟢 aktiv |
 | Alsaol | 25882 | 2.9 | 8797/8797 | vor 0min | 🟢 aktiv |
 | GVG Net | 24198 | 2.8 | 8788/8797 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 21988 | 2.5 | 8022/8795 | vor 5d | 🟡 inaktiv (lange leer) |
 | Scheel Immobilien | 20996 | 2.4 | 8770/8797 | vor 0min | 🟢 aktiv |
-| LPE Immobilien | 19331 | 2.2 | 7386/8797 | vor 29min | 🟢 aktiv |
+| LPE Immobilien | 19333 | 2.2 | 7387/8797 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 17468 | 2.0 | 7463/8797 | vor 0min | 🟢 aktiv |
 | Südhausbau | 17064 | 1.9 | 8768/8797 | vor 0min | 🟢 aktiv |
 | Lehmann Hueber | 15941 | 1.8 | 6060/8797 | vor 26d | 🟡 inaktiv (lange leer) |
