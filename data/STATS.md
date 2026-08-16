@@ -1,20 +1,20 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-16T05:48:17+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-16T05:51:20+00:00_  
 _Total Runs: 8879_  
-_Letzte Run-Zusammenfassung: 486 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 521 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
 | Adapter | Scraped (Σ) | Avg/Run | Runs aktiv | Letzte Aktivität | Status |
 |---|---:|---:|---|---|---|
 | Citigrund | 596772 | 81.6 | 7151/7312 | vor 14d | 🟢 aktiv |
-| Park Avenue Immobilien | 439658 | 49.5 | 8721/8879 | vor 15min | 🟢 aktiv |
+| Park Avenue Immobilien | 439709 | 49.5 | 8722/8879 | vor 0min | 🟢 aktiv |
 | WSB Bayern | 346238 | 39.0 | 8508/8879 | vor 0min | 🟢 aktiv |
 | Pandion Service | 266165 | 30.0 | 8874/8879 | vor 0min | 🟢 aktiv |
 | Immobilien Schlamp | 262100 | 29.5 | 8852/8879 | vor 0min | 🟢 aktiv |
 | KPC Immobilien | 235830 | 32.3 | 7306/7312 | vor 0min | 🟢 aktiv |
-| WG-Gesucht | 229708 | 25.9 | 8305/8879 | vor 0min | 🟢 aktiv |
+| WG-Gesucht | 229680 | 25.9 | 8304/8879 | vor 18min | 🟢 aktiv |
 | ohne-makler.net | 212952 | 24.0 | 8873/8879 | vor 0min | 🟢 aktiv |
 | Nuroa | 183653 | 20.7 | 8748/8879 | vor 0min | 🟢 aktiv |
 | Immobilo | 183622 | 20.7 | 8868/8879 | vor 0min | 🟢 aktiv |
@@ -33,7 +33,7 @@ _Letzte Run-Zusammenfassung: 486 scraped, 0 matches, 0 sent_
 | Franziskanerhof | 56539 | 6.4 | 8870/8879 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 50062 | 5.6 | 8873/8879 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 46192 | 5.2 | 8652/8879 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 43536 | 4.9 | 8870/8879 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 43533 | 4.9 | 8870/8879 | vor 0min | 🟢 aktiv |
 | BVK Immobilien | 41768 | 26.7 | 1566/1567 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 40592 | 4.6 | 8856/8879 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 35508 | 4.0 | 8877/8879 | vor 0min | 🟢 aktiv |
@@ -45,7 +45,7 @@ _Letzte Run-Zusammenfassung: 486 scraped, 0 matches, 0 sent_
 | Alsaol | 26128 | 2.9 | 8879/8879 | vor 0min | 🟢 aktiv |
 | GVG Net | 24444 | 2.8 | 8870/8879 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 21988 | 2.5 | 8022/8877 | vor 5d | 🟡 inaktiv (lange leer) |
-| Scheel Immobilien | 21201 | 2.4 | 8851/8879 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 21215 | 2.4 | 8851/8879 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 19479 | 2.2 | 7460/8879 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 17632 | 2.0 | 7545/8879 | vor 0min | 🟢 aktiv |
 | Südhausbau | 17146 | 1.9 | 8850/8879 | vor 0min | 🟢 aktiv |
@@ -59,7 +59,7 @@ _Letzte Run-Zusammenfassung: 486 scraped, 0 matches, 0 sent_
 | Maier Immobilien | 8702 | 1.0 | 8702/8879 | vor 0min | 🟢 aktiv |
 | Egger Immobilien | 8452 | 1.0 | 8452/8879 | vor 2d | 🟡 inaktiv (lange leer) |
 | Dawonia | 7747 | 0.9 | 7747/8879 | vor 0min | 🟢 aktiv |
-| Immovision München | 5967 | 0.7 | 5967/8879 | vor 15min | 🟢 aktiv |
+| Immovision München | 5968 | 0.7 | 5968/8879 | vor 0min | 🟢 aktiv |
 | Wagnis | 4494 | 0.5 | 4494/8879 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 3760 | 0.4 | 3760/8879 | vor 0min | 🟢 aktiv |
 | Isar Wohnbaugenossenschaft (IWG) | 1549 | 1.0 | 1549/1567 | vor 0min | 🟢 aktiv |
