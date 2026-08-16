@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-16T13:32:57+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-16T13:35:24+00:00_  
 _Total Runs: 8918_  
-_Letzte Run-Zusammenfassung: 527 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 534 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -29,11 +29,11 @@ _Letzte Run-Zusammenfassung: 527 scraped, 0 matches, 0 sent_
 | Immo-Hyp | 75254 | 8.4 | 8890/8918 | vor 0min | 🟢 aktiv |
 | Immler Martin Hausverwaltung | 66890 | 7.5 | 8918/8918 | vor 0min | 🟢 aktiv |
 | Hegerich Immobilien | 62257 | 7.0 | 8907/8918 | vor 0min | 🟢 aktiv |
-| Ab ins Zuhause | 61288 | 6.9 | 7676/8918 | vor 59min | 🟢 aktiv |
+| Ab ins Zuhause | 61288 | 6.9 | 7676/8918 | vor 1h | 🟢 aktiv |
 | Franziskanerhof | 56734 | 6.4 | 8909/8918 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 50296 | 5.6 | 8912/8918 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 46348 | 5.2 | 8691/8918 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 43714 | 4.9 | 8909/8918 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 43720 | 4.9 | 8909/8918 | vor 0min | 🟢 aktiv |
 | BVK Immobilien | 42782 | 26.6 | 1605/1606 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 40865 | 4.6 | 8895/8918 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 35664 | 4.0 | 8916/8918 | vor 0min | 🟢 aktiv |
@@ -45,7 +45,7 @@ _Letzte Run-Zusammenfassung: 527 scraped, 0 matches, 0 sent_
 | Rogers Immobilien | 26244 | 2.9 | 8748/8918 | vor 0min | 🟢 aktiv |
 | GVG Net | 24561 | 2.8 | 8909/8918 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 21988 | 2.5 | 8022/8916 | vor 6d | 🟡 inaktiv (lange leer) |
-| Scheel Immobilien | 21315 | 2.4 | 8890/8918 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 21316 | 2.4 | 8890/8918 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 19549 | 2.2 | 7495/8918 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 17710 | 2.0 | 7584/8918 | vor 0min | 🟢 aktiv |
 | Südhausbau | 17185 | 1.9 | 8889/8918 | vor 0min | 🟢 aktiv |
@@ -63,7 +63,7 @@ _Letzte Run-Zusammenfassung: 527 scraped, 0 matches, 0 sent_
 | Wagnis | 4533 | 0.5 | 4533/8918 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 3799 | 0.4 | 3799/8918 | vor 0min | 🟢 aktiv |
 | Isar Wohnbaugenossenschaft (IWG) | 1588 | 1.0 | 1588/1606 | vor 0min | 🟢 aktiv |
-| Email Inbox | 1152 | 0.1 | 952/8918 | vor 14min | 🟢 aktiv |
+| Email Inbox | 1152 | 0.1 | 952/8918 | vor 17min | 🟢 aktiv |
 | EBM München | 1071 | 0.1 | 1069/8918 | vor 4d | 🟡 inaktiv (lange leer) |
 | Immowelt | 64 | 0.0 | 2/8918 | vor 32d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 88d | 🟢 aktiv |
