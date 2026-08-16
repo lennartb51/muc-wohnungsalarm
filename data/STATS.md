@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-16T18:33:05+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-16T18:35:48+00:00_  
 _Total Runs: 8944_  
-_Letzte Run-Zusammenfassung: 534 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 557 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -33,7 +33,7 @@ _Letzte Run-Zusammenfassung: 534 scraped, 0 matches, 0 sent_
 | Franziskanerhof | 56864 | 6.4 | 8935/8944 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 50452 | 5.6 | 8938/8944 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 46452 | 5.2 | 8717/8944 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 43877 | 4.9 | 8935/8944 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 43884 | 4.9 | 8935/8944 | vor 0min | 🟢 aktiv |
 | BVK Immobilien | 43458 | 26.6 | 1631/1632 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 41047 | 4.6 | 8921/8944 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 35768 | 4.0 | 8942/8944 | vor 0min | 🟢 aktiv |
@@ -45,7 +45,7 @@ _Letzte Run-Zusammenfassung: 534 scraped, 0 matches, 0 sent_
 | Rogers Immobilien | 26322 | 2.9 | 8774/8944 | vor 0min | 🟢 aktiv |
 | GVG Net | 24639 | 2.8 | 8935/8944 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 21988 | 2.5 | 8022/8942 | vor 6d | 🟡 inaktiv (lange leer) |
-| Scheel Immobilien | 21395 | 2.4 | 8912/8944 | vor 37min | 🟢 aktiv |
+| Scheel Immobilien | 21411 | 2.4 | 8913/8944 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 19599 | 2.2 | 7520/8944 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 17762 | 2.0 | 7610/8944 | vor 0min | 🟢 aktiv |
 | Südhausbau | 17211 | 1.9 | 8915/8944 | vor 0min | 🟢 aktiv |
@@ -63,7 +63,7 @@ _Letzte Run-Zusammenfassung: 534 scraped, 0 matches, 0 sent_
 | Wagnis | 4559 | 0.5 | 4559/8944 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 3825 | 0.4 | 3825/8944 | vor 0min | 🟢 aktiv |
 | Isar Wohnbaugenossenschaft (IWG) | 1614 | 1.0 | 1614/1632 | vor 0min | 🟢 aktiv |
-| Email Inbox | 1154 | 0.1 | 954/8944 | vor 29min | 🟢 aktiv |
+| Email Inbox | 1154 | 0.1 | 954/8944 | vor 32min | 🟢 aktiv |
 | EBM München | 1071 | 0.1 | 1069/8944 | vor 4d | 🟡 inaktiv (lange leer) |
 | Immowelt | 64 | 0.0 | 2/8944 | vor 32d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 88d | 🟢 aktiv |
