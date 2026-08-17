@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-17T10:16:23+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-17T10:19:01+00:00_  
 _Total Runs: 9023_  
-_Letzte Run-Zusammenfassung: 485 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 535 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -10,7 +10,7 @@ _Letzte Run-Zusammenfassung: 485 scraped, 0 matches, 0 sent_
 |---|---:|---:|---|---|---|
 | Citigrund | 596772 | 81.6 | 7151/7312 | vor 15d | 🟢 aktiv |
 | Park Avenue Immobilien | 445523 | 49.4 | 8836/9023 | vor 0min | 🟢 aktiv |
-| WSB Bayern | 352933 | 39.1 | 8651/9023 | vor 13min | 🟢 aktiv |
+| WSB Bayern | 352979 | 39.1 | 8652/9023 | vor 0min | 🟢 aktiv |
 | Pandion Service | 270485 | 30.0 | 9018/9023 | vor 0min | 🟢 aktiv |
 | Immobilien Schlamp | 266247 | 29.5 | 8995/9023 | vor 0min | 🟢 aktiv |
 | KPC Immobilien | 240582 | 32.3 | 7450/7456 | vor 0min | 🟢 aktiv |
@@ -34,15 +34,15 @@ _Letzte Run-Zusammenfassung: 485 scraped, 0 matches, 0 sent_
 | Chalet Immobilien | 50926 | 5.6 | 9017/9023 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 46768 | 5.2 | 8796/9023 | vor 0min | 🟢 aktiv |
 | BVK Immobilien | 45486 | 26.6 | 1710/1711 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 44487 | 4.9 | 9014/9023 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 44482 | 4.9 | 9014/9023 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 41593 | 4.6 | 8999/9023 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 36084 | 4.0 | 9021/9023 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 34722 | 3.8 | 8521/9023 | vor 0min | 🟢 aktiv |
-| DIBAG | 34600 | 3.8 | 8650/9023 | vor 13min | 🟢 aktiv |
+| DIBAG | 34604 | 3.8 | 8651/9023 | vor 0min | 🟢 aktiv |
 | ImmoSmart | 33275 | 3.7 | 7599/9023 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 32344 | 3.6 | 8906/9023 | vor 0min | 🟢 aktiv |
 | Alsaol | 26560 | 2.9 | 9023/9023 | vor 0min | 🟢 aktiv |
-| Rogers Immobilien | 26556 | 2.9 | 8852/9023 | vor 13min | 🟢 aktiv |
+| Rogers Immobilien | 26559 | 2.9 | 8853/9023 | vor 0min | 🟢 aktiv |
 | GVG Net | 24876 | 2.8 | 9014/9023 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 21988 | 2.4 | 8022/9021 | vor 7d | 🟡 inaktiv (lange leer) |
 | Scheel Immobilien | 21833 | 2.4 | 8960/9023 | vor 0min | 🟢 aktiv |
@@ -56,14 +56,14 @@ _Letzte Run-Zusammenfassung: 485 scraped, 0 matches, 0 sent_
 | Vonovia | 9018 | 1.0 | 9018/9023 | vor 0min | 🟢 aktiv |
 | DAHLER München | 9016 | 1.0 | 9016/9023 | vor 0min | 🟢 aktiv |
 | Immobilien Schneider | 9003 | 1.0 | 9003/9023 | vor 0min | 🟢 aktiv |
-| Maier Immobilien | 8845 | 1.0 | 8845/9023 | vor 13min | 🟢 aktiv |
-| Egger Immobilien | 8452 | 0.9 | 8452/9023 | vor 3d | 🟡 inaktiv (lange leer) |
+| Maier Immobilien | 8846 | 1.0 | 8846/9023 | vor 0min | 🟢 aktiv |
+| Egger Immobilien | 8452 | 0.9 | 8452/9023 | vor 4d | 🟡 inaktiv (lange leer) |
 | Dawonia | 7891 | 0.9 | 7891/9023 | vor 0min | 🟢 aktiv |
 | Immovision München | 6108 | 0.7 | 6108/9023 | vor 0min | 🟢 aktiv |
-| Wagnis | 4637 | 0.5 | 4637/9023 | vor 13min | 🟢 aktiv |
+| Wagnis | 4638 | 0.5 | 4638/9023 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 3904 | 0.4 | 3904/9023 | vor 0min | 🟢 aktiv |
 | Isar Wohnbaugenossenschaft (IWG) | 1693 | 1.0 | 1693/1711 | vor 0min | 🟢 aktiv |
-| Email Inbox | 1160 | 0.1 | 958/9023 | vor 28min | 🟢 aktiv |
+| Email Inbox | 1160 | 0.1 | 958/9023 | vor 31min | 🟢 aktiv |
 | EBM München | 1075 | 0.1 | 1073/9023 | vor 0min | 🟢 aktiv |
 | Immowelt | 64 | 0.0 | 2/9023 | vor 33d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 89d | 🟢 aktiv |
