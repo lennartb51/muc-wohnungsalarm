@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-17T11:31:04+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-17T11:33:55+00:00_  
 _Total Runs: 9029_  
-_Letzte Run-Zusammenfassung: 522 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 538 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -39,14 +39,14 @@ _Letzte Run-Zusammenfassung: 522 scraped, 0 matches, 0 sent_
 | VS Immobilienservice | 36108 | 4.0 | 9027/9029 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 34746 | 3.8 | 8527/9029 | vor 0min | 🟢 aktiv |
 | DIBAG | 34628 | 3.8 | 8657/9029 | vor 0min | 🟢 aktiv |
-| ImmoSmart | 33355 | 3.7 | 7604/9029 | vor 13min | 🟢 aktiv |
+| ImmoSmart | 33371 | 3.7 | 7605/9029 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 32374 | 3.6 | 8912/9029 | vor 0min | 🟢 aktiv |
 | Alsaol | 26578 | 2.9 | 9029/9029 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 26577 | 2.9 | 8859/9029 | vor 0min | 🟢 aktiv |
 | GVG Net | 24894 | 2.8 | 9020/9029 | vor 0min | 🟢 aktiv |
-| Pienzenauer Immobilien | 21989 | 2.4 | 8023/9027 | vor 58min | 🟢 aktiv |
-| Scheel Immobilien | 21845 | 2.4 | 8966/9029 | vor 0min | 🟢 aktiv |
-| LPE Immobilien | 19761 | 2.2 | 7601/9029 | vor 0min | 🟢 aktiv |
+| Pienzenauer Immobilien | 21989 | 2.4 | 8023/9027 | vor 1h | 🟢 aktiv |
+| Scheel Immobilien | 21847 | 2.4 | 8966/9029 | vor 0min | 🟢 aktiv |
+| LPE Immobilien | 19759 | 2.2 | 7600/9029 | vor 16min | 🟢 aktiv |
 | Eichler Immobilien | 17932 | 2.0 | 7695/9029 | vor 0min | 🟢 aktiv |
 | Südhausbau | 17296 | 1.9 | 9000/9029 | vor 0min | 🟢 aktiv |
 | Lehmann Hueber | 15941 | 1.8 | 6060/9029 | vor 27d | 🟡 inaktiv (lange leer) |
@@ -63,7 +63,7 @@ _Letzte Run-Zusammenfassung: 522 scraped, 0 matches, 0 sent_
 | Wagnis | 4644 | 0.5 | 4644/9029 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 3910 | 0.4 | 3910/9029 | vor 0min | 🟢 aktiv |
 | Isar Wohnbaugenossenschaft (IWG) | 1699 | 1.0 | 1699/1717 | vor 0min | 🟢 aktiv |
-| Email Inbox | 1161 | 0.1 | 959/9029 | vor 43min | 🟢 aktiv |
+| Email Inbox | 1161 | 0.1 | 959/9029 | vor 46min | 🟢 aktiv |
 | EBM München | 1081 | 0.1 | 1079/9029 | vor 0min | 🟢 aktiv |
 | Immowelt | 64 | 0.0 | 2/9029 | vor 33d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 89d | 🟢 aktiv |
