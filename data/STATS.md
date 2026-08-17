@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-17T13:45:25+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-17T13:48:00+00:00_  
 _Total Runs: 9040_  
-_Letzte Run-Zusammenfassung: 535 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 504 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -14,12 +14,12 @@ _Letzte Run-Zusammenfassung: 535 scraped, 0 matches, 0 sent_
 | Pandion Service | 270995 | 30.0 | 9035/9040 | vor 0min | 🟢 aktiv |
 | Immobilien Schlamp | 266711 | 29.5 | 9011/9040 | vor 0min | 🟢 aktiv |
 | KPC Immobilien | 241143 | 32.3 | 7467/7473 | vor 0min | 🟢 aktiv |
-| WG-Gesucht | 233908 | 25.9 | 8455/9040 | vor 0min | 🟢 aktiv |
+| WG-Gesucht | 233880 | 25.9 | 8454/9040 | vor 14min | 🟢 aktiv |
 | ohne-makler.net | 216816 | 24.0 | 9034/9040 | vor 0min | 🟢 aktiv |
 | Nuroa | 187555 | 20.7 | 8909/9040 | vor 0min | 🟢 aktiv |
-| Immobilo | 186845 | 20.7 | 9029/9040 | vor 0min | 🟢 aktiv |
+| Immobilo | 186846 | 20.7 | 9029/9040 | vor 0min | 🟢 aktiv |
 | SZ Immobilien | 185356 | 20.5 | 9026/9040 | vor 0min | 🟢 aktiv |
-| Idowa | 179387 | 19.8 | 9026/9040 | vor 0min | 🟢 aktiv |
+| Idowa | 179388 | 19.8 | 9026/9040 | vor 0min | 🟢 aktiv |
 | FAZ Immobilien | 170465 | 18.9 | 9026/9040 | vor 0min | 🟢 aktiv |
 | Engel & Völkers | 133522 | 14.8 | 9039/9040 | vor 0min | 🟢 aktiv |
 | Idowa Altstadt-Lehel | 110228 | 12.2 | 9030/9040 | vor 0min | 🟢 aktiv |
@@ -34,7 +34,7 @@ _Letzte Run-Zusammenfassung: 535 scraped, 0 matches, 0 sent_
 | Chalet Immobilien | 51028 | 5.6 | 9034/9040 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 46836 | 5.2 | 8813/9040 | vor 0min | 🟢 aktiv |
 | BVK Immobilien | 45897 | 26.6 | 1727/1728 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 44585 | 4.9 | 9031/9040 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 44580 | 4.9 | 9031/9040 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 41712 | 4.6 | 9016/9040 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 36152 | 4.0 | 9038/9040 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 34790 | 3.8 | 8538/9040 | vor 0min | 🟢 aktiv |
@@ -63,8 +63,8 @@ _Letzte Run-Zusammenfassung: 535 scraped, 0 matches, 0 sent_
 | Wagnis | 4655 | 0.5 | 4655/9040 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 3921 | 0.4 | 3921/9040 | vor 0min | 🟢 aktiv |
 | Isar Wohnbaugenossenschaft (IWG) | 1710 | 1.0 | 1710/1728 | vor 0min | 🟢 aktiv |
-| Email Inbox | 1164 | 0.1 | 960/9040 | vor 11min | 🟢 aktiv |
-| EBM München | 1089 | 0.1 | 1087/9040 | vor 42min | 🟢 aktiv |
+| Email Inbox | 1164 | 0.1 | 960/9040 | vor 14min | 🟢 aktiv |
+| EBM München | 1089 | 0.1 | 1087/9040 | vor 44min | 🟢 aktiv |
 | Immowelt | 64 | 0.0 | 2/9040 | vor 33d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 89d | 🟢 aktiv |
 | Munich Property | 10 | 5.0 | 2/2 | vor 89d | 🟢 aktiv |
