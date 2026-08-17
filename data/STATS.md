@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-17T21:02:22+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-17T21:05:07+00:00_  
 _Total Runs: 9073_  
-_Letzte Run-Zusammenfassung: 540 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 527 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -34,7 +34,7 @@ _Letzte Run-Zusammenfassung: 540 scraped, 0 matches, 0 sent_
 | Chalet Immobilien | 51226 | 5.6 | 9067/9073 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 46968 | 5.2 | 8846/9073 | vor 0min | 🟢 aktiv |
 | BVK Immobilien | 46689 | 26.5 | 1760/1761 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 44826 | 4.9 | 9064/9073 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 44817 | 4.9 | 9064/9073 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 41943 | 4.6 | 9049/9073 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 36284 | 4.0 | 9071/9073 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 34918 | 3.8 | 8570/9073 | vor 0min | 🟢 aktiv |
@@ -45,8 +45,8 @@ _Letzte Run-Zusammenfassung: 540 scraped, 0 matches, 0 sent_
 | Rogers Immobilien | 26706 | 2.9 | 8902/9073 | vor 0min | 🟢 aktiv |
 | GVG Net | 25026 | 2.8 | 9064/9073 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 21989 | 2.4 | 8023/9071 | vor 10h | 🟢 aktiv |
-| Scheel Immobilien | 21935 | 2.4 | 9010/9073 | vor 0min | 🟢 aktiv |
-| LPE Immobilien | 19873 | 2.2 | 7642/9073 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 21934 | 2.4 | 9010/9073 | vor 0min | 🟢 aktiv |
+| LPE Immobilien | 19870 | 2.2 | 7641/9073 | vor 17min | 🟢 aktiv |
 | Eichler Immobilien | 18020 | 2.0 | 7739/9073 | vor 0min | 🟢 aktiv |
 | Südhausbau | 17340 | 1.9 | 9044/9073 | vor 0min | 🟢 aktiv |
 | Lehmann Hueber | 15941 | 1.8 | 6060/9073 | vor 28d | 🟡 inaktiv (lange leer) |
@@ -64,7 +64,7 @@ _Letzte Run-Zusammenfassung: 540 scraped, 0 matches, 0 sent_
 | Immobilie1 | 3954 | 0.4 | 3954/9073 | vor 0min | 🟢 aktiv |
 | Isar Wohnbaugenossenschaft (IWG) | 1743 | 1.0 | 1743/1761 | vor 0min | 🟢 aktiv |
 | Email Inbox | 1171 | 0.1 | 965/9073 | vor 1h | 🟢 aktiv |
-| EBM München | 1089 | 0.1 | 1087/9073 | vor 7h | 🟢 aktiv |
+| EBM München | 1089 | 0.1 | 1087/9073 | vor 8h | 🟢 aktiv |
 | Immowelt | 64 | 0.0 | 2/9073 | vor 33d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 89d | 🟢 aktiv |
 | Munich Property | 10 | 5.0 | 2/2 | vor 89d | 🟢 aktiv |
