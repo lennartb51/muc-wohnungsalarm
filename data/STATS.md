@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-17T19:32:23+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-17T19:34:57+00:00_  
 _Total Runs: 9066_  
-_Letzte Run-Zusammenfassung: 540 scraped, 1 matches, 1 sent_
+_Letzte Run-Zusammenfassung: 530 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -34,7 +34,7 @@ _Letzte Run-Zusammenfassung: 540 scraped, 1 matches, 1 sent_
 | Chalet Immobilien | 51184 | 5.6 | 9060/9066 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 46940 | 5.2 | 8839/9066 | vor 0min | 🟢 aktiv |
 | BVK Immobilien | 46521 | 26.5 | 1753/1754 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 44766 | 4.9 | 9057/9066 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 44758 | 4.9 | 9057/9066 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 41894 | 4.6 | 9042/9066 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 36256 | 4.0 | 9064/9066 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 34890 | 3.8 | 8563/9066 | vor 0min | 🟢 aktiv |
@@ -44,8 +44,8 @@ _Letzte Run-Zusammenfassung: 540 scraped, 1 matches, 1 sent_
 | Alsaol | 26689 | 2.9 | 9066/9066 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 26685 | 2.9 | 8895/9066 | vor 0min | 🟢 aktiv |
 | GVG Net | 25005 | 2.8 | 9057/9066 | vor 0min | 🟢 aktiv |
-| Pienzenauer Immobilien | 21989 | 2.4 | 8023/9064 | vor 8h | 🟢 aktiv |
-| Scheel Immobilien | 21922 | 2.4 | 9003/9066 | vor 0min | 🟢 aktiv |
+| Pienzenauer Immobilien | 21989 | 2.4 | 8023/9064 | vor 9h | 🟢 aktiv |
+| Scheel Immobilien | 21920 | 2.4 | 9003/9066 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 19852 | 2.2 | 7635/9066 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 18006 | 2.0 | 7732/9066 | vor 0min | 🟢 aktiv |
 | Südhausbau | 17333 | 1.9 | 9037/9066 | vor 0min | 🟢 aktiv |
@@ -63,7 +63,7 @@ _Letzte Run-Zusammenfassung: 540 scraped, 1 matches, 1 sent_
 | Wagnis | 4680 | 0.5 | 4680/9066 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 3947 | 0.4 | 3947/9066 | vor 0min | 🟢 aktiv |
 | Isar Wohnbaugenossenschaft (IWG) | 1736 | 1.0 | 1736/1754 | vor 0min | 🟢 aktiv |
-| Email Inbox | 1170 | 0.1 | 964/9066 | vor 14min | 🟢 aktiv |
+| Email Inbox | 1170 | 0.1 | 964/9066 | vor 16min | 🟢 aktiv |
 | EBM München | 1089 | 0.1 | 1087/9066 | vor 6h | 🟢 aktiv |
 | Immowelt | 64 | 0.0 | 2/9066 | vor 33d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 89d | 🟢 aktiv |
