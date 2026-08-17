@@ -1,15 +1,15 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-17T04:46:59+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-17T04:49:57+00:00_  
 _Total Runs: 8996_  
-_Letzte Run-Zusammenfassung: 489 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 540 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
 | Adapter | Scraped (Σ) | Avg/Run | Runs aktiv | Letzte Aktivität | Status |
 |---|---:|---:|---|---|---|
 | Citigrund | 596772 | 81.6 | 7151/7312 | vor 15d | 🟢 aktiv |
-| Park Avenue Immobilien | 444248 | 49.4 | 8811/8996 | vor 43min | 🟢 aktiv |
+| Park Avenue Immobilien | 444299 | 49.4 | 8812/8996 | vor 0min | 🟢 aktiv |
 | WSB Bayern | 351737 | 39.1 | 8625/8996 | vor 0min | 🟢 aktiv |
 | Pandion Service | 269675 | 30.0 | 8991/8996 | vor 0min | 🟢 aktiv |
 | Immobilien Schlamp | 265464 | 29.5 | 8968/8996 | vor 0min | 🟢 aktiv |
@@ -45,7 +45,7 @@ _Letzte Run-Zusammenfassung: 489 scraped, 0 matches, 0 sent_
 | Rogers Immobilien | 26478 | 2.9 | 8826/8996 | vor 0min | 🟢 aktiv |
 | GVG Net | 24795 | 2.8 | 8987/8996 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 21988 | 2.4 | 8022/8994 | vor 6d | 🟡 inaktiv (lange leer) |
-| Scheel Immobilien | 21747 | 2.4 | 8934/8996 | vor 43min | 🟢 aktiv |
+| Scheel Immobilien | 21747 | 2.4 | 8934/8996 | vor 46min | 🟢 aktiv |
 | LPE Immobilien | 19695 | 2.2 | 7568/8996 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 17866 | 2.0 | 7662/8996 | vor 0min | 🟢 aktiv |
 | Südhausbau | 17263 | 1.9 | 8967/8996 | vor 0min | 🟢 aktiv |
@@ -63,7 +63,7 @@ _Letzte Run-Zusammenfassung: 489 scraped, 0 matches, 0 sent_
 | Wagnis | 4611 | 0.5 | 4611/8996 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 3877 | 0.4 | 3877/8996 | vor 0min | 🟢 aktiv |
 | Isar Wohnbaugenossenschaft (IWG) | 1666 | 1.0 | 1666/1684 | vor 0min | 🟢 aktiv |
-| Email Inbox | 1157 | 0.1 | 955/8996 | vor 9h | 🟢 aktiv |
+| Email Inbox | 1157 | 0.1 | 955/8996 | vor 10h | 🟢 aktiv |
 | EBM München | 1071 | 0.1 | 1069/8996 | vor 4d | 🟡 inaktiv (lange leer) |
 | Immowelt | 64 | 0.0 | 2/8996 | vor 33d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 88d | 🟢 aktiv |
