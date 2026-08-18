@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-18T10:03:49+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-18T10:06:38+00:00_  
 _Total Runs: 9137_  
-_Letzte Run-Zusammenfassung: 533 scraped, 1 matches, 1 sent_
+_Letzte Run-Zusammenfassung: 540 scraped, 1 matches, 1 sent_
 
 ## Adapter-Übersicht
 
@@ -23,7 +23,7 @@ _Letzte Run-Zusammenfassung: 533 scraped, 1 matches, 1 sent_
 | FAZ Immobilien | 172308 | 18.9 | 9123/9137 | vor 0min | 🟢 aktiv |
 | Engel & Völkers | 134686 | 14.7 | 9136/9137 | vor 0min | 🟢 aktiv |
 | Idowa Altstadt-Lehel | 111023 | 12.2 | 9127/9137 | vor 0min | 🟢 aktiv |
-| Wohnreferat München | 102019 | 11.2 | 8628/9137 | vor 16min | 🟢 aktiv |
+| Wohnreferat München | 102028 | 11.2 | 8629/9137 | vor 0min | 🟢 aktiv |
 | Wegener Immobilien | 100507 | 11.0 | 9137/9137 | vor 0min | 🟢 aktiv |
 | Heimhuber Immobilien | 97834 | 10.7 | 9125/9137 | vor 0min | 🟢 aktiv |
 | Immo-Hyp | 76780 | 8.4 | 9108/9137 | vor 0min | 🟢 aktiv |
@@ -38,15 +38,15 @@ _Letzte Run-Zusammenfassung: 533 scraped, 1 matches, 1 sent_
 | Rosenberger Immobilien | 42391 | 4.6 | 9113/9137 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 36540 | 4.0 | 9135/9137 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 35174 | 3.8 | 8634/9137 | vor 0min | 🟢 aktiv |
-| ImmoSmart | 35066 | 3.8 | 7712/9137 | vor 0min | 🟢 aktiv |
-| DIBAG | 35056 | 3.8 | 8764/9137 | vor 0min | 🟢 aktiv |
+| ImmoSmart | 35065 | 3.8 | 7712/9137 | vor 0min | 🟢 aktiv |
+| DIBAG | 35052 | 3.8 | 8763/9137 | vor 18min | 🟢 aktiv |
 | Rohrer Firmengruppe | 32953 | 3.6 | 9020/9137 | vor 0min | 🟢 aktiv |
 | Alsaol | 26902 | 2.9 | 9137/9137 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 26898 | 2.9 | 8966/9137 | vor 0min | 🟢 aktiv |
 | GVG Net | 25218 | 2.8 | 9128/9137 | vor 0min | 🟢 aktiv |
 | Scheel Immobilien | 22090 | 2.4 | 9074/9137 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 21989 | 2.4 | 8023/9135 | vor 23h | 🟡 inaktiv (lange leer) |
-| LPE Immobilien | 20038 | 2.2 | 7697/9137 | vor 16min | 🟢 aktiv |
+| LPE Immobilien | 20041 | 2.2 | 7698/9137 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 18148 | 2.0 | 7803/9137 | vor 0min | 🟢 aktiv |
 | Südhausbau | 17404 | 1.9 | 9108/9137 | vor 0min | 🟢 aktiv |
 | Lehmann Hueber | 15941 | 1.7 | 6060/9137 | vor 28d | 🟡 inaktiv (lange leer) |
