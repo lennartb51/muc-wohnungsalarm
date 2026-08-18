@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-18T13:03:14+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-18T13:05:48+00:00_  
 _Total Runs: 9151_  
-_Letzte Run-Zusammenfassung: 569 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 542 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -17,9 +17,9 @@ _Letzte Run-Zusammenfassung: 569 scraped, 0 matches, 0 sent_
 | WG-Gesucht | 236932 | 25.9 | 8563/9151 | vor 0min | 🟢 aktiv |
 | ohne-makler.net | 219480 | 24.0 | 9145/9151 | vor 0min | 🟢 aktiv |
 | Nuroa | 190192 | 20.8 | 9020/9151 | vor 0min | 🟢 aktiv |
-| Immobilo | 189146 | 20.7 | 9140/9151 | vor 0min | 🟢 aktiv |
-| SZ Immobilien | 187576 | 20.5 | 9137/9151 | vor 0min | 🟢 aktiv |
-| Idowa | 181608 | 19.8 | 9137/9151 | vor 0min | 🟢 aktiv |
+| Immobilo | 189145 | 20.7 | 9140/9151 | vor 0min | 🟢 aktiv |
+| SZ Immobilien | 187577 | 20.5 | 9137/9151 | vor 0min | 🟢 aktiv |
+| Idowa | 181607 | 19.8 | 9137/9151 | vor 0min | 🟢 aktiv |
 | FAZ Immobilien | 172574 | 18.9 | 9137/9151 | vor 0min | 🟢 aktiv |
 | Engel & Völkers | 134854 | 14.7 | 9150/9151 | vor 0min | 🟢 aktiv |
 | Idowa Altstadt-Lehel | 111149 | 12.1 | 9141/9151 | vor 0min | 🟢 aktiv |
@@ -40,11 +40,11 @@ _Letzte Run-Zusammenfassung: 569 scraped, 0 matches, 0 sent_
 | ImmoSmart | 35264 | 3.9 | 7725/9151 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 35230 | 3.8 | 8648/9151 | vor 0min | 🟢 aktiv |
 | DIBAG | 35108 | 3.8 | 8777/9151 | vor 0min | 🟢 aktiv |
-| Rohrer Firmengruppe | 33034 | 3.6 | 9034/9151 | vor 0min | 🟢 aktiv |
+| Rohrer Firmengruppe | 33009 | 3.6 | 9034/9151 | vor 0min | 🟢 aktiv |
 | Alsaol | 26944 | 2.9 | 9151/9151 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 26940 | 2.9 | 8980/9151 | vor 0min | 🟢 aktiv |
 | GVG Net | 25260 | 2.8 | 9142/9151 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 22123 | 2.4 | 9088/9151 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 22122 | 2.4 | 9088/9151 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 21989 | 2.4 | 8023/9149 | vor 1d | 🟡 inaktiv (lange leer) |
 | LPE Immobilien | 20077 | 2.2 | 7710/9151 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 18176 | 2.0 | 7817/9151 | vor 0min | 🟢 aktiv |
@@ -64,7 +64,7 @@ _Letzte Run-Zusammenfassung: 569 scraped, 0 matches, 0 sent_
 | Immobilie1 | 4032 | 0.4 | 4032/9151 | vor 0min | 🟢 aktiv |
 | Isar Wohnbaugenossenschaft (IWG) | 1821 | 1.0 | 1821/1839 | vor 0min | 🟢 aktiv |
 | Email Inbox | 1178 | 0.1 | 972/9151 | vor 1h | 🟢 aktiv |
-| EBM München | 1089 | 0.1 | 1087/9151 | vor 23h | 🟡 inaktiv (lange leer) |
+| EBM München | 1089 | 0.1 | 1087/9151 | vor 1d | 🟡 inaktiv (lange leer) |
 | Immowelt | 64 | 0.0 | 2/9151 | vor 34d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 90d | 🟢 aktiv |
 | Munich Property | 10 | 5.0 | 2/2 | vor 90d | 🟢 aktiv |
