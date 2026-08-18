@@ -1,14 +1,14 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-18T12:01:16+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-18T12:04:23+00:00_  
 _Total Runs: 9147_  
-_Letzte Run-Zusammenfassung: 526 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 529 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
 | Adapter | Scraped (Σ) | Avg/Run | Runs aktiv | Letzte Aktivität | Status |
 |---|---:|---:|---|---|---|
-| Citigrund | 596772 | 81.6 | 7151/7312 | vor 16d | 🟢 aktiv |
+| Citigrund | 596772 | 81.6 | 7151/7312 | vor 17d | 🟢 aktiv |
 | Park Avenue Immobilien | 451796 | 49.4 | 8959/9147 | vor 0min | 🟢 aktiv |
 | WSB Bayern | 358637 | 39.2 | 8775/9147 | vor 0min | 🟢 aktiv |
 | Pandion Service | 274205 | 30.0 | 9142/9147 | vor 0min | 🟢 aktiv |
@@ -23,7 +23,7 @@ _Letzte Run-Zusammenfassung: 526 scraped, 0 matches, 0 sent_
 | FAZ Immobilien | 172498 | 18.9 | 9133/9147 | vor 0min | 🟢 aktiv |
 | Engel & Völkers | 134806 | 14.7 | 9146/9147 | vor 0min | 🟢 aktiv |
 | Idowa Altstadt-Lehel | 111113 | 12.1 | 9137/9147 | vor 0min | 🟢 aktiv |
-| Wohnreferat München | 102118 | 11.2 | 8639/9147 | vor 0min | 🟢 aktiv |
+| Wohnreferat München | 102109 | 11.2 | 8638/9147 | vor 16min | 🟢 aktiv |
 | Wegener Immobilien | 100617 | 11.0 | 9147/9147 | vor 0min | 🟢 aktiv |
 | Heimhuber Immobilien | 97954 | 10.7 | 9135/9147 | vor 0min | 🟢 aktiv |
 | Immo-Hyp | 76850 | 8.4 | 9118/9147 | vor 0min | 🟢 aktiv |
@@ -38,7 +38,7 @@ _Letzte Run-Zusammenfassung: 526 scraped, 0 matches, 0 sent_
 | Rosenberger Immobilien | 42461 | 4.6 | 9123/9147 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 36580 | 4.0 | 9145/9147 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 35214 | 3.8 | 8644/9147 | vor 0min | 🟢 aktiv |
-| ImmoSmart | 35187 | 3.8 | 7720/9147 | vor 13min | 🟢 aktiv |
+| ImmoSmart | 35202 | 3.8 | 7721/9147 | vor 0min | 🟢 aktiv |
 | DIBAG | 35092 | 3.8 | 8773/9147 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 32993 | 3.6 | 9030/9147 | vor 0min | 🟢 aktiv |
 | Alsaol | 26932 | 2.9 | 9147/9147 | vor 0min | 🟢 aktiv |
@@ -46,7 +46,7 @@ _Letzte Run-Zusammenfassung: 526 scraped, 0 matches, 0 sent_
 | GVG Net | 25248 | 2.8 | 9138/9147 | vor 0min | 🟢 aktiv |
 | Scheel Immobilien | 22113 | 2.4 | 9084/9147 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 21989 | 2.4 | 8023/9145 | vor 1d | 🟡 inaktiv (lange leer) |
-| LPE Immobilien | 20068 | 2.2 | 7707/9147 | vor 0min | 🟢 aktiv |
+| LPE Immobilien | 20065 | 2.2 | 7706/9147 | vor 31min | 🟢 aktiv |
 | Eichler Immobilien | 18168 | 2.0 | 7813/9147 | vor 0min | 🟢 aktiv |
 | Südhausbau | 17414 | 1.9 | 9118/9147 | vor 0min | 🟢 aktiv |
 | Lehmann Hueber | 15941 | 1.7 | 6060/9147 | vor 28d | 🟡 inaktiv (lange leer) |
@@ -63,8 +63,8 @@ _Letzte Run-Zusammenfassung: 526 scraped, 0 matches, 0 sent_
 | Wagnis | 4761 | 0.5 | 4761/9147 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 4028 | 0.4 | 4028/9147 | vor 0min | 🟢 aktiv |
 | Isar Wohnbaugenossenschaft (IWG) | 1817 | 1.0 | 1817/1835 | vor 0min | 🟢 aktiv |
-| Email Inbox | 1178 | 0.1 | 972/9147 | vor 13min | 🟢 aktiv |
-| EBM München | 1089 | 0.1 | 1087/9147 | vor 22h | 🟡 inaktiv (lange leer) |
+| Email Inbox | 1178 | 0.1 | 972/9147 | vor 16min | 🟢 aktiv |
+| EBM München | 1089 | 0.1 | 1087/9147 | vor 23h | 🟡 inaktiv (lange leer) |
 | Immowelt | 64 | 0.0 | 2/9147 | vor 34d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 90d | 🟢 aktiv |
 | Munich Property | 10 | 5.0 | 2/2 | vor 90d | 🟢 aktiv |
