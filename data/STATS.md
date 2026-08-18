@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-18T19:31:49+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-18T19:34:25+00:00_  
 _Total Runs: 9180_  
-_Letzte Run-Zusammenfassung: 482 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 527 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -10,7 +10,7 @@ _Letzte Run-Zusammenfassung: 482 scraped, 0 matches, 0 sent_
 |---|---:|---:|---|---|---|
 | Citigrund | 596772 | 81.6 | 7151/7312 | vor 17d | 🟢 aktiv |
 | Park Avenue Immobilien | 453326 | 49.4 | 8989/9180 | vor 0min | 🟢 aktiv |
-| WSB Bayern | 360109 | 39.2 | 8807/9180 | vor 13min | 🟢 aktiv |
+| WSB Bayern | 360155 | 39.2 | 8808/9180 | vor 0min | 🟢 aktiv |
 | Pandion Service | 275195 | 30.0 | 9175/9180 | vor 0min | 🟢 aktiv |
 | Immobilien Schlamp | 270771 | 29.5 | 9151/9180 | vor 0min | 🟢 aktiv |
 | KPC Immobilien | 245763 | 32.3 | 7607/7613 | vor 0min | 🟢 aktiv |
@@ -29,22 +29,22 @@ _Letzte Run-Zusammenfassung: 482 scraped, 0 matches, 0 sent_
 | Immo-Hyp | 77081 | 8.4 | 9151/9180 | vor 0min | 🟢 aktiv |
 | Immler Martin Hausverwaltung | 67938 | 7.4 | 9180/9180 | vor 0min | 🟢 aktiv |
 | Hegerich Immobilien | 64091 | 7.0 | 9169/9180 | vor 0min | 🟢 aktiv |
-| Ab ins Zuhause | 63176 | 6.9 | 7912/9180 | vor 0min | 🟢 aktiv |
+| Ab ins Zuhause | 63168 | 6.9 | 7911/9180 | vor 16min | 🟢 aktiv |
 | Franziskanerhof | 58044 | 6.3 | 9171/9180 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 51868 | 5.7 | 9174/9180 | vor 0min | 🟢 aktiv |
 | BVK Immobilien | 49260 | 26.4 | 1867/1868 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 47396 | 5.2 | 8953/9180 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 45803 | 5.0 | 9171/9180 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 45802 | 5.0 | 9171/9180 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 42685 | 4.6 | 9155/9180 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 36712 | 4.0 | 9178/9180 | vor 0min | 🟢 aktiv |
 | ImmoSmart | 35733 | 3.9 | 7754/9180 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 35374 | 3.9 | 8677/9180 | vor 0min | 🟢 aktiv |
-| DIBAG | 35220 | 3.8 | 8805/9180 | vor 13min | 🟢 aktiv |
+| DIBAG | 35224 | 3.8 | 8806/9180 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 33150 | 3.6 | 9063/9180 | vor 0min | 🟢 aktiv |
 | Alsaol | 27031 | 2.9 | 9180/9180 | vor 0min | 🟢 aktiv |
-| Rogers Immobilien | 27024 | 2.9 | 9008/9180 | vor 13min | 🟢 aktiv |
+| Rogers Immobilien | 27027 | 2.9 | 9009/9180 | vor 0min | 🟢 aktiv |
 | GVG Net | 25347 | 2.8 | 9171/9180 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 22193 | 2.4 | 9117/9180 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 22192 | 2.4 | 9117/9180 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 21989 | 2.4 | 8023/9178 | vor 1d | 🟡 inaktiv (lange leer) |
 | LPE Immobilien | 20155 | 2.2 | 7736/9180 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 18234 | 2.0 | 7846/9180 | vor 0min | 🟢 aktiv |
@@ -56,11 +56,11 @@ _Letzte Run-Zusammenfassung: 482 scraped, 0 matches, 0 sent_
 | Vonovia | 9175 | 1.0 | 9175/9180 | vor 0min | 🟢 aktiv |
 | DAHLER München | 9173 | 1.0 | 9173/9180 | vor 0min | 🟢 aktiv |
 | Immobilien Schneider | 9160 | 1.0 | 9160/9180 | vor 0min | 🟢 aktiv |
-| Maier Immobilien | 9001 | 1.0 | 9001/9180 | vor 13min | 🟢 aktiv |
+| Maier Immobilien | 9002 | 1.0 | 9002/9180 | vor 0min | 🟢 aktiv |
 | Egger Immobilien | 8452 | 0.9 | 8452/9180 | vor 5d | 🟡 inaktiv (lange leer) |
 | Dawonia | 8048 | 0.9 | 8048/9180 | vor 0min | 🟢 aktiv |
 | Immovision München | 6257 | 0.7 | 6257/9180 | vor 0min | 🟢 aktiv |
-| Wagnis | 4793 | 0.5 | 4793/9180 | vor 13min | 🟢 aktiv |
+| Wagnis | 4794 | 0.5 | 4794/9180 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 4061 | 0.4 | 4061/9180 | vor 0min | 🟢 aktiv |
 | Isar Wohnbaugenossenschaft (IWG) | 1850 | 1.0 | 1850/1868 | vor 0min | 🟢 aktiv |
 | Email Inbox | 1181 | 0.1 | 975/9180 | vor 1h | 🟢 aktiv |
