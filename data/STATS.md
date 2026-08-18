@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-18T18:01:31+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-18T18:04:21+00:00_  
 _Total Runs: 9173_  
-_Letzte Run-Zusammenfassung: 500 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 546 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -23,7 +23,7 @@ _Letzte Run-Zusammenfassung: 500 scraped, 0 matches, 0 sent_
 | FAZ Immobilien | 172992 | 18.9 | 9159/9173 | vor 0min | 🟢 aktiv |
 | Engel & Völkers | 135103 | 14.7 | 9172/9173 | vor 0min | 🟢 aktiv |
 | Idowa Altstadt-Lehel | 111347 | 12.1 | 9163/9173 | vor 0min | 🟢 aktiv |
-| Wohnreferat München | 102378 | 11.2 | 8663/9173 | vor 13min | 🟢 aktiv |
+| Wohnreferat München | 102389 | 11.2 | 8664/9173 | vor 0min | 🟢 aktiv |
 | Wegener Immobilien | 100903 | 11.0 | 9173/9173 | vor 0min | 🟢 aktiv |
 | Heimhuber Immobilien | 98266 | 10.7 | 9161/9173 | vor 0min | 🟢 aktiv |
 | Immo-Hyp | 77032 | 8.4 | 9144/9173 | vor 0min | 🟢 aktiv |
@@ -34,11 +34,11 @@ _Letzte Run-Zusammenfassung: 500 scraped, 0 matches, 0 sent_
 | Chalet Immobilien | 51826 | 5.6 | 9167/9173 | vor 0min | 🟢 aktiv |
 | BVK Immobilien | 49092 | 26.4 | 1860/1861 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 47368 | 5.2 | 8946/9173 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 45751 | 5.0 | 9164/9173 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 45762 | 5.0 | 9164/9173 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 42636 | 4.6 | 9148/9173 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 36684 | 4.0 | 9171/9173 | vor 0min | 🟢 aktiv |
-| ImmoSmart | 35600 | 3.9 | 7746/9173 | vor 13min | 🟢 aktiv |
-| Sedlmayr AG | 35334 | 3.9 | 8669/9173 | vor 13min | 🟢 aktiv |
+| ImmoSmart | 35616 | 3.9 | 7747/9173 | vor 0min | 🟢 aktiv |
+| Sedlmayr AG | 35339 | 3.9 | 8670/9173 | vor 0min | 🟢 aktiv |
 | DIBAG | 35196 | 3.8 | 8799/9173 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 33122 | 3.6 | 9056/9173 | vor 0min | 🟢 aktiv |
 | Alsaol | 27010 | 2.9 | 9173/9173 | vor 0min | 🟢 aktiv |
@@ -46,7 +46,7 @@ _Letzte Run-Zusammenfassung: 500 scraped, 0 matches, 0 sent_
 | GVG Net | 25326 | 2.8 | 9164/9173 | vor 0min | 🟢 aktiv |
 | Scheel Immobilien | 22177 | 2.4 | 9110/9173 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 21989 | 2.4 | 8023/9171 | vor 1d | 🟡 inaktiv (lange leer) |
-| LPE Immobilien | 20134 | 2.2 | 7729/9173 | vor 13min | 🟢 aktiv |
+| LPE Immobilien | 20137 | 2.2 | 7730/9173 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 18220 | 2.0 | 7839/9173 | vor 0min | 🟢 aktiv |
 | Südhausbau | 17440 | 1.9 | 9144/9173 | vor 0min | 🟢 aktiv |
 | Lehmann Hueber | 15941 | 1.7 | 6060/9173 | vor 29d | 🟡 inaktiv (lange leer) |
