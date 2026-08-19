@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-19T17:30:52+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-19T17:33:30+00:00_  
 _Total Runs: 9286_  
-_Letzte Run-Zusammenfassung: 534 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 515 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -29,12 +29,12 @@ _Letzte Run-Zusammenfassung: 534 scraped, 0 matches, 0 sent_
 | Immo-Hyp | 77821 | 8.4 | 9257/9286 | vor 0min | 🟢 aktiv |
 | Immler Martin Hausverwaltung | 68362 | 7.4 | 9286/9286 | vor 0min | 🟢 aktiv |
 | Hegerich Immobilien | 64833 | 7.0 | 9275/9286 | vor 0min | 🟢 aktiv |
-| Ab ins Zuhause | 63904 | 6.9 | 8003/9286 | vor 57min | 🟢 aktiv |
+| Ab ins Zuhause | 63904 | 6.9 | 8003/9286 | vor 1h | 🟢 aktiv |
 | Franziskanerhof | 58574 | 6.3 | 9277/9286 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 52504 | 5.7 | 9280/9286 | vor 0min | 🟢 aktiv |
 | BVK Immobilien | 51864 | 26.3 | 1973/1974 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 47820 | 5.1 | 9059/9286 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 46113 | 5.0 | 9275/9286 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 46109 | 5.0 | 9275/9286 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 43374 | 4.7 | 9260/9286 | vor 0min | 🟢 aktiv |
 | ImmoSmart | 37474 | 4.0 | 7859/9286 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 37136 | 4.0 | 9284/9286 | vor 0min | 🟢 aktiv |
@@ -44,7 +44,7 @@ _Letzte Run-Zusammenfassung: 534 scraped, 0 matches, 0 sent_
 | Alsaol | 27349 | 2.9 | 9286/9286 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 27342 | 2.9 | 9114/9286 | vor 0min | 🟢 aktiv |
 | GVG Net | 25652 | 2.8 | 9277/9286 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 22470 | 2.4 | 9223/9286 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 22457 | 2.4 | 9223/9286 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 21989 | 2.4 | 8023/9284 | vor 2d | 🟡 inaktiv (lange leer) |
 | LPE Immobilien | 20526 | 2.2 | 7833/9286 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 18446 | 2.0 | 7952/9286 | vor 0min | 🟢 aktiv |
@@ -56,14 +56,14 @@ _Letzte Run-Zusammenfassung: 534 scraped, 0 matches, 0 sent_
 | Vonovia | 9281 | 1.0 | 9281/9286 | vor 0min | 🟢 aktiv |
 | DAHLER München | 9279 | 1.0 | 9279/9286 | vor 0min | 🟢 aktiv |
 | Immobilien Schneider | 9265 | 1.0 | 9265/9286 | vor 0min | 🟢 aktiv |
-| Maier Immobilien | 9106 | 1.0 | 9106/9286 | vor 0min | 🟢 aktiv |
+| Maier Immobilien | 9105 | 1.0 | 9105/9286 | vor 15min | 🟢 aktiv |
 | Egger Immobilien | 8452 | 0.9 | 8452/9286 | vor 6d | 🟡 inaktiv (lange leer) |
 | Dawonia | 8154 | 0.9 | 8154/9286 | vor 0min | 🟢 aktiv |
 | Immovision München | 6357 | 0.7 | 6357/9286 | vor 0min | 🟢 aktiv |
 | Wagnis | 4899 | 0.5 | 4899/9286 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 4167 | 0.4 | 4167/9286 | vor 0min | 🟢 aktiv |
 | Isar Wohnbaugenossenschaft (IWG) | 1956 | 1.0 | 1956/1974 | vor 0min | 🟢 aktiv |
-| Email Inbox | 1193 | 0.1 | 987/9286 | vor 0min | 🟢 aktiv |
+| Email Inbox | 1192 | 0.1 | 986/9286 | vor 1h | 🟢 aktiv |
 | EBM München | 1139 | 0.1 | 1132/9286 | vor 0min | 🟢 aktiv |
 | Immowelt | 64 | 0.0 | 2/9286 | vor 35d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 91d | 🟢 aktiv |
