@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-19T06:47:51+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-19T06:50:23+00:00_  
 _Total Runs: 9236_  
-_Letzte Run-Zusammenfassung: 533 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 532 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -29,7 +29,7 @@ _Letzte Run-Zusammenfassung: 533 scraped, 0 matches, 0 sent_
 | Immo-Hyp | 77473 | 8.4 | 9207/9236 | vor 0min | 🟢 aktiv |
 | Immler Martin Hausverwaltung | 68162 | 7.4 | 9236/9236 | vor 0min | 🟢 aktiv |
 | Hegerich Immobilien | 64483 | 7.0 | 9225/9236 | vor 0min | 🟢 aktiv |
-| Ab ins Zuhause | 63600 | 6.9 | 7965/9236 | vor 14min | 🟢 aktiv |
+| Ab ins Zuhause | 63600 | 6.9 | 7965/9236 | vor 17min | 🟢 aktiv |
 | Franziskanerhof | 58324 | 6.3 | 9227/9236 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 52204 | 5.7 | 9230/9236 | vor 0min | 🟢 aktiv |
 | BVK Immobilien | 50609 | 26.3 | 1923/1924 | vor 0min | 🟢 aktiv |
@@ -55,7 +55,7 @@ _Letzte Run-Zusammenfassung: 533 scraped, 0 matches, 0 sent_
 | HI Wohnbau | 9234 | 1.0 | 9234/9236 | vor 0min | 🟢 aktiv |
 | Vonovia | 9231 | 1.0 | 9231/9236 | vor 0min | 🟢 aktiv |
 | DAHLER München | 9229 | 1.0 | 9229/9236 | vor 0min | 🟢 aktiv |
-| Immobilien Schneider | 9216 | 1.0 | 9216/9236 | vor 0min | 🟢 aktiv |
+| Immobilien Schneider | 9215 | 1.0 | 9215/9236 | vor 17min | 🟢 aktiv |
 | Maier Immobilien | 9058 | 1.0 | 9058/9236 | vor 0min | 🟢 aktiv |
 | Egger Immobilien | 8452 | 0.9 | 8452/9236 | vor 5d | 🟡 inaktiv (lange leer) |
 | Dawonia | 8104 | 0.9 | 8104/9236 | vor 0min | 🟢 aktiv |
