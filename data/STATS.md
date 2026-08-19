@@ -1,15 +1,15 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-19T13:03:58+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-19T13:07:35+00:00_  
 _Total Runs: 9265_  
-_Letzte Run-Zusammenfassung: 482 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 532 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
 | Adapter | Scraped (Σ) | Avg/Run | Runs aktiv | Letzte Aktivität | Status |
 |---|---:|---:|---|---|---|
 | Citigrund | 596772 | 81.6 | 7151/7312 | vor 18d | 🟢 aktiv |
-| Park Avenue Immobilien | 457559 | 49.4 | 9072/9265 | vor 16min | 🟢 aktiv |
+| Park Avenue Immobilien | 457610 | 49.4 | 9073/9265 | vor 0min | 🟢 aktiv |
 | WSB Bayern | 364027 | 39.3 | 8892/9265 | vor 0min | 🟢 aktiv |
 | Pandion Service | 277745 | 30.0 | 9260/9265 | vor 0min | 🟢 aktiv |
 | Immobilien Schlamp | 273178 | 29.5 | 9234/9265 | vor 0min | 🟢 aktiv |
@@ -29,7 +29,7 @@ _Letzte Run-Zusammenfassung: 482 scraped, 0 matches, 0 sent_
 | Immo-Hyp | 77675 | 8.4 | 9236/9265 | vor 0min | 🟢 aktiv |
 | Immler Martin Hausverwaltung | 68278 | 7.4 | 9265/9265 | vor 0min | 🟢 aktiv |
 | Hegerich Immobilien | 64686 | 7.0 | 9254/9265 | vor 0min | 🟢 aktiv |
-| Ab ins Zuhause | 63792 | 6.9 | 7989/9265 | vor 30min | 🟢 aktiv |
+| Ab ins Zuhause | 63792 | 6.9 | 7989/9265 | vor 34min | 🟢 aktiv |
 | Franziskanerhof | 58469 | 6.3 | 9256/9265 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 52378 | 5.7 | 9259/9265 | vor 0min | 🟢 aktiv |
 | BVK Immobilien | 51339 | 26.3 | 1952/1953 | vor 0min | 🟢 aktiv |
@@ -63,7 +63,7 @@ _Letzte Run-Zusammenfassung: 482 scraped, 0 matches, 0 sent_
 | Wagnis | 4878 | 0.5 | 4878/9265 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 4146 | 0.4 | 4146/9265 | vor 0min | 🟢 aktiv |
 | Isar Wohnbaugenossenschaft (IWG) | 1935 | 1.0 | 1935/1953 | vor 0min | 🟢 aktiv |
-| Email Inbox | 1190 | 0.1 | 984/9265 | vor 0min | 🟢 aktiv |
+| Email Inbox | 1189 | 0.1 | 983/9265 | vor 49min | 🟢 aktiv |
 | EBM München | 1119 | 0.1 | 1112/9265 | vor 0min | 🟢 aktiv |
 | Immowelt | 64 | 0.0 | 2/9265 | vor 35d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 91d | 🟢 aktiv |
