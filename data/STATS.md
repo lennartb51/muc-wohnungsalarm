@@ -1,14 +1,14 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-19T12:01:15+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-19T12:04:04+00:00_  
 _Total Runs: 9261_  
-_Letzte Run-Zusammenfassung: 535 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 546 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
 | Adapter | Scraped (Σ) | Avg/Run | Runs aktiv | Letzte Aktivität | Status |
 |---|---:|---:|---|---|---|
-| Citigrund | 596772 | 81.6 | 7151/7312 | vor 17d | 🟢 aktiv |
+| Citigrund | 596772 | 81.6 | 7151/7312 | vor 18d | 🟢 aktiv |
 | Park Avenue Immobilien | 457406 | 49.4 | 9069/9261 | vor 0min | 🟢 aktiv |
 | WSB Bayern | 363842 | 39.3 | 8888/9261 | vor 0min | 🟢 aktiv |
 | Pandion Service | 277625 | 30.0 | 9256/9261 | vor 0min | 🟢 aktiv |
@@ -17,9 +17,9 @@ _Letzte Run-Zusammenfassung: 535 scraped, 0 matches, 0 sent_
 | WG-Gesucht | 239928 | 25.9 | 8670/9261 | vor 0min | 🟢 aktiv |
 | ohne-makler.net | 222120 | 24.0 | 9255/9261 | vor 0min | 🟢 aktiv |
 | Nuroa | 192612 | 20.8 | 9130/9261 | vor 0min | 🟢 aktiv |
-| Immobilo | 191381 | 20.7 | 9250/9261 | vor 0min | 🟢 aktiv |
-| SZ Immobilien | 189886 | 20.5 | 9247/9261 | vor 0min | 🟢 aktiv |
-| Idowa | 183806 | 19.8 | 9247/9261 | vor 0min | 🟢 aktiv |
+| Immobilo | 191382 | 20.7 | 9250/9261 | vor 0min | 🟢 aktiv |
+| SZ Immobilien | 189887 | 20.5 | 9247/9261 | vor 0min | 🟢 aktiv |
+| Idowa | 183807 | 19.8 | 9247/9261 | vor 0min | 🟢 aktiv |
 | FAZ Immobilien | 174664 | 18.9 | 9247/9261 | vor 0min | 🟢 aktiv |
 | Engel & Völkers | 136071 | 14.7 | 9260/9261 | vor 0min | 🟢 aktiv |
 | Idowa Altstadt-Lehel | 112165 | 12.1 | 9251/9261 | vor 0min | 🟢 aktiv |
@@ -34,7 +34,7 @@ _Letzte Run-Zusammenfassung: 535 scraped, 0 matches, 0 sent_
 | Chalet Immobilien | 52354 | 5.7 | 9255/9261 | vor 0min | 🟢 aktiv |
 | BVK Immobilien | 51237 | 26.3 | 1948/1949 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 47720 | 5.2 | 9034/9261 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 46018 | 5.0 | 9250/9261 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 46021 | 5.0 | 9250/9261 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 43245 | 4.7 | 9235/9261 | vor 0min | 🟢 aktiv |
 | ImmoSmart | 37093 | 4.0 | 7834/9261 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 37036 | 4.0 | 9259/9261 | vor 0min | 🟢 aktiv |
@@ -44,9 +44,9 @@ _Letzte Run-Zusammenfassung: 535 scraped, 0 matches, 0 sent_
 | Alsaol | 27274 | 2.9 | 9261/9261 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 27267 | 2.9 | 9089/9261 | vor 0min | 🟢 aktiv |
 | GVG Net | 25577 | 2.8 | 9252/9261 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 22401 | 2.4 | 9198/9261 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 22402 | 2.4 | 9198/9261 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 21989 | 2.4 | 8023/9259 | vor 2d | 🟡 inaktiv (lange leer) |
-| LPE Immobilien | 20430 | 2.2 | 7809/9261 | vor 13min | 🟢 aktiv |
+| LPE Immobilien | 20434 | 2.2 | 7810/9261 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 18396 | 2.0 | 7927/9261 | vor 0min | 🟢 aktiv |
 | Südhausbau | 17528 | 1.9 | 9232/9261 | vor 0min | 🟢 aktiv |
 | Lehmann Hueber | 15941 | 1.7 | 6060/9261 | vor 29d | 🟡 inaktiv (lange leer) |
@@ -63,7 +63,7 @@ _Letzte Run-Zusammenfassung: 535 scraped, 0 matches, 0 sent_
 | Wagnis | 4874 | 0.5 | 4874/9261 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 4142 | 0.4 | 4142/9261 | vor 0min | 🟢 aktiv |
 | Isar Wohnbaugenossenschaft (IWG) | 1931 | 1.0 | 1931/1949 | vor 0min | 🟢 aktiv |
-| Email Inbox | 1188 | 0.1 | 982/9261 | vor 27min | 🟢 aktiv |
+| Email Inbox | 1188 | 0.1 | 982/9261 | vor 30min | 🟢 aktiv |
 | EBM München | 1115 | 0.1 | 1108/9261 | vor 0min | 🟢 aktiv |
 | Immowelt | 64 | 0.0 | 2/9261 | vor 35d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 91d | 🟢 aktiv |
