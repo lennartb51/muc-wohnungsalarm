@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-19T05:15:45+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-19T05:18:06+00:00_  
 _Total Runs: 9229_  
-_Letzte Run-Zusammenfassung: 509 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 537 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -14,7 +14,7 @@ _Letzte Run-Zusammenfassung: 509 scraped, 0 matches, 0 sent_
 | Pandion Service | 276665 | 30.0 | 9224/9229 | vor 0min | 🟢 aktiv |
 | Immobilien Schlamp | 272192 | 29.5 | 9200/9229 | vor 0min | 🟢 aktiv |
 | KPC Immobilien | 247380 | 32.3 | 7656/7662 | vor 0min | 🟢 aktiv |
-| WG-Gesucht | 239004 | 25.9 | 8637/9229 | vor 12min | 🟢 aktiv |
+| WG-Gesucht | 239032 | 25.9 | 8638/9229 | vor 0min | 🟢 aktiv |
 | ohne-makler.net | 221352 | 24.0 | 9223/9229 | vor 0min | 🟢 aktiv |
 | Nuroa | 191908 | 20.8 | 9098/9229 | vor 0min | 🟢 aktiv |
 | Immobilo | 190711 | 20.7 | 9218/9229 | vor 0min | 🟢 aktiv |
@@ -34,7 +34,7 @@ _Letzte Run-Zusammenfassung: 509 scraped, 0 matches, 0 sent_
 | Chalet Immobilien | 52162 | 5.7 | 9223/9229 | vor 0min | 🟢 aktiv |
 | BVK Immobilien | 50436 | 26.3 | 1916/1917 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 47592 | 5.2 | 9002/9229 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 45924 | 5.0 | 9218/9229 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 45925 | 5.0 | 9218/9229 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 43021 | 4.7 | 9203/9229 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 36908 | 4.0 | 9227/9229 | vor 0min | 🟢 aktiv |
 | ImmoSmart | 36566 | 4.0 | 7803/9229 | vor 0min | 🟢 aktiv |
@@ -44,7 +44,7 @@ _Letzte Run-Zusammenfassung: 509 scraped, 0 matches, 0 sent_
 | Alsaol | 27178 | 2.9 | 9229/9229 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 27174 | 2.9 | 9058/9229 | vor 0min | 🟢 aktiv |
 | GVG Net | 25494 | 2.8 | 9220/9229 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 22315 | 2.4 | 9166/9229 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 22314 | 2.4 | 9166/9229 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 21989 | 2.4 | 8023/9227 | vor 1d | 🟡 inaktiv (lange leer) |
 | LPE Immobilien | 20322 | 2.2 | 7782/9229 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 18332 | 2.0 | 7895/9229 | vor 0min | 🟢 aktiv |
