@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-19T23:32:42+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-19T23:35:12+00:00_  
 _Total Runs: 9317_  
-_Letzte Run-Zusammenfassung: 527 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 499 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -14,7 +14,7 @@ _Letzte Run-Zusammenfassung: 527 scraped, 0 matches, 0 sent_
 | Pandion Service | 279305 | 30.0 | 9312/9317 | vor 0min | 🟢 aktiv |
 | Immobilien Schlamp | 274686 | 29.5 | 9286/9317 | vor 0min | 🟢 aktiv |
 | KPC Immobilien | 250284 | 32.3 | 7744/7750 | vor 0min | 🟢 aktiv |
-| WG-Gesucht | 241412 | 25.9 | 8723/9317 | vor 0min | 🟢 aktiv |
+| WG-Gesucht | 241384 | 25.9 | 8722/9317 | vor 17min | 🟢 aktiv |
 | ohne-makler.net | 223464 | 24.0 | 9311/9317 | vor 0min | 🟢 aktiv |
 | Nuroa | 193844 | 20.8 | 9186/9317 | vor 0min | 🟢 aktiv |
 | Immobilo | 192558 | 20.7 | 9306/9317 | vor 0min | 🟢 aktiv |
