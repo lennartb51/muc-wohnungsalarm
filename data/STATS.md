@@ -1,6 +1,6 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-20T11:30:39+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-20T11:33:02+00:00_  
 _Total Runs: 9377_  
 _Letzte Run-Zusammenfassung: 532 scraped, 0 matches, 0 sent_
 
@@ -47,7 +47,7 @@ _Letzte Run-Zusammenfassung: 532 scraped, 0 matches, 0 sent_
 | Scheel Immobilien | 22684 | 2.4 | 9314/9377 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 21989 | 2.3 | 8023/9375 | vor 3d | 🟡 inaktiv (lange leer) |
 | LPE Immobilien | 20866 | 2.2 | 7918/9377 | vor 0min | 🟢 aktiv |
-| Eichler Immobilien | 18624 | 2.0 | 8041/9377 | vor 27min | 🟢 aktiv |
+| Eichler Immobilien | 18624 | 2.0 | 8041/9377 | vor 29min | 🟢 aktiv |
 | Südhausbau | 17644 | 1.9 | 9348/9377 | vor 0min | 🟢 aktiv |
 | Lehmann Hueber | 15941 | 1.7 | 6060/9377 | vor 30d | 🟡 inaktiv (lange leer) |
 | KSWM | 12689 | 1.4 | 8313/9377 | vor 0min | 🟢 aktiv |
