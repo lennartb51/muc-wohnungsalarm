@@ -1,14 +1,14 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-20T12:01:08+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-20T12:03:46+00:00_  
 _Total Runs: 9379_  
-_Letzte Run-Zusammenfassung: 534 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 528 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
 | Adapter | Scraped (Σ) | Avg/Run | Runs aktiv | Letzte Aktivität | Status |
 |---|---:|---:|---|---|---|
-| Citigrund | 596772 | 81.6 | 7151/7312 | vor 18d | 🟢 aktiv |
+| Citigrund | 596772 | 81.6 | 7151/7312 | vor 19d | 🟢 aktiv |
 | Park Avenue Immobilien | 463373 | 49.4 | 9186/9379 | vor 0min | 🟢 aktiv |
 | WSB Bayern | 369503 | 39.4 | 9006/9379 | vor 0min | 🟢 aktiv |
 | Pandion Service | 281165 | 30.0 | 9374/9379 | vor 0min | 🟢 aktiv |
@@ -34,7 +34,7 @@ _Letzte Run-Zusammenfassung: 534 scraped, 0 matches, 0 sent_
 | BVK Immobilien | 54144 | 26.2 | 2065/2067 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 53062 | 5.7 | 9373/9379 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 48192 | 5.1 | 9152/9379 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 46425 | 4.9 | 9368/9379 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 46424 | 4.9 | 9368/9379 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 43839 | 4.7 | 9353/9379 | vor 0min | 🟢 aktiv |
 | ImmoSmart | 37599 | 4.0 | 7952/9379 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 37508 | 4.0 | 9377/9379 | vor 0min | 🟢 aktiv |
@@ -43,11 +43,11 @@ _Letzte Run-Zusammenfassung: 534 scraped, 0 matches, 0 sent_
 | Rohrer Firmengruppe | 34021 | 3.6 | 9262/9379 | vor 0min | 🟢 aktiv |
 | Alsaol | 27628 | 2.9 | 9379/9379 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 27621 | 2.9 | 9207/9379 | vor 0min | 🟢 aktiv |
-| GVG Net | 25856 | 2.8 | 9345/9379 | vor 4h | 🟢 aktiv |
+| GVG Net | 25856 | 2.8 | 9345/9379 | vor 5h | 🟢 aktiv |
 | Scheel Immobilien | 22689 | 2.4 | 9316/9379 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 21989 | 2.3 | 8023/9377 | vor 3d | 🟡 inaktiv (lange leer) |
-| LPE Immobilien | 20876 | 2.2 | 7920/9379 | vor 0min | 🟢 aktiv |
-| Eichler Immobilien | 18624 | 2.0 | 8041/9379 | vor 57min | 🟢 aktiv |
+| LPE Immobilien | 20871 | 2.2 | 7919/9379 | vor 15min | 🟢 aktiv |
+| Eichler Immobilien | 18624 | 2.0 | 8041/9379 | vor 1h | 🟢 aktiv |
 | Südhausbau | 17646 | 1.9 | 9350/9379 | vor 0min | 🟢 aktiv |
 | Lehmann Hueber | 15941 | 1.7 | 6060/9379 | vor 30d | 🟡 inaktiv (lange leer) |
 | KSWM | 12697 | 1.4 | 8315/9379 | vor 0min | 🟢 aktiv |
@@ -64,7 +64,7 @@ _Letzte Run-Zusammenfassung: 534 scraped, 0 matches, 0 sent_
 | Immobilie1 | 4260 | 0.5 | 4260/9379 | vor 0min | 🟢 aktiv |
 | Isar Wohnbaugenossenschaft (IWG) | 2049 | 1.0 | 2049/2067 | vor 0min | 🟢 aktiv |
 | EBM München | 1210 | 0.1 | 1203/9379 | vor 4h | 🟢 aktiv |
-| Email Inbox | 1201 | 0.1 | 993/9379 | vor 13min | 🟢 aktiv |
+| Email Inbox | 1201 | 0.1 | 993/9379 | vor 15min | 🟢 aktiv |
 | Norbert Marte Immobilien | 243 | 0.0 | 27/9379 | vor 0min | 🟢 aktiv |
 | Immowelt | 64 | 0.0 | 2/9379 | vor 36d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 92d | 🟢 aktiv |
