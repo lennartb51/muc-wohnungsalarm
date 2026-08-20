@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-20T15:00:58+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-20T15:03:40+00:00_  
 _Total Runs: 9392_  
-_Letzte Run-Zusammenfassung: 537 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 523 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -23,7 +23,7 @@ _Letzte Run-Zusammenfassung: 537 scraped, 0 matches, 0 sent_
 | FAZ Immobilien | 177153 | 18.9 | 9378/9392 | vor 0min | 🟢 aktiv |
 | Engel & Völkers | 137512 | 14.6 | 9391/9392 | vor 0min | 🟢 aktiv |
 | Idowa Altstadt-Lehel | 113475 | 12.1 | 9382/9392 | vor 0min | 🟢 aktiv |
-| Wohnreferat München | 104787 | 11.2 | 8882/9392 | vor 0min | 🟢 aktiv |
+| Wohnreferat München | 104776 | 11.2 | 8881/9392 | vor 15min | 🟢 aktiv |
 | Wegener Immobilien | 103312 | 11.0 | 9392/9392 | vor 0min | 🟢 aktiv |
 | Heimhuber Immobilien | 100786 | 10.7 | 9371/9392 | vor 0min | 🟢 aktiv |
 | Immo-Hyp | 78570 | 8.4 | 9363/9392 | vor 0min | 🟢 aktiv |
@@ -34,11 +34,11 @@ _Letzte Run-Zusammenfassung: 537 scraped, 0 matches, 0 sent_
 | BVK Immobilien | 54469 | 26.2 | 2078/2080 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 53140 | 5.7 | 9386/9392 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 48244 | 5.1 | 9165/9392 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 46451 | 4.9 | 9378/9392 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 46452 | 4.9 | 9378/9392 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 43904 | 4.7 | 9366/9392 | vor 0min | 🟢 aktiv |
-| ImmoSmart | 37611 | 4.0 | 7964/9392 | vor 12min | 🟢 aktiv |
+| ImmoSmart | 37611 | 4.0 | 7964/9392 | vor 15min | 🟢 aktiv |
 | VS Immobilienservice | 37560 | 4.0 | 9390/9392 | vor 0min | 🟢 aktiv |
-| Sedlmayr AG | 36313 | 3.9 | 8889/9392 | vor 0min | 🟢 aktiv |
+| Sedlmayr AG | 36309 | 3.9 | 8888/9392 | vor 15min | 🟢 aktiv |
 | DIBAG | 36068 | 3.8 | 9017/9392 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 34073 | 3.6 | 9275/9392 | vor 0min | 🟢 aktiv |
 | Alsaol | 27667 | 2.9 | 9392/9392 | vor 0min | 🟢 aktiv |
@@ -64,7 +64,7 @@ _Letzte Run-Zusammenfassung: 537 scraped, 0 matches, 0 sent_
 | Immobilie1 | 4273 | 0.5 | 4273/9392 | vor 0min | 🟢 aktiv |
 | Isar Wohnbaugenossenschaft (IWG) | 2062 | 1.0 | 2062/2080 | vor 0min | 🟢 aktiv |
 | EBM München | 1210 | 0.1 | 1203/9392 | vor 7h | 🟢 aktiv |
-| Email Inbox | 1203 | 0.1 | 995/9392 | vor 12min | 🟢 aktiv |
+| Email Inbox | 1203 | 0.1 | 995/9392 | vor 15min | 🟢 aktiv |
 | Norbert Marte Immobilien | 360 | 0.0 | 40/9392 | vor 0min | 🟢 aktiv |
 | Immowelt | 64 | 0.0 | 2/9392 | vor 36d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 92d | 🟢 aktiv |
