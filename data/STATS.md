@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-21T11:48:16+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-21T11:51:04+00:00_  
 _Total Runs: 9492_  
-_Letzte Run-Zusammenfassung: 537 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 531 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -34,17 +34,17 @@ _Letzte Run-Zusammenfassung: 537 scraped, 0 matches, 0 sent_
 | BVK Immobilien | 56980 | 26.1 | 2178/2180 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 53740 | 5.7 | 9486/9492 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 48644 | 5.1 | 9265/9492 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 46699 | 4.9 | 9477/9492 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 46698 | 4.9 | 9477/9492 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 44404 | 4.7 | 9466/9492 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 37960 | 4.0 | 9490/9492 | vor 0min | 🟢 aktiv |
 | ImmoSmart | 37791 | 4.0 | 8064/9492 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 36709 | 3.9 | 8988/9492 | vor 0min | 🟢 aktiv |
-| DIBAG | 36464 | 3.8 | 9116/9492 | vor 0min | 🟢 aktiv |
+| DIBAG | 36460 | 3.8 | 9115/9492 | vor 18min | 🟢 aktiv |
 | Rohrer Firmengruppe | 34519 | 3.6 | 9375/9492 | vor 0min | 🟢 aktiv |
 | Alsaol | 27967 | 2.9 | 9492/9492 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 27960 | 2.9 | 9320/9492 | vor 0min | 🟢 aktiv |
 | GVG Net | 26195 | 2.8 | 9458/9492 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 22957 | 2.4 | 9429/9492 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 22956 | 2.4 | 9429/9492 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 21989 | 2.3 | 8023/9490 | vor 4d | 🟡 inaktiv (lange leer) |
 | LPE Immobilien | 21361 | 2.3 | 8017/9492 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 18832 | 2.0 | 8145/9492 | vor 0min | 🟢 aktiv |
