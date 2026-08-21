@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-21T22:33:18+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-21T22:35:44+00:00_  
 _Total Runs: 9546_  
-_Letzte Run-Zusammenfassung: 530 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 538 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -29,7 +29,7 @@ _Letzte Run-Zusammenfassung: 530 scraped, 0 matches, 0 sent_
 | Immo-Hyp | 79802 | 8.4 | 9517/9546 | vor 0min | 🟢 aktiv |
 | Immler Martin Hausverwaltung | 69402 | 7.3 | 9546/9546 | vor 0min | 🟢 aktiv |
 | Hegerich Immobilien | 66639 | 7.0 | 9533/9546 | vor 0min | 🟢 aktiv |
-| Ab ins Zuhause | 65816 | 6.9 | 8242/9546 | vor 15min | 🟢 aktiv |
+| Ab ins Zuhause | 65824 | 6.9 | 8243/9546 | vor 0min | 🟢 aktiv |
 | Franziskanerhof | 59874 | 6.3 | 9537/9546 | vor 0min | 🟢 aktiv |
 | BVK Immobilien | 58438 | 26.2 | 2232/2234 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 54064 | 5.7 | 9540/9546 | vor 0min | 🟢 aktiv |
