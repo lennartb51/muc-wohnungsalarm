@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-21T15:16:24+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-21T15:19:19+00:00_  
 _Total Runs: 9508_  
-_Letzte Run-Zusammenfassung: 540 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 538 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -44,7 +44,7 @@ _Letzte Run-Zusammenfassung: 540 scraped, 0 matches, 0 sent_
 | Alsaol | 28015 | 2.9 | 9508/9508 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 28008 | 2.9 | 9336/9508 | vor 0min | 🟢 aktiv |
 | GVG Net | 26243 | 2.8 | 9474/9508 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 22994 | 2.4 | 9445/9508 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 22993 | 2.4 | 9445/9508 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 21989 | 2.3 | 8023/9506 | vor 4d | 🟡 inaktiv (lange leer) |
 | LPE Immobilien | 21431 | 2.3 | 8031/9508 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 18864 | 2.0 | 8161/9508 | vor 0min | 🟢 aktiv |
@@ -59,13 +59,13 @@ _Letzte Run-Zusammenfassung: 540 scraped, 0 matches, 0 sent_
 | Maier Immobilien | 9327 | 1.0 | 9327/9508 | vor 0min | 🟢 aktiv |
 | Egger Immobilien | 8452 | 0.9 | 8452/9508 | vor 8d | 🟡 inaktiv (lange leer) |
 | Dawonia | 8375 | 0.9 | 8375/9508 | vor 0min | 🟢 aktiv |
-| Immovision München | 6575 | 0.7 | 6575/9508 | vor 0min | 🟢 aktiv |
+| Immovision München | 6574 | 0.7 | 6574/9508 | vor 15min | 🟢 aktiv |
 | Wagnis | 5121 | 0.5 | 5121/9508 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 4353 | 0.5 | 4353/9508 | vor 8h | 🟢 aktiv |
 | Isar Wohnbaugenossenschaft (IWG) | 2178 | 1.0 | 2178/2196 | vor 0min | 🟢 aktiv |
 | Norbert Marte Immobilien | 1404 | 0.1 | 156/9508 | vor 0min | 🟢 aktiv |
 | EBM München | 1210 | 0.1 | 1203/9508 | vor 1d | 🟡 inaktiv (lange leer) |
-| Email Inbox | 1208 | 0.1 | 1000/9508 | vor 2h | 🟢 aktiv |
+| Email Inbox | 1208 | 0.1 | 1000/9508 | vor 3h | 🟢 aktiv |
 | Immowelt | 64 | 0.0 | 2/9508 | vor 37d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 93d | 🟢 aktiv |
 | Munich Property | 10 | 5.0 | 2/2 | vor 93d | 🟢 aktiv |
