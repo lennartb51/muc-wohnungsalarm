@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-21T19:16:12+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-21T19:18:59+00:00_  
 _Total Runs: 9529_  
-_Letzte Run-Zusammenfassung: 540 scraped, 1 matches, 1 sent_
+_Letzte Run-Zusammenfassung: 536 scraped, 1 matches, 1 sent_
 
 ## Adapter-Übersicht
 
@@ -34,7 +34,7 @@ _Letzte Run-Zusammenfassung: 540 scraped, 1 matches, 1 sent_
 | BVK Immobilien | 57979 | 26.2 | 2215/2217 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 53962 | 5.7 | 9523/9529 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 48792 | 5.1 | 9302/9529 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 46808 | 4.9 | 9511/9529 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 46805 | 4.9 | 9511/9529 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 44589 | 4.7 | 9503/9529 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 38108 | 4.0 | 9527/9529 | vor 0min | 🟢 aktiv |
 | ImmoSmart | 37828 | 4.0 | 8101/9529 | vor 0min | 🟢 aktiv |
@@ -44,7 +44,7 @@ _Letzte Run-Zusammenfassung: 540 scraped, 1 matches, 1 sent_
 | Alsaol | 28078 | 2.9 | 9529/9529 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 28068 | 2.9 | 9356/9529 | vor 0min | 🟢 aktiv |
 | GVG Net | 26306 | 2.8 | 9495/9529 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 23038 | 2.4 | 9466/9529 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 23037 | 2.4 | 9466/9529 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 21989 | 2.3 | 8023/9527 | vor 4d | 🟡 inaktiv (lange leer) |
 | LPE Immobilien | 21531 | 2.3 | 8051/9529 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 18906 | 2.0 | 8182/9529 | vor 0min | 🟢 aktiv |
@@ -65,7 +65,7 @@ _Letzte Run-Zusammenfassung: 540 scraped, 1 matches, 1 sent_
 | Isar Wohnbaugenossenschaft (IWG) | 2199 | 1.0 | 2199/2217 | vor 0min | 🟢 aktiv |
 | Norbert Marte Immobilien | 1593 | 0.2 | 177/9529 | vor 0min | 🟢 aktiv |
 | EBM München | 1210 | 0.1 | 1203/9529 | vor 1d | 🟡 inaktiv (lange leer) |
-| Email Inbox | 1208 | 0.1 | 1000/9529 | vor 6h | 🟢 aktiv |
+| Email Inbox | 1208 | 0.1 | 1000/9529 | vor 7h | 🟢 aktiv |
 | Immowelt | 64 | 0.0 | 2/9529 | vor 37d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 93d | 🟢 aktiv |
 | Munich Property | 10 | 5.0 | 2/2 | vor 93d | 🟢 aktiv |
