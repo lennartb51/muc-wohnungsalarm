@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-21T09:03:42+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-21T09:06:30+00:00_  
 _Total Runs: 9480_  
-_Letzte Run-Zusammenfassung: 532 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 507 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -14,7 +14,7 @@ _Letzte Run-Zusammenfassung: 532 scraped, 0 matches, 0 sent_
 | Pandion Service | 284195 | 30.0 | 9475/9480 | vor 0min | 🟢 aktiv |
 | Immobilien Schlamp | 279350 | 29.5 | 9447/9480 | vor 0min | 🟢 aktiv |
 | KPC Immobilien | 255663 | 32.3 | 7907/7913 | vor 0min | 🟢 aktiv |
-| WG-Gesucht | 245864 | 25.9 | 8882/9480 | vor 0min | 🟢 aktiv |
+| WG-Gesucht | 245836 | 25.9 | 8881/9480 | vor 18min | 🟢 aktiv |
 | ohne-makler.net | 227376 | 24.0 | 9474/9480 | vor 0min | 🟢 aktiv |
 | Nuroa | 197430 | 20.8 | 9349/9480 | vor 0min | 🟢 aktiv |
 | Immobilo | 195970 | 20.7 | 9469/9480 | vor 0min | 🟢 aktiv |
@@ -29,7 +29,7 @@ _Letzte Run-Zusammenfassung: 532 scraped, 0 matches, 0 sent_
 | Immo-Hyp | 79274 | 8.4 | 9451/9480 | vor 0min | 🟢 aktiv |
 | Immler Martin Hausverwaltung | 69138 | 7.3 | 9480/9480 | vor 0min | 🟢 aktiv |
 | Hegerich Immobilien | 66177 | 7.0 | 9467/9480 | vor 0min | 🟢 aktiv |
-| Ab ins Zuhause | 65320 | 6.9 | 8180/9480 | vor 30min | 🟢 aktiv |
+| Ab ins Zuhause | 65328 | 6.9 | 8181/9480 | vor 0min | 🟢 aktiv |
 | Franziskanerhof | 59544 | 6.3 | 9471/9480 | vor 0min | 🟢 aktiv |
 | BVK Immobilien | 56669 | 26.1 | 2166/2168 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 53668 | 5.7 | 9474/9480 | vor 0min | 🟢 aktiv |
@@ -46,7 +46,7 @@ _Letzte Run-Zusammenfassung: 532 scraped, 0 matches, 0 sent_
 | GVG Net | 26159 | 2.8 | 9446/9480 | vor 0min | 🟢 aktiv |
 | Scheel Immobilien | 22930 | 2.4 | 9417/9480 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 21989 | 2.3 | 8023/9478 | vor 3d | 🟡 inaktiv (lange leer) |
-| LPE Immobilien | 21321 | 2.2 | 8009/9480 | vor 0min | 🟢 aktiv |
+| LPE Immobilien | 21316 | 2.2 | 8008/9480 | vor 18min | 🟢 aktiv |
 | Eichler Immobilien | 18808 | 2.0 | 8133/9480 | vor 0min | 🟢 aktiv |
 | Südhausbau | 17747 | 1.9 | 9451/9480 | vor 0min | 🟢 aktiv |
 | Lehmann Hueber | 15941 | 1.7 | 6060/9480 | vor 31d | 🟡 inaktiv (lange leer) |
@@ -64,7 +64,7 @@ _Letzte Run-Zusammenfassung: 532 scraped, 0 matches, 0 sent_
 | Immobilie1 | 4353 | 0.5 | 4353/9480 | vor 1h | 🟢 aktiv |
 | Isar Wohnbaugenossenschaft (IWG) | 2150 | 1.0 | 2150/2168 | vor 0min | 🟢 aktiv |
 | EBM München | 1210 | 0.1 | 1203/9480 | vor 1d | 🟡 inaktiv (lange leer) |
-| Email Inbox | 1206 | 0.1 | 998/9480 | vor 45min | 🟢 aktiv |
+| Email Inbox | 1206 | 0.1 | 998/9480 | vor 48min | 🟢 aktiv |
 | Norbert Marte Immobilien | 1152 | 0.1 | 128/9480 | vor 0min | 🟢 aktiv |
 | Immowelt | 64 | 0.0 | 2/9480 | vor 37d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 93d | 🟢 aktiv |
