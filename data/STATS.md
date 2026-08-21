@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-21T23:33:51+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-21T23:36:48+00:00_  
 _Total Runs: 9551_  
-_Letzte Run-Zusammenfassung: 508 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 526 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -14,7 +14,7 @@ _Letzte Run-Zusammenfassung: 508 scraped, 0 matches, 0 sent_
 | Pandion Service | 286325 | 30.0 | 9546/9551 | vor 0min | 🟢 aktiv |
 | Immobilien Schlamp | 281409 | 29.5 | 9518/9551 | vor 0min | 🟢 aktiv |
 | KPC Immobilien | 258006 | 32.3 | 7978/7984 | vor 0min | 🟢 aktiv |
-| WG-Gesucht | 247712 | 25.9 | 8948/9551 | vor 15min | 🟢 aktiv |
+| WG-Gesucht | 247740 | 25.9 | 8949/9551 | vor 0min | 🟢 aktiv |
 | ohne-makler.net | 229080 | 24.0 | 9545/9551 | vor 0min | 🟢 aktiv |
 | Nuroa | 198992 | 20.8 | 9420/9551 | vor 0min | 🟢 aktiv |
 | Immobilo | 197389 | 20.7 | 9540/9551 | vor 0min | 🟢 aktiv |
@@ -34,7 +34,7 @@ _Letzte Run-Zusammenfassung: 508 scraped, 0 matches, 0 sent_
 | BVK Immobilien | 58573 | 26.2 | 2237/2239 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 54094 | 5.7 | 9545/9551 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 48880 | 5.1 | 9324/9551 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 46877 | 4.9 | 9532/9551 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 46872 | 4.9 | 9531/9551 | vor 18min | 🟢 aktiv |
 | Rosenberger Immobilien | 44699 | 4.7 | 9525/9551 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 38196 | 4.0 | 9549/9551 | vor 0min | 🟢 aktiv |
 | ImmoSmart | 37850 | 4.0 | 8123/9551 | vor 0min | 🟢 aktiv |
@@ -46,7 +46,7 @@ _Letzte Run-Zusammenfassung: 508 scraped, 0 matches, 0 sent_
 | GVG Net | 26372 | 2.8 | 9517/9551 | vor 0min | 🟢 aktiv |
 | Scheel Immobilien | 23084 | 2.4 | 9488/9551 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 21989 | 2.3 | 8023/9549 | vor 4d | 🟡 inaktiv (lange leer) |
-| LPE Immobilien | 21631 | 2.3 | 8071/9551 | vor 0min | 🟢 aktiv |
+| LPE Immobilien | 21626 | 2.3 | 8070/9551 | vor 18min | 🟢 aktiv |
 | Eichler Immobilien | 18950 | 2.0 | 8204/9551 | vor 0min | 🟢 aktiv |
 | Südhausbau | 17818 | 1.9 | 9522/9551 | vor 0min | 🟢 aktiv |
 | Lehmann Hueber | 15941 | 1.7 | 6060/9551 | vor 32d | 🟡 inaktiv (lange leer) |
