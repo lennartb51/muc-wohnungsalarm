@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-21T13:48:05+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-21T13:50:38+00:00_  
 _Total Runs: 9501_  
-_Letzte Run-Zusammenfassung: 536 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 537 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -34,7 +34,7 @@ _Letzte Run-Zusammenfassung: 536 scraped, 0 matches, 0 sent_
 | BVK Immobilien | 57223 | 26.1 | 2187/2189 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 53794 | 5.7 | 9495/9501 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 48680 | 5.1 | 9274/9501 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 46725 | 4.9 | 9486/9501 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 46726 | 4.9 | 9486/9501 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 44449 | 4.7 | 9475/9501 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 37996 | 4.0 | 9499/9501 | vor 0min | 🟢 aktiv |
 | ImmoSmart | 37800 | 4.0 | 8073/9501 | vor 0min | 🟢 aktiv |
