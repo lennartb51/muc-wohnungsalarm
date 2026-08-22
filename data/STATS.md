@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-22T09:47:51+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-22T09:50:27+00:00_  
 _Total Runs: 9599_  
-_Letzte Run-Zusammenfassung: 539 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 540 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -34,7 +34,7 @@ _Letzte Run-Zusammenfassung: 539 scraped, 0 matches, 0 sent_
 | BVK Immobilien | 59869 | 26.2 | 2285/2287 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 54382 | 5.7 | 9593/9599 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 49072 | 5.1 | 9372/9599 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 47020 | 4.9 | 9577/9599 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 47023 | 4.9 | 9577/9599 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 44939 | 4.7 | 9573/9599 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 38388 | 4.0 | 9597/9599 | vor 0min | 🟢 aktiv |
 | ImmoSmart | 37898 | 3.9 | 8171/9599 | vor 0min | 🟢 aktiv |
@@ -44,7 +44,7 @@ _Letzte Run-Zusammenfassung: 539 scraped, 0 matches, 0 sent_
 | Alsaol | 28288 | 2.9 | 9599/9599 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 28278 | 2.9 | 9426/9599 | vor 0min | 🟢 aktiv |
 | GVG Net | 26516 | 2.8 | 9565/9599 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 23218 | 2.4 | 9536/9599 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 23216 | 2.4 | 9536/9599 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 21989 | 2.3 | 8023/9597 | vor 4d | 🟡 inaktiv (lange leer) |
 | LPE Immobilien | 21851 | 2.3 | 8115/9599 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 19046 | 2.0 | 8252/9599 | vor 0min | 🟢 aktiv |
