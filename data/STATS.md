@@ -1,6 +1,6 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-23T08:01:38+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-23T08:04:02+00:00_  
 _Total Runs: 9717_  
 _Letzte Run-Zusammenfassung: 543 scraped, 0 matches, 0 sent_
 
@@ -64,7 +64,7 @@ _Letzte Run-Zusammenfassung: 543 scraped, 0 matches, 0 sent_
 | Immobilie1 | 4353 | 0.4 | 4353/9717 | vor 2d | 🟡 inaktiv (lange leer) |
 | Norbert Marte Immobilien | 3225 | 0.3 | 359/9717 | vor 0min | 🟢 aktiv |
 | Isar Wohnbaugenossenschaft (IWG) | 2387 | 1.0 | 2387/2405 | vor 0min | 🟢 aktiv |
-| Email Inbox | 1225 | 0.1 | 1015/9717 | vor 25min | 🟢 aktiv |
+| Email Inbox | 1225 | 0.1 | 1015/9717 | vor 27min | 🟢 aktiv |
 | EBM München | 1210 | 0.1 | 1203/9717 | vor 3d | 🟡 inaktiv (lange leer) |
 | Immowelt | 64 | 0.0 | 2/9717 | vor 39d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 94d | 🟢 aktiv |
