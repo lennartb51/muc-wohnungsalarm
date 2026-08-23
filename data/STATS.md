@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-23T12:47:46+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-23T12:50:33+00:00_  
 _Total Runs: 9741_  
-_Letzte Run-Zusammenfassung: 536 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 499 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -14,7 +14,7 @@ _Letzte Run-Zusammenfassung: 536 scraped, 0 matches, 0 sent_
 | Pandion Service | 292025 | 30.0 | 9736/9741 | vor 0min | 🟢 aktiv |
 | Immobilien Schlamp | 286919 | 29.5 | 9708/9741 | vor 0min | 🟢 aktiv |
 | KPC Immobilien | 264276 | 32.3 | 8168/8174 | vor 0min | 🟢 aktiv |
-| WG-Gesucht | 252836 | 26.0 | 9131/9741 | vor 0min | 🟢 aktiv |
+| WG-Gesucht | 252808 | 26.0 | 9130/9741 | vor 17min | 🟢 aktiv |
 | ohne-makler.net | 233640 | 24.0 | 9735/9741 | vor 0min | 🟢 aktiv |
 | Nuroa | 203577 | 20.9 | 9610/9741 | vor 0min | 🟢 aktiv |
 | Immobilo | 201349 | 20.7 | 9730/9741 | vor 0min | 🟢 aktiv |
@@ -29,12 +29,12 @@ _Letzte Run-Zusammenfassung: 536 scraped, 0 matches, 0 sent_
 | Immo-Hyp | 81354 | 8.4 | 9711/9741 | vor 0min | 🟢 aktiv |
 | Immler Martin Hausverwaltung | 70182 | 7.2 | 9741/9741 | vor 0min | 🟢 aktiv |
 | Hegerich Immobilien | 68004 | 7.0 | 9728/9741 | vor 0min | 🟢 aktiv |
-| Ab ins Zuhause | 67240 | 6.9 | 8420/9741 | vor 14min | 🟢 aktiv |
+| Ab ins Zuhause | 67240 | 6.9 | 8420/9741 | vor 17min | 🟢 aktiv |
 | BVK Immobilien | 63703 | 26.2 | 2427/2429 | vor 0min | 🟢 aktiv |
 | Franziskanerhof | 60849 | 6.2 | 9732/9741 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 55234 | 5.7 | 9735/9741 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 49640 | 5.1 | 9514/9741 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 47570 | 4.9 | 9711/9741 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 47565 | 4.9 | 9711/9741 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 45642 | 4.7 | 9714/9741 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 38956 | 4.0 | 9739/9741 | vor 0min | 🟢 aktiv |
 | ImmoSmart | 38056 | 3.9 | 8313/9741 | vor 0min | 🟢 aktiv |
@@ -44,8 +44,8 @@ _Letzte Run-Zusammenfassung: 536 scraped, 0 matches, 0 sent_
 | Alsaol | 28714 | 2.9 | 9741/9741 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 28695 | 2.9 | 9565/9741 | vor 0min | 🟢 aktiv |
 | GVG Net | 26942 | 2.8 | 9707/9741 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 23601 | 2.4 | 9678/9741 | vor 0min | 🟢 aktiv |
-| LPE Immobilien | 22496 | 2.3 | 8244/9741 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 23602 | 2.4 | 9678/9741 | vor 0min | 🟢 aktiv |
+| LPE Immobilien | 22491 | 2.3 | 8243/9741 | vor 17min | 🟢 aktiv |
 | Pienzenauer Immobilien | 21989 | 2.3 | 8023/9739 | vor 6d | 🟡 inaktiv (lange leer) |
 | Eichler Immobilien | 19330 | 2.0 | 8394/9741 | vor 0min | 🟢 aktiv |
 | Südhausbau | 18008 | 1.8 | 9712/9741 | vor 0min | 🟢 aktiv |
