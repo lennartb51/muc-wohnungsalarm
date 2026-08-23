@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-23T16:31:38+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-23T16:34:07+00:00_  
 _Total Runs: 9759_  
-_Letzte Run-Zusammenfassung: 532 scraped, 1 matches, 1 sent_
+_Letzte Run-Zusammenfassung: 533 scraped, 1 matches, 1 sent_
 
 ## Adapter-Übersicht
 
@@ -34,7 +34,7 @@ _Letzte Run-Zusammenfassung: 532 scraped, 1 matches, 1 sent_
 | Franziskanerhof | 60939 | 6.2 | 9750/9759 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 55342 | 5.7 | 9753/9759 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 49712 | 5.1 | 9532/9759 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 47631 | 4.9 | 9726/9759 | vor 13min | 🟢 aktiv |
+| Kleinanzeigen | 47631 | 4.9 | 9726/9759 | vor 16min | 🟢 aktiv |
 | Rosenberger Immobilien | 45732 | 4.7 | 9732/9759 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 39028 | 4.0 | 9757/9759 | vor 0min | 🟢 aktiv |
 | ImmoSmart | 38074 | 3.9 | 8331/9759 | vor 0min | 🟢 aktiv |
@@ -59,12 +59,12 @@ _Letzte Run-Zusammenfassung: 532 scraped, 1 matches, 1 sent_
 | Maier Immobilien | 9573 | 1.0 | 9573/9759 | vor 0min | 🟢 aktiv |
 | Dawonia | 8626 | 0.9 | 8626/9759 | vor 0min | 🟢 aktiv |
 | Egger Immobilien | 8452 | 0.9 | 8452/9759 | vor 10d | 🟡 inaktiv (lange leer) |
-| Immovision München | 6822 | 0.7 | 6822/9759 | vor 13min | 🟢 aktiv |
+| Immovision München | 6823 | 0.7 | 6823/9759 | vor 0min | 🟢 aktiv |
 | Wagnis | 5367 | 0.5 | 5367/9759 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 4353 | 0.4 | 4353/9759 | vor 2d | 🟡 inaktiv (lange leer) |
 | Norbert Marte Immobilien | 3603 | 0.4 | 401/9759 | vor 0min | 🟢 aktiv |
 | Isar Wohnbaugenossenschaft (IWG) | 2429 | 1.0 | 2429/2447 | vor 0min | 🟢 aktiv |
-| Email Inbox | 1228 | 0.1 | 1018/9759 | vor 43min | 🟢 aktiv |
+| Email Inbox | 1228 | 0.1 | 1018/9759 | vor 46min | 🟢 aktiv |
 | EBM München | 1210 | 0.1 | 1203/9759 | vor 3d | 🟡 inaktiv (lange leer) |
 | Immowelt | 64 | 0.0 | 2/9759 | vor 39d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 95d | 🟢 aktiv |
