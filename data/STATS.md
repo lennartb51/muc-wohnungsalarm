@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-23T06:46:38+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-23T06:49:03+00:00_  
 _Total Runs: 9711_  
-_Letzte Run-Zusammenfassung: 543 scraped, 1 matches, 1 sent_
+_Letzte Run-Zusammenfassung: 534 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -29,12 +29,12 @@ _Letzte Run-Zusammenfassung: 543 scraped, 1 matches, 1 sent_
 | Immo-Hyp | 81114 | 8.4 | 9681/9711 | vor 0min | 🟢 aktiv |
 | Immler Martin Hausverwaltung | 70062 | 7.2 | 9711/9711 | vor 0min | 🟢 aktiv |
 | Hegerich Immobilien | 67794 | 7.0 | 9698/9711 | vor 0min | 🟢 aktiv |
-| Ab ins Zuhause | 67048 | 6.9 | 8396/9711 | vor 13min | 🟢 aktiv |
+| Ab ins Zuhause | 67048 | 6.9 | 8396/9711 | vor 16min | 🟢 aktiv |
 | BVK Immobilien | 62893 | 26.2 | 2397/2399 | vor 0min | 🟢 aktiv |
 | Franziskanerhof | 60699 | 6.3 | 9702/9711 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 55054 | 5.7 | 9705/9711 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 49520 | 5.1 | 9484/9711 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 47434 | 4.9 | 9684/9711 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 47439 | 4.9 | 9684/9711 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 45497 | 4.7 | 9685/9711 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 38836 | 4.0 | 9709/9711 | vor 0min | 🟢 aktiv |
 | ImmoSmart | 38010 | 3.9 | 8283/9711 | vor 0min | 🟢 aktiv |
@@ -44,7 +44,7 @@ _Letzte Run-Zusammenfassung: 543 scraped, 1 matches, 1 sent_
 | Alsaol | 28624 | 2.9 | 9711/9711 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 28605 | 2.9 | 9535/9711 | vor 0min | 🟢 aktiv |
 | GVG Net | 26852 | 2.8 | 9677/9711 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 23547 | 2.4 | 9648/9711 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 23532 | 2.4 | 9648/9711 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 22361 | 2.3 | 8217/9711 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 21989 | 2.3 | 8023/9709 | vor 5d | 🟡 inaktiv (lange leer) |
 | Eichler Immobilien | 19270 | 2.0 | 8364/9711 | vor 0min | 🟢 aktiv |
@@ -59,7 +59,7 @@ _Letzte Run-Zusammenfassung: 543 scraped, 1 matches, 1 sent_
 | Maier Immobilien | 9526 | 1.0 | 9526/9711 | vor 0min | 🟢 aktiv |
 | Dawonia | 8578 | 0.9 | 8578/9711 | vor 0min | 🟢 aktiv |
 | Egger Immobilien | 8452 | 0.9 | 8452/9711 | vor 9d | 🟡 inaktiv (lange leer) |
-| Immovision München | 6774 | 0.7 | 6774/9711 | vor 13min | 🟢 aktiv |
+| Immovision München | 6775 | 0.7 | 6775/9711 | vor 0min | 🟢 aktiv |
 | Wagnis | 5320 | 0.5 | 5320/9711 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 4353 | 0.4 | 4353/9711 | vor 1d | 🟡 inaktiv (lange leer) |
 | Norbert Marte Immobilien | 3171 | 0.3 | 353/9711 | vor 0min | 🟢 aktiv |
