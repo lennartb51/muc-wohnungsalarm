@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-23T19:03:22+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-23T19:06:04+00:00_  
 _Total Runs: 9771_  
-_Letzte Run-Zusammenfassung: 553 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 540 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -29,7 +29,7 @@ _Letzte Run-Zusammenfassung: 553 scraped, 0 matches, 0 sent_
 | Immo-Hyp | 81594 | 8.4 | 9741/9771 | vor 0min | 🟢 aktiv |
 | Immler Martin Hausverwaltung | 70302 | 7.2 | 9771/9771 | vor 0min | 🟢 aktiv |
 | Hegerich Immobilien | 68214 | 7.0 | 9758/9771 | vor 0min | 🟢 aktiv |
-| Ab ins Zuhause | 67432 | 6.9 | 8444/9771 | vor 15min | 🟢 aktiv |
+| Ab ins Zuhause | 67440 | 6.9 | 8445/9771 | vor 0min | 🟢 aktiv |
 | BVK Immobilien | 64513 | 26.2 | 2457/2459 | vor 0min | 🟢 aktiv |
 | Franziskanerhof | 60999 | 6.2 | 9762/9771 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 55414 | 5.7 | 9765/9771 | vor 0min | 🟢 aktiv |
@@ -40,18 +40,18 @@ _Letzte Run-Zusammenfassung: 553 scraped, 0 matches, 0 sent_
 | ImmoSmart | 38086 | 3.9 | 8343/9771 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 37825 | 3.9 | 9267/9771 | vor 0min | 🟢 aktiv |
 | DIBAG | 37552 | 3.8 | 9388/9771 | vor 0min | 🟢 aktiv |
-| Rohrer Firmengruppe | 35750 | 3.7 | 9654/9771 | vor 0min | 🟢 aktiv |
+| Rohrer Firmengruppe | 35727 | 3.7 | 9654/9771 | vor 0min | 🟢 aktiv |
 | Alsaol | 28804 | 2.9 | 9771/9771 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 28782 | 2.9 | 9594/9771 | vor 0min | 🟢 aktiv |
 | GVG Net | 27032 | 2.8 | 9737/9771 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 23666 | 2.4 | 9708/9771 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 23665 | 2.4 | 9708/9771 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 22636 | 2.3 | 8272/9771 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 21989 | 2.3 | 8023/9769 | vor 6d | 🟡 inaktiv (lange leer) |
 | Eichler Immobilien | 19390 | 2.0 | 8424/9771 | vor 0min | 🟢 aktiv |
 | Südhausbau | 18038 | 1.8 | 9742/9771 | vor 0min | 🟢 aktiv |
 | Lehmann Hueber | 15941 | 1.6 | 6060/9771 | vor 34d | 🟡 inaktiv (lange leer) |
-| KSWM | 13905 | 1.4 | 8707/9771 | vor 0min | 🟢 aktiv |
-| KLN Immobilien | 11648 | 1.2 | 8227/9771 | vor 15min | 🟢 aktiv |
+| KSWM | 13907 | 1.4 | 8707/9771 | vor 0min | 🟢 aktiv |
+| KLN Immobilien | 11649 | 1.2 | 8228/9771 | vor 0min | 🟢 aktiv |
 | HI Wohnbau | 9769 | 1.0 | 9769/9771 | vor 0min | 🟢 aktiv |
 | Vonovia | 9766 | 1.0 | 9766/9771 | vor 0min | 🟢 aktiv |
 | DAHLER München | 9764 | 1.0 | 9764/9771 | vor 0min | 🟢 aktiv |
