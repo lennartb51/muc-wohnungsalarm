@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-24T19:33:05+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-24T19:35:33+00:00_  
 _Total Runs: 9895_  
-_Letzte Run-Zusammenfassung: 531 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 532 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -34,7 +34,7 @@ _Letzte Run-Zusammenfassung: 531 scraped, 0 matches, 0 sent_
 | Franziskanerhof | 61619 | 6.2 | 9886/9895 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 56158 | 5.7 | 9889/9895 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 50256 | 5.1 | 9668/9895 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 48233 | 4.9 | 9858/9895 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 48232 | 4.9 | 9858/9895 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 46500 | 4.7 | 9868/9895 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 39572 | 4.0 | 9893/9895 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 38317 | 3.9 | 9390/9895 | vor 0min | 🟢 aktiv |
@@ -44,7 +44,7 @@ _Letzte Run-Zusammenfassung: 531 scraped, 0 matches, 0 sent_
 | Alsaol | 29176 | 2.9 | 9895/9895 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 29154 | 2.9 | 9718/9895 | vor 0min | 🟢 aktiv |
 | GVG Net | 27404 | 2.8 | 9861/9895 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 23945 | 2.4 | 9832/9895 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 23946 | 2.4 | 9832/9895 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 23206 | 2.3 | 8386/9895 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 21989 | 2.2 | 8023/9893 | vor 7d | 🟡 inaktiv (lange leer) |
 | Eichler Immobilien | 19638 | 2.0 | 8548/9895 | vor 0min | 🟢 aktiv |
@@ -59,7 +59,7 @@ _Letzte Run-Zusammenfassung: 531 scraped, 0 matches, 0 sent_
 | Maier Immobilien | 9709 | 1.0 | 9709/9895 | vor 0min | 🟢 aktiv |
 | Dawonia | 8762 | 0.9 | 8762/9895 | vor 0min | 🟢 aktiv |
 | Egger Immobilien | 8452 | 0.9 | 8452/9895 | vor 11d | 🟡 inaktiv (lange leer) |
-| Immovision München | 6954 | 0.7 | 6954/9895 | vor 15min | 🟢 aktiv |
+| Immovision München | 6955 | 0.7 | 6955/9895 | vor 0min | 🟢 aktiv |
 | Wagnis | 5503 | 0.6 | 5503/9895 | vor 0min | 🟢 aktiv |
 | Norbert Marte Immobilien | 4827 | 0.5 | 537/9895 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 4387 | 0.4 | 4387/9895 | vor 5h | 🟢 aktiv |
