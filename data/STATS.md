@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-24T21:33:06+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-24T21:36:12+00:00_  
 _Total Runs: 9904_  
-_Letzte Run-Zusammenfassung: 515 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 533 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -12,7 +12,7 @@ _Letzte Run-Zusammenfassung: 515 scraped, 0 matches, 0 sent_
 | Park Avenue Immobilien | 490097 | 49.5 | 9710/9904 | vor 0min | 🟢 aktiv |
 | WSB Bayern | 394814 | 39.9 | 9526/9904 | vor 0min | 🟢 aktiv |
 | Pandion Service | 296915 | 30.0 | 9899/9904 | vor 0min | 🟢 aktiv |
-| Immobilien Schlamp | 291428 | 29.4 | 9864/9904 | vor 0min | 🟢 aktiv |
+| Immobilien Schlamp | 291433 | 29.4 | 9864/9904 | vor 0min | 🟢 aktiv |
 | KPC Immobilien | 269655 | 32.3 | 8331/8337 | vor 0min | 🟢 aktiv |
 | WG-Gesucht | 257260 | 26.0 | 9289/9904 | vor 0min | 🟢 aktiv |
 | ohne-makler.net | 237552 | 24.0 | 9898/9904 | vor 0min | 🟢 aktiv |
@@ -29,13 +29,13 @@ _Letzte Run-Zusammenfassung: 515 scraped, 0 matches, 0 sent_
 | Immo-Hyp | 82607 | 8.3 | 9874/9904 | vor 0min | 🟢 aktiv |
 | Immler Martin Hausverwaltung | 70834 | 7.2 | 9904/9904 | vor 0min | 🟢 aktiv |
 | Hegerich Immobilien | 69145 | 7.0 | 9891/9904 | vor 0min | 🟢 aktiv |
-| Ab ins Zuhause | 68456 | 6.9 | 8572/9904 | vor 15min | 🟢 aktiv |
+| Ab ins Zuhause | 68464 | 6.9 | 8573/9904 | vor 0min | 🟢 aktiv |
 | BVK Immobilien | 68151 | 26.3 | 2589/2592 | vor 0min | 🟢 aktiv |
 | Franziskanerhof | 61664 | 6.2 | 9895/9904 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 56212 | 5.7 | 9898/9904 | vor 0min | 🟢 aktiv |
-| EP Immobilien | 50288 | 5.1 | 9676/9904 | vor 15min | 🟢 aktiv |
-| Kleinanzeigen | 48273 | 4.9 | 9867/9904 | vor 0min | 🟢 aktiv |
-| Rosenberger Immobilien | 46556 | 4.7 | 9876/9904 | vor 15min | 🟢 aktiv |
+| EP Immobilien | 50292 | 5.1 | 9677/9904 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 48268 | 4.9 | 9867/9904 | vor 0min | 🟢 aktiv |
+| Rosenberger Immobilien | 46563 | 4.7 | 9877/9904 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 39608 | 4.0 | 9902/9904 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 38353 | 3.9 | 9399/9904 | vor 0min | 🟢 aktiv |
 | ImmoSmart | 38219 | 3.9 | 8476/9904 | vor 0min | 🟢 aktiv |
@@ -43,15 +43,15 @@ _Letzte Run-Zusammenfassung: 515 scraped, 0 matches, 0 sent_
 | Rohrer Firmengruppe | 36259 | 3.7 | 9787/9904 | vor 0min | 🟢 aktiv |
 | Alsaol | 29203 | 2.9 | 9904/9904 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 29181 | 2.9 | 9727/9904 | vor 0min | 🟢 aktiv |
-| GVG Net | 27428 | 2.8 | 9869/9904 | vor 15min | 🟢 aktiv |
-| Scheel Immobilien | 23967 | 2.4 | 9841/9904 | vor 0min | 🟢 aktiv |
+| GVG Net | 27431 | 2.8 | 9870/9904 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 23966 | 2.4 | 9841/9904 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 23246 | 2.3 | 8394/9904 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 21989 | 2.2 | 8023/9902 | vor 7d | 🟡 inaktiv (lange leer) |
 | Eichler Immobilien | 19656 | 2.0 | 8557/9904 | vor 0min | 🟢 aktiv |
 | Südhausbau | 18171 | 1.8 | 9875/9904 | vor 0min | 🟢 aktiv |
 | Lehmann Hueber | 15941 | 1.6 | 6060/9904 | vor 35d | 🟡 inaktiv (lange leer) |
-| KSWM | 14317 | 1.4 | 8840/9904 | vor 0min | 🟢 aktiv |
-| KLN Immobilien | 11780 | 1.2 | 8359/9904 | vor 15min | 🟢 aktiv |
+| KSWM | 14314 | 1.4 | 8839/9904 | vor 18min | 🟢 aktiv |
+| KLN Immobilien | 11781 | 1.2 | 8360/9904 | vor 0min | 🟢 aktiv |
 | HI Wohnbau | 9902 | 1.0 | 9902/9904 | vor 0min | 🟢 aktiv |
 | Vonovia | 9899 | 1.0 | 9899/9904 | vor 0min | 🟢 aktiv |
 | DAHLER München | 9897 | 1.0 | 9897/9904 | vor 0min | 🟢 aktiv |
@@ -64,7 +64,7 @@ _Letzte Run-Zusammenfassung: 515 scraped, 0 matches, 0 sent_
 | Norbert Marte Immobilien | 4908 | 0.5 | 546/9904 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 4387 | 0.4 | 4387/9904 | vor 7h | 🟢 aktiv |
 | Isar Wohnbaugenossenschaft (IWG) | 2574 | 1.0 | 2574/2592 | vor 0min | 🟢 aktiv |
-| Email Inbox | 1240 | 0.1 | 1029/9904 | vor 0min | 🟢 aktiv |
+| Email Inbox | 1239 | 0.1 | 1028/9904 | vor 3h | 🟢 aktiv |
 | EBM München | 1210 | 0.1 | 1203/9904 | vor 4d | 🟡 inaktiv (lange leer) |
 | Immowelt | 64 | 0.0 | 2/9904 | vor 40d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 96d | 🟢 aktiv |
