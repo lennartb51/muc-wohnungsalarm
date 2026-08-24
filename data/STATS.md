@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-24T17:17:38+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-24T17:20:16+00:00_  
 _Total Runs: 9884_  
-_Letzte Run-Zusammenfassung: 504 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 542 scraped, 1 matches, 1 sent_
 
 ## Adapter-Übersicht
 
@@ -12,7 +12,7 @@ _Letzte Run-Zusammenfassung: 504 scraped, 0 matches, 0 sent_
 | Park Avenue Immobilien | 489077 | 49.5 | 9690/9884 | vor 0min | 🟢 aktiv |
 | WSB Bayern | 393894 | 39.9 | 9506/9884 | vor 0min | 🟢 aktiv |
 | Pandion Service | 296315 | 30.0 | 9879/9884 | vor 0min | 🟢 aktiv |
-| Immobilien Schlamp | 290974 | 29.4 | 9848/9884 | vor 14min | 🟢 aktiv |
+| Immobilien Schlamp | 291003 | 29.4 | 9849/9884 | vor 0min | 🟢 aktiv |
 | KPC Immobilien | 268995 | 32.3 | 8311/8317 | vor 0min | 🟢 aktiv |
 | WG-Gesucht | 256700 | 26.0 | 9269/9884 | vor 0min | 🟢 aktiv |
 | ohne-makler.net | 237072 | 24.0 | 9878/9884 | vor 0min | 🟢 aktiv |
@@ -34,7 +34,7 @@ _Letzte Run-Zusammenfassung: 504 scraped, 0 matches, 0 sent_
 | Franziskanerhof | 61564 | 6.2 | 9875/9884 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 56092 | 5.7 | 9878/9884 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 50212 | 5.1 | 9657/9884 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 48181 | 4.9 | 9847/9884 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 48190 | 4.9 | 9847/9884 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 46423 | 4.7 | 9857/9884 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 39528 | 4.0 | 9882/9884 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 38273 | 3.9 | 9379/9884 | vor 0min | 🟢 aktiv |
@@ -62,9 +62,9 @@ _Letzte Run-Zusammenfassung: 504 scraped, 0 matches, 0 sent_
 | Immovision München | 6945 | 0.7 | 6945/9884 | vor 0min | 🟢 aktiv |
 | Wagnis | 5492 | 0.6 | 5492/9884 | vor 0min | 🟢 aktiv |
 | Norbert Marte Immobilien | 4728 | 0.5 | 526/9884 | vor 0min | 🟢 aktiv |
-| Immobilie1 | 4387 | 0.4 | 4387/9884 | vor 2h | 🟢 aktiv |
+| Immobilie1 | 4387 | 0.4 | 4387/9884 | vor 3h | 🟢 aktiv |
 | Isar Wohnbaugenossenschaft (IWG) | 2554 | 1.0 | 2554/2572 | vor 0min | 🟢 aktiv |
-| Email Inbox | 1238 | 0.1 | 1027/9884 | vor 14min | 🟢 aktiv |
+| Email Inbox | 1238 | 0.1 | 1027/9884 | vor 16min | 🟢 aktiv |
 | EBM München | 1210 | 0.1 | 1203/9884 | vor 4d | 🟡 inaktiv (lange leer) |
 | Immowelt | 64 | 0.0 | 2/9884 | vor 40d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 96d | 🟢 aktiv |
