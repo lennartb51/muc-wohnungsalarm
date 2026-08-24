@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-24T14:47:13+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-24T14:49:52+00:00_  
 _Total Runs: 9872_  
-_Letzte Run-Zusammenfassung: 532 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 504 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -14,7 +14,7 @@ _Letzte Run-Zusammenfassung: 532 scraped, 0 matches, 0 sent_
 | Pandion Service | 295955 | 30.0 | 9867/9872 | vor 0min | 🟢 aktiv |
 | Immobilien Schlamp | 290660 | 29.4 | 9837/9872 | vor 0min | 🟢 aktiv |
 | KPC Immobilien | 268599 | 32.3 | 8299/8305 | vor 0min | 🟢 aktiv |
-| WG-Gesucht | 256392 | 26.0 | 9258/9872 | vor 0min | 🟢 aktiv |
+| WG-Gesucht | 256364 | 26.0 | 9257/9872 | vor 16min | 🟢 aktiv |
 | ohne-makler.net | 236784 | 24.0 | 9866/9872 | vor 0min | 🟢 aktiv |
 | Nuroa | 206606 | 20.9 | 9741/9872 | vor 0min | 🟢 aktiv |
 | Immobilo | 204077 | 20.7 | 9860/9872 | vor 0min | 🟢 aktiv |
@@ -34,7 +34,7 @@ _Letzte Run-Zusammenfassung: 532 scraped, 0 matches, 0 sent_
 | Franziskanerhof | 61504 | 6.2 | 9863/9872 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 56020 | 5.7 | 9866/9872 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 50164 | 5.1 | 9645/9872 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 48116 | 4.9 | 9835/9872 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 48117 | 4.9 | 9835/9872 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 46339 | 4.7 | 9845/9872 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 39480 | 4.0 | 9870/9872 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 38225 | 3.9 | 9367/9872 | vor 0min | 🟢 aktiv |
@@ -44,7 +44,7 @@ _Letzte Run-Zusammenfassung: 532 scraped, 0 matches, 0 sent_
 | Alsaol | 29107 | 2.9 | 9872/9872 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 29085 | 2.9 | 9695/9872 | vor 0min | 🟢 aktiv |
 | GVG Net | 27335 | 2.8 | 9838/9872 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 23899 | 2.4 | 9809/9872 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 23898 | 2.4 | 9809/9872 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 23106 | 2.3 | 8366/9872 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 21989 | 2.2 | 8023/9870 | vor 7d | 🟡 inaktiv (lange leer) |
 | Eichler Immobilien | 19592 | 2.0 | 8525/9872 | vor 0min | 🟢 aktiv |
@@ -62,7 +62,7 @@ _Letzte Run-Zusammenfassung: 532 scraped, 0 matches, 0 sent_
 | Immovision München | 6933 | 0.7 | 6933/9872 | vor 0min | 🟢 aktiv |
 | Wagnis | 5480 | 0.6 | 5480/9872 | vor 0min | 🟢 aktiv |
 | Norbert Marte Immobilien | 4620 | 0.5 | 514/9872 | vor 0min | 🟢 aktiv |
-| Immobilie1 | 4387 | 0.4 | 4387/9872 | vor 28min | 🟢 aktiv |
+| Immobilie1 | 4387 | 0.4 | 4387/9872 | vor 31min | 🟢 aktiv |
 | Isar Wohnbaugenossenschaft (IWG) | 2542 | 1.0 | 2542/2560 | vor 0min | 🟢 aktiv |
 | Email Inbox | 1235 | 0.1 | 1024/9872 | vor 4h | 🟢 aktiv |
 | EBM München | 1210 | 0.1 | 1203/9872 | vor 4d | 🟡 inaktiv (lange leer) |
