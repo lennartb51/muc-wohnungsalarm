@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-25T09:03:30+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-25T09:06:21+00:00_  
 _Total Runs: 9957_  
-_Letzte Run-Zusammenfassung: 530 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 532 scraped, 1 matches, 1 sent_
 
 ## Adapter-Übersicht
 
@@ -29,7 +29,7 @@ _Letzte Run-Zusammenfassung: 530 scraped, 0 matches, 0 sent_
 | Immo-Hyp | 82978 | 8.3 | 9927/9957 | vor 0min | 🟢 aktiv |
 | Immler Martin Hausverwaltung | 71046 | 7.1 | 9957/9957 | vor 0min | 🟢 aktiv |
 | BVK Immobilien | 69632 | 26.3 | 2642/2645 | vor 0min | 🟢 aktiv |
-| Hegerich Immobilien | 69502 | 7.0 | 9942/9957 | vor 15min | 🟢 aktiv |
+| Hegerich Immobilien | 69502 | 7.0 | 9942/9957 | vor 18min | 🟢 aktiv |
 | Ab ins Zuhause | 68840 | 6.9 | 8620/9957 | vor 0min | 🟢 aktiv |
 | Franziskanerhof | 61929 | 6.2 | 9948/9957 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 56530 | 5.7 | 9951/9957 | vor 0min | 🟢 aktiv |
@@ -44,7 +44,7 @@ _Letzte Run-Zusammenfassung: 530 scraped, 0 matches, 0 sent_
 | Alsaol | 29362 | 2.9 | 9957/9957 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 29340 | 2.9 | 9780/9957 | vor 0min | 🟢 aktiv |
 | GVG Net | 27590 | 2.8 | 9923/9957 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 24095 | 2.4 | 9894/9957 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 24097 | 2.4 | 9894/9957 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 23491 | 2.4 | 8443/9957 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 21989 | 2.2 | 8023/9955 | vor 7d | 🟡 inaktiv (lange leer) |
 | Eichler Immobilien | 19762 | 2.0 | 8610/9957 | vor 0min | 🟢 aktiv |
@@ -64,7 +64,7 @@ _Letzte Run-Zusammenfassung: 530 scraped, 0 matches, 0 sent_
 | Norbert Marte Immobilien | 5390 | 0.5 | 599/9957 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 4387 | 0.4 | 4387/9957 | vor 18h | 🟢 aktiv |
 | Isar Wohnbaugenossenschaft (IWG) | 2627 | 1.0 | 2627/2645 | vor 0min | 🟢 aktiv |
-| Email Inbox | 1241 | 0.1 | 1029/9957 | vor 45min | 🟢 aktiv |
+| Email Inbox | 1241 | 0.1 | 1029/9957 | vor 48min | 🟢 aktiv |
 | EBM München | 1210 | 0.1 | 1203/9957 | vor 5d | 🟡 inaktiv (lange leer) |
 | Immowelt | 64 | 0.0 | 2/9957 | vor 41d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 97d | 🟢 aktiv |
