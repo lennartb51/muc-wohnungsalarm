@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-25T21:03:19+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-25T21:05:55+00:00_  
 _Total Runs: 10015_  
-_Letzte Run-Zusammenfassung: 540 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 535 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -34,7 +34,7 @@ _Letzte Run-Zusammenfassung: 540 scraped, 0 matches, 0 sent_
 | Franziskanerhof | 62206 | 6.2 | 10006/10015 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 56878 | 5.7 | 10009/10015 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 50736 | 5.1 | 9788/10015 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 48894 | 4.9 | 9975/10015 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 48884 | 4.9 | 9975/10015 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 47436 | 4.7 | 9988/10015 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 40052 | 4.0 | 10013/10015 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 38713 | 3.9 | 9510/10015 | vor 0min | 🟢 aktiv |
@@ -45,7 +45,7 @@ _Letzte Run-Zusammenfassung: 540 scraped, 0 matches, 0 sent_
 | Rogers Immobilien | 29514 | 2.9 | 9838/10015 | vor 0min | 🟢 aktiv |
 | GVG Net | 27764 | 2.8 | 9981/10015 | vor 0min | 🟢 aktiv |
 | Scheel Immobilien | 24282 | 2.4 | 9952/10015 | vor 0min | 🟢 aktiv |
-| LPE Immobilien | 23761 | 2.4 | 8497/10015 | vor 15min | 🟢 aktiv |
+| LPE Immobilien | 23766 | 2.4 | 8498/10015 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 21989 | 2.2 | 8023/10013 | vor 8d | 🟡 inaktiv (lange leer) |
 | Eichler Immobilien | 19878 | 2.0 | 8668/10015 | vor 0min | 🟢 aktiv |
 | Südhausbau | 18282 | 1.8 | 9986/10015 | vor 0min | 🟢 aktiv |
