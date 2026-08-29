@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-29T19:47:58+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-29T19:50:33+00:00_  
 _Total Runs: 10413_  
-_Letzte Run-Zusammenfassung: 544 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 545 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -35,7 +35,7 @@ _Letzte Run-Zusammenfassung: 544 scraped, 0 matches, 0 sent_
 | Chalet Immobilien | 59266 | 5.7 | 10407/10413 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 52320 | 5.0 | 10184/10413 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 50715 | 4.9 | 10385/10413 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 50645 | 4.9 | 10360/10413 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 50646 | 4.9 | 10360/10413 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 41516 | 4.0 | 10411/10413 | vor 0min | 🟢 aktiv |
 | ImmoSmart | 40803 | 3.9 | 8980/10413 | vor 0min | 🟢 aktiv |
 | DIBAG | 40104 | 3.9 | 10026/10413 | vor 0min | 🟢 aktiv |
