@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-29T22:31:07+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-29T22:33:37+00:00_  
 _Total Runs: 10424_  
-_Letzte Run-Zusammenfassung: 542 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 541 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -35,7 +35,7 @@ _Letzte Run-Zusammenfassung: 542 scraped, 0 matches, 0 sent_
 | Chalet Immobilien | 59332 | 5.7 | 10418/10424 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 52364 | 5.0 | 10195/10424 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 50792 | 4.9 | 10396/10424 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 50658 | 4.9 | 10369/10424 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 50657 | 4.9 | 10368/10424 | vor 29min | 🟢 aktiv |
 | VS Immobilienservice | 41549 | 4.0 | 10422/10424 | vor 0min | 🟢 aktiv |
 | ImmoSmart | 40979 | 3.9 | 8991/10424 | vor 0min | 🟢 aktiv |
 | DIBAG | 40148 | 3.9 | 10037/10424 | vor 0min | 🟢 aktiv |
@@ -64,7 +64,7 @@ _Letzte Run-Zusammenfassung: 542 scraped, 0 matches, 0 sent_
 | Wagnis | 6029 | 0.6 | 6029/10424 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 4387 | 0.4 | 4387/10424 | vor 5d | 🟡 inaktiv (lange leer) |
 | Isar Wohnbaugenossenschaft (IWG) | 3092 | 1.0 | 3092/3112 | vor 0min | 🟢 aktiv |
-| Email Inbox | 1299 | 0.1 | 1080/10424 | vor 5h | 🟢 aktiv |
+| Email Inbox | 1299 | 0.1 | 1080/10424 | vor 6h | 🟢 aktiv |
 | EBM München | 1216 | 0.1 | 1209/10424 | vor 2d | 🟡 inaktiv (lange leer) |
 | Immowelt | 64 | 0.0 | 2/10424 | vor 45d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 101d | 🟢 aktiv |
