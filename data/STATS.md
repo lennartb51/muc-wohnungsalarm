@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-30T12:03:22+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-30T12:06:05+00:00_  
 _Total Runs: 10480_  
-_Letzte Run-Zusammenfassung: 541 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 534 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -35,7 +35,7 @@ _Letzte Run-Zusammenfassung: 541 scraped, 0 matches, 0 sent_
 | Chalet Immobilien | 59668 | 5.7 | 10474/10480 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 52588 | 5.0 | 10251/10480 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 51184 | 4.9 | 10452/10480 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 50768 | 4.8 | 10421/10480 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 50767 | 4.8 | 10421/10480 | vor 0min | 🟢 aktiv |
 | ImmoSmart | 41875 | 4.0 | 9047/10480 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 41708 | 4.0 | 10475/10480 | vor 0min | 🟢 aktiv |
 | DIBAG | 40360 | 3.9 | 10090/10480 | vor 0min | 🟢 aktiv |
@@ -44,7 +44,7 @@ _Letzte Run-Zusammenfassung: 541 scraped, 0 matches, 0 sent_
 | Alsaol | 30928 | 3.0 | 10479/10480 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 30897 | 2.9 | 10299/10480 | vor 0min | 🟢 aktiv |
 | GVG Net | 29159 | 2.8 | 10446/10480 | vor 0min | 🟢 aktiv |
-| LPE Immobilien | 26033 | 2.5 | 8916/10480 | vor 0min | 🟢 aktiv |
+| LPE Immobilien | 26027 | 2.5 | 8915/10480 | vor 18min | 🟢 aktiv |
 | Scheel Immobilien | 25359 | 2.4 | 10414/10480 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 21989 | 2.1 | 8023/10478 | vor 13d | 🟡 inaktiv (lange leer) |
 | Eichler Immobilien | 20808 | 2.0 | 9133/10480 | vor 0min | 🟢 aktiv |
@@ -58,7 +58,7 @@ _Letzte Run-Zusammenfassung: 541 scraped, 0 matches, 0 sent_
 | Immobilien Schneider | 10455 | 1.0 | 10455/10480 | vor 0min | 🟢 aktiv |
 | Maier Immobilien | 10287 | 1.0 | 10287/10480 | vor 0min | 🟢 aktiv |
 | Dawonia | 9347 | 0.9 | 9347/10480 | vor 0min | 🟢 aktiv |
-| Norbert Marte Immobilien | 9130 | 0.9 | 1002/10480 | vor 15min | 🟢 aktiv |
+| Norbert Marte Immobilien | 9130 | 0.9 | 1002/10480 | vor 18min | 🟢 aktiv |
 | Egger Immobilien | 8452 | 0.8 | 8452/10480 | vor 17d | 🟡 inaktiv (lange leer) |
 | Immovision München | 7503 | 0.7 | 7503/10480 | vor 0min | 🟢 aktiv |
 | Wagnis | 6082 | 0.6 | 6082/10480 | vor 0min | 🟢 aktiv |
