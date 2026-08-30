@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-08-30T16:47:54+00:00_  
+_Auto-generiert. Letzter Run: 2026-08-30T16:50:53+00:00_  
 _Total Runs: 10499_  
-_Letzte Run-Zusammenfassung: 536 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 539 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -30,12 +30,12 @@ _Letzte Run-Zusammenfassung: 536 scraped, 0 matches, 0 sent_
 | BVK Immobilien | 83661 | 26.3 | 3184/3187 | vor 0min | 🟢 aktiv |
 | Hegerich Immobilien | 73275 | 7.0 | 10481/10499 | vor 0min | 🟢 aktiv |
 | Immler Martin Hausverwaltung | 73214 | 7.0 | 10499/10499 | vor 0min | 🟢 aktiv |
-| Ab ins Zuhause | 72824 | 6.9 | 9118/10499 | vor 14min | 🟢 aktiv |
+| Ab ins Zuhause | 72824 | 6.9 | 9118/10499 | vor 17min | 🟢 aktiv |
 | Franziskanerhof | 64230 | 6.1 | 10490/10499 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 59782 | 5.7 | 10493/10499 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 52664 | 5.0 | 10270/10499 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 51317 | 4.9 | 10471/10499 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 50809 | 4.8 | 10439/10499 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 50808 | 4.8 | 10439/10499 | vor 0min | 🟢 aktiv |
 | ImmoSmart | 42179 | 4.0 | 9066/10499 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 41765 | 4.0 | 10494/10499 | vor 0min | 🟢 aktiv |
 | DIBAG | 40436 | 3.9 | 10109/10499 | vor 0min | 🟢 aktiv |
@@ -44,8 +44,8 @@ _Letzte Run-Zusammenfassung: 536 scraped, 0 matches, 0 sent_
 | Alsaol | 30985 | 3.0 | 10498/10499 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 30954 | 2.9 | 10318/10499 | vor 0min | 🟢 aktiv |
 | GVG Net | 29216 | 2.8 | 10465/10499 | vor 0min | 🟢 aktiv |
-| LPE Immobilien | 26129 | 2.5 | 8932/10499 | vor 14min | 🟢 aktiv |
-| Scheel Immobilien | 25398 | 2.4 | 10433/10499 | vor 0min | 🟢 aktiv |
+| LPE Immobilien | 26135 | 2.5 | 8933/10499 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 25396 | 2.4 | 10433/10499 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 21989 | 2.1 | 8023/10497 | vor 13d | 🟡 inaktiv (lange leer) |
 | Eichler Immobilien | 20846 | 2.0 | 9152/10499 | vor 0min | 🟢 aktiv |
 | Südhausbau | 18766 | 1.8 | 10470/10499 | vor 0min | 🟢 aktiv |
