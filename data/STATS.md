@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-09-01T20:47:43+00:00_  
+_Auto-generiert. Letzter Run: 2026-09-01T20:50:30+00:00_  
 _Total Runs: 10713_  
-_Letzte Run-Zusammenfassung: 459 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 489 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -14,7 +14,7 @@ _Letzte Run-Zusammenfassung: 459 scraped, 0 matches, 0 sent_
 | Pandion Service | 321185 | 30.0 | 10708/10713 | vor 0min | 🟢 aktiv |
 | Immobilien Schlamp | 315457 | 29.4 | 10671/10713 | vor 0min | 🟢 aktiv |
 | KPC Immobilien | 296352 | 32.4 | 9140/9146 | vor 0min | 🟢 aktiv |
-| WG-Gesucht | 278540 | 26.0 | 10049/10713 | vor 14min | 🟢 aktiv |
+| WG-Gesucht | 278568 | 26.0 | 10050/10713 | vor 0min | 🟢 aktiv |
 | ohne-makler.net | 256968 | 24.0 | 10707/10713 | vor 0min | 🟢 aktiv |
 | Nuroa | 223429 | 20.9 | 10580/10713 | vor 0min | 🟢 aktiv |
 | Immobilo | 221601 | 20.7 | 10697/10713 | vor 0min | 🟢 aktiv |
@@ -45,10 +45,10 @@ _Letzte Run-Zusammenfassung: 459 scraped, 0 matches, 0 sent_
 | Rogers Immobilien | 31526 | 2.9 | 10532/10713 | vor 0min | 🟢 aktiv |
 | GVG Net | 29698 | 2.8 | 10679/10713 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 27296 | 2.5 | 9127/10713 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 25900 | 2.4 | 10642/10713 | vor 14min | 🟢 aktiv |
+| Scheel Immobilien | 25902 | 2.4 | 10643/10713 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 21989 | 2.1 | 8023/10711 | vor 15d | 🟡 inaktiv (lange leer) |
 | Eichler Immobilien | 21274 | 2.0 | 9366/10713 | vor 0min | 🟢 aktiv |
-| Südhausbau | 18907 | 1.8 | 10611/10713 | vor 13h | 🟢 aktiv |
+| Südhausbau | 18907 | 1.8 | 10611/10713 | vor 14h | 🟢 aktiv |
 | KSWM | 16166 | 1.5 | 9642/10713 | vor 0min | 🟢 aktiv |
 | Lehmann Hueber | 15941 | 1.5 | 6060/10713 | vor 43d | 🟡 inaktiv (lange leer) |
 | KLN Immobilien | 13322 | 1.2 | 9160/10713 | vor 0min | 🟢 aktiv |
