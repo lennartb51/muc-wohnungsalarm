@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-09-01T09:31:39+00:00_  
+_Auto-generiert. Letzter Run: 2026-09-01T09:34:36+00:00_  
 _Total Runs: 10667_  
-_Letzte Run-Zusammenfassung: 494 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 496 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -35,7 +35,7 @@ _Letzte Run-Zusammenfassung: 494 scraped, 0 matches, 0 sent_
 | Chalet Immobilien | 60790 | 5.7 | 10661/10667 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 53328 | 5.0 | 10436/10667 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 52498 | 4.9 | 10638/10667 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 51249 | 4.8 | 10592/10667 | vor 12min | 🟢 aktiv |
+| Kleinanzeigen | 51249 | 4.8 | 10592/10667 | vor 15min | 🟢 aktiv |
 | ImmoSmart | 45046 | 4.2 | 9234/10667 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 42269 | 4.0 | 10662/10667 | vor 0min | 🟢 aktiv |
 | DIBAG | 41108 | 3.9 | 10277/10667 | vor 0min | 🟢 aktiv |
@@ -45,7 +45,7 @@ _Letzte Run-Zusammenfassung: 494 scraped, 0 matches, 0 sent_
 | Rogers Immobilien | 31458 | 2.9 | 10486/10667 | vor 0min | 🟢 aktiv |
 | GVG Net | 29606 | 2.8 | 10633/10667 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 27050 | 2.5 | 9086/10667 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 25783 | 2.4 | 10601/10667 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 25784 | 2.4 | 10601/10667 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 21989 | 2.1 | 8023/10665 | vor 14d | 🟡 inaktiv (lange leer) |
 | Eichler Immobilien | 21182 | 2.0 | 9320/10667 | vor 0min | 🟢 aktiv |
 | Südhausbau | 18907 | 1.8 | 10611/10667 | vor 2h | 🟢 aktiv |
@@ -60,7 +60,7 @@ _Letzte Run-Zusammenfassung: 494 scraped, 0 matches, 0 sent_
 | Maier Immobilien | 10473 | 1.0 | 10473/10667 | vor 0min | 🟢 aktiv |
 | Dawonia | 9534 | 0.9 | 9534/10667 | vor 0min | 🟢 aktiv |
 | Egger Immobilien | 8452 | 0.8 | 8452/10667 | vor 18d | 🟡 inaktiv (lange leer) |
-| Immovision München | 7682 | 0.7 | 7682/10667 | vor 12min | 🟢 aktiv |
+| Immovision München | 7683 | 0.7 | 7683/10667 | vor 0min | 🟢 aktiv |
 | Wagnis | 6269 | 0.6 | 6269/10667 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 4387 | 0.4 | 4387/10667 | vor 7d | 🟡 inaktiv (lange leer) |
 | Isar Wohnbaugenossenschaft (IWG) | 3335 | 1.0 | 3335/3355 | vor 0min | 🟢 aktiv |
