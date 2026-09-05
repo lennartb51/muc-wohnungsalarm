@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-09-05T16:17:14+00:00_  
+_Auto-generiert. Letzter Run: 2026-09-05T16:20:03+00:00_  
 _Total Runs: 11095_  
-_Letzte Run-Zusammenfassung: 504 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 497 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -44,8 +44,8 @@ _Letzte Run-Zusammenfassung: 504 scraped, 0 matches, 0 sent_
 | Alsaol | 32764 | 3.0 | 11091/11095 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 31907 | 2.9 | 10913/11095 | vor 0min | 🟢 aktiv |
 | GVG Net | 30456 | 2.7 | 11058/11095 | vor 0min | 🟢 aktiv |
-| LPE Immobilien | 29063 | 2.6 | 9473/11095 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 26712 | 2.4 | 10981/11095 | vor 0min | 🟢 aktiv |
+| LPE Immobilien | 29058 | 2.6 | 9472/11095 | vor 16min | 🟢 aktiv |
+| Scheel Immobilien | 26710 | 2.4 | 10980/11095 | vor 16min | 🟢 aktiv |
 | Pienzenauer Immobilien | 22214 | 2.0 | 8248/11093 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 22038 | 2.0 | 9748/11095 | vor 0min | 🟢 aktiv |
 | Südhausbau | 18907 | 1.7 | 10611/11095 | vor 4d | 🟡 inaktiv (lange leer) |
@@ -64,7 +64,7 @@ _Letzte Run-Zusammenfassung: 504 scraped, 0 matches, 0 sent_
 | Wagnis | 6567 | 0.6 | 6567/11095 | vor 1d | 🟡 inaktiv (lange leer) |
 | Immobilie1 | 4387 | 0.4 | 4387/11095 | vor 12d | 🟡 inaktiv (lange leer) |
 | Isar Wohnbaugenossenschaft (IWG) | 3760 | 1.0 | 3760/3783 | vor 0min | 🟢 aktiv |
-| Email Inbox | 1393 | 0.1 | 1152/11095 | vor 1h | 🟢 aktiv |
+| Email Inbox | 1393 | 0.1 | 1152/11095 | vor 2h | 🟢 aktiv |
 | EBM München | 1216 | 0.1 | 1209/11095 | vor 9d | 🟡 inaktiv (lange leer) |
 | Immowelt | 64 | 0.0 | 2/11095 | vor 52d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 108d | 🟢 aktiv |
