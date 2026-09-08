@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-09-08T11:30:50+00:00_  
+_Auto-generiert. Letzter Run: 2026-09-08T11:33:56+00:00_  
 _Total Runs: 11377_  
-_Letzte Run-Zusammenfassung: 466 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 504 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -23,7 +23,7 @@ _Letzte Run-Zusammenfassung: 466 scraped, 0 matches, 0 sent_
 | FAZ Immobilien | 215680 | 19.0 | 11356/11377 | vor 0min | 🟢 aktiv |
 | Engel & Völkers | 161146 | 14.2 | 11376/11377 | vor 0min | 🟢 aktiv |
 | Idowa Altstadt-Lehel | 133312 | 11.7 | 11362/11377 | vor 0min | 🟢 aktiv |
-| Wohnreferat München | 125751 | 11.1 | 10856/11377 | vor 12min | 🟢 aktiv |
+| Wohnreferat München | 125761 | 11.1 | 10857/11377 | vor 0min | 🟢 aktiv |
 | Wegener Immobilien | 125147 | 11.0 | 11377/11377 | vor 0min | 🟢 aktiv |
 | Heimhuber Immobilien | 124620 | 11.0 | 11354/11377 | vor 0min | 🟢 aktiv |
 | BVK Immobilien | 103418 | 25.4 | 4062/4065 | vor 0min | 🟢 aktiv |
@@ -33,19 +33,19 @@ _Letzte Run-Zusammenfassung: 466 scraped, 0 matches, 0 sent_
 | Immler Martin Hausverwaltung | 76726 | 6.7 | 11377/11377 | vor 0min | 🟢 aktiv |
 | Franziskanerhof | 68095 | 6.0 | 11368/11377 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 65048 | 5.7 | 11371/11377 | vor 0min | 🟢 aktiv |
-| ImmoSmart | 57025 | 5.0 | 9939/11377 | vor 12min | 🟢 aktiv |
+| ImmoSmart | 57042 | 5.0 | 9940/11377 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 56104 | 4.9 | 11130/11377 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 55832 | 4.9 | 11344/11377 | vor 0min | 🟢 aktiv |
 | Kleinanzeigen | 51249 | 4.5 | 10592/11377 | vor 7d | 🟡 inaktiv (lange leer) |
-| Sedlmayr AG | 44473 | 3.9 | 10864/11377 | vor 12min | 🟢 aktiv |
+| Sedlmayr AG | 44479 | 3.9 | 10865/11377 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 44399 | 3.9 | 11372/11377 | vor 0min | 🟢 aktiv |
 | DIBAG | 43940 | 3.9 | 10985/11377 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 39000 | 3.4 | 11255/11377 | vor 0min | 🟢 aktiv |
 | Alsaol | 33598 | 3.0 | 11369/11377 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 32189 | 2.8 | 11195/11377 | vor 0min | 🟢 aktiv |
 | GVG Net | 31018 | 2.7 | 11339/11377 | vor 0min | 🟢 aktiv |
-| LPE Immobilien | 30363 | 2.7 | 9733/11377 | vor 12min | 🟢 aktiv |
-| Scheel Immobilien | 27311 | 2.4 | 11222/11377 | vor 12min | 🟢 aktiv |
+| LPE Immobilien | 30368 | 2.7 | 9734/11377 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 27313 | 2.4 | 11223/11377 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 22602 | 2.0 | 10030/11377 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 22494 | 2.0 | 8528/11375 | vor 0min | 🟢 aktiv |
 | Südhausbau | 19003 | 1.7 | 10707/11377 | vor 0min | 🟢 aktiv |
@@ -64,8 +64,8 @@ _Letzte Run-Zusammenfassung: 466 scraped, 0 matches, 0 sent_
 | Wagnis | 6567 | 0.6 | 6567/11377 | vor 4d | 🟡 inaktiv (lange leer) |
 | Immobilie1 | 4387 | 0.4 | 4387/11377 | vor 14d | 🟡 inaktiv (lange leer) |
 | Isar Wohnbaugenossenschaft (IWG) | 4042 | 1.0 | 4042/4065 | vor 0min | 🟢 aktiv |
-| Email Inbox | 1426 | 0.1 | 1180/11377 | vor 0min | 🟢 aktiv |
-| EBM München | 1227 | 0.1 | 1220/11377 | vor 27min | 🟢 aktiv |
+| Email Inbox | 1424 | 0.1 | 1179/11377 | vor 1h | 🟢 aktiv |
+| EBM München | 1227 | 0.1 | 1220/11377 | vor 30min | 🟢 aktiv |
 | Immowelt | 64 | 0.0 | 2/11377 | vor 55d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 111d | 🟢 aktiv |
 | Munich Property | 10 | 5.0 | 2/2 | vor 111d | 🟢 aktiv |
