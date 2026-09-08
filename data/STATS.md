@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-09-08T01:18:23+00:00_  
+_Auto-generiert. Letzter Run: 2026-09-08T01:21:13+00:00_  
 _Total Runs: 11336_  
-_Letzte Run-Zusammenfassung: 503 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 500 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -45,7 +45,7 @@ _Letzte Run-Zusammenfassung: 503 scraped, 0 matches, 0 sent_
 | Rogers Immobilien | 32148 | 2.8 | 11154/11336 | vor 0min | 🟢 aktiv |
 | GVG Net | 30938 | 2.7 | 11299/11336 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 30168 | 2.7 | 9694/11336 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 27224 | 2.4 | 11188/11336 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 27222 | 2.4 | 11188/11336 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 22520 | 2.0 | 9989/11336 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 22453 | 2.0 | 8487/11334 | vor 0min | 🟢 aktiv |
 | Südhausbau | 18962 | 1.7 | 10666/11336 | vor 0min | 🟢 aktiv |
@@ -60,7 +60,7 @@ _Letzte Run-Zusammenfassung: 503 scraped, 0 matches, 0 sent_
 | Maier Immobilien | 11139 | 1.0 | 11139/11336 | vor 0min | 🟢 aktiv |
 | Dawonia | 10203 | 0.9 | 10203/11336 | vor 0min | 🟢 aktiv |
 | Egger Immobilien | 8452 | 0.7 | 8452/11336 | vor 25d | 🟡 inaktiv (lange leer) |
-| Immovision München | 8337 | 0.7 | 8337/11336 | vor 0min | 🟢 aktiv |
+| Immovision München | 8336 | 0.7 | 8336/11336 | vor 17min | 🟢 aktiv |
 | Wagnis | 6567 | 0.6 | 6567/11336 | vor 3d | 🟡 inaktiv (lange leer) |
 | Immobilie1 | 4387 | 0.4 | 4387/11336 | vor 14d | 🟡 inaktiv (lange leer) |
 | Isar Wohnbaugenossenschaft (IWG) | 4001 | 1.0 | 4001/4024 | vor 0min | 🟢 aktiv |
