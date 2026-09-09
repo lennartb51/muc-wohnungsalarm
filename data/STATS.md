@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-09-09T17:18:36+00:00_  
+_Auto-generiert. Letzter Run: 2026-09-09T17:21:42+00:00_  
 _Total Runs: 11498_  
-_Letzte Run-Zusammenfassung: 478 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 498 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -10,7 +10,7 @@ _Letzte Run-Zusammenfassung: 478 scraped, 0 matches, 0 sent_
 |---|---:|---:|---|---|---|
 | Citigrund | 596772 | 81.6 | 7151/7312 | vor 39d | 🟢 aktiv |
 | Park Avenue Immobilien | 571883 | 49.7 | 11284/11498 | vor 0min | 🟢 aktiv |
-| WSB Bayern | 436343 | 37.9 | 10811/11498 | vor 15min | 🟢 aktiv |
+| WSB Bayern | 436358 | 38.0 | 10812/11498 | vor 0min | 🟢 aktiv |
 | Pandion Service | 344735 | 30.0 | 11493/11498 | vor 0min | 🟢 aktiv |
 | Immobilien Schlamp | 339574 | 29.5 | 11451/11498 | vor 0min | 🟢 aktiv |
 | KPC Immobilien | 323601 | 32.6 | 9925/9931 | vor 0min | 🟢 aktiv |
@@ -39,13 +39,13 @@ _Letzte Run-Zusammenfassung: 478 scraped, 0 matches, 0 sent_
 | Kleinanzeigen | 51249 | 4.5 | 10592/11498 | vor 8d | 🟡 inaktiv (lange leer) |
 | Sedlmayr AG | 45205 | 3.9 | 10986/11498 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 44762 | 3.9 | 11493/11498 | vor 0min | 🟢 aktiv |
-| DIBAG | 44416 | 3.9 | 11104/11498 | vor 15min | 🟢 aktiv |
+| DIBAG | 44420 | 3.9 | 11105/11498 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 39142 | 3.4 | 11376/11498 | vor 0min | 🟢 aktiv |
 | Alsaol | 33961 | 3.0 | 11490/11498 | vor 0min | 🟢 aktiv |
-| Rogers Immobilien | 32308 | 2.8 | 11314/11498 | vor 15min | 🟢 aktiv |
+| Rogers Immobilien | 32309 | 2.8 | 11315/11498 | vor 0min | 🟢 aktiv |
 | GVG Net | 31260 | 2.7 | 11459/11498 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 30943 | 2.7 | 9849/11498 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 27590 | 2.4 | 11331/11498 | vor 15min | 🟢 aktiv |
+| Scheel Immobilien | 27590 | 2.4 | 11331/11498 | vor 18min | 🟢 aktiv |
 | Eichler Immobilien | 22844 | 2.0 | 10151/11498 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 22614 | 2.0 | 8648/11496 | vor 0min | 🟢 aktiv |
 | Südhausbau | 19124 | 1.7 | 10828/11498 | vor 0min | 🟢 aktiv |
@@ -56,8 +56,8 @@ _Letzte Run-Zusammenfassung: 478 scraped, 0 matches, 0 sent_
 | HI Wohnbau | 11496 | 1.0 | 11496/11498 | vor 0min | 🟢 aktiv |
 | DAHLER München | 11491 | 1.0 | 11491/11498 | vor 0min | 🟢 aktiv |
 | Vonovia | 11489 | 1.0 | 11489/11498 | vor 0min | 🟢 aktiv |
-| Immobilien Schneider | 11469 | 1.0 | 11469/11498 | vor 0min | 🟢 aktiv |
-| Maier Immobilien | 11299 | 1.0 | 11299/11498 | vor 15min | 🟢 aktiv |
+| Immobilien Schneider | 11468 | 1.0 | 11468/11498 | vor 18min | 🟢 aktiv |
+| Maier Immobilien | 11300 | 1.0 | 11300/11498 | vor 0min | 🟢 aktiv |
 | Dawonia | 10365 | 0.9 | 10365/11498 | vor 0min | 🟢 aktiv |
 | Immovision München | 8491 | 0.7 | 8491/11498 | vor 0min | 🟢 aktiv |
 | Egger Immobilien | 8452 | 0.7 | 8452/11498 | vor 27d | 🟡 inaktiv (lange leer) |
