@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-09-12T01:33:15+00:00_  
+_Auto-generiert. Letzter Run: 2026-09-12T01:36:16+00:00_  
 _Total Runs: 11734_  
-_Letzte Run-Zusammenfassung: 497 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 506 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -29,7 +29,7 @@ _Letzte Run-Zusammenfassung: 497 scraped, 0 matches, 0 sent_
 | BVK Immobilien | 111901 | 25.3 | 4419/4422 | vor 0min | 🟢 aktiv |
 | Immo-Hyp | 94471 | 8.1 | 11701/11734 | vor 0min | 🟢 aktiv |
 | Hegerich Immobilien | 81906 | 7.0 | 11714/11734 | vor 0min | 🟢 aktiv |
-| Ab ins Zuhause | 81880 | 7.0 | 10250/11734 | vor 0min | 🟢 aktiv |
+| Ab ins Zuhause | 81872 | 7.0 | 10249/11734 | vor 18min | 🟢 aktiv |
 | Immler Martin Hausverwaltung | 78154 | 6.7 | 11734/11734 | vor 0min | 🟢 aktiv |
 | Franziskanerhof | 69166 | 5.9 | 11725/11734 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 67184 | 5.7 | 11727/11734 | vor 0min | 🟢 aktiv |
@@ -40,19 +40,19 @@ _Letzte Run-Zusammenfassung: 497 scraped, 0 matches, 0 sent_
 | Sedlmayr AG | 45991 | 3.9 | 11221/11734 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 45470 | 3.9 | 11729/11734 | vor 0min | 🟢 aktiv |
 | DIBAG | 45360 | 3.9 | 11340/11734 | vor 0min | 🟢 aktiv |
-| Rohrer Firmengruppe | 39418 | 3.4 | 11612/11734 | vor 0min | 🟢 aktiv |
+| Rohrer Firmengruppe | 39438 | 3.4 | 11612/11734 | vor 0min | 🟢 aktiv |
 | Alsaol | 34666 | 3.0 | 11725/11734 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 32544 | 2.8 | 11550/11734 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 32083 | 2.7 | 10077/11734 | vor 0min | 🟢 aktiv |
 | GVG Net | 31732 | 2.7 | 11695/11734 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 28133 | 2.4 | 11557/11734 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 28135 | 2.4 | 11557/11734 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 23316 | 2.0 | 10387/11734 | vor 0min | 🟢 aktiv |
-| Pienzenauer Immobilien | 22849 | 1.9 | 8883/11732 | vor 0min | 🟢 aktiv |
+| Pienzenauer Immobilien | 22848 | 1.9 | 8882/11732 | vor 18min | 🟢 aktiv |
 | Südhausbau | 19360 | 1.6 | 11064/11734 | vor 0min | 🟢 aktiv |
 | Norbert Marte Immobilien | 18792 | 1.6 | 2242/11734 | vor 0min | 🟢 aktiv |
-| KSWM | 18380 | 1.6 | 10661/11734 | vor 0min | 🟢 aktiv |
+| KSWM | 18378 | 1.6 | 10661/11734 | vor 0min | 🟢 aktiv |
 | Lehmann Hueber | 15941 | 1.4 | 6060/11734 | vor 53d | 🟡 inaktiv (lange leer) |
-| KLN Immobilien | 15332 | 1.3 | 10168/11734 | vor 0min | 🟢 aktiv |
+| KLN Immobilien | 15330 | 1.3 | 10167/11734 | vor 18min | 🟢 aktiv |
 | HI Wohnbau | 11732 | 1.0 | 11732/11734 | vor 0min | 🟢 aktiv |
 | DAHLER München | 11727 | 1.0 | 11727/11734 | vor 0min | 🟢 aktiv |
 | Vonovia | 11725 | 1.0 | 11725/11734 | vor 0min | 🟢 aktiv |
