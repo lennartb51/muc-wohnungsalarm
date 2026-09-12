@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-09-12T17:17:55+00:00_  
+_Auto-generiert. Letzter Run: 2026-09-12T17:20:48+00:00_  
 _Total Runs: 11797_  
-_Letzte Run-Zusammenfassung: 492 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 465 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -14,7 +14,7 @@ _Letzte Run-Zusammenfassung: 492 scraped, 0 matches, 0 sent_
 | Pandion Service | 353705 | 30.0 | 11792/11797 | vor 0min | 🟢 aktiv |
 | Immobilien Schlamp | 348812 | 29.6 | 11749/11797 | vor 0min | 🟢 aktiv |
 | KPC Immobilien | 334869 | 32.7 | 10224/10230 | vor 0min | 🟢 aktiv |
-| WG-Gesucht | 308056 | 26.1 | 11104/11797 | vor 0min | 🟢 aktiv |
+| WG-Gesucht | 308028 | 26.1 | 11103/11797 | vor 17min | 🟢 aktiv |
 | ohne-makler.net | 282984 | 24.0 | 11791/11797 | vor 0min | 🟢 aktiv |
 | Nuroa | 245491 | 20.8 | 11663/11797 | vor 0min | 🟢 aktiv |
 | Immobilo | 244054 | 20.7 | 11779/11797 | vor 0min | 🟢 aktiv |
@@ -29,7 +29,7 @@ _Letzte Run-Zusammenfassung: 492 scraped, 0 matches, 0 sent_
 | BVK Immobilien | 113413 | 25.3 | 4482/4485 | vor 0min | 🟢 aktiv |
 | Immo-Hyp | 94849 | 8.0 | 11764/11797 | vor 0min | 🟢 aktiv |
 | Hegerich Immobilien | 82347 | 7.0 | 11777/11797 | vor 0min | 🟢 aktiv |
-| Ab ins Zuhause | 82280 | 7.0 | 10300/11797 | vor 44min | 🟢 aktiv |
+| Ab ins Zuhause | 82280 | 7.0 | 10300/11797 | vor 47min | 🟢 aktiv |
 | Immler Martin Hausverwaltung | 78406 | 6.6 | 11797/11797 | vor 0min | 🟢 aktiv |
 | Franziskanerhof | 69355 | 5.9 | 11788/11797 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 67562 | 5.7 | 11790/11797 | vor 0min | 🟢 aktiv |
@@ -45,7 +45,7 @@ _Letzte Run-Zusammenfassung: 492 scraped, 0 matches, 0 sent_
 | Rogers Immobilien | 32606 | 2.8 | 11612/11797 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 32388 | 2.7 | 10138/11797 | vor 0min | 🟢 aktiv |
 | GVG Net | 31856 | 2.7 | 11757/11797 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 28271 | 2.4 | 11620/11797 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 28272 | 2.4 | 11620/11797 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 23442 | 2.0 | 10450/11797 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 22910 | 1.9 | 8944/11795 | vor 0min | 🟢 aktiv |
 | Südhausbau | 19423 | 1.6 | 11127/11797 | vor 0min | 🟢 aktiv |
@@ -64,7 +64,7 @@ _Letzte Run-Zusammenfassung: 492 scraped, 0 matches, 0 sent_
 | Wagnis | 6567 | 0.6 | 6567/11797 | vor 8d | 🟡 inaktiv (lange leer) |
 | Isar Wohnbaugenossenschaft (IWG) | 4462 | 1.0 | 4462/4485 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 4387 | 0.4 | 4387/11797 | vor 19d | 🟡 inaktiv (lange leer) |
-| Email Inbox | 1476 | 0.1 | 1219/11797 | vor 59min | 🟢 aktiv |
+| Email Inbox | 1476 | 0.1 | 1219/11797 | vor 1h | 🟢 aktiv |
 | EBM München | 1235 | 0.1 | 1228/11797 | vor 3d | 🟡 inaktiv (lange leer) |
 | Immowelt | 64 | 0.0 | 2/11797 | vor 59d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 115d | 🟢 aktiv |
