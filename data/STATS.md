@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-09-12T06:31:59+00:00_  
+_Auto-generiert. Letzter Run: 2026-09-12T06:34:35+00:00_  
 _Total Runs: 11754_  
-_Letzte Run-Zusammenfassung: 494 scraped, 1 matches, 1 sent_
+_Letzte Run-Zusammenfassung: 498 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -43,9 +43,9 @@ _Letzte Run-Zusammenfassung: 494 scraped, 1 matches, 1 sent_
 | Rohrer Firmengruppe | 39458 | 3.4 | 11632/11754 | vor 0min | 🟢 aktiv |
 | Alsaol | 34726 | 3.0 | 11745/11754 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 32564 | 2.8 | 11570/11754 | vor 0min | 🟢 aktiv |
-| LPE Immobilien | 32178 | 2.7 | 10096/11754 | vor 13min | 🟢 aktiv |
+| LPE Immobilien | 32183 | 2.7 | 10097/11754 | vor 0min | 🟢 aktiv |
 | GVG Net | 31772 | 2.7 | 11715/11754 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 28177 | 2.4 | 11577/11754 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 28176 | 2.4 | 11577/11754 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 23356 | 2.0 | 10407/11754 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 22868 | 1.9 | 8902/11752 | vor 0min | 🟢 aktiv |
 | Südhausbau | 19380 | 1.6 | 11084/11754 | vor 0min | 🟢 aktiv |
@@ -59,12 +59,12 @@ _Letzte Run-Zusammenfassung: 494 scraped, 1 matches, 1 sent_
 | Immobilien Schneider | 11724 | 1.0 | 11724/11754 | vor 0min | 🟢 aktiv |
 | Maier Immobilien | 11554 | 1.0 | 11554/11754 | vor 0min | 🟢 aktiv |
 | Dawonia | 10621 | 0.9 | 10621/11754 | vor 0min | 🟢 aktiv |
-| Immovision München | 8737 | 0.7 | 8737/11754 | vor 13min | 🟢 aktiv |
+| Immovision München | 8738 | 0.7 | 8738/11754 | vor 0min | 🟢 aktiv |
 | Egger Immobilien | 8452 | 0.7 | 8452/11754 | vor 29d | 🟡 inaktiv (lange leer) |
 | Wagnis | 6567 | 0.6 | 6567/11754 | vor 7d | 🟡 inaktiv (lange leer) |
 | Isar Wohnbaugenossenschaft (IWG) | 4419 | 1.0 | 4419/4442 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 4387 | 0.4 | 4387/11754 | vor 18d | 🟡 inaktiv (lange leer) |
-| Email Inbox | 1473 | 0.1 | 1216/11754 | vor 0min | 🟢 aktiv |
+| Email Inbox | 1472 | 0.1 | 1215/11754 | vor 31min | 🟢 aktiv |
 | EBM München | 1235 | 0.1 | 1228/11754 | vor 2d | 🟡 inaktiv (lange leer) |
 | Immowelt | 64 | 0.0 | 2/11754 | vor 59d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 114d | 🟢 aktiv |
