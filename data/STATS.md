@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-09-13T23:31:35+00:00_  
+_Auto-generiert. Letzter Run: 2026-09-13T23:34:06+00:00_  
 _Total Runs: 11923_  
-_Letzte Run-Zusammenfassung: 507 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 500 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -42,10 +42,10 @@ _Letzte Run-Zusammenfassung: 507 scraped, 0 matches, 0 sent_
 | VS Immobilienservice | 46037 | 3.9 | 11918/11923 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 39647 | 3.3 | 11801/11923 | vor 0min | 🟢 aktiv |
 | Alsaol | 35233 | 3.0 | 11914/11923 | vor 0min | 🟢 aktiv |
-| LPE Immobilien | 32993 | 2.8 | 10259/11923 | vor 0min | 🟢 aktiv |
+| LPE Immobilien | 32988 | 2.8 | 10258/11923 | vor 16min | 🟢 aktiv |
 | Rogers Immobilien | 32730 | 2.7 | 11736/11923 | vor 0min | 🟢 aktiv |
 | GVG Net | 32108 | 2.7 | 11883/11923 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 28597 | 2.4 | 11745/11923 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 28595 | 2.4 | 11745/11923 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 23694 | 2.0 | 10576/11923 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 23036 | 1.9 | 9070/11921 | vor 0min | 🟢 aktiv |
 | Norbert Marte Immobilien | 20108 | 1.7 | 2430/11923 | vor 0min | 🟢 aktiv |
