@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-09-14T22:46:36+00:00_  
+_Auto-generiert. Letzter Run: 2026-09-14T22:49:10+00:00_  
 _Total Runs: 12018_  
-_Letzte Run-Zusammenfassung: 493 scraped, 1 matches, 1 sent_
+_Letzte Run-Zusammenfassung: 493 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -45,7 +45,7 @@ _Letzte Run-Zusammenfassung: 493 scraped, 1 matches, 1 sent_
 | LPE Immobilien | 33461 | 2.8 | 10351/12018 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 32825 | 2.7 | 11831/12018 | vor 0min | 🟢 aktiv |
 | GVG Net | 32298 | 2.7 | 11978/12018 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 28812 | 2.4 | 11840/12018 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 28813 | 2.4 | 11840/12018 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 23884 | 2.0 | 10671/12018 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 23130 | 1.9 | 9164/12016 | vor 0min | 🟢 aktiv |
 | Norbert Marte Immobilien | 20773 | 1.7 | 2525/12018 | vor 0min | 🟢 aktiv |
@@ -64,7 +64,7 @@ _Letzte Run-Zusammenfassung: 493 scraped, 1 matches, 1 sent_
 | Wagnis | 6567 | 0.5 | 6567/12018 | vor 10d | 🟡 inaktiv (lange leer) |
 | Isar Wohnbaugenossenschaft (IWG) | 4683 | 1.0 | 4683/4706 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 4387 | 0.4 | 4387/12018 | vor 21d | 🟡 inaktiv (lange leer) |
-| Email Inbox | 1498 | 0.1 | 1240/12018 | vor 0min | 🟢 aktiv |
+| Email Inbox | 1497 | 0.1 | 1239/12018 | vor 1h | 🟢 aktiv |
 | EBM München | 1235 | 0.1 | 1228/12018 | vor 5d | 🟡 inaktiv (lange leer) |
 | Immowelt | 64 | 0.0 | 2/12018 | vor 61d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 117d | 🟢 aktiv |
