@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-09-14T14:15:42+00:00_  
+_Auto-generiert. Letzter Run: 2026-09-14T14:18:26+00:00_  
 _Total Runs: 11984_  
-_Letzte Run-Zusammenfassung: 508 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 502 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -16,7 +16,7 @@ _Letzte Run-Zusammenfassung: 508 scraped, 0 matches, 0 sent_
 | KPC Immobilien | 341975 | 32.8 | 10411/10417 | vor 0min | 🟢 aktiv |
 | WG-Gesucht | 313208 | 26.1 | 11288/11984 | vor 0min | 🟢 aktiv |
 | ohne-makler.net | 287472 | 24.0 | 11978/11984 | vor 0min | 🟢 aktiv |
-| Nuroa | 249620 | 20.8 | 11850/11984 | vor 0min | 🟢 aktiv |
+| Nuroa | 249614 | 20.8 | 11850/11984 | vor 0min | 🟢 aktiv |
 | Immobilo | 247979 | 20.7 | 11966/11984 | vor 0min | 🟢 aktiv |
 | SZ Immobilien | 246719 | 20.6 | 11965/11984 | vor 0min | 🟢 aktiv |
 | Idowa | 238846 | 19.9 | 11965/11984 | vor 0min | 🟢 aktiv |
@@ -64,7 +64,7 @@ _Letzte Run-Zusammenfassung: 508 scraped, 0 matches, 0 sent_
 | Wagnis | 6567 | 0.5 | 6567/11984 | vor 10d | 🟡 inaktiv (lange leer) |
 | Isar Wohnbaugenossenschaft (IWG) | 4649 | 1.0 | 4649/4672 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 4387 | 0.4 | 4387/11984 | vor 20d | 🟡 inaktiv (lange leer) |
-| Email Inbox | 1491 | 0.1 | 1233/11984 | vor 57min | 🟢 aktiv |
+| Email Inbox | 1491 | 0.1 | 1233/11984 | vor 1h | 🟢 aktiv |
 | EBM München | 1235 | 0.1 | 1228/11984 | vor 5d | 🟡 inaktiv (lange leer) |
 | Immowelt | 64 | 0.0 | 2/11984 | vor 61d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 117d | 🟢 aktiv |
