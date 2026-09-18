@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-09-18T06:02:52+00:00_  
+_Auto-generiert. Letzter Run: 2026-09-18T06:05:34+00:00_  
 _Total Runs: 12347_  
-_Letzte Run-Zusammenfassung: 507 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 514 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -42,10 +42,10 @@ _Letzte Run-Zusammenfassung: 507 scraped, 0 matches, 0 sent_
 | Sedlmayr AG | 47209 | 3.8 | 11830/12347 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 40164 | 3.3 | 12225/12347 | vor 0min | 🟢 aktiv |
 | Alsaol | 36505 | 3.0 | 12338/12347 | vor 0min | 🟢 aktiv |
-| LPE Immobilien | 35369 | 2.9 | 10669/12347 | vor 15min | 🟢 aktiv |
+| LPE Immobilien | 35375 | 2.9 | 10670/12347 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 33153 | 2.7 | 12159/12347 | vor 0min | 🟢 aktiv |
 | GVG Net | 32957 | 2.7 | 12306/12347 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 29564 | 2.4 | 12168/12347 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 29565 | 2.4 | 12168/12347 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 24542 | 2.0 | 11000/12347 | vor 0min | 🟢 aktiv |
 | Norbert Marte Immobilien | 23961 | 1.9 | 2853/12347 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 23448 | 1.9 | 9482/12345 | vor 0min | 🟢 aktiv |
@@ -65,7 +65,7 @@ _Letzte Run-Zusammenfassung: 507 scraped, 0 matches, 0 sent_
 | Isar Wohnbaugenossenschaft (IWG) | 4927 | 1.0 | 4927/5035 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 4387 | 0.4 | 4387/12347 | vor 24d | 🟡 inaktiv (lange leer) |
 | Email Inbox | 1533 | 0.1 | 1272/12347 | vor 7h | 🟢 aktiv |
-| EBM München | 1245 | 0.1 | 1238/12347 | vor 19h | 🟢 aktiv |
+| EBM München | 1245 | 0.1 | 1238/12347 | vor 20h | 🟢 aktiv |
 | Immowelt | 64 | 0.0 | 2/12347 | vor 65d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 120d | 🟢 aktiv |
 | Munich Property | 10 | 5.0 | 2/2 | vor 120d | 🟢 aktiv |
