@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-09-19T20:16:41+00:00_  
+_Auto-generiert. Letzter Run: 2026-09-19T20:19:13+00:00_  
 _Total Runs: 12505_  
-_Letzte Run-Zusammenfassung: 494 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 520 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -15,7 +15,7 @@ _Letzte Run-Zusammenfassung: 494 scraped, 0 matches, 0 sent_
 | Immobilien Schlamp | 370693 | 29.6 | 12455/12505 | vor 0min | 🟢 aktiv |
 | KPC Immobilien | 361773 | 33.1 | 10932/10938 | vor 0min | 🟢 aktiv |
 | WG-Gesucht | 327656 | 26.2 | 11804/12505 | vor 0min | 🟢 aktiv |
-| ohne-makler.net | 299952 | 24.0 | 12498/12505 | vor 13min | 🟢 aktiv |
+| ohne-makler.net | 299976 | 24.0 | 12499/12505 | vor 0min | 🟢 aktiv |
 | Nuroa | 260300 | 20.8 | 12371/12505 | vor 0min | 🟢 aktiv |
 | Immobilo | 258768 | 20.7 | 12485/12505 | vor 0min | 🟢 aktiv |
 | SZ Immobilien | 257660 | 20.6 | 12486/12505 | vor 0min | 🟢 aktiv |
@@ -45,7 +45,7 @@ _Letzte Run-Zusammenfassung: 494 scraped, 0 matches, 0 sent_
 | LPE Immobilien | 36269 | 2.9 | 10819/12505 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 33310 | 2.7 | 12316/12505 | vor 0min | 🟢 aktiv |
 | GVG Net | 33273 | 2.7 | 12464/12505 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 29919 | 2.4 | 12325/12505 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 29921 | 2.4 | 12325/12505 | vor 0min | 🟢 aktiv |
 | Norbert Marte Immobilien | 25699 | 2.1 | 3011/12505 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 24858 | 2.0 | 11158/12505 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 23605 | 1.9 | 9639/12503 | vor 0min | 🟢 aktiv |
