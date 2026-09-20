@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-09-20T14:18:06+00:00_  
+_Auto-generiert. Letzter Run: 2026-09-20T14:21:08+00:00_  
 _Total Runs: 12581_  
-_Letzte Run-Zusammenfassung: 513 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 512 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -57,14 +57,14 @@ _Letzte Run-Zusammenfassung: 513 scraped, 0 matches, 0 sent_
 | DAHLER München | 12574 | 1.0 | 12574/12581 | vor 0min | 🟢 aktiv |
 | Vonovia | 12572 | 1.0 | 12572/12581 | vor 0min | 🟢 aktiv |
 | Immobilien Schneider | 12549 | 1.0 | 12549/12581 | vor 0min | 🟢 aktiv |
-| Maier Immobilien | 12375 | 1.0 | 12375/12581 | vor 0min | 🟢 aktiv |
+| Maier Immobilien | 12374 | 1.0 | 12374/12581 | vor 17min | 🟢 aktiv |
 | Dawonia | 11448 | 0.9 | 11448/12581 | vor 0min | 🟢 aktiv |
 | Immovision München | 9554 | 0.8 | 9554/12581 | vor 0min | 🟢 aktiv |
 | Egger Immobilien | 8452 | 0.7 | 8452/12581 | vor 38d | 🟡 inaktiv (lange leer) |
 | Wagnis | 6567 | 0.5 | 6567/12581 | vor 16d | 🟡 inaktiv (lange leer) |
 | Isar Wohnbaugenossenschaft (IWG) | 5161 | 1.0 | 5161/5269 | vor 0min | 🟢 aktiv |
-| Immobilie1 | 4387 | 0.3 | 4387/12581 | vor 26d | 🟡 inaktiv (lange leer) |
-| Email Inbox | 1551 | 0.1 | 1289/12581 | vor 14min | 🟢 aktiv |
+| Immobilie1 | 4387 | 0.3 | 4387/12581 | vor 27d | 🟡 inaktiv (lange leer) |
+| Email Inbox | 1551 | 0.1 | 1289/12581 | vor 17min | 🟢 aktiv |
 | EBM München | 1245 | 0.1 | 1238/12581 | vor 3d | 🟡 inaktiv (lange leer) |
 | Immowelt | 64 | 0.0 | 2/12581 | vor 67d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 123d | 🟢 aktiv |
