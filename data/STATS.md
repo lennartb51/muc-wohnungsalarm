@@ -1,6 +1,6 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-09-20T17:33:23+00:00_  
+_Auto-generiert. Letzter Run: 2026-09-20T17:36:19+00:00_  
 _Total Runs: 12594_  
 _Letzte Run-Zusammenfassung: 514 scraped, 0 matches, 0 sent_
 
@@ -64,7 +64,7 @@ _Letzte Run-Zusammenfassung: 514 scraped, 0 matches, 0 sent_
 | Wagnis | 6567 | 0.5 | 6567/12594 | vor 16d | 🟡 inaktiv (lange leer) |
 | Isar Wohnbaugenossenschaft (IWG) | 5174 | 1.0 | 5174/5282 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 4387 | 0.3 | 4387/12594 | vor 27d | 🟡 inaktiv (lange leer) |
-| Email Inbox | 1553 | 0.1 | 1291/12594 | vor 45min | 🟢 aktiv |
+| Email Inbox | 1553 | 0.1 | 1291/12594 | vor 48min | 🟢 aktiv |
 | EBM München | 1245 | 0.1 | 1238/12594 | vor 3d | 🟡 inaktiv (lange leer) |
 | Immowelt | 64 | 0.0 | 2/12594 | vor 67d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 123d | 🟢 aktiv |
