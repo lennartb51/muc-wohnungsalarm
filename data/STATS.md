@@ -1,6 +1,6 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-09-20T22:18:33+00:00_  
+_Auto-generiert. Letzter Run: 2026-09-20T22:21:31+00:00_  
 _Total Runs: 12613_  
 _Letzte Run-Zusammenfassung: 514 scraped, 0 matches, 0 sent_
 
@@ -28,8 +28,8 @@ _Letzte Run-Zusammenfassung: 514 scraped, 0 matches, 0 sent_
 | Heimhuber Immobilien | 138447 | 11.0 | 12588/12613 | vor 0min | 🟢 aktiv |
 | BVK Immobilien | 130954 | 24.7 | 5298/5301 | vor 0min | 🟢 aktiv |
 | Immo-Hyp | 100952 | 8.0 | 12580/12613 | vor 0min | 🟢 aktiv |
+| Ab ins Zuhause | 88056 | 7.0 | 11022/12613 | vor 0min | 🟢 aktiv |
 | Hegerich Immobilien | 88052 | 7.0 | 12592/12613 | vor 0min | 🟢 aktiv |
-| Ab ins Zuhause | 88048 | 7.0 | 11021/12613 | vor 15min | 🟢 aktiv |
 | Immler Martin Hausverwaltung | 81670 | 6.5 | 12613/12613 | vor 0min | 🟢 aktiv |
 | ImmoSmart | 77643 | 6.2 | 11166/12613 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 72012 | 5.7 | 12604/12613 | vor 0min | 🟢 aktiv |
@@ -40,18 +40,18 @@ _Letzte Run-Zusammenfassung: 514 scraped, 0 matches, 0 sent_
 | DIBAG | 48844 | 3.9 | 12211/12613 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 48119 | 3.8 | 12608/12613 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 47733 | 3.8 | 12092/12613 | vor 0min | 🟢 aktiv |
-| Rohrer Firmengruppe | 40494 | 3.2 | 12491/12613 | vor 0min | 🟢 aktiv |
+| Rohrer Firmengruppe | 40478 | 3.2 | 12491/12613 | vor 0min | 🟢 aktiv |
 | Alsaol | 37303 | 3.0 | 12604/12613 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 36905 | 2.9 | 10925/12613 | vor 0min | 🟢 aktiv |
 | GVG Net | 33489 | 2.7 | 12572/12613 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 33416 | 2.6 | 12422/12613 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 30165 | 2.4 | 12433/12613 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 30166 | 2.4 | 12433/12613 | vor 0min | 🟢 aktiv |
 | Norbert Marte Immobilien | 26876 | 2.1 | 3118/12613 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 25074 | 2.0 | 11266/12613 | vor 0min | 🟢 aktiv |
-| Pienzenauer Immobilien | 23710 | 1.9 | 9744/12611 | vor 15min | 🟢 aktiv |
-| KSWM | 21029 | 1.7 | 11540/12613 | vor 0min | 🟢 aktiv |
+| Pienzenauer Immobilien | 23711 | 1.9 | 9745/12611 | vor 0min | 🟢 aktiv |
+| KSWM | 21032 | 1.7 | 11540/12613 | vor 0min | 🟢 aktiv |
 | Südhausbau | 20697 | 1.6 | 11943/12613 | vor 0min | 🟢 aktiv |
-| KLN Immobilien | 17621 | 1.4 | 11033/12613 | vor 15min | 🟢 aktiv |
+| KLN Immobilien | 17624 | 1.4 | 11034/12613 | vor 0min | 🟢 aktiv |
 | Lehmann Hueber | 15941 | 1.3 | 6060/12613 | vor 62d | 🟡 inaktiv (lange leer) |
 | HI Wohnbau | 12611 | 1.0 | 12611/12613 | vor 0min | 🟢 aktiv |
 | DAHLER München | 12606 | 1.0 | 12606/12613 | vor 0min | 🟢 aktiv |
