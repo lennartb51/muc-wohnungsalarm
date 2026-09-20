@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-09-20T19:45:24+00:00_  
+_Auto-generiert. Letzter Run: 2026-09-20T19:48:34+00:00_  
 _Total Runs: 12603_  
-_Letzte Run-Zusammenfassung: 507 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 485 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -14,7 +14,7 @@ _Letzte Run-Zusammenfassung: 507 scraped, 0 matches, 0 sent_
 | Pandion Service | 377885 | 30.0 | 12598/12603 | vor 0min | 🟢 aktiv |
 | Immobilien Schlamp | 373731 | 29.7 | 12553/12603 | vor 0min | 🟢 aktiv |
 | KPC Immobilien | 365497 | 33.1 | 11030/11036 | vor 0min | 🟢 aktiv |
-| WG-Gesucht | 330344 | 26.2 | 11900/12603 | vor 0min | 🟢 aktiv |
+| WG-Gesucht | 330316 | 26.2 | 11899/12603 | vor 15min | 🟢 aktiv |
 | ohne-makler.net | 302304 | 24.0 | 12596/12603 | vor 0min | 🟢 aktiv |
 | Nuroa | 262533 | 20.8 | 12469/12603 | vor 0min | 🟢 aktiv |
 | Immobilo | 260825 | 20.7 | 12583/12603 | vor 0min | 🟢 aktiv |
@@ -42,7 +42,7 @@ _Letzte Run-Zusammenfassung: 507 scraped, 0 matches, 0 sent_
 | Sedlmayr AG | 47713 | 3.8 | 12082/12603 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 40468 | 3.2 | 12481/12603 | vor 0min | 🟢 aktiv |
 | Alsaol | 37273 | 3.0 | 12594/12603 | vor 0min | 🟢 aktiv |
-| LPE Immobilien | 36839 | 2.9 | 10914/12603 | vor 12min | 🟢 aktiv |
+| LPE Immobilien | 36845 | 2.9 | 10915/12603 | vor 0min | 🟢 aktiv |
 | GVG Net | 33469 | 2.7 | 12562/12603 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 33406 | 2.7 | 12412/12603 | vor 0min | 🟢 aktiv |
 | Scheel Immobilien | 30145 | 2.4 | 12423/12603 | vor 0min | 🟢 aktiv |
@@ -64,7 +64,7 @@ _Letzte Run-Zusammenfassung: 507 scraped, 0 matches, 0 sent_
 | Wagnis | 6567 | 0.5 | 6567/12603 | vor 16d | 🟡 inaktiv (lange leer) |
 | Isar Wohnbaugenossenschaft (IWG) | 5183 | 1.0 | 5183/5291 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 4387 | 0.3 | 4387/12603 | vor 27d | 🟡 inaktiv (lange leer) |
-| Email Inbox | 1555 | 0.1 | 1293/12603 | vor 57min | 🟢 aktiv |
+| Email Inbox | 1555 | 0.1 | 1293/12603 | vor 1h | 🟢 aktiv |
 | EBM München | 1245 | 0.1 | 1238/12603 | vor 3d | 🟡 inaktiv (lange leer) |
 | Immowelt | 64 | 0.0 | 2/12603 | vor 67d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 123d | 🟢 aktiv |
