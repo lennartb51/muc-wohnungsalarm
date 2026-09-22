@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-09-22T09:15:57+00:00_  
+_Auto-generiert. Letzter Run: 2026-09-22T09:18:29+00:00_  
 _Total Runs: 12760_  
-_Letzte Run-Zusammenfassung: 493 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 495 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -45,7 +45,7 @@ _Letzte Run-Zusammenfassung: 493 scraped, 0 matches, 0 sent_
 | Alsaol | 37744 | 3.0 | 12751/12760 | vor 0min | 🟢 aktiv |
 | GVG Net | 33783 | 2.6 | 12719/12760 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 33560 | 2.6 | 12566/12760 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 30498 | 2.4 | 12580/12760 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 30500 | 2.4 | 12580/12760 | vor 0min | 🟢 aktiv |
 | Norbert Marte Immobilien | 28493 | 2.2 | 3265/12760 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 25368 | 2.0 | 11413/12760 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 23857 | 1.9 | 9891/12758 | vor 0min | 🟢 aktiv |
@@ -61,7 +61,7 @@ _Letzte Run-Zusammenfassung: 493 scraped, 0 matches, 0 sent_
 | Dawonia | 11627 | 0.9 | 11627/12760 | vor 0min | 🟢 aktiv |
 | Immovision München | 9728 | 0.8 | 9728/12760 | vor 0min | 🟢 aktiv |
 | Egger Immobilien | 8452 | 0.7 | 8452/12760 | vor 39d | 🟡 inaktiv (lange leer) |
-| Wagnis | 6567 | 0.5 | 6567/12760 | vor 17d | 🟡 inaktiv (lange leer) |
+| Wagnis | 6567 | 0.5 | 6567/12760 | vor 18d | 🟡 inaktiv (lange leer) |
 | Isar Wohnbaugenossenschaft (IWG) | 5340 | 1.0 | 5340/5448 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 4387 | 0.3 | 4387/12760 | vor 28d | 🟡 inaktiv (lange leer) |
 | Email Inbox | 1569 | 0.1 | 1305/12760 | vor 1h | 🟢 aktiv |
