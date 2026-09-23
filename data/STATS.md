@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-09-23T14:18:17+00:00_  
+_Auto-generiert. Letzter Run: 2026-09-23T14:21:01+00:00_  
 _Total Runs: 12881_  
-_Letzte Run-Zusammenfassung: 506 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 512 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -35,7 +35,7 @@ _Letzte Run-Zusammenfassung: 506 scraped, 0 matches, 0 sent_
 | Chalet Immobilien | 73352 | 5.7 | 12872/12881 | vor 0min | 🟢 aktiv |
 | Franziskanerhof | 72607 | 5.6 | 12872/12881 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 62220 | 4.8 | 12623/12881 | vor 0min | 🟢 aktiv |
-| Rosenberger Immobilien | 62081 | 4.8 | 12839/12881 | vor 14min | 🟢 aktiv |
+| Rosenberger Immobilien | 62086 | 4.8 | 12840/12881 | vor 0min | 🟢 aktiv |
 | Kleinanzeigen | 51249 | 4.0 | 10592/12881 | vor 22d | 🟡 inaktiv (lange leer) |
 | DIBAG | 49904 | 3.9 | 12476/12881 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 48935 | 3.8 | 12876/12881 | vor 0min | 🟢 aktiv |
@@ -45,7 +45,7 @@ _Letzte Run-Zusammenfassung: 506 scraped, 0 matches, 0 sent_
 | Alsaol | 38107 | 3.0 | 12872/12881 | vor 0min | 🟢 aktiv |
 | GVG Net | 34025 | 2.6 | 12840/12881 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 33681 | 2.6 | 12687/12881 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 30757 | 2.4 | 12699/12881 | vor 30min | 🟢 aktiv |
+| Scheel Immobilien | 30758 | 2.4 | 12700/12881 | vor 0min | 🟢 aktiv |
 | Norbert Marte Immobilien | 29824 | 2.3 | 3386/12881 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 25605 | 2.0 | 11534/12881 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 23888 | 1.9 | 9922/12879 | vor 21h | 🟢 aktiv |
@@ -63,7 +63,7 @@ _Letzte Run-Zusammenfassung: 506 scraped, 0 matches, 0 sent_
 | Egger Immobilien | 8452 | 0.7 | 8452/12881 | vor 41d | 🟡 inaktiv (lange leer) |
 | Wagnis | 6567 | 0.5 | 6567/12881 | vor 19d | 🟡 inaktiv (lange leer) |
 | Isar Wohnbaugenossenschaft (IWG) | 5461 | 1.0 | 5461/5569 | vor 0min | 🟢 aktiv |
-| Immobilie1 | 4387 | 0.3 | 4387/12881 | vor 29d | 🟡 inaktiv (lange leer) |
+| Immobilie1 | 4387 | 0.3 | 4387/12881 | vor 30d | 🟡 inaktiv (lange leer) |
 | Email Inbox | 1582 | 0.1 | 1316/12881 | vor 1h | 🟢 aktiv |
 | EBM München | 1245 | 0.1 | 1238/12881 | vor 6d | 🟡 inaktiv (lange leer) |
 | Immowelt | 64 | 0.0 | 2/12881 | vor 70d | 🟡 inaktiv (lange leer) |
