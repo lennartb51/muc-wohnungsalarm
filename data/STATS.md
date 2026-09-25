@@ -1,6 +1,6 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-09-25T00:47:59+00:00_  
+_Auto-generiert. Letzter Run: 2026-09-25T00:50:36+00:00_  
 _Total Runs: 13022_  
 _Letzte Run-Zusammenfassung: 509 scraped, 0 matches, 0 sent_
 
@@ -47,7 +47,7 @@ _Letzte Run-Zusammenfassung: 509 scraped, 0 matches, 0 sent_
 | Rogers Immobilien | 33820 | 2.6 | 12826/13022 | vor 0min | 🟢 aktiv |
 | Norbert Marte Immobilien | 31298 | 2.4 | 3520/13022 | vor 0min | 🟢 aktiv |
 | Scheel Immobilien | 31125 | 2.4 | 12841/13022 | vor 0min | 🟢 aktiv |
-| Eichler Immobilien | 25726 | 2.0 | 11655/13022 | vor 4h | 🟢 aktiv |
+| Eichler Immobilien | 25726 | 2.0 | 11655/13022 | vor 5h | 🟢 aktiv |
 | Pienzenauer Immobilien | 23888 | 1.8 | 9922/13020 | vor 2d | 🟡 inaktiv (lange leer) |
 | KSWM | 22439 | 1.7 | 11949/13022 | vor 0min | 🟢 aktiv |
 | Südhausbau | 21515 | 1.7 | 12352/13022 | vor 0min | 🟢 aktiv |
@@ -64,7 +64,7 @@ _Letzte Run-Zusammenfassung: 509 scraped, 0 matches, 0 sent_
 | Wagnis | 6567 | 0.5 | 6567/13022 | vor 20d | 🟡 inaktiv (lange leer) |
 | Isar Wohnbaugenossenschaft (IWG) | 5602 | 1.0 | 5602/5710 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 4387 | 0.3 | 4387/13022 | vor 31d | 🟡 inaktiv (lange leer) |
-| Email Inbox | 1601 | 0.1 | 1332/13022 | vor 4h | 🟢 aktiv |
+| Email Inbox | 1601 | 0.1 | 1332/13022 | vor 5h | 🟢 aktiv |
 | EBM München | 1245 | 0.1 | 1238/13022 | vor 7d | 🟡 inaktiv (lange leer) |
 | Immowelt | 64 | 0.0 | 2/13022 | vor 72d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 127d | 🟢 aktiv |
