@@ -1,14 +1,14 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-09-26T16:46:53+00:00_  
+_Auto-generiert. Letzter Run: 2026-09-26T16:49:19+00:00_  
 _Total Runs: 13189_  
-_Letzte Run-Zusammenfassung: 507 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 453 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
 | Adapter | Scraped (Σ) | Avg/Run | Runs aktiv | Letzte Aktivität | Status |
 |---|---:|---:|---|---|---|
-| Park Avenue Immobilien | 660103 | 50.0 | 12951/13189 | vor 0min | 🟢 aktiv |
+| Park Avenue Immobilien | 660050 | 50.0 | 12950/13189 | vor 16min | 🟢 aktiv |
 | Citigrund | 596772 | 81.6 | 7151/7312 | vor 56d | 🟢 aktiv |
 | WSB Bayern | 460847 | 34.9 | 12490/13189 | vor 0min | 🟢 aktiv |
 | Pandion Service | 395465 | 30.0 | 13184/13189 | vor 0min | 🟢 aktiv |
@@ -28,7 +28,7 @@ _Letzte Run-Zusammenfassung: 507 scraped, 0 matches, 0 sent_
 | Wegener Immobilien | 145079 | 11.0 | 13189/13189 | vor 0min | 🟢 aktiv |
 | BVK Immobilien | 141515 | 24.1 | 5853/5877 | vor 0min | 🟢 aktiv |
 | Immo-Hyp | 105718 | 8.0 | 13156/13189 | vor 0min | 🟢 aktiv |
-| Ab ins Zuhause | 92136 | 7.0 | 11532/13189 | vor 13min | 🟢 aktiv |
+| Ab ins Zuhause | 92136 | 7.0 | 11532/13189 | vor 16min | 🟢 aktiv |
 | Hegerich Immobilien | 92070 | 7.0 | 13166/13189 | vor 0min | 🟢 aktiv |
 | Immler Martin Hausverwaltung | 83974 | 6.4 | 13189/13189 | vor 0min | 🟢 aktiv |
 | ImmoSmart | 79438 | 6.0 | 11741/13189 | vor 0min | 🟢 aktiv |
@@ -46,9 +46,9 @@ _Letzte Run-Zusammenfassung: 507 scraped, 0 matches, 0 sent_
 | GVG Net | 34641 | 2.6 | 13148/13189 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 33987 | 2.6 | 12993/13189 | vor 0min | 🟢 aktiv |
 | Norbert Marte Immobilien | 33113 | 2.5 | 3685/13189 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 31560 | 2.4 | 13008/13189 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 31559 | 2.4 | 13008/13189 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 25877 | 2.0 | 11806/13189 | vor 0min | 🟢 aktiv |
-| Pienzenauer Immobilien | 23888 | 1.8 | 9922/13187 | vor 3d | 🟡 inaktiv (lange leer) |
+| Pienzenauer Immobilien | 23888 | 1.8 | 9922/13187 | vor 4d | 🟡 inaktiv (lange leer) |
 | KSWM | 22931 | 1.7 | 12113/13189 | vor 0min | 🟢 aktiv |
 | Südhausbau | 21849 | 1.7 | 12519/13189 | vor 0min | 🟢 aktiv |
 | KLN Immobilien | 19011 | 1.4 | 11606/13189 | vor 0min | 🟢 aktiv |
@@ -64,7 +64,7 @@ _Letzte Run-Zusammenfassung: 507 scraped, 0 matches, 0 sent_
 | Wagnis | 6567 | 0.5 | 6567/13189 | vor 22d | 🟡 inaktiv (lange leer) |
 | Isar Wohnbaugenossenschaft (IWG) | 5768 | 1.0 | 5768/5877 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 4501 | 0.3 | 4501/13189 | vor 0min | 🟢 aktiv |
-| Email Inbox | 1623 | 0.1 | 1352/13189 | vor 59min | 🟢 aktiv |
+| Email Inbox | 1623 | 0.1 | 1352/13189 | vor 1h | 🟢 aktiv |
 | EBM München | 1245 | 0.1 | 1238/13189 | vor 9d | 🟡 inaktiv (lange leer) |
 | Friedl Maier Immobilien | 129 | 0.0 | 129/13189 | vor 0min | 🟢 aktiv |
 | Immowelt | 64 | 0.0 | 2/13189 | vor 73d | 🟡 inaktiv (lange leer) |
