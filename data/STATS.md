@@ -1,6 +1,6 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-09-26T07:32:33+00:00_  
+_Auto-generiert. Letzter Run: 2026-09-26T07:35:57+00:00_  
 _Total Runs: 13151_  
 _Letzte Run-Zusammenfassung: 486 scraped, 0 matches, 0 sent_
 
@@ -17,7 +17,7 @@ _Letzte Run-Zusammenfassung: 486 scraped, 0 matches, 0 sent_
 | WG-Gesucht | 345548 | 26.3 | 12443/13151 | vor 0min | 🟢 aktiv |
 | ohne-makler.net | 315456 | 24.0 | 13144/13151 | vor 0min | 🟢 aktiv |
 | Nuroa | 275232 | 20.9 | 13017/13151 | vor 0min | 🟢 aktiv |
-| Immobilo | 272202 | 20.7 | 13130/13151 | vor 0min | 🟢 aktiv |
+| Immobilo | 272203 | 20.7 | 13130/13151 | vor 0min | 🟢 aktiv |
 | SZ Immobilien | 271226 | 20.6 | 13132/13151 | vor 0min | 🟢 aktiv |
 | Idowa | 262737 | 20.0 | 13132/13151 | vor 0min | 🟢 aktiv |
 | FAZ Immobilien | 249792 | 19.0 | 13129/13151 | vor 0min | 🟢 aktiv |
@@ -26,9 +26,9 @@ _Letzte Run-Zusammenfassung: 486 scraped, 0 matches, 0 sent_
 | Wohnreferat München | 145376 | 11.1 | 12619/13151 | vor 0min | 🟢 aktiv |
 | Heimhuber Immobilien | 144903 | 11.0 | 13126/13151 | vor 0min | 🟢 aktiv |
 | Wegener Immobilien | 144661 | 11.0 | 13151/13151 | vor 0min | 🟢 aktiv |
-| BVK Immobilien | 141115 | 24.2 | 5833/5839 | vor 44min | 🟢 aktiv |
+| BVK Immobilien | 141115 | 24.2 | 5833/5839 | vor 47min | 🟢 aktiv |
 | Immo-Hyp | 105414 | 8.0 | 13118/13151 | vor 0min | 🟢 aktiv |
-| Ab ins Zuhause | 91872 | 7.0 | 11499/13151 | vor 58min | 🟢 aktiv |
+| Ab ins Zuhause | 91872 | 7.0 | 11499/13151 | vor 1h | 🟢 aktiv |
 | Hegerich Immobilien | 91804 | 7.0 | 13128/13151 | vor 0min | 🟢 aktiv |
 | Immler Martin Hausverwaltung | 83822 | 6.4 | 13151/13151 | vor 0min | 🟢 aktiv |
 | ImmoSmart | 79400 | 6.0 | 11703/13151 | vor 0min | 🟢 aktiv |
@@ -46,7 +46,7 @@ _Letzte Run-Zusammenfassung: 486 scraped, 0 matches, 0 sent_
 | GVG Net | 34565 | 2.6 | 13110/13151 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 33949 | 2.6 | 12955/13151 | vor 0min | 🟢 aktiv |
 | Norbert Marte Immobilien | 32695 | 2.5 | 3647/13151 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 31427 | 2.4 | 12970/13151 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 31426 | 2.4 | 12970/13151 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 25839 | 2.0 | 11768/13151 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 23888 | 1.8 | 9922/13149 | vor 3d | 🟡 inaktiv (lange leer) |
 | KSWM | 22817 | 1.7 | 12075/13151 | vor 0min | 🟢 aktiv |
