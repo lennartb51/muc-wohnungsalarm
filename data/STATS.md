@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-09-27T17:17:56+00:00_  
+_Auto-generiert. Letzter Run: 2026-09-27T17:20:23+00:00_  
 _Total Runs: 13292_  
-_Letzte Run-Zusammenfassung: 504 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 502 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -28,7 +28,7 @@ _Letzte Run-Zusammenfassung: 504 scraped, 0 matches, 0 sent_
 | Wegener Immobilien | 146201 | 11.0 | 13291/13292 | vor 0min | 🟢 aktiv |
 | BVK Immobilien | 143575 | 24.0 | 5956/5980 | vor 0min | 🟢 aktiv |
 | Immo-Hyp | 106542 | 8.0 | 13259/13292 | vor 0min | 🟢 aktiv |
-| Ab ins Zuhause | 92832 | 7.0 | 11619/13292 | vor 44min | 🟢 aktiv |
+| Ab ins Zuhause | 92832 | 7.0 | 11619/13292 | vor 47min | 🟢 aktiv |
 | Hegerich Immobilien | 92791 | 7.0 | 13269/13292 | vor 0min | 🟢 aktiv |
 | Immler Martin Hausverwaltung | 84386 | 6.3 | 13292/13292 | vor 0min | 🟢 aktiv |
 | ImmoSmart | 79563 | 6.0 | 11844/13292 | vor 0min | 🟢 aktiv |
@@ -46,7 +46,7 @@ _Letzte Run-Zusammenfassung: 504 scraped, 0 matches, 0 sent_
 | GVG Net | 34847 | 2.6 | 13251/13292 | vor 0min | 🟢 aktiv |
 | Norbert Marte Immobilien | 34246 | 2.6 | 3788/13292 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 34090 | 2.6 | 13096/13292 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 31790 | 2.4 | 13111/13292 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 31788 | 2.4 | 13111/13292 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 25980 | 2.0 | 11909/13292 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 23888 | 1.8 | 9922/13290 | vor 5d | 🟡 inaktiv (lange leer) |
 | KSWM | 23236 | 1.7 | 12216/13292 | vor 0min | 🟢 aktiv |
