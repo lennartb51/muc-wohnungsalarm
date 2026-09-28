@@ -1,6 +1,6 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-09-28T17:02:10+00:00_  
+_Auto-generiert. Letzter Run: 2026-09-28T17:04:57+00:00_  
 _Total Runs: 13388_  
 _Letzte Run-Zusammenfassung: 510 scraped, 0 matches, 0 sent_
 
@@ -28,7 +28,7 @@ _Letzte Run-Zusammenfassung: 510 scraped, 0 matches, 0 sent_
 | Wegener Immobilien | 147257 | 11.0 | 13387/13388 | vor 0min | 🟢 aktiv |
 | BVK Immobilien | 145533 | 24.0 | 6052/6076 | vor 0min | 🟢 aktiv |
 | Immo-Hyp | 107264 | 8.0 | 13353/13388 | vor 0min | 🟢 aktiv |
-| Ab ins Zuhause | 93512 | 7.0 | 11704/13388 | vor 28min | 🟢 aktiv |
+| Ab ins Zuhause | 93512 | 7.0 | 11704/13388 | vor 31min | 🟢 aktiv |
 | Hegerich Immobilien | 93456 | 7.0 | 13364/13388 | vor 0min | 🟢 aktiv |
 | Immler Martin Hausverwaltung | 84770 | 6.3 | 13388/13388 | vor 0min | 🟢 aktiv |
 | ImmoSmart | 79659 | 6.0 | 11940/13388 | vor 0min | 🟢 aktiv |
@@ -64,7 +64,7 @@ _Letzte Run-Zusammenfassung: 510 scraped, 0 matches, 0 sent_
 | Wagnis | 6567 | 0.5 | 6567/13388 | vor 24d | 🟡 inaktiv (lange leer) |
 | Isar Wohnbaugenossenschaft (IWG) | 5967 | 1.0 | 5967/6076 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 4700 | 0.4 | 4700/13388 | vor 0min | 🟢 aktiv |
-| Email Inbox | 1643 | 0.1 | 1370/13388 | vor 14min | 🟢 aktiv |
+| Email Inbox | 1643 | 0.1 | 1370/13388 | vor 16min | 🟢 aktiv |
 | EBM München | 1245 | 0.1 | 1238/13388 | vor 11d | 🟡 inaktiv (lange leer) |
 | Friedl Maier Immobilien | 321 | 0.0 | 321/13388 | vor 0min | 🟢 aktiv |
 | Immowelt | 64 | 0.0 | 2/13388 | vor 75d | 🟡 inaktiv (lange leer) |
