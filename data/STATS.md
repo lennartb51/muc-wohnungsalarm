@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-09-30T10:47:46+00:00_  
+_Auto-generiert. Letzter Run: 2026-09-30T10:50:42+00:00_  
 _Total Runs: 13558_  
-_Letzte Run-Zusammenfassung: 518 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 520 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -17,9 +17,9 @@ _Letzte Run-Zusammenfassung: 518 scraped, 0 matches, 0 sent_
 | WG-Gesucht | 356832 | 26.3 | 12846/13558 | vor 0min | 🟢 aktiv |
 | ohne-makler.net | 325224 | 24.0 | 13551/13558 | vor 0min | 🟢 aktiv |
 | Nuroa | 285402 | 21.1 | 13424/13558 | vor 0min | 🟢 aktiv |
-| Immobilo | 280592 | 20.7 | 13537/13558 | vor 0min | 🟢 aktiv |
+| Immobilo | 280593 | 20.7 | 13537/13558 | vor 0min | 🟢 aktiv |
 | SZ Immobilien | 279773 | 20.6 | 13539/13558 | vor 0min | 🟢 aktiv |
-| Idowa | 271181 | 20.0 | 13539/13558 | vor 0min | 🟢 aktiv |
+| Idowa | 271182 | 20.0 | 13539/13558 | vor 0min | 🟢 aktiv |
 | FAZ Immobilien | 257932 | 19.0 | 13536/13558 | vor 0min | 🟢 aktiv |
 | Engel & Völkers | 195986 | 14.5 | 13557/13558 | vor 0min | 🟢 aktiv |
 | Idowa Altstadt-Lehel | 153461 | 11.3 | 13543/13558 | vor 0min | 🟢 aktiv |
@@ -64,7 +64,7 @@ _Letzte Run-Zusammenfassung: 518 scraped, 0 matches, 0 sent_
 | Wagnis | 6567 | 0.5 | 6567/13558 | vor 26d | 🟡 inaktiv (lange leer) |
 | Isar Wohnbaugenossenschaft (IWG) | 6137 | 1.0 | 6137/6246 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 4870 | 0.4 | 4870/13558 | vor 0min | 🟢 aktiv |
-| Email Inbox | 1656 | 0.1 | 1383/13558 | vor 1h | 🟢 aktiv |
+| Email Inbox | 1656 | 0.1 | 1383/13558 | vor 2h | 🟢 aktiv |
 | EBM München | 1245 | 0.1 | 1238/13558 | vor 13d | 🟡 inaktiv (lange leer) |
 | Friedl Maier Immobilien | 483 | 0.0 | 483/13558 | vor 0min | 🟢 aktiv |
 | Immowelt | 64 | 0.0 | 2/13558 | vor 77d | 🟡 inaktiv (lange leer) |
