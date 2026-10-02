@@ -1,14 +1,14 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-10-02T15:33:11+00:00_  
+_Auto-generiert. Letzter Run: 2026-10-02T15:35:50+00:00_  
 _Total Runs: 13775_  
-_Letzte Run-Zusammenfassung: 516 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 463 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
 | Adapter | Scraped (Σ) | Avg/Run | Runs aktiv | Letzte Aktivität | Status |
 |---|---:|---:|---|---|---|
-| Park Avenue Immobilien | 690737 | 50.1 | 13529/13775 | vor 0min | 🟢 aktiv |
+| Park Avenue Immobilien | 690684 | 50.1 | 13528/13775 | vor 18min | 🟢 aktiv |
 | Citigrund | 596772 | 81.6 | 7151/7312 | vor 62d | 🟢 aktiv |
 | WSB Bayern | 469637 | 34.1 | 13076/13775 | vor 0min | 🟢 aktiv |
 | Pandion Service | 413045 | 30.0 | 13770/13775 | vor 0min | 🟢 aktiv |
@@ -64,7 +64,7 @@ _Letzte Run-Zusammenfassung: 516 scraped, 0 matches, 0 sent_
 | Wagnis | 6664 | 0.5 | 6664/13775 | vor 0min | 🟢 aktiv |
 | Isar Wohnbaugenossenschaft (IWG) | 6354 | 1.0 | 6354/6463 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 4982 | 0.4 | 4982/13775 | vor 23h | 🟢 aktiv |
-| Email Inbox | 1689 | 0.1 | 1410/13775 | vor 59min | 🟢 aktiv |
+| Email Inbox | 1689 | 0.1 | 1410/13775 | vor 1h | 🟢 aktiv |
 | EBM München | 1270 | 0.1 | 1263/13775 | vor 6h | 🟢 aktiv |
 | Friedl Maier Immobilien | 487 | 0.0 | 487/13775 | vor 2d | 🟡 inaktiv (lange leer) |
 | Immowelt | 64 | 0.0 | 2/13775 | vor 79d | 🟡 inaktiv (lange leer) |
