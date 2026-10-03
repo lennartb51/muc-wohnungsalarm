@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-10-03T14:47:39+00:00_  
+_Auto-generiert. Letzter Run: 2026-10-03T14:50:09+00:00_  
 _Total Runs: 13871_  
-_Letzte Run-Zusammenfassung: 516 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 515 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -46,7 +46,7 @@ _Letzte Run-Zusammenfassung: 516 scraped, 0 matches, 0 sent_
 | Norbert Marte Immobilien | 40494 | 2.9 | 4365/13871 | vor 0min | 🟢 aktiv |
 | GVG Net | 36499 | 2.6 | 13829/13871 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 34664 | 2.5 | 13670/13871 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 33203 | 2.4 | 13690/13871 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 33202 | 2.4 | 13690/13871 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 26559 | 1.9 | 12488/13871 | vor 0min | 🟢 aktiv |
 | KSWM | 25287 | 1.8 | 12795/13871 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 23915 | 1.7 | 9949/13869 | vor 21h | 🟢 aktiv |
