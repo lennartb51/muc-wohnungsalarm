@@ -1,6 +1,6 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-10-05T09:15:58+00:00_  
+_Auto-generiert. Letzter Run: 2026-10-05T09:18:30+00:00_  
 _Total Runs: 14047_  
 _Letzte Run-Zusammenfassung: 516 scraped, 0 matches, 0 sent_
 
@@ -28,7 +28,7 @@ _Letzte Run-Zusammenfassung: 516 scraped, 0 matches, 0 sent_
 | Wegener Immobilien | 154506 | 11.0 | 14046/14047 | vor 0min | 🟢 aktiv |
 | Wohnreferat München | 153412 | 10.9 | 13513/14047 | vor 0min | 🟢 aktiv |
 | Immo-Hyp | 111394 | 7.9 | 14011/14047 | vor 0min | 🟢 aktiv |
-| Ab ins Zuhause | 98408 | 7.0 | 12316/14047 | vor 12min | 🟢 aktiv |
+| Ab ins Zuhause | 98408 | 7.0 | 12316/14047 | vor 15min | 🟢 aktiv |
 | Hegerich Immobilien | 98062 | 7.0 | 14022/14047 | vor 0min | 🟢 aktiv |
 | Immler Martin Hausverwaltung | 87406 | 6.2 | 14047/14047 | vor 0min | 🟢 aktiv |
 | ImmoSmart | 80317 | 5.7 | 12598/14047 | vor 0min | 🟢 aktiv |
@@ -46,8 +46,8 @@ _Letzte Run-Zusammenfassung: 516 scraped, 0 matches, 0 sent_
 | Alsaol | 41596 | 3.0 | 14035/14047 | vor 0min | 🟢 aktiv |
 | GVG Net | 37027 | 2.6 | 14005/14047 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 34840 | 2.5 | 13846/14047 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 33610 | 2.4 | 13866/14047 | vor 0min | 🟢 aktiv |
-| Eichler Immobilien | 26733 | 1.9 | 12662/14047 | vor 27min | 🟢 aktiv |
+| Scheel Immobilien | 33611 | 2.4 | 13866/14047 | vor 0min | 🟢 aktiv |
+| Eichler Immobilien | 26733 | 1.9 | 12662/14047 | vor 30min | 🟢 aktiv |
 | KSWM | 25974 | 1.8 | 12971/14047 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 23915 | 1.7 | 9949/14045 | vor 2d | 🟡 inaktiv (lange leer) |
 | Südhausbau | 23653 | 1.7 | 13377/14047 | vor 0min | 🟢 aktiv |
@@ -63,8 +63,8 @@ _Letzte Run-Zusammenfassung: 516 scraped, 0 matches, 0 sent_
 | Egger Immobilien | 8452 | 0.6 | 8452/14047 | vor 52d | 🟡 inaktiv (lange leer) |
 | Wagnis | 6935 | 0.5 | 6935/14047 | vor 0min | 🟢 aktiv |
 | Isar Wohnbaugenossenschaft (IWG) | 6626 | 1.0 | 6626/6735 | vor 0min | 🟢 aktiv |
-| Immobilie1 | 5144 | 0.4 | 5144/14047 | vor 42min | 🟢 aktiv |
-| Email Inbox | 1716 | 0.1 | 1432/14047 | vor 0min | 🟢 aktiv |
+| Immobilie1 | 5144 | 0.4 | 5144/14047 | vor 45min | 🟢 aktiv |
+| Email Inbox | 1715 | 0.1 | 1431/14047 | vor 1h | 🟢 aktiv |
 | EBM München | 1270 | 0.1 | 1263/14047 | vor 3d | 🟡 inaktiv (lange leer) |
 | Friedl Maier Immobilien | 487 | 0.0 | 487/14047 | vor 4d | 🟡 inaktiv (lange leer) |
 | Immowelt | 64 | 0.0 | 2/14047 | vor 82d | 🟡 inaktiv (lange leer) |
