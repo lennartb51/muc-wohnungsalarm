@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-10-07T09:16:16+00:00_  
+_Auto-generiert. Letzter Run: 2026-10-07T09:19:04+00:00_  
 _Total Runs: 14241_  
-_Letzte Run-Zusammenfassung: 516 scraped, 1 matches, 1 sent_
+_Letzte Run-Zusammenfassung: 522 scraped, 1 matches, 1 sent_
 
 ## Adapter-Übersicht
 
@@ -39,14 +39,14 @@ _Letzte Run-Zusammenfassung: 516 scraped, 1 matches, 1 sent_
 | Sedlmayr AG | 55361 | 3.9 | 13717/14241 | vor 0min | 🟢 aktiv |
 | DIBAG | 55344 | 3.9 | 13836/14241 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 53015 | 3.7 | 14236/14241 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 51249 | 3.6 | 10592/14241 | vor 35d | 🟡 inaktiv (lange leer) |
-| LPE Immobilien | 45083 | 3.2 | 12490/14241 | vor 12min | 🟢 aktiv |
+| Kleinanzeigen | 51249 | 3.6 | 10592/14241 | vor 36d | 🟡 inaktiv (lange leer) |
+| LPE Immobilien | 45087 | 3.2 | 12491/14241 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 44681 | 3.1 | 14118/14241 | vor 0min | 🟢 aktiv |
 | Norbert Marte Immobilien | 44179 | 3.1 | 4700/14241 | vor 0min | 🟢 aktiv |
 | Alsaol | 42178 | 3.0 | 14229/14241 | vor 0min | 🟢 aktiv |
 | GVG Net | 37609 | 2.6 | 14199/14241 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 35034 | 2.5 | 14040/14241 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 34098 | 2.4 | 14060/14241 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 34100 | 2.4 | 14060/14241 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 26754 | 1.9 | 12683/14241 | vor 1d | 🟡 inaktiv (lange leer) |
 | KSWM | 26555 | 1.9 | 13165/14241 | vor 0min | 🟢 aktiv |
 | Südhausbau | 23928 | 1.7 | 13571/14241 | vor 0min | 🟢 aktiv |
@@ -59,7 +59,7 @@ _Letzte Run-Zusammenfassung: 516 scraped, 1 matches, 1 sent_
 | Immobilien Schneider | 14204 | 1.0 | 14204/14241 | vor 0min | 🟢 aktiv |
 | Maier Immobilien | 14022 | 1.0 | 14022/14241 | vor 0min | 🟢 aktiv |
 | Dawonia | 13108 | 0.9 | 13108/14241 | vor 0min | 🟢 aktiv |
-| Immovision München | 11170 | 0.8 | 11170/14241 | vor 43min | 🟢 aktiv |
+| Immovision München | 11170 | 0.8 | 11170/14241 | vor 46min | 🟢 aktiv |
 | Egger Immobilien | 8452 | 0.6 | 8452/14241 | vor 54d | 🟡 inaktiv (lange leer) |
 | Wagnis | 7129 | 0.5 | 7129/14241 | vor 0min | 🟢 aktiv |
 | Isar Wohnbaugenossenschaft (IWG) | 6820 | 1.0 | 6820/6929 | vor 0min | 🟢 aktiv |
