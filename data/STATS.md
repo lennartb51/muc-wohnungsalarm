@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-10-07T02:30:24+00:00_  
+_Auto-generiert. Letzter Run: 2026-10-07T02:33:08+00:00_  
 _Total Runs: 14214_  
-_Letzte Run-Zusammenfassung: 513 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 514 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -42,11 +42,11 @@ _Letzte Run-Zusammenfassung: 513 scraped, 0 matches, 0 sent_
 | Kleinanzeigen | 51249 | 3.6 | 10592/14214 | vor 35d | 🟡 inaktiv (lange leer) |
 | LPE Immobilien | 44959 | 3.2 | 12467/14214 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 44590 | 3.1 | 14091/14214 | vor 0min | 🟢 aktiv |
-| Norbert Marte Immobilien | 44168 | 3.1 | 4699/14214 | vor 1h | 🟢 aktiv |
+| Norbert Marte Immobilien | 44168 | 3.1 | 4699/14214 | vor 2h | 🟢 aktiv |
 | Alsaol | 42097 | 3.0 | 14202/14214 | vor 0min | 🟢 aktiv |
 | GVG Net | 37528 | 2.6 | 14172/14214 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 35007 | 2.5 | 14013/14214 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 34035 | 2.4 | 14033/14214 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 34036 | 2.4 | 14033/14214 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 26754 | 1.9 | 12683/14214 | vor 1d | 🟡 inaktiv (lange leer) |
 | KSWM | 26471 | 1.9 | 13138/14214 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 23915 | 1.7 | 9949/14212 | vor 4d | 🟡 inaktiv (lange leer) |
@@ -64,7 +64,7 @@ _Letzte Run-Zusammenfassung: 513 scraped, 0 matches, 0 sent_
 | Wagnis | 7102 | 0.5 | 7102/14214 | vor 0min | 🟢 aktiv |
 | Isar Wohnbaugenossenschaft (IWG) | 6793 | 1.0 | 6793/6902 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 5144 | 0.4 | 5144/14214 | vor 1d | 🟡 inaktiv (lange leer) |
-| Email Inbox | 1740 | 0.1 | 1449/14214 | vor 4h | 🟢 aktiv |
+| Email Inbox | 1740 | 0.1 | 1449/14214 | vor 5h | 🟢 aktiv |
 | EBM München | 1287 | 0.1 | 1280/14214 | vor 12h | 🟢 aktiv |
 | Friedl Maier Immobilien | 487 | 0.0 | 487/14214 | vor 6d | 🟡 inaktiv (lange leer) |
 | Immowelt | 64 | 0.0 | 2/14214 | vor 84d | 🟡 inaktiv (lange leer) |
