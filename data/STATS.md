@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-10-08T20:32:56+00:00_  
+_Auto-generiert. Letzter Run: 2026-10-08T20:36:08+00:00_  
 _Total Runs: 14383_  
-_Letzte Run-Zusammenfassung: 542 scraped, 1 matches, 1 sent_
+_Letzte Run-Zusammenfassung: 531 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -33,7 +33,7 @@ _Letzte Run-Zusammenfassung: 542 scraped, 1 matches, 1 sent_
 | Immler Martin Hausverwaltung | 88750 | 6.2 | 14383/14383 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 80842 | 5.6 | 14370/14383 | vor 0min | 🟢 aktiv |
 | ImmoSmart | 80653 | 5.6 | 12934/14383 | vor 0min | 🟢 aktiv |
-| Franziskanerhof | 79786 | 5.5 | 14373/14383 | vor 0min | 🟢 aktiv |
+| Franziskanerhof | 79779 | 5.5 | 14372/14383 | vor 17min | 🟢 aktiv |
 | EP Immobilien | 71232 | 5.0 | 14125/14383 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 67913 | 4.7 | 14337/14383 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 56071 | 3.9 | 13859/14383 | vor 0min | 🟢 aktiv |
@@ -46,7 +46,7 @@ _Letzte Run-Zusammenfassung: 542 scraped, 1 matches, 1 sent_
 | Alsaol | 42601 | 3.0 | 14370/14383 | vor 0min | 🟢 aktiv |
 | GVG Net | 38035 | 2.6 | 14341/14383 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 35175 | 2.4 | 14181/14383 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 34418 | 2.4 | 14202/14383 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 34416 | 2.4 | 14202/14383 | vor 0min | 🟢 aktiv |
 | KSWM | 27104 | 1.9 | 13307/14383 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 26754 | 1.9 | 12683/14383 | vor 3d | 🟡 inaktiv (lange leer) |
 | Südhausbau | 24070 | 1.7 | 13713/14383 | vor 0min | 🟢 aktiv |
@@ -64,7 +64,7 @@ _Letzte Run-Zusammenfassung: 542 scraped, 1 matches, 1 sent_
 | Wagnis | 7270 | 0.5 | 7270/14383 | vor 0min | 🟢 aktiv |
 | Isar Wohnbaugenossenschaft (IWG) | 6962 | 1.0 | 6962/7071 | vor 0min | 🟢 aktiv |
 | Immobilie1 | 5144 | 0.4 | 5144/14383 | vor 3d | 🟡 inaktiv (lange leer) |
-| Email Inbox | 1767 | 0.1 | 1467/14383 | vor 0min | 🟢 aktiv |
+| Email Inbox | 1765 | 0.1 | 1466/14383 | vor 17min | 🟢 aktiv |
 | EBM München | 1316 | 0.1 | 1309/14383 | vor 5h | 🟢 aktiv |
 | Friedl Maier Immobilien | 487 | 0.0 | 487/14383 | vor 8d | 🟡 inaktiv (lange leer) |
 | Immowelt | 64 | 0.0 | 2/14383 | vor 85d | 🟡 inaktiv (lange leer) |
