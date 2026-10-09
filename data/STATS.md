@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-10-09T23:30:48+00:00_  
+_Auto-generiert. Letzter Run: 2026-10-09T23:33:30+00:00_  
 _Total Runs: 14494_  
-_Letzte Run-Zusammenfassung: 539 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 540 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -46,7 +46,7 @@ _Letzte Run-Zusammenfassung: 539 scraped, 0 matches, 0 sent_
 | Alsaol | 42934 | 3.0 | 14481/14494 | vor 0min | 🟢 aktiv |
 | GVG Net | 38413 | 2.7 | 14452/14494 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 35284 | 2.4 | 14290/14494 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 34653 | 2.4 | 14301/14494 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 34654 | 2.4 | 14301/14494 | vor 0min | 🟢 aktiv |
 | KSWM | 27432 | 1.9 | 13418/14494 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 26754 | 1.8 | 12683/14494 | vor 4d | 🟡 inaktiv (lange leer) |
 | Südhausbau | 24181 | 1.7 | 13824/14494 | vor 0min | 🟢 aktiv |
@@ -56,7 +56,7 @@ _Letzte Run-Zusammenfassung: 539 scraped, 0 matches, 0 sent_
 | HI Wohnbau | 14492 | 1.0 | 14492/14494 | vor 0min | 🟢 aktiv |
 | DAHLER München | 14487 | 1.0 | 14487/14494 | vor 0min | 🟢 aktiv |
 | Vonovia | 14484 | 1.0 | 14484/14494 | vor 0min | 🟢 aktiv |
-| Immobilien Schneider | 14420 | 1.0 | 14420/14494 | vor 7h | 🟢 aktiv |
+| Immobilien Schneider | 14420 | 1.0 | 14420/14494 | vor 8h | 🟢 aktiv |
 | Maier Immobilien | 14273 | 1.0 | 14273/14494 | vor 0min | 🟢 aktiv |
 | Dawonia | 13361 | 0.9 | 13361/14494 | vor 0min | 🟢 aktiv |
 | Immovision München | 11418 | 0.8 | 11418/14494 | vor 0min | 🟢 aktiv |
