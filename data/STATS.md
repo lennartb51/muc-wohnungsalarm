@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-10-10T19:32:28+00:00_  
+_Auto-generiert. Letzter Run: 2026-10-10T19:35:03+00:00_  
 _Total Runs: 14576_  
-_Letzte Run-Zusammenfassung: 538 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 537 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -42,11 +42,11 @@ _Letzte Run-Zusammenfassung: 538 scraped, 0 matches, 0 sent_
 | Kleinanzeigen | 51249 | 3.5 | 10592/14576 | vor 39d | 🟡 inaktiv (lange leer) |
 | Norbert Marte Immobilien | 47820 | 3.3 | 5031/14576 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 46610 | 3.2 | 14453/14576 | vor 0min | 🟢 aktiv |
-| LPE Immobilien | 46184 | 3.2 | 12792/14576 | vor 4h | 🟢 aktiv |
+| LPE Immobilien | 46184 | 3.2 | 12792/14576 | vor 5h | 🟢 aktiv |
 | Alsaol | 43180 | 3.0 | 14563/14576 | vor 0min | 🟢 aktiv |
 | GVG Net | 38741 | 2.7 | 14534/14576 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 35365 | 2.4 | 14371/14576 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 34834 | 2.4 | 14383/14576 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 34833 | 2.4 | 14383/14576 | vor 0min | 🟢 aktiv |
 | KSWM | 27596 | 1.9 | 13500/14576 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 26754 | 1.8 | 12683/14576 | vor 5d | 🟡 inaktiv (lange leer) |
 | Südhausbau | 24263 | 1.7 | 13906/14576 | vor 0min | 🟢 aktiv |
