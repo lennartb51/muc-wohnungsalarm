@@ -1,6 +1,6 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-10-19T00:30:32+00:00_  
+_Auto-generiert. Letzter Run: 2026-10-19T00:33:15+00:00_  
 _Total Runs: 15394_  
 _Letzte Run-Zusammenfassung: 517 scraped, 0 matches, 0 sent_
 
@@ -57,7 +57,7 @@ _Letzte Run-Zusammenfassung: 517 scraped, 0 matches, 0 sent_
 | DAHLER München | 15387 | 1.0 | 15387/15394 | vor 0min | 🟢 aktiv |
 | Vonovia | 15381 | 1.0 | 15381/15394 | vor 0min | 🟢 aktiv |
 | Maier Immobilien | 15170 | 1.0 | 15170/15394 | vor 0min | 🟢 aktiv |
-| Immobilien Schneider | 14700 | 1.0 | 14700/15394 | vor 11h | 🟢 aktiv |
+| Immobilien Schneider | 14700 | 1.0 | 14700/15394 | vor 12h | 🟢 aktiv |
 | Dawonia | 14261 | 0.9 | 14261/15394 | vor 0min | 🟢 aktiv |
 | Immovision München | 12299 | 0.8 | 12299/15394 | vor 0min | 🟢 aktiv |
 | Egger Immobilien | 8452 | 0.5 | 8452/15394 | vor 66d | 🟡 inaktiv (lange leer) |
