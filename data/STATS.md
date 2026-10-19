@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-10-19T05:18:05+00:00_  
+_Auto-generiert. Letzter Run: 2026-10-19T05:20:59+00:00_  
 _Total Runs: 15413_  
-_Letzte Run-Zusammenfassung: 518 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 517 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -59,7 +59,7 @@ _Letzte Run-Zusammenfassung: 518 scraped, 0 matches, 0 sent_
 | Maier Immobilien | 15189 | 1.0 | 15189/15413 | vor 0min | 🟢 aktiv |
 | Immobilien Schneider | 14700 | 1.0 | 14700/15413 | vor 16h | 🟢 aktiv |
 | Dawonia | 14280 | 0.9 | 14280/15413 | vor 0min | 🟢 aktiv |
-| Immovision München | 12318 | 0.8 | 12318/15413 | vor 0min | 🟢 aktiv |
+| Immovision München | 12317 | 0.8 | 12317/15413 | vor 17min | 🟢 aktiv |
 | Egger Immobilien | 8452 | 0.5 | 8452/15413 | vor 66d | 🟡 inaktiv (lange leer) |
 | Wagnis | 8293 | 0.5 | 8293/15413 | vor 0min | 🟢 aktiv |
 | Isar Wohnbaugenossenschaft (IWG) | 7992 | 1.0 | 7992/8101 | vor 0min | 🟢 aktiv |
