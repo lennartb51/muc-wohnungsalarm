@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-10-23T11:16:15+00:00_  
+_Auto-generiert. Letzter Run: 2026-10-23T11:19:21+00:00_  
 _Total Runs: 15836_  
-_Letzte Run-Zusammenfassung: 420 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 419 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -12,7 +12,7 @@ _Letzte Run-Zusammenfassung: 420 scraped, 0 matches, 0 sent_
 | Citigrund | 596772 | 81.6 | 7151/7312 | vor 82d | 🟢 aktiv |
 | WSB Bayern | 500447 | 31.6 | 15130/15836 | vor 0min | 🟢 aktiv |
 | KPC Immobilien | 486730 | 34.1 | 14257/14269 | vor 0min | 🟢 aktiv |
-| Immobilien Schlamp | 474631 | 30.0 | 15760/15836 | vor 12min | 🟢 aktiv |
+| Immobilien Schlamp | 474631 | 30.0 | 15760/15836 | vor 15min | 🟢 aktiv |
 | Pandion Service | 469372 | 29.6 | 15831/15836 | vor 0min | 🟢 aktiv |
 | WG-Gesucht | 397936 | 25.1 | 14314/15836 | vor 8d | 🟡 inaktiv (lange leer) |
 | ohne-makler.net | 379891 | 24.0 | 15829/15836 | vor 0min | 🟢 aktiv |
@@ -45,13 +45,13 @@ _Letzte Run-Zusammenfassung: 420 scraped, 0 matches, 0 sent_
 | LPE Immobilien | 47295 | 3.0 | 13517/15836 | vor 0min | 🟢 aktiv |
 | Alsaol | 45963 | 2.9 | 15822/15836 | vor 0min | 🟢 aktiv |
 | GVG Net | 43770 | 2.8 | 15794/15836 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 37894 | 2.4 | 15615/15836 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 37893 | 2.4 | 15615/15836 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 36614 | 2.3 | 15620/15836 | vor 0min | 🟢 aktiv |
 | KSWM | 33071 | 2.1 | 14759/15836 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 32541 | 2.1 | 11536/15834 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 26754 | 1.7 | 12683/15836 | vor 17d | 🟡 inaktiv (lange leer) |
 | Südhausbau | 26427 | 1.7 | 15161/15836 | vor 0min | 🟢 aktiv |
-| KLN Immobilien | 23284 | 1.5 | 13803/15836 | vor 28min | 🟢 aktiv |
+| KLN Immobilien | 23284 | 1.5 | 13803/15836 | vor 31min | 🟢 aktiv |
 | HI Wohnbau | 19333 | 1.2 | 15829/15836 | vor 0min | 🟢 aktiv |
 | Lehmann Hueber | 15941 | 1.0 | 6060/15836 | vor 94d | 🟡 inaktiv (lange leer) |
 | Vonovia | 15822 | 1.0 | 15822/15836 | vor 0min | 🟢 aktiv |
