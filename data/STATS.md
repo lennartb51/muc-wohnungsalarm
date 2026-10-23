@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-10-23T15:47:51+00:00_  
+_Auto-generiert. Letzter Run: 2026-10-23T15:50:49+00:00_  
 _Total Runs: 15854_  
-_Letzte Run-Zusammenfassung: 451 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 452 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -45,13 +45,13 @@ _Letzte Run-Zusammenfassung: 451 scraped, 0 matches, 0 sent_
 | LPE Immobilien | 47349 | 3.0 | 13535/15854 | vor 0min | 🟢 aktiv |
 | Alsaol | 45999 | 2.9 | 15840/15854 | vor 0min | 🟢 aktiv |
 | GVG Net | 43860 | 2.8 | 15812/15854 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 37935 | 2.4 | 15633/15854 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 37936 | 2.4 | 15633/15854 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 36632 | 2.3 | 15638/15854 | vor 0min | 🟢 aktiv |
 | KSWM | 33125 | 2.1 | 14777/15854 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 32703 | 2.1 | 11554/15852 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 26754 | 1.7 | 12683/15854 | vor 18d | 🟡 inaktiv (lange leer) |
 | Südhausbau | 26445 | 1.7 | 15179/15854 | vor 0min | 🟢 aktiv |
-| KLN Immobilien | 23284 | 1.5 | 13803/15854 | vor 4h | 🟢 aktiv |
+| KLN Immobilien | 23284 | 1.5 | 13803/15854 | vor 5h | 🟢 aktiv |
 | HI Wohnbau | 19423 | 1.2 | 15847/15854 | vor 0min | 🟢 aktiv |
 | Lehmann Hueber | 15941 | 1.0 | 6060/15854 | vor 95d | 🟡 inaktiv (lange leer) |
 | Vonovia | 15840 | 1.0 | 15840/15854 | vor 0min | 🟢 aktiv |
@@ -62,9 +62,9 @@ _Letzte Run-Zusammenfassung: 451 scraped, 0 matches, 0 sent_
 | Immovision München | 12753 | 0.8 | 12753/15854 | vor 0min | 🟢 aktiv |
 | Wagnis | 8734 | 0.6 | 8734/15854 | vor 0min | 🟢 aktiv |
 | Egger Immobilien | 8452 | 0.5 | 8452/15854 | vor 71d | 🟡 inaktiv (lange leer) |
-| Isar Wohnbaugenossenschaft (IWG) | 8408 | 1.0 | 8408/8542 | vor 14min | 🟢 aktiv |
+| Isar Wohnbaugenossenschaft (IWG) | 8408 | 1.0 | 8408/8542 | vor 17min | 🟢 aktiv |
 | Immobilie1 | 5144 | 0.3 | 5144/15854 | vor 18d | 🟡 inaktiv (lange leer) |
-| Email Inbox | 1967 | 0.1 | 1630/15854 | vor 44min | 🟢 aktiv |
+| Email Inbox | 1967 | 0.1 | 1630/15854 | vor 47min | 🟢 aktiv |
 | EBM München | 1489 | 0.1 | 1482/15854 | vor 2d | 🟡 inaktiv (lange leer) |
 | Friedl Maier Immobilien | 487 | 0.0 | 487/15854 | vor 23d | 🟡 inaktiv (lange leer) |
 | Immowelt | 64 | 0.0 | 2/15854 | vor 100d | 🟡 inaktiv (lange leer) |
