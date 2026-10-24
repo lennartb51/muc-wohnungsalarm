@@ -1,6 +1,6 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-10-24T22:45:19+00:00_  
+_Auto-generiert. Letzter Run: 2026-10-24T22:47:41+00:00_  
 _Total Runs: 15985_  
 _Letzte Run-Zusammenfassung: 450 scraped, 0 matches, 0 sent_
 
@@ -45,7 +45,7 @@ _Letzte Run-Zusammenfassung: 450 scraped, 0 matches, 0 sent_
 | LPE Immobilien | 47721 | 3.0 | 13659/15985 | vor 0min | 🟢 aktiv |
 | Alsaol | 46261 | 2.9 | 15971/15985 | vor 0min | 🟢 aktiv |
 | GVG Net | 44515 | 2.8 | 15943/15985 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 38240 | 2.4 | 15764/15985 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 38239 | 2.4 | 15764/15985 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 36763 | 2.3 | 15769/15985 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 33855 | 2.1 | 11682/15983 | vor 0min | 🟢 aktiv |
 | KSWM | 33512 | 2.1 | 14908/15985 | vor 0min | 🟢 aktiv |
@@ -61,7 +61,7 @@ _Letzte Run-Zusammenfassung: 450 scraped, 0 matches, 0 sent_
 | Immobilien Schneider | 14700 | 0.9 | 14700/15985 | vor 6d | 🟡 inaktiv (lange leer) |
 | Immovision München | 12882 | 0.8 | 12882/15985 | vor 0min | 🟢 aktiv |
 | Wagnis | 8865 | 0.6 | 8865/15985 | vor 0min | 🟢 aktiv |
-| Isar Wohnbaugenossenschaft (IWG) | 8520 | 1.0 | 8520/8673 | vor 12min | 🟢 aktiv |
+| Isar Wohnbaugenossenschaft (IWG) | 8521 | 1.0 | 8521/8673 | vor 0min | 🟢 aktiv |
 | Egger Immobilien | 8452 | 0.5 | 8452/15985 | vor 72d | 🟡 inaktiv (lange leer) |
 | Immobilie1 | 5144 | 0.3 | 5144/15985 | vor 19d | 🟡 inaktiv (lange leer) |
 | Email Inbox | 1986 | 0.1 | 1642/15985 | vor 8h | 🟢 aktiv |
