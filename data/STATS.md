@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-10-25T18:16:31+00:00_  
+_Auto-generiert. Letzter Run: 2026-10-25T18:19:11+00:00_  
 _Total Runs: 16066_  
-_Letzte Run-Zusammenfassung: 452 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 451 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -61,10 +61,10 @@ _Letzte Run-Zusammenfassung: 452 scraped, 0 matches, 0 sent_
 | Immobilien Schneider | 14700 | 0.9 | 14700/16066 | vor 7d | 🟡 inaktiv (lange leer) |
 | Immovision München | 12963 | 0.8 | 12963/16066 | vor 0min | 🟢 aktiv |
 | Wagnis | 8945 | 0.6 | 8945/16066 | vor 0min | 🟢 aktiv |
-| Isar Wohnbaugenossenschaft (IWG) | 8591 | 1.0 | 8591/8754 | vor 0min | 🟢 aktiv |
+| Isar Wohnbaugenossenschaft (IWG) | 8590 | 1.0 | 8590/8754 | vor 15min | 🟢 aktiv |
 | Egger Immobilien | 8452 | 0.5 | 8452/16066 | vor 73d | 🟡 inaktiv (lange leer) |
 | Immobilie1 | 5144 | 0.3 | 5144/16066 | vor 20d | 🟡 inaktiv (lange leer) |
-| Email Inbox | 1997 | 0.1 | 1652/16066 | vor 58min | 🟢 aktiv |
+| Email Inbox | 1997 | 0.1 | 1652/16066 | vor 1h | 🟢 aktiv |
 | EBM München | 1489 | 0.1 | 1482/16066 | vor 4d | 🟡 inaktiv (lange leer) |
 | Friedl Maier Immobilien | 487 | 0.0 | 487/16066 | vor 25d | 🟡 inaktiv (lange leer) |
 | Immowelt | 64 | 0.0 | 2/16066 | vor 102d | 🟡 inaktiv (lange leer) |
