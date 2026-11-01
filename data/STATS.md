@@ -1,317 +1,317 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-11-01T13:03:25+00:00_  
-_Total Runs: 16742_  
-_Letzte Run-Zusammenfassung: 448 scraped, 1 matches, 1 sent_
+_Auto-generiert. Letzter Run: 2026-11-01T13:17:50+00:00_  
+_Total Runs: 16743_  
+_Letzte Run-Zusammenfassung: 451 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
 | Adapter | Scraped (Σ) | Avg/Run | Runs aktiv | Letzte Aktivität | Status |
 |---|---:|---:|---|---|---|
-| Park Avenue Immobilien | 799749 | 47.8 | 16477/16742 | vor 0min | 🟢 aktiv |
+| Park Avenue Immobilien | 799752 | 47.8 | 16478/16743 | vor 0min | 🟢 aktiv |
 | Citigrund | 596772 | 81.6 | 7151/7312 | vor 92d | 🟢 aktiv |
-| KPC Immobilien | 519348 | 34.2 | 15163/15175 | vor 0min | 🟢 aktiv |
-| WSB Bayern | 513947 | 30.7 | 16030/16742 | vor 0min | 🟢 aktiv |
-| Immobilien Schlamp | 503393 | 30.1 | 16647/16742 | vor 0min | 🟢 aktiv |
-| Pandion Service | 490778 | 29.3 | 16737/16742 | vor 0min | 🟢 aktiv |
-| ohne-makler.net | 401635 | 24.0 | 16735/16742 | vor 0min | 🟢 aktiv |
-| WG-Gesucht | 397936 | 23.8 | 14314/16742 | vor 17d | 🟡 inaktiv (lange leer) |
-| Nuroa | 364675 | 21.8 | 16608/16742 | vor 0min | 🟢 aktiv |
-| Immobilo | 347058 | 20.7 | 16719/16742 | vor 0min | 🟢 aktiv |
-| SZ Immobilien | 345063 | 20.6 | 16721/16742 | vor 0min | 🟢 aktiv |
-| Idowa | 335922 | 20.1 | 16722/16742 | vor 0min | 🟢 aktiv |
-| FAZ Immobilien | 319385 | 19.1 | 16720/16742 | vor 0min | 🟢 aktiv |
-| Engel & Völkers | 258969 | 15.5 | 16740/16742 | vor 0min | 🟢 aktiv |
-| BVK Immobilien | 229925 | 24.4 | 9406/9430 | vor 0min | 🟢 aktiv |
-| Heimhuber Immobilien | 184510 | 11.0 | 16716/16742 | vor 0min | 🟢 aktiv |
-| Wegener Immobilien | 184143 | 11.0 | 16741/16742 | vor 0min | 🟢 aktiv |
-| Idowa Altstadt-Lehel | 183238 | 10.9 | 16726/16742 | vor 0min | 🟢 aktiv |
-| Wohnreferat München | 182837 | 10.9 | 16205/16742 | vor 0min | 🟢 aktiv |
-| Immo-Hyp | 135690 | 8.1 | 16705/16742 | vor 0min | 🟢 aktiv |
-| Ab ins Zuhause | 119624 | 7.1 | 14968/16742 | vor 0min | 🟢 aktiv |
-| Hegerich Immobilien | 116913 | 7.0 | 16715/16742 | vor 0min | 🟢 aktiv |
-| Immler Martin Hausverwaltung | 98186 | 5.9 | 16742/16742 | vor 0min | 🟢 aktiv |
-| Franziskanerhof | 97752 | 5.8 | 16720/16742 | vor 0min | 🟢 aktiv |
-| ImmoSmart | 97507 | 5.8 | 15245/16742 | vor 11h | 🟢 aktiv |
-| Chalet Immobilien | 94540 | 5.6 | 16729/16742 | vor 0min | 🟢 aktiv |
-| Rosenberger Immobilien | 87518 | 5.2 | 16683/16742 | vor 0min | 🟢 aktiv |
-| EP Immobilien | 85571 | 5.1 | 16469/16742 | vor 0min | 🟢 aktiv |
-| Norbert Marte Immobilien | 69375 | 4.1 | 7189/16742 | vor 0min | 🟢 aktiv |
-| Sedlmayr AG | 66508 | 4.0 | 16192/16742 | vor 0min | 🟢 aktiv |
-| DIBAG | 65308 | 3.9 | 16327/16742 | vor 0min | 🟢 aktiv |
-| VS Immobilienservice | 60515 | 3.6 | 16736/16742 | vor 0min | 🟢 aktiv |
-| Rohrer Firmengruppe | 57579 | 3.4 | 16619/16742 | vor 0min | 🟢 aktiv |
-| Kleinanzeigen | 51249 | 3.1 | 10592/16742 | vor 61d | 🟡 inaktiv (lange leer) |
-| LPE Immobilien | 50532 | 3.0 | 14408/16742 | vor 0min | 🟢 aktiv |
-| GVG Net | 47863 | 2.9 | 16700/16742 | vor 0min | 🟢 aktiv |
-| Alsaol | 47196 | 2.8 | 16728/16742 | vor 0min | 🟢 aktiv |
-| Pienzenauer Immobilien | 40796 | 2.4 | 12432/16740 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 40056 | 2.4 | 16520/16742 | vor 0min | 🟢 aktiv |
-| Rogers Immobilien | 37512 | 2.2 | 16518/16742 | vor 0min | 🟢 aktiv |
-| KSWM | 36569 | 2.2 | 15662/16742 | vor 0min | 🟢 aktiv |
-| Südhausbau | 27333 | 1.6 | 16067/16742 | vor 0min | 🟢 aktiv |
-| Eichler Immobilien | 26754 | 1.6 | 12683/16742 | vor 26d | 🟡 inaktiv (lange leer) |
-| KLN Immobilien | 23946 | 1.4 | 14465/16742 | vor 0min | 🟢 aktiv |
-| HI Wohnbau | 23858 | 1.4 | 16734/16742 | vor 0min | 🟢 aktiv |
-| Vonovia | 16728 | 1.0 | 16728/16742 | vor 0min | 🟢 aktiv |
-| DAHLER München | 16722 | 1.0 | 16722/16742 | vor 0min | 🟢 aktiv |
-| Maier Immobilien | 16461 | 1.0 | 16461/16742 | vor 0min | 🟢 aktiv |
-| Lehmann Hueber | 15941 | 1.0 | 6060/16742 | vor 104d | 🟡 inaktiv (lange leer) |
-| Dawonia | 15516 | 0.9 | 15516/16742 | vor 0min | 🟢 aktiv |
-| Immobilien Schneider | 14700 | 0.9 | 14700/16742 | vor 14d | 🟡 inaktiv (lange leer) |
-| Immovision München | 13629 | 0.8 | 13629/16742 | vor 0min | 🟢 aktiv |
-| Wagnis | 9617 | 0.6 | 9617/16742 | vor 0min | 🟢 aktiv |
-| Isar Wohnbaugenossenschaft (IWG) | 9212 | 1.0 | 9212/9430 | vor 0min | 🟢 aktiv |
-| Egger Immobilien | 8452 | 0.5 | 8452/16742 | vor 80d | 🟡 inaktiv (lange leer) |
-| Immobilie1 | 5144 | 0.3 | 5144/16742 | vor 27d | 🟡 inaktiv (lange leer) |
-| Email Inbox | 2110 | 0.1 | 1716/16742 | vor 0min | 🟢 aktiv |
-| EBM München | 1501 | 0.1 | 1494/16742 | vor 5d | 🟡 inaktiv (lange leer) |
-| Friedl Maier Immobilien | 487 | 0.0 | 487/16742 | vor 32d | 🟡 inaktiv (lange leer) |
-| Immowelt | 64 | 0.0 | 2/16742 | vor 109d | 🟡 inaktiv (lange leer) |
+| KPC Immobilien | 519384 | 34.2 | 15164/15176 | vor 0min | 🟢 aktiv |
+| WSB Bayern | 513962 | 30.7 | 16031/16743 | vor 0min | 🟢 aktiv |
+| Immobilien Schlamp | 503426 | 30.1 | 16648/16743 | vor 0min | 🟢 aktiv |
+| Pandion Service | 490799 | 29.3 | 16738/16743 | vor 0min | 🟢 aktiv |
+| ohne-makler.net | 401659 | 24.0 | 16736/16743 | vor 0min | 🟢 aktiv |
+| WG-Gesucht | 397936 | 23.8 | 14314/16743 | vor 17d | 🟡 inaktiv (lange leer) |
+| Nuroa | 364700 | 21.8 | 16609/16743 | vor 0min | 🟢 aktiv |
+| Immobilo | 347079 | 20.7 | 16720/16743 | vor 0min | 🟢 aktiv |
+| SZ Immobilien | 345084 | 20.6 | 16722/16743 | vor 0min | 🟢 aktiv |
+| Idowa | 335943 | 20.1 | 16723/16743 | vor 0min | 🟢 aktiv |
+| FAZ Immobilien | 319405 | 19.1 | 16721/16743 | vor 0min | 🟢 aktiv |
+| Engel & Völkers | 258995 | 15.5 | 16741/16743 | vor 0min | 🟢 aktiv |
+| BVK Immobilien | 229950 | 24.4 | 9407/9431 | vor 0min | 🟢 aktiv |
+| Heimhuber Immobilien | 184521 | 11.0 | 16717/16743 | vor 0min | 🟢 aktiv |
+| Wegener Immobilien | 184154 | 11.0 | 16742/16743 | vor 0min | 🟢 aktiv |
+| Idowa Altstadt-Lehel | 183248 | 10.9 | 16727/16743 | vor 0min | 🟢 aktiv |
+| Wohnreferat München | 182847 | 10.9 | 16206/16743 | vor 0min | 🟢 aktiv |
+| Immo-Hyp | 135702 | 8.1 | 16706/16743 | vor 0min | 🟢 aktiv |
+| Ab ins Zuhause | 119632 | 7.1 | 14969/16743 | vor 0min | 🟢 aktiv |
+| Hegerich Immobilien | 116920 | 7.0 | 16716/16743 | vor 0min | 🟢 aktiv |
+| Immler Martin Hausverwaltung | 98190 | 5.9 | 16743/16743 | vor 0min | 🟢 aktiv |
+| Franziskanerhof | 97759 | 5.8 | 16721/16743 | vor 0min | 🟢 aktiv |
+| ImmoSmart | 97507 | 5.8 | 15245/16743 | vor 11h | 🟢 aktiv |
+| Chalet Immobilien | 94546 | 5.6 | 16730/16743 | vor 0min | 🟢 aktiv |
+| Rosenberger Immobilien | 87526 | 5.2 | 16684/16743 | vor 0min | 🟢 aktiv |
+| EP Immobilien | 85578 | 5.1 | 16470/16743 | vor 0min | 🟢 aktiv |
+| Norbert Marte Immobilien | 69382 | 4.1 | 7190/16743 | vor 0min | 🟢 aktiv |
+| Sedlmayr AG | 66514 | 4.0 | 16193/16743 | vor 0min | 🟢 aktiv |
+| DIBAG | 65312 | 3.9 | 16328/16743 | vor 0min | 🟢 aktiv |
+| VS Immobilienservice | 60518 | 3.6 | 16737/16743 | vor 0min | 🟢 aktiv |
+| Rohrer Firmengruppe | 57580 | 3.4 | 16620/16743 | vor 0min | 🟢 aktiv |
+| Kleinanzeigen | 51249 | 3.1 | 10592/16743 | vor 61d | 🟡 inaktiv (lange leer) |
+| LPE Immobilien | 50536 | 3.0 | 14409/16743 | vor 0min | 🟢 aktiv |
+| GVG Net | 47867 | 2.9 | 16701/16743 | vor 0min | 🟢 aktiv |
+| Alsaol | 47197 | 2.8 | 16729/16743 | vor 0min | 🟢 aktiv |
+| Pienzenauer Immobilien | 40805 | 2.4 | 12433/16741 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 40058 | 2.4 | 16521/16743 | vor 0min | 🟢 aktiv |
+| Rogers Immobilien | 37513 | 2.2 | 16519/16743 | vor 0min | 🟢 aktiv |
+| KSWM | 36572 | 2.2 | 15663/16743 | vor 0min | 🟢 aktiv |
+| Südhausbau | 27334 | 1.6 | 16068/16743 | vor 0min | 🟢 aktiv |
+| Eichler Immobilien | 26754 | 1.6 | 12683/16743 | vor 26d | 🟡 inaktiv (lange leer) |
+| KLN Immobilien | 23947 | 1.4 | 14466/16743 | vor 0min | 🟢 aktiv |
+| HI Wohnbau | 23863 | 1.4 | 16735/16743 | vor 0min | 🟢 aktiv |
+| Vonovia | 16729 | 1.0 | 16729/16743 | vor 0min | 🟢 aktiv |
+| DAHLER München | 16723 | 1.0 | 16723/16743 | vor 0min | 🟢 aktiv |
+| Maier Immobilien | 16462 | 1.0 | 16462/16743 | vor 0min | 🟢 aktiv |
+| Lehmann Hueber | 15941 | 1.0 | 6060/16743 | vor 104d | 🟡 inaktiv (lange leer) |
+| Dawonia | 15517 | 0.9 | 15517/16743 | vor 0min | 🟢 aktiv |
+| Immobilien Schneider | 14700 | 0.9 | 14700/16743 | vor 14d | 🟡 inaktiv (lange leer) |
+| Immovision München | 13630 | 0.8 | 13630/16743 | vor 0min | 🟢 aktiv |
+| Wagnis | 9618 | 0.6 | 9618/16743 | vor 0min | 🟢 aktiv |
+| Isar Wohnbaugenossenschaft (IWG) | 9213 | 1.0 | 9213/9431 | vor 0min | 🟢 aktiv |
+| Egger Immobilien | 8452 | 0.5 | 8452/16743 | vor 80d | 🟡 inaktiv (lange leer) |
+| Immobilie1 | 5144 | 0.3 | 5144/16743 | vor 27d | 🟡 inaktiv (lange leer) |
+| Email Inbox | 2110 | 0.1 | 1716/16743 | vor 14min | 🟢 aktiv |
+| EBM München | 1501 | 0.1 | 1494/16743 | vor 5d | 🟡 inaktiv (lange leer) |
+| Friedl Maier Immobilien | 487 | 0.0 | 487/16743 | vor 32d | 🟡 inaktiv (lange leer) |
+| Immowelt | 64 | 0.0 | 2/16743 | vor 109d | 🟡 inaktiv (lange leer) |
 | Drescher Immobilien | 20 | 10.0 | 2/2 | vor 165d | 🟢 aktiv |
 | Munich Property | 10 | 5.0 | 2/2 | vor 165d | 🟢 aktiv |
-| Immobilien Lederer | 8 | 0.0 | 4/16742 | vor 1d | 🟡 inaktiv (lange leer) |
-| A&C Immobilien | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| ACM Immobilien Hausverwaltung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
+| Immobilien Lederer | 8 | 0.0 | 4/16743 | vor 1d | 🟡 inaktiv (lange leer) |
+| A&C Immobilien | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| ACM Immobilien Hausverwaltung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
 | ADM GmbH Hausverwaltung | 0 | 0.0 | 0/2 | nie | ⚪ leer (nie aktiv) |
-| admincasa Hausverwaltung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| ADVISUM Hausverwaltung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
+| admincasa Hausverwaltung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| ADVISUM Hausverwaltung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
 | Aigner Immobilien | 0 | 0.0 | 0/2 | nie | ⚪ leer (nie aktiv) |
-| AIMAG Immobilien-Management | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Andreas Hage Immobilien | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
+| AIMAG Immobilien-Management | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Andreas Hage Immobilien | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
 | anima Immobilien Verwaltung | 0 | 0.0 | 0/2 | nie | ⚪ leer (nie aktiv) |
-| Apfelbeck | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| ARCO / Zinkl Hausverwaltung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Arendt Hausverwaltung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Arivon Service | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Arnold Ingeborg Immobilien | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| ASI Immobilienverwaltungen | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
+| Apfelbeck | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| ARCO / Zinkl Hausverwaltung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Arendt Hausverwaltung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Arivon Service | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Arnold Ingeborg Immobilien | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| ASI Immobilienverwaltungen | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
 | Aufbau West Innovationspark HV | 0 | 0.0 | 0/2 | nie | ⚪ leer (nie aktiv) |
-| AV Immobilien | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| AWV München | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
+| AV Immobilien | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| AWV München | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
 | B.I.G. Hausverwaltung | 0 | 0.0 | 0/2 | nie | ⚪ leer (nie aktiv) |
-| Baugenossenschaft München-Süd | 0 | 0.0 | 0/9430 | nie | ⚪ leer (nie aktiv) |
-| Baugenossenschaft von 1871 | 0 | 0.0 | 0/9430 | nie | ⚪ leer (nie aktiv) |
-| Bauverein Giesing | 0 | 0.0 | 0/9430 | nie | ⚪ leer (nie aktiv) |
-| Bauverein München-Haidhausen | 0 | 0.0 | 0/9430 | nie | ⚪ leer (nie aktiv) |
+| Baugenossenschaft München-Süd | 0 | 0.0 | 0/9431 | nie | ⚪ leer (nie aktiv) |
+| Baugenossenschaft von 1871 | 0 | 0.0 | 0/9431 | nie | ⚪ leer (nie aktiv) |
+| Bauverein Giesing | 0 | 0.0 | 0/9431 | nie | ⚪ leer (nie aktiv) |
+| Bauverein München-Haidhausen | 0 | 0.0 | 0/9431 | nie | ⚪ leer (nie aktiv) |
 | Bayerische Hausbau Management | 0 | 0.0 | 0/2 | nie | ⚪ leer (nie aktiv) |
-| Bayerische Immobilien Management | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| BayernHeim | 0 | 0.0 | 0/9430 | nie | ⚪ leer (nie aktiv) |
+| Bayerische Immobilien Management | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| BayernHeim | 0 | 0.0 | 0/9431 | nie | ⚪ leer (nie aktiv) |
 | BC Hausverwaltung & Immobilien | 0 | 0.0 | 0/2 | nie | ⚪ leer (nie aktiv) |
-| Bettinger Norbert Hausverwaltung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| BG Hartmannshofen | 0 | 0.0 | 0/9430 | nie | ⚪ leer (nie aktiv) |
-| BG München-Oberwiesenfeld | 0 | 0.0 | 0/9430 | nie | ⚪ leer (nie aktiv) |
-| Boos & Co Verwaltung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Born Wohnungsbau | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Bossert Immobilien | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| BPL Immobilien | 0 | 0.0 | 0/9430 | nie | ⚪ leer (nie aktiv) |
-| BPV Hausverwaltung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Brauner Fred Hausverwaltung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| BUWOG Immobilien Treuhand | 0 | 0.0 | 0/9430 | nie | ⚪ leer (nie aktiv) |
-| BVG Verwaltung | 0 | 0.0 | 0/9430 | nie | ⚪ leer (nie aktiv) |
-| CAPERA Immobilien | 0 | 0.0 | 0/9430 | nie | ⚪ leer (nie aktiv) |
+| Bettinger Norbert Hausverwaltung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| BG Hartmannshofen | 0 | 0.0 | 0/9431 | nie | ⚪ leer (nie aktiv) |
+| BG München-Oberwiesenfeld | 0 | 0.0 | 0/9431 | nie | ⚪ leer (nie aktiv) |
+| Boos & Co Verwaltung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Born Wohnungsbau | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Bossert Immobilien | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| BPL Immobilien | 0 | 0.0 | 0/9431 | nie | ⚪ leer (nie aktiv) |
+| BPV Hausverwaltung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Brauner Fred Hausverwaltung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| BUWOG Immobilien Treuhand | 0 | 0.0 | 0/9431 | nie | ⚪ leer (nie aktiv) |
+| BVG Verwaltung | 0 | 0.0 | 0/9431 | nie | ⚪ leer (nie aktiv) |
+| CAPERA Immobilien | 0 | 0.0 | 0/9431 | nie | ⚪ leer (nie aktiv) |
 | Castle Eigentum | 0 | 0.0 | 0/2 | nie | ⚪ leer (nie aktiv) |
-| CM CASA Hausverwaltung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Cohaus München | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Concept-Real Hausverwaltungs | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Constantis | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| conta Immobilien-Gruppe | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| D. Baumann Immobilien | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
+| CM CASA Hausverwaltung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Cohaus München | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Concept-Real Hausverwaltungs | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Constantis | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| conta Immobilien-Gruppe | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| D. Baumann Immobilien | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
 | Dall'Armi Immobilienverwaltung | 0 | 0.0 | 0/2 | nie | ⚪ leer (nie aktiv) |
-| Danhuber Haus- und Vermögensverwaltung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| DHG-Hausverwaltung Fischbaum | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Dietzel GbR Vermietung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Diez Grundstücks | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Dimperl & Sohn Hausverwaltung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| DOMINO Haus- und Grundbesitz | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Dr. Hanns Maier / Hamabau | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Drost & Reidler / Voelkner | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
+| Danhuber Haus- und Vermögensverwaltung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| DHG-Hausverwaltung Fischbaum | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Dietzel GbR Vermietung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Diez Grundstücks | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Dimperl & Sohn Hausverwaltung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| DOMINO Haus- und Grundbesitz | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Dr. Hanns Maier / Hamabau | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Drost & Reidler / Voelkner | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
 | E. Schmaus Hausverwaltung | 0 | 0.0 | 0/2 | nie | ⚪ leer (nie aktiv) |
 | EFIMA AG | 0 | 0.0 | 0/2 | nie | ⚪ leer (nie aktiv) |
-| EIGENSCHINK Grundstücksverwaltung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Eisenbahner-BG München-Ost | 0 | 0.0 | 0/9430 | nie | ⚪ leer (nie aktiv) |
-| ELVIRA Immo | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
+| EIGENSCHINK Grundstücksverwaltung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Eisenbahner-BG München-Ost | 0 | 0.0 | 0/9431 | nie | ⚪ leer (nie aktiv) |
+| ELVIRA Immo | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
 | Empetus Hausverwaltung | 0 | 0.0 | 0/2 | nie | ⚪ leer (nie aktiv) |
-| Enzenhöfer Hausverwaltung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Erl Wilhelm Verwaltung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| ERTL.IMMO | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
+| Enzenhöfer Hausverwaltung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Erl Wilhelm Verwaltung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| ERTL.IMMO | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
 | Etcos Immobilien Management | 0 | 0.0 | 0/2 | nie | ⚪ leer (nie aktiv) |
-| F. Schlagenhaufer Hausverwaltung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| FGHM | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Finestep Immobilien | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| First Class Immobilien | 0 | 0.0 | 0/15175 | nie | ⚪ leer (nie aktiv) |
+| F. Schlagenhaufer Hausverwaltung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| FGHM | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Finestep Immobilien | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| First Class Immobilien | 0 | 0.0 | 0/15176 | nie | ⚪ leer (nie aktiv) |
 | Fischer / Keilich Hausverwaltung | 0 | 0.0 | 0/2 | nie | ⚪ leer (nie aktiv) |
-| Fleckenstein Immobilien | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Foisinger Miethausverwaltungen | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
+| Fleckenstein Immobilien | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Foisinger Miethausverwaltungen | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
 | Franke & Leal Hausverwaltung | 0 | 0.0 | 0/2 | nie | ⚪ leer (nie aktiv) |
-| Fries & Co Grundstücksverwaltung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Fritz Kuschel u Söhne | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Fritz N. Osterried Immobilien | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Frommhold Maximilian Hausverwaltung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| G&S Hausverwaltung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Garant Immo | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
+| Fries & Co Grundstücksverwaltung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Fritz Kuschel u Söhne | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Fritz N. Osterried Immobilien | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Frommhold Maximilian Hausverwaltung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| G&S Hausverwaltung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Garant Immo | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
 | GATT Hausverwaltung | 0 | 0.0 | 0/2 | nie | ⚪ leer (nie aktiv) |
-| Gegenfurtner Helmut Hausverwaltung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| GEMA Gebäudemanagement | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| GFBW München | 0 | 0.0 | 0/9430 | nie | ⚪ leer (nie aktiv) |
-| GFF Hausverwaltung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| GID München | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
+| Gegenfurtner Helmut Hausverwaltung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| GEMA Gebäudemanagement | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| GFBW München | 0 | 0.0 | 0/9431 | nie | ⚪ leer (nie aktiv) |
+| GFF Hausverwaltung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| GID München | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
 | GLOBAL Institut Immobilien | 0 | 0.0 | 0/2 | nie | ⚪ leer (nie aktiv) |
-| Graphigrund Hausverwaltung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Grassl Gertraud Hausverwaltung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Gruber Günther Hausverwaltung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Gruber Herbert Hausverwaltung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| GWG Gruppe München | 0 | 0.0 | 0/9430 | nie | ⚪ leer (nie aktiv) |
+| Graphigrund Hausverwaltung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Grassl Gertraud Hausverwaltung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Gruber Günther Hausverwaltung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Gruber Herbert Hausverwaltung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| GWG Gruppe München | 0 | 0.0 | 0/9431 | nie | ⚪ leer (nie aktiv) |
 | Günthert & Gollmann | 0 | 0.0 | 0/2 | nie | ⚪ leer (nie aktiv) |
-| HADIEFA Hausverwaltung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
+| HADIEFA Hausverwaltung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
 | Hahn & Schmid Immobilien | 0 | 0.0 | 0/2 | nie | ⚪ leer (nie aktiv) |
-| Hammerla Hausverwaltung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Hans Sieber | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
+| Hammerla Hausverwaltung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Hans Sieber | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
 | Harinali | 0 | 0.0 | 0/2 | nie | ⚪ leer (nie aktiv) |
-| HARPUT | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Hartlaub / Cocon Immobilienstiftung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Hartmann Immoinvest | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Haus-Treu-Süd | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Hausgrund München | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Hauskonzept Hausverwaltungs | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Hausverwaltung Geisinger | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Hausverwaltung Heinz Zimmermann | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Hausverwaltung Moosach / Meinhart | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Hausverwaltung Nymphenburg HVN | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Hausverwaltung Pharao | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Hausverwaltung Potzler | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Hausverwaltung Schmidt | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Hausverwaltung WEMA | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Hausverwaltung-SG | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| HAVAU Immobilien | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Heimbau Bayern | 0 | 0.0 | 0/9430 | nie | ⚪ leer (nie aktiv) |
-| Heimstättenbaugenossenschaft Pasing | 0 | 0.0 | 0/9430 | nie | ⚪ leer (nie aktiv) |
-| Herbst Immobilienverwaltung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| HGSK Hausverwaltung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Hinterseer Peter Hausverwaltung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| HIS Real Estate | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| HOMEFacilities Seelbach | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Homewise GmbH | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Horrer Immobilien | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| HS-Immoteam | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| HV Durner | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| HV Papa | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| HVK Grundbesitz | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Häusl | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Häusl Peter Hausverwaltung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| ifena Hausverwaltung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| IGEWO | 0 | 0.0 | 0/9430 | nie | ⚪ leer (nie aktiv) |
+| HARPUT | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Hartlaub / Cocon Immobilienstiftung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Hartmann Immoinvest | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Haus-Treu-Süd | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Hausgrund München | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Hauskonzept Hausverwaltungs | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Hausverwaltung Geisinger | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Hausverwaltung Heinz Zimmermann | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Hausverwaltung Moosach / Meinhart | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Hausverwaltung Nymphenburg HVN | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Hausverwaltung Pharao | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Hausverwaltung Potzler | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Hausverwaltung Schmidt | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Hausverwaltung WEMA | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Hausverwaltung-SG | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| HAVAU Immobilien | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Heimbau Bayern | 0 | 0.0 | 0/9431 | nie | ⚪ leer (nie aktiv) |
+| Heimstättenbaugenossenschaft Pasing | 0 | 0.0 | 0/9431 | nie | ⚪ leer (nie aktiv) |
+| Herbst Immobilienverwaltung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| HGSK Hausverwaltung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Hinterseer Peter Hausverwaltung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| HIS Real Estate | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| HOMEFacilities Seelbach | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Homewise GmbH | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Horrer Immobilien | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| HS-Immoteam | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| HV Durner | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| HV Papa | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| HVK Grundbesitz | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Häusl | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Häusl Peter Hausverwaltung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| ifena Hausverwaltung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| IGEWO | 0 | 0.0 | 0/9431 | nie | ⚪ leer (nie aktiv) |
 | ihr-WEGVerwalter | 0 | 0.0 | 0/2 | nie | ⚪ leer (nie aktiv) |
-| IMCON Immobilien Consulting | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Immobilien Boos | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Immobilien Mößel | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Immobilien PS | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Immobilien Zippold | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Immobilienbüro 24 | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Impro Hausverwaltung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| IMV Immobilien Management | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Interco Grundbesitz / Suedboden | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| IntigrA Immobilien Management | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Isaria Hausverwaltung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| J. Rüprich Hausverwaltungen | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
+| IMCON Immobilien Consulting | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Immobilien Boos | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Immobilien Mößel | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Immobilien PS | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Immobilien Zippold | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Immobilienbüro 24 | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Impro Hausverwaltung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| IMV Immobilien Management | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Interco Grundbesitz / Suedboden | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| IntigrA Immobilien Management | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Isaria Hausverwaltung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| J. Rüprich Hausverwaltungen | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
 | Johann Landstorfer Immobilien | 0 | 0.0 | 0/2 | nie | ⚪ leer (nie aktiv) |
-| Jugan Investmentverwaltung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Kaltenberger HV | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| KIP Immobilien | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| KITHAN GmbH | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| KLATTE Immobilien | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Klaus Hausverwaltung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Krautbauer Ernst Immobilien | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Kribitzneck Anton Hausverwaltung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Krinninger Immobilien | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Küffel Werner Hausverwaltung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Landlord Immobilien Verwaltung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Lederer Max | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| LEG Wohnen | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
+| Jugan Investmentverwaltung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Kaltenberger HV | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| KIP Immobilien | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| KITHAN GmbH | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| KLATTE Immobilien | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Klaus Hausverwaltung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Krautbauer Ernst Immobilien | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Kribitzneck Anton Hausverwaltung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Krinninger Immobilien | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Küffel Werner Hausverwaltung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Landlord Immobilien Verwaltung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Lederer Max | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| LEG Wohnen | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
 | Leuchtenberger Immobilien | 0 | 0.0 | 0/2 | nie | ⚪ leer (nie aktiv) |
-| LIKKA Immobilien | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Ljubicic Hausverwaltung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| M-Haus Hausverwaltung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Maneum Hausverwaltung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| MARAX | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Margot Ludl Immobilienbetreuung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
+| LIKKA Immobilien | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Ljubicic Hausverwaltung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| M-Haus Hausverwaltung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Maneum Hausverwaltung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| MARAX | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Margot Ludl Immobilienbetreuung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
 | meinestadt.de München | 0 | 0.0 | 0/2 | nie | ⚪ leer (nie aktiv) |
-| Merkl Haus- und Grundstücksverwaltung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| MG Haus- und Vermögensverwaltung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| MHM Hausverwaltungs | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Minga HV | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| MONACHIA | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| MSH Immobilien | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| MuM Real Estates / Winkler | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
+| Merkl Haus- und Grundstücksverwaltung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| MG Haus- und Vermögensverwaltung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| MHM Hausverwaltungs | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Minga HV | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| MONACHIA | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| MSH Immobilien | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| MuM Real Estates / Winkler | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
 | Mutzhas Immobilien | 0 | 0.0 | 0/2 | nie | ⚪ leer (nie aktiv) |
 | mvh Immobilienverwaltung München | 0 | 0.0 | 0/2 | nie | ⚪ leer (nie aktiv) |
-| München Inter Hausverwaltung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Münchener Kleinwohnungs-BG | 0 | 0.0 | 0/9430 | nie | ⚪ leer (nie aktiv) |
-| Münchner Baugenossenschaft | 0 | 0.0 | 0/9430 | nie | ⚪ leer (nie aktiv) |
-| Münchner Mietbörse | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Münchner Wochenanzeiger | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Münchner Wohnen | 0 | 0.0 | 0/9430 | nie | ⚪ leer (nie aktiv) |
-| Münchner Zentralbaugenossenschaft | 0 | 0.0 | 0/9430 | nie | ⚪ leer (nie aktiv) |
+| München Inter Hausverwaltung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Münchener Kleinwohnungs-BG | 0 | 0.0 | 0/9431 | nie | ⚪ leer (nie aktiv) |
+| Münchner Baugenossenschaft | 0 | 0.0 | 0/9431 | nie | ⚪ leer (nie aktiv) |
+| Münchner Mietbörse | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Münchner Wochenanzeiger | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Münchner Wohnen | 0 | 0.0 | 0/9431 | nie | ⚪ leer (nie aktiv) |
+| Münchner Zentralbaugenossenschaft | 0 | 0.0 | 0/9431 | nie | ⚪ leer (nie aktiv) |
 | Nymphenburger Grund Verwaltung | 0 | 0.0 | 0/2 | nie | ⚪ leer (nie aktiv) |
-| OBM Hausverwaltung München | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Oellbrunner | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Oertle Hausverwaltung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Omnium Hausverwaltung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
+| OBM Hausverwaltung München | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Oellbrunner | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Oertle Hausverwaltung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Omnium Hausverwaltung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
 | P. Traut Hausverwaltung | 0 | 0.0 | 0/2 | nie | ⚪ leer (nie aktiv) |
-| PARTNER Immobilien Vermittlung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
+| PARTNER Immobilien Vermittlung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
 | PARTNER Immobilien-Verwaltung | 0 | 0.0 | 0/2 | nie | ⚪ leer (nie aktiv) |
-| Peter Wild | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Postbaugenossenschaft München | 0 | 0.0 | 0/9430 | nie | ⚪ leer (nie aktiv) |
-| Prager Liegenschaftsverwaltung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Projekt M Immobilien | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Prospera Immobilien | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Pöttinger | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| RB Vermögensverwaltung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| RE/MAX Prime München | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Riedel Immobilien | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Riedl Hausverwaltung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Ries Immobilien KG | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Roedel / DerWohnraum | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Roethig Immobilien | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Rohrer Immobilien | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Roth Immobilienverwaltung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Rudolf Schäfer | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| S2H Immobilienmanagement | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Schad & Nebauer | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Schaefer Christian Hausverwaltung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Schenk Mariele Hausverwaltung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Schmid Stefan Hausverwaltung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
+| Peter Wild | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Postbaugenossenschaft München | 0 | 0.0 | 0/9431 | nie | ⚪ leer (nie aktiv) |
+| Prager Liegenschaftsverwaltung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Projekt M Immobilien | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Prospera Immobilien | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Pöttinger | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| RB Vermögensverwaltung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| RE/MAX Prime München | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Riedel Immobilien | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Riedl Hausverwaltung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Ries Immobilien KG | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Roedel / DerWohnraum | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Roethig Immobilien | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Rohrer Immobilien | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Roth Immobilienverwaltung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Rudolf Schäfer | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| S2H Immobilienmanagement | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Schad & Nebauer | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Schaefer Christian Hausverwaltung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Schenk Mariele Hausverwaltung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Schmid Stefan Hausverwaltung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
 | Schuhmann Verwaltung | 0 | 0.0 | 0/2 | nie | ⚪ leer (nie aktiv) |
-| Schwabinger Immobilien | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Schwerdt Tobias Immobilien | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Schön Immobilien | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| SEHAG Hausverwaltung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| SIS Immobilien | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Solitär Immobilienverwaltung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Sollner Grundbesitzverwaltung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Sonntag Horst Hausverwaltung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Stockmayr-Kielleuthner | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Stoll Hausverwaltungen | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Strondl Hausverwaltung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Tectareal Property Management | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
+| Schwabinger Immobilien | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Schwerdt Tobias Immobilien | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Schön Immobilien | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| SEHAG Hausverwaltung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| SIS Immobilien | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Solitär Immobilienverwaltung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Sollner Grundbesitzverwaltung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Sonntag Horst Hausverwaltung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Stockmayr-Kielleuthner | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Stoll Hausverwaltungen | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Strondl Hausverwaltung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Tectareal Property Management | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
 | Teichmann Hausverwaltungen | 0 | 0.0 | 0/2 | nie | ⚪ leer (nie aktiv) |
-| TERRA Danhuber | 0 | 0.0 | 0/9430 | nie | ⚪ leer (nie aktiv) |
-| TUM Living | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Urbanski Hausverwaltung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Versicherungskammer Bayern | 0 | 0.0 | 0/9430 | nie | ⚪ leer (nie aktiv) |
-| VfV München | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| VfW Verein für Wohnungskultur | 0 | 0.0 | 0/9430 | nie | ⚪ leer (nie aktiv) |
-| VITA-Hausverwaltung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| VOGT Gebäudeverwaltung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| VOGT Holger Immobilien | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
+| TERRA Danhuber | 0 | 0.0 | 0/9431 | nie | ⚪ leer (nie aktiv) |
+| TUM Living | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Urbanski Hausverwaltung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Versicherungskammer Bayern | 0 | 0.0 | 0/9431 | nie | ⚪ leer (nie aktiv) |
+| VfV München | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| VfW Verein für Wohnungskultur | 0 | 0.0 | 0/9431 | nie | ⚪ leer (nie aktiv) |
+| VITA-Hausverwaltung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| VOGT Gebäudeverwaltung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| VOGT Holger Immobilien | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
 | Von Poll | 0 | 0.0 | 0/2 | nie | ⚪ leer (nie aktiv) |
-| VR-Bank München Land | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Walger Grundstücksverwaltung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Walser Immobiliengruppe | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Westfalia Immobilienverwaltung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| WG München-Pasing | 0 | 0.0 | 0/9430 | nie | ⚪ leer (nie aktiv) |
-| Wogeno München | 0 | 0.0 | 0/9430 | nie | ⚪ leer (nie aktiv) |
-| Wohnglück | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Wohnungsboerse | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Wottschal Marina / Immowot | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
-| Zenveo Hausverwaltung | 0 | 0.0 | 0/16742 | nie | ⚪ leer (nie aktiv) |
+| VR-Bank München Land | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Walger Grundstücksverwaltung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Walser Immobiliengruppe | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Westfalia Immobilienverwaltung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| WG München-Pasing | 0 | 0.0 | 0/9431 | nie | ⚪ leer (nie aktiv) |
+| Wogeno München | 0 | 0.0 | 0/9431 | nie | ⚪ leer (nie aktiv) |
+| Wohnglück | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Wohnungsboerse | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Wottschal Marina / Immowot | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
+| Zenveo Hausverwaltung | 0 | 0.0 | 0/16743 | nie | ⚪ leer (nie aktiv) |
