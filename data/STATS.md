@@ -1,6 +1,6 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-11-01T13:47:38+00:00_  
+_Auto-generiert. Letzter Run: 2026-11-01T13:50:06+00:00_  
 _Total Runs: 16745_  
 _Letzte Run-Zusammenfassung: 451 scraped, 0 matches, 0 sent_
 
@@ -64,7 +64,7 @@ _Letzte Run-Zusammenfassung: 451 scraped, 0 matches, 0 sent_
 | Isar Wohnbaugenossenschaft (IWG) | 9215 | 1.0 | 9215/9433 | vor 0min | 🟢 aktiv |
 | Egger Immobilien | 8452 | 0.5 | 8452/16745 | vor 80d | 🟡 inaktiv (lange leer) |
 | Immobilie1 | 5144 | 0.3 | 5144/16745 | vor 27d | 🟡 inaktiv (lange leer) |
-| Email Inbox | 2111 | 0.1 | 1717/16745 | vor 14min | 🟢 aktiv |
+| Email Inbox | 2111 | 0.1 | 1717/16745 | vor 17min | 🟢 aktiv |
 | EBM München | 1501 | 0.1 | 1494/16745 | vor 5d | 🟡 inaktiv (lange leer) |
 | Friedl Maier Immobilien | 487 | 0.0 | 487/16745 | vor 32d | 🟡 inaktiv (lange leer) |
 | Immowelt | 64 | 0.0 | 2/16745 | vor 109d | 🟡 inaktiv (lange leer) |
