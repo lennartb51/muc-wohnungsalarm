@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-11-04T23:47:50+00:00_  
+_Auto-generiert. Letzter Run: 2026-11-04T23:50:31+00:00_  
 _Total Runs: 17077_  
-_Letzte Run-Zusammenfassung: 458 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 460 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -46,7 +46,7 @@ _Letzte Run-Zusammenfassung: 458 scraped, 0 matches, 0 sent_
 | GVG Net | 49372 | 2.9 | 17035/17077 | vor 0min | 🟢 aktiv |
 | Alsaol | 47531 | 2.8 | 17063/17077 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 44390 | 2.6 | 12763/17075 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 40881 | 2.4 | 16855/17077 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 40882 | 2.4 | 16855/17077 | vor 0min | 🟢 aktiv |
 | KSWM | 37845 | 2.2 | 15996/17077 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 37845 | 2.2 | 16851/17077 | vor 0min | 🟢 aktiv |
 | Südhausbau | 27692 | 1.6 | 16402/17077 | vor 0min | 🟢 aktiv |
@@ -55,7 +55,7 @@ _Letzte Run-Zusammenfassung: 458 scraped, 0 matches, 0 sent_
 | KLN Immobilien | 24513 | 1.4 | 14796/17077 | vor 0min | 🟢 aktiv |
 | Vonovia | 17062 | 1.0 | 17062/17077 | vor 0min | 🟢 aktiv |
 | DAHLER München | 17057 | 1.0 | 17057/17077 | vor 0min | 🟢 aktiv |
-| Maier Immobilien | 16795 | 1.0 | 16795/17077 | vor 14min | 🟢 aktiv |
+| Maier Immobilien | 16796 | 1.0 | 16796/17077 | vor 0min | 🟢 aktiv |
 | Lehmann Hueber | 15941 | 0.9 | 6060/17077 | vor 107d | 🟡 inaktiv (lange leer) |
 | Dawonia | 15851 | 0.9 | 15851/17077 | vor 0min | 🟢 aktiv |
 | Immobilien Schneider | 14820 | 0.9 | 14820/17077 | vor 0min | 🟢 aktiv |
