@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-11-08T08:45:30+00:00_  
+_Auto-generiert. Letzter Run: 2026-11-08T08:48:01+00:00_  
 _Total Runs: 17404_  
-_Letzte Run-Zusammenfassung: 442 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 444 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -46,7 +46,7 @@ _Letzte Run-Zusammenfassung: 442 scraped, 0 matches, 0 sent_
 | GVG Net | 51052 | 2.9 | 17362/17404 | vor 0min | 🟢 aktiv |
 | Pienzenauer Immobilien | 48242 | 2.8 | 13084/17402 | vor 0min | 🟢 aktiv |
 | Alsaol | 47858 | 2.7 | 17390/17404 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 41676 | 2.4 | 17182/17404 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 41677 | 2.4 | 17182/17404 | vor 0min | 🟢 aktiv |
 | KSWM | 39777 | 2.3 | 16323/17404 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 38169 | 2.2 | 17175/17404 | vor 0min | 🟢 aktiv |
 | Südhausbau | 28019 | 1.6 | 16729/17404 | vor 0min | 🟢 aktiv |
@@ -58,13 +58,13 @@ _Letzte Run-Zusammenfassung: 442 scraped, 0 matches, 0 sent_
 | Maier Immobilien | 17123 | 1.0 | 17123/17404 | vor 0min | 🟢 aktiv |
 | Dawonia | 16178 | 0.9 | 16178/17404 | vor 0min | 🟢 aktiv |
 | Lehmann Hueber | 15941 | 0.9 | 6060/17404 | vor 110d | 🟡 inaktiv (lange leer) |
-| Immobilien Schneider | 15145 | 0.9 | 15145/17404 | vor 12min | 🟢 aktiv |
+| Immobilien Schneider | 15146 | 0.9 | 15146/17404 | vor 0min | 🟢 aktiv |
 | Immovision München | 14285 | 0.8 | 14285/17404 | vor 0min | 🟢 aktiv |
 | Wagnis | 10279 | 0.6 | 10279/17404 | vor 0min | 🟢 aktiv |
 | Isar Wohnbaugenossenschaft (IWG) | 9873 | 1.0 | 9873/10092 | vor 0min | 🟢 aktiv |
 | Egger Immobilien | 8452 | 0.5 | 8452/17404 | vor 86d | 🟡 inaktiv (lange leer) |
 | Immobilie1 | 5144 | 0.3 | 5144/17404 | vor 34d | 🟡 inaktiv (lange leer) |
-| Email Inbox | 2215 | 0.1 | 1790/17404 | vor 12min | 🟢 aktiv |
+| Email Inbox | 2215 | 0.1 | 1790/17404 | vor 14min | 🟢 aktiv |
 | EBM München | 1570 | 0.1 | 1563/17404 | vor 4d | 🟡 inaktiv (lange leer) |
 | Friedl Maier Immobilien | 487 | 0.0 | 487/17404 | vor 38d | 🟡 inaktiv (lange leer) |
 | Immowelt | 64 | 0.0 | 2/17404 | vor 116d | 🟡 inaktiv (lange leer) |
