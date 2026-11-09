@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-11-09T05:18:00+00:00_  
+_Auto-generiert. Letzter Run: 2026-11-09T05:20:39+00:00_  
 _Total Runs: 17488_  
-_Letzte Run-Zusammenfassung: 447 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 446 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -33,7 +33,7 @@ _Letzte Run-Zusammenfassung: 447 scraped, 0 matches, 0 sent_
 | Franziskanerhof | 103135 | 5.9 | 17464/17488 | vor 0min | 🟢 aktiv |
 | Immler Martin Hausverwaltung | 101170 | 5.8 | 17488/17488 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 98748 | 5.6 | 17475/17488 | vor 0min | 🟢 aktiv |
-| ImmoSmart | 98243 | 5.6 | 15981/17488 | vor 0min | 🟢 aktiv |
+| ImmoSmart | 98242 | 5.6 | 15980/17488 | vor 47min | 🟢 aktiv |
 | Rosenberger Immobilien | 93462 | 5.3 | 17426/17488 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 91141 | 5.2 | 17215/17488 | vor 0min | 🟢 aktiv |
 | Norbert Marte Immobilien | 73911 | 4.2 | 7932/17488 | vor 0min | 🟢 aktiv |
