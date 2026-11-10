@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-11-10T20:32:40+00:00_  
+_Auto-generiert. Letzter Run: 2026-11-10T20:35:33+00:00_  
 _Total Runs: 17645_  
-_Letzte Run-Zusammenfassung: 437 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 444 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -46,8 +46,8 @@ _Letzte Run-Zusammenfassung: 437 scraped, 0 matches, 0 sent_
 | Kleinanzeigen | 51249 | 2.9 | 10592/17645 | vor 70d | 🟡 inaktiv (lange leer) |
 | Pienzenauer Immobilien | 51237 | 2.9 | 13324/17643 | vor 0min | 🟢 aktiv |
 | Alsaol | 48099 | 2.7 | 17631/17645 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 42296 | 2.4 | 17423/17645 | vor 0min | 🟢 aktiv |
-| KSWM | 41155 | 2.3 | 16556/17645 | vor 14min | 🟢 aktiv |
+| Scheel Immobilien | 42297 | 2.4 | 17423/17645 | vor 0min | 🟢 aktiv |
+| KSWM | 41161 | 2.3 | 16557/17645 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 38409 | 2.2 | 17415/17645 | vor 0min | 🟢 aktiv |
 | HI Wohnbau | 28373 | 1.6 | 17637/17645 | vor 0min | 🟢 aktiv |
 | Südhausbau | 28260 | 1.6 | 16970/17645 | vor 0min | 🟢 aktiv |
