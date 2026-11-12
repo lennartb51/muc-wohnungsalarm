@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-11-12T11:31:41+00:00_  
+_Auto-generiert. Letzter Run: 2026-11-12T11:34:24+00:00_  
 _Total Runs: 17803_  
-_Letzte Run-Zusammenfassung: 457 scraped, 2 matches, 2 sent_
+_Letzte Run-Zusammenfassung: 465 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -37,7 +37,7 @@ _Letzte Run-Zusammenfassung: 457 scraped, 2 matches, 2 sent_
 | Rosenberger Immobilien | 95880 | 5.4 | 17740/17803 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 93661 | 5.3 | 17530/17803 | vor 0min | 🟢 aktiv |
 | Norbert Marte Immobilien | 75841 | 4.3 | 8247/17803 | vor 0min | 🟢 aktiv |
-| Sedlmayr AG | 75073 | 4.2 | 17242/17803 | vor 13min | 🟢 aktiv |
+| Sedlmayr AG | 75084 | 4.2 | 17243/17803 | vor 0min | 🟢 aktiv |
 | DIBAG | 69544 | 3.9 | 17386/17803 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 64066 | 3.6 | 17797/17803 | vor 0min | 🟢 aktiv |
 | Rohrer Firmengruppe | 59690 | 3.4 | 17680/17803 | vor 0min | 🟢 aktiv |
@@ -46,7 +46,7 @@ _Letzte Run-Zusammenfassung: 457 scraped, 2 matches, 2 sent_
 | GVG Net | 52762 | 3.0 | 17761/17803 | vor 0min | 🟢 aktiv |
 | Kleinanzeigen | 51249 | 2.9 | 10592/17803 | vor 72d | 🟡 inaktiv (lange leer) |
 | Alsaol | 48257 | 2.7 | 17789/17803 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 42626 | 2.4 | 17581/17803 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 42625 | 2.4 | 17581/17803 | vor 0min | 🟢 aktiv |
 | KSWM | 41977 | 2.4 | 16691/17803 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 38566 | 2.2 | 17572/17803 | vor 0min | 🟢 aktiv |
 | HI Wohnbau | 29163 | 1.6 | 17795/17803 | vor 0min | 🟢 aktiv |
@@ -64,7 +64,7 @@ _Letzte Run-Zusammenfassung: 457 scraped, 2 matches, 2 sent_
 | Isar Wohnbaugenossenschaft (IWG) | 10272 | 1.0 | 10272/10491 | vor 0min | 🟢 aktiv |
 | Egger Immobilien | 8452 | 0.5 | 8452/17803 | vor 91d | 🟡 inaktiv (lange leer) |
 | Immobilie1 | 5144 | 0.3 | 5144/17803 | vor 38d | 🟡 inaktiv (lange leer) |
-| Email Inbox | 2276 | 0.1 | 1832/17803 | vor 0min | 🟢 aktiv |
+| Email Inbox | 2274 | 0.1 | 1831/17803 | vor 3h | 🟢 aktiv |
 | EBM München | 1639 | 0.1 | 1632/17803 | vor 2d | 🟡 inaktiv (lange leer) |
 | Friedl Maier Immobilien | 487 | 0.0 | 487/17803 | vor 42d | 🟡 inaktiv (lange leer) |
 | Immowelt | 64 | 0.0 | 2/17803 | vor 120d | 🟡 inaktiv (lange leer) |
