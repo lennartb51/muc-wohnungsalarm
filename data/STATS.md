@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-11-14T01:47:41+00:00_  
+_Auto-generiert. Letzter Run: 2026-11-14T01:49:58+00:00_  
 _Total Runs: 17959_  
-_Letzte Run-Zusammenfassung: 465 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 481 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -46,7 +46,7 @@ _Letzte Run-Zusammenfassung: 465 scraped, 0 matches, 0 sent_
 | GVG Net | 53388 | 3.0 | 17917/17959 | vor 0min | 🟢 aktiv |
 | Kleinanzeigen | 51249 | 2.9 | 10592/17959 | vor 73d | 🟡 inaktiv (lange leer) |
 | Alsaol | 48413 | 2.7 | 17945/17959 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 42977 | 2.4 | 17737/17959 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 42993 | 2.4 | 17737/17959 | vor 0min | 🟢 aktiv |
 | KSWM | 42877 | 2.4 | 16846/17959 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 38721 | 2.2 | 17727/17959 | vor 0min | 🟢 aktiv |
 | HI Wohnbau | 29943 | 1.7 | 17951/17959 | vor 0min | 🟢 aktiv |
