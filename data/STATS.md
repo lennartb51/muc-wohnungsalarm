@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-11-16T14:01:44+00:00_  
+_Auto-generiert. Letzter Run: 2026-11-16T14:04:59+00:00_  
 _Total Runs: 18204_  
-_Letzte Run-Zusammenfassung: 433 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 435 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -11,7 +11,7 @@ _Letzte Run-Zusammenfassung: 433 scraped, 0 matches, 0 sent_
 | Park Avenue Immobilien | 804133 | 44.2 | 17932/18204 | vor 0min | 🟢 aktiv |
 | Citigrund | 596772 | 81.6 | 7151/7312 | vor 107d | 🟢 aktiv |
 | KPC Immobilien | 574518 | 34.5 | 16625/16637 | vor 0min | 🟢 aktiv |
-| Immobilien Schlamp | 551836 | 30.3 | 18097/18204 | vor 13min | 🟢 aktiv |
+| Immobilien Schlamp | 551836 | 30.3 | 18097/18204 | vor 16min | 🟢 aktiv |
 | WSB Bayern | 535772 | 29.4 | 17485/18204 | vor 0min | 🟢 aktiv |
 | Pandion Service | 521480 | 28.6 | 18199/18204 | vor 0min | 🟢 aktiv |
 | ohne-makler.net | 436723 | 24.0 | 18197/18204 | vor 0min | 🟢 aktiv |
@@ -47,7 +47,7 @@ _Letzte Run-Zusammenfassung: 433 scraped, 0 matches, 0 sent_
 | Kleinanzeigen | 51249 | 2.8 | 10592/18204 | vor 76d | 🟡 inaktiv (lange leer) |
 | Alsaol | 48658 | 2.7 | 18190/18204 | vor 0min | 🟢 aktiv |
 | KSWM | 44356 | 2.4 | 17091/18204 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 43583 | 2.4 | 17982/18204 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 43585 | 2.4 | 17982/18204 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 38961 | 2.1 | 17967/18204 | vor 0min | 🟢 aktiv |
 | HI Wohnbau | 31168 | 1.7 | 18196/18204 | vor 0min | 🟢 aktiv |
 | KLN Immobilien | 28939 | 1.6 | 15923/18204 | vor 0min | 🟢 aktiv |
