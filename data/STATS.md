@@ -8,60 +8,60 @@ _Letzte Run-Zusammenfassung: 435 scraped, 0 matches, 0 sent_
 
 | Adapter | Scraped (Σ) | Avg/Run | Runs aktiv | Letzte Aktivität | Status |
 |---|---:|---:|---|---|---|
-| Park Avenue Immobilien | 804133 | 44.2 | 17932/18204 | vor 0min | 🟢 aktiv |
+| Park Avenue Immobilien | 804133 | 44.2 | 17932/18204 | vor 9min | 🟢 aktiv |
 | Citigrund | 596772 | 81.6 | 7151/7312 | vor 107d | 🟢 aktiv |
-| KPC Immobilien | 574518 | 34.5 | 16625/16637 | vor 0min | 🟢 aktiv |
-| Immobilien Schlamp | 551836 | 30.3 | 18097/18204 | vor 16min | 🟢 aktiv |
-| WSB Bayern | 535772 | 29.4 | 17485/18204 | vor 0min | 🟢 aktiv |
-| Pandion Service | 521480 | 28.6 | 18199/18204 | vor 0min | 🟢 aktiv |
-| ohne-makler.net | 436723 | 24.0 | 18197/18204 | vor 0min | 🟢 aktiv |
-| Nuroa | 401028 | 22.0 | 18070/18204 | vor 0min | 🟢 aktiv |
+| KPC Immobilien | 574518 | 34.5 | 16625/16637 | vor 9min | 🟢 aktiv |
+| Immobilien Schlamp | 551836 | 30.3 | 18097/18204 | vor 26min | 🟢 aktiv |
+| WSB Bayern | 535772 | 29.4 | 17485/18204 | vor 9min | 🟢 aktiv |
+| Pandion Service | 521480 | 28.6 | 18199/18204 | vor 9min | 🟢 aktiv |
+| ohne-makler.net | 436723 | 24.0 | 18197/18204 | vor 9min | 🟢 aktiv |
+| Nuroa | 401028 | 22.0 | 18070/18204 | vor 9min | 🟢 aktiv |
 | WG-Gesucht | 397936 | 21.9 | 14314/18204 | vor 32d | 🟡 inaktiv (lange leer) |
-| Immobilo | 377461 | 20.7 | 18180/18204 | vor 0min | 🟢 aktiv |
-| SZ Immobilien | 374660 | 20.6 | 18183/18204 | vor 0min | 🟢 aktiv |
-| Idowa | 366160 | 20.1 | 18184/18204 | vor 0min | 🟢 aktiv |
-| FAZ Immobilien | 348173 | 19.1 | 18182/18204 | vor 0min | 🟢 aktiv |
-| Engel & Völkers | 287369 | 15.8 | 18189/18204 | vor 0min | 🟢 aktiv |
-| BVK Immobilien | 263668 | 24.2 | 10868/10892 | vor 0min | 🟢 aktiv |
-| Heimhuber Immobilien | 200998 | 11.0 | 18178/18204 | vor 0min | 🟢 aktiv |
-| Wegener Immobilien | 200225 | 11.0 | 18203/18204 | vor 0min | 🟢 aktiv |
-| Wohnreferat München | 196519 | 10.8 | 17666/18204 | vor 0min | 🟢 aktiv |
-| Idowa Altstadt-Lehel | 195302 | 10.7 | 18187/18204 | vor 0min | 🟢 aktiv |
-| Immo-Hyp | 152949 | 8.4 | 18164/18204 | vor 0min | 🟢 aktiv |
-| Ab ins Zuhause | 131025 | 7.2 | 16406/18204 | vor 0min | 🟢 aktiv |
-| Hegerich Immobilien | 127140 | 7.0 | 18176/18204 | vor 0min | 🟢 aktiv |
-| Franziskanerhof | 107862 | 5.9 | 18180/18204 | vor 0min | 🟢 aktiv |
-| Immler Martin Hausverwaltung | 104034 | 5.7 | 18204/18204 | vor 0min | 🟢 aktiv |
-| Chalet Immobilien | 102323 | 5.6 | 18190/18204 | vor 0min | 🟢 aktiv |
-| ImmoSmart | 99612 | 5.5 | 16690/18204 | vor 0min | 🟢 aktiv |
-| Rosenberger Immobilien | 98669 | 5.4 | 18139/18204 | vor 0min | 🟢 aktiv |
-| EP Immobilien | 96869 | 5.3 | 17931/18204 | vor 0min | 🟢 aktiv |
-| Sedlmayr AG | 79526 | 4.4 | 17644/18204 | vor 0min | 🟢 aktiv |
-| Norbert Marte Immobilien | 78781 | 4.3 | 8628/18204 | vor 0min | 🟢 aktiv |
-| DIBAG | 71140 | 3.9 | 17785/18204 | vor 0min | 🟢 aktiv |
-| VS Immobilienservice | 65670 | 3.6 | 18198/18204 | vor 0min | 🟢 aktiv |
-| Rohrer Firmengruppe | 60642 | 3.3 | 18081/18204 | vor 0min | 🟢 aktiv |
-| Pienzenauer Immobilien | 57969 | 3.2 | 13869/18202 | vor 0min | 🟢 aktiv |
-| LPE Immobilien | 55031 | 3.0 | 15857/18204 | vor 0min | 🟢 aktiv |
-| GVG Net | 54368 | 3.0 | 18162/18204 | vor 0min | 🟢 aktiv |
+| Immobilo | 377461 | 20.7 | 18180/18204 | vor 9min | 🟢 aktiv |
+| SZ Immobilien | 374660 | 20.6 | 18183/18204 | vor 9min | 🟢 aktiv |
+| Idowa | 366160 | 20.1 | 18184/18204 | vor 9min | 🟢 aktiv |
+| FAZ Immobilien | 348173 | 19.1 | 18182/18204 | vor 9min | 🟢 aktiv |
+| Engel & Völkers | 287369 | 15.8 | 18189/18204 | vor 9min | 🟢 aktiv |
+| BVK Immobilien | 263668 | 24.2 | 10868/10892 | vor 9min | 🟢 aktiv |
+| Heimhuber Immobilien | 200998 | 11.0 | 18178/18204 | vor 9min | 🟢 aktiv |
+| Wegener Immobilien | 200225 | 11.0 | 18203/18204 | vor 9min | 🟢 aktiv |
+| Wohnreferat München | 196519 | 10.8 | 17666/18204 | vor 9min | 🟢 aktiv |
+| Idowa Altstadt-Lehel | 195302 | 10.7 | 18187/18204 | vor 9min | 🟢 aktiv |
+| Immo-Hyp | 152949 | 8.4 | 18164/18204 | vor 9min | 🟢 aktiv |
+| Ab ins Zuhause | 131025 | 7.2 | 16406/18204 | vor 9min | 🟢 aktiv |
+| Hegerich Immobilien | 127140 | 7.0 | 18176/18204 | vor 9min | 🟢 aktiv |
+| Franziskanerhof | 107862 | 5.9 | 18180/18204 | vor 9min | 🟢 aktiv |
+| Immler Martin Hausverwaltung | 104034 | 5.7 | 18204/18204 | vor 9min | 🟢 aktiv |
+| Chalet Immobilien | 102323 | 5.6 | 18190/18204 | vor 9min | 🟢 aktiv |
+| ImmoSmart | 99612 | 5.5 | 16690/18204 | vor 9min | 🟢 aktiv |
+| Rosenberger Immobilien | 98669 | 5.4 | 18139/18204 | vor 9min | 🟢 aktiv |
+| EP Immobilien | 96869 | 5.3 | 17931/18204 | vor 9min | 🟢 aktiv |
+| Sedlmayr AG | 79526 | 4.4 | 17644/18204 | vor 9min | 🟢 aktiv |
+| Norbert Marte Immobilien | 78781 | 4.3 | 8628/18204 | vor 9min | 🟢 aktiv |
+| DIBAG | 71140 | 3.9 | 17785/18204 | vor 9min | 🟢 aktiv |
+| VS Immobilienservice | 65670 | 3.6 | 18198/18204 | vor 9min | 🟢 aktiv |
+| Rohrer Firmengruppe | 60642 | 3.3 | 18081/18204 | vor 9min | 🟢 aktiv |
+| Pienzenauer Immobilien | 57969 | 3.2 | 13869/18202 | vor 9min | 🟢 aktiv |
+| LPE Immobilien | 55031 | 3.0 | 15857/18204 | vor 9min | 🟢 aktiv |
+| GVG Net | 54368 | 3.0 | 18162/18204 | vor 9min | 🟢 aktiv |
 | Kleinanzeigen | 51249 | 2.8 | 10592/18204 | vor 76d | 🟡 inaktiv (lange leer) |
-| Alsaol | 48658 | 2.7 | 18190/18204 | vor 0min | 🟢 aktiv |
-| KSWM | 44356 | 2.4 | 17091/18204 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 43585 | 2.4 | 17982/18204 | vor 0min | 🟢 aktiv |
-| Rogers Immobilien | 38961 | 2.1 | 17967/18204 | vor 0min | 🟢 aktiv |
-| HI Wohnbau | 31168 | 1.7 | 18196/18204 | vor 0min | 🟢 aktiv |
-| KLN Immobilien | 28939 | 1.6 | 15923/18204 | vor 0min | 🟢 aktiv |
-| Südhausbau | 28819 | 1.6 | 17529/18204 | vor 0min | 🟢 aktiv |
+| Alsaol | 48658 | 2.7 | 18190/18204 | vor 9min | 🟢 aktiv |
+| KSWM | 44356 | 2.4 | 17091/18204 | vor 9min | 🟢 aktiv |
+| Scheel Immobilien | 43585 | 2.4 | 17982/18204 | vor 9min | 🟢 aktiv |
+| Rogers Immobilien | 38961 | 2.1 | 17967/18204 | vor 9min | 🟢 aktiv |
+| HI Wohnbau | 31168 | 1.7 | 18196/18204 | vor 9min | 🟢 aktiv |
+| KLN Immobilien | 28939 | 1.6 | 15923/18204 | vor 9min | 🟢 aktiv |
+| Südhausbau | 28819 | 1.6 | 17529/18204 | vor 9min | 🟢 aktiv |
 | Eichler Immobilien | 26754 | 1.5 | 12683/18204 | vor 41d | 🟡 inaktiv (lange leer) |
-| Vonovia | 18189 | 1.0 | 18189/18204 | vor 0min | 🟢 aktiv |
-| DAHLER München | 18184 | 1.0 | 18184/18204 | vor 0min | 🟢 aktiv |
-| Maier Immobilien | 17917 | 1.0 | 17917/18204 | vor 0min | 🟢 aktiv |
-| Dawonia | 16978 | 0.9 | 16978/18204 | vor 0min | 🟢 aktiv |
+| Vonovia | 18189 | 1.0 | 18189/18204 | vor 9min | 🟢 aktiv |
+| DAHLER München | 18184 | 1.0 | 18184/18204 | vor 9min | 🟢 aktiv |
+| Maier Immobilien | 17917 | 1.0 | 17917/18204 | vor 9min | 🟢 aktiv |
+| Dawonia | 16978 | 0.9 | 16978/18204 | vor 9min | 🟢 aktiv |
 | Lehmann Hueber | 15941 | 0.9 | 6060/18204 | vor 119d | 🟡 inaktiv (lange leer) |
-| Immobilien Schneider | 15845 | 0.9 | 15845/18204 | vor 0min | 🟢 aktiv |
-| Immovision München | 15076 | 0.8 | 15076/18204 | vor 0min | 🟢 aktiv |
-| Wagnis | 11075 | 0.6 | 11075/18204 | vor 0min | 🟢 aktiv |
-| Isar Wohnbaugenossenschaft (IWG) | 10673 | 1.0 | 10673/10892 | vor 0min | 🟢 aktiv |
+| Immobilien Schneider | 15845 | 0.9 | 15845/18204 | vor 9min | 🟢 aktiv |
+| Immovision München | 15076 | 0.8 | 15076/18204 | vor 9min | 🟢 aktiv |
+| Wagnis | 11075 | 0.6 | 11075/18204 | vor 9min | 🟢 aktiv |
+| Isar Wohnbaugenossenschaft (IWG) | 10673 | 1.0 | 10673/10892 | vor 9min | 🟢 aktiv |
 | Egger Immobilien | 8452 | 0.5 | 8452/18204 | vor 95d | 🟡 inaktiv (lange leer) |
 | Immobilie1 | 5144 | 0.3 | 5144/18204 | vor 42d | 🟡 inaktiv (lange leer) |
 | Email Inbox | 2330 | 0.1 | 1871/18204 | vor 1h | 🟢 aktiv |
