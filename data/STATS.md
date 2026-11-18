@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-11-18T12:47:11+00:00_  
+_Auto-generiert. Letzter Run: 2026-11-18T12:49:36+00:00_  
 _Total Runs: 18396_  
-_Letzte Run-Zusammenfassung: 468 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 467 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -47,7 +47,7 @@ _Letzte Run-Zusammenfassung: 468 scraped, 0 matches, 0 sent_
 | Kleinanzeigen | 51249 | 2.8 | 10592/18396 | vor 78d | 🟡 inaktiv (lange leer) |
 | Alsaol | 48850 | 2.7 | 18382/18396 | vor 0min | 🟢 aktiv |
 | KSWM | 45877 | 2.5 | 17281/18396 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 44063 | 2.4 | 18174/18396 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 44062 | 2.4 | 18174/18396 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 39152 | 2.1 | 18158/18396 | vor 0min | 🟢 aktiv |
 | HI Wohnbau | 32103 | 1.7 | 18383/18396 | vor 0min | 🟢 aktiv |
 | KLN Immobilien | 29503 | 1.6 | 16113/18396 | vor 0min | 🟢 aktiv |
@@ -64,7 +64,7 @@ _Letzte Run-Zusammenfassung: 468 scraped, 0 matches, 0 sent_
 | Isar Wohnbaugenossenschaft (IWG) | 10863 | 1.0 | 10863/11084 | vor 0min | 🟢 aktiv |
 | Egger Immobilien | 8452 | 0.5 | 8452/18396 | vor 97d | 🟡 inaktiv (lange leer) |
 | Immobilie1 | 5144 | 0.3 | 5144/18396 | vor 44d | 🟡 inaktiv (lange leer) |
-| Email Inbox | 2361 | 0.1 | 1893/18396 | vor 44min | 🟢 aktiv |
+| Email Inbox | 2361 | 0.1 | 1893/18396 | vor 46min | 🟢 aktiv |
 | EBM München | 1669 | 0.1 | 1662/18396 | vor 22h | 🟢 aktiv |
 | Friedl Maier Immobilien | 487 | 0.0 | 487/18396 | vor 49d | 🟡 inaktiv (lange leer) |
 | Schmid Stefan Hausverwaltung | 172 | 0.0 | 171/18396 | vor 0min | 🟢 aktiv |
