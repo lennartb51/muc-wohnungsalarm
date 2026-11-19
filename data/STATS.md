@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-11-19T10:47:37+00:00_  
+_Auto-generiert. Letzter Run: 2026-11-19T10:50:14+00:00_  
 _Total Runs: 18486_  
-_Letzte Run-Zusammenfassung: 469 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 440 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -21,7 +21,7 @@ _Letzte Run-Zusammenfassung: 469 scraped, 0 matches, 0 sent_
 | SZ Immobilien | 380300 | 20.6 | 18465/18486 | vor 0min | 🟢 aktiv |
 | Idowa | 371679 | 20.1 | 18466/18486 | vor 0min | 🟢 aktiv |
 | FAZ Immobilien | 353413 | 19.1 | 18464/18486 | vor 0min | 🟢 aktiv |
-| Engel & Völkers | 293983 | 15.9 | 18454/18486 | vor 0min | 🟢 aktiv |
+| Engel & Völkers | 293957 | 15.9 | 18453/18486 | vor 17min | 🟢 aktiv |
 | BVK Immobilien | 270250 | 24.2 | 11150/11174 | vor 0min | 🟢 aktiv |
 | Heimhuber Immobilien | 204382 | 11.1 | 18460/18486 | vor 0min | 🟢 aktiv |
 | Wegener Immobilien | 203327 | 11.0 | 18485/18486 | vor 0min | 🟢 aktiv |
@@ -34,7 +34,7 @@ _Letzte Run-Zusammenfassung: 469 scraped, 0 matches, 0 sent_
 | Immler Martin Hausverwaltung | 105162 | 5.7 | 18486/18486 | vor 0min | 🟢 aktiv |
 | Chalet Immobilien | 103728 | 5.6 | 18471/18486 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 100636 | 5.4 | 18420/18486 | vor 0min | 🟢 aktiv |
-| ImmoSmart | 100149 | 5.4 | 16953/18486 | vor 0min | 🟢 aktiv |
+| ImmoSmart | 100147 | 5.4 | 16952/18486 | vor 17min | 🟢 aktiv |
 | EP Immobilien | 99125 | 5.4 | 18213/18486 | vor 0min | 🟢 aktiv |
 | Sedlmayr AG | 83192 | 4.5 | 17926/18486 | vor 0min | 🟢 aktiv |
 | Norbert Marte Immobilien | 81037 | 4.4 | 8910/18486 | vor 0min | 🟢 aktiv |
@@ -47,7 +47,7 @@ _Letzte Run-Zusammenfassung: 469 scraped, 0 matches, 0 sent_
 | Kleinanzeigen | 51249 | 2.8 | 10592/18486 | vor 79d | 🟡 inaktiv (lange leer) |
 | Alsaol | 48940 | 2.6 | 18472/18486 | vor 0min | 🟢 aktiv |
 | KSWM | 46581 | 2.5 | 17369/18486 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 44292 | 2.4 | 18264/18486 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 44291 | 2.4 | 18264/18486 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 39239 | 2.1 | 18245/18486 | vor 0min | 🟢 aktiv |
 | HI Wohnbau | 32553 | 1.8 | 18473/18486 | vor 0min | 🟢 aktiv |
 | KLN Immobilien | 29765 | 1.6 | 16201/18486 | vor 0min | 🟢 aktiv |
@@ -64,8 +64,8 @@ _Letzte Run-Zusammenfassung: 469 scraped, 0 matches, 0 sent_
 | Isar Wohnbaugenossenschaft (IWG) | 10951 | 1.0 | 10951/11174 | vor 0min | 🟢 aktiv |
 | Egger Immobilien | 8452 | 0.5 | 8452/18486 | vor 98d | 🟡 inaktiv (lange leer) |
 | Immobilie1 | 5144 | 0.3 | 5144/18486 | vor 45d | 🟡 inaktiv (lange leer) |
-| Email Inbox | 2377 | 0.1 | 1905/18486 | vor 14min | 🟢 aktiv |
-| EBM München | 1676 | 0.1 | 1669/18486 | vor 59min | 🟢 aktiv |
+| Email Inbox | 2377 | 0.1 | 1905/18486 | vor 17min | 🟢 aktiv |
+| EBM München | 1676 | 0.1 | 1669/18486 | vor 1h | 🟢 aktiv |
 | Friedl Maier Immobilien | 487 | 0.0 | 487/18486 | vor 49d | 🟡 inaktiv (lange leer) |
 | Schmid Stefan Hausverwaltung | 350 | 0.0 | 260/18486 | vor 0min | 🟢 aktiv |
 | Immowelt | 64 | 0.0 | 2/18486 | vor 127d | 🟡 inaktiv (lange leer) |
