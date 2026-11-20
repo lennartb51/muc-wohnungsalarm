@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-11-20T23:47:48+00:00_  
+_Auto-generiert. Letzter Run: 2026-11-20T23:50:02+00:00_  
 _Total Runs: 18638_  
-_Letzte Run-Zusammenfassung: 446 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 473 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -21,7 +21,7 @@ _Letzte Run-Zusammenfassung: 446 scraped, 0 matches, 0 sent_
 | SZ Immobilien | 383340 | 20.6 | 18617/18638 | vor 0min | 🟢 aktiv |
 | Idowa | 374634 | 20.1 | 18618/18638 | vor 0min | 🟢 aktiv |
 | FAZ Immobilien | 356218 | 19.1 | 18616/18638 | vor 0min | 🟢 aktiv |
-| Engel & Völkers | 297530 | 16.0 | 18595/18638 | vor 14min | 🟢 aktiv |
+| Engel & Völkers | 297555 | 16.0 | 18596/18638 | vor 0min | 🟢 aktiv |
 | BVK Immobilien | 274016 | 24.2 | 11302/11326 | vor 0min | 🟢 aktiv |
 | Heimhuber Immobilien | 206206 | 11.1 | 18612/18638 | vor 0min | 🟢 aktiv |
 | Wegener Immobilien | 204999 | 11.0 | 18637/18638 | vor 0min | 🟢 aktiv |
@@ -47,7 +47,7 @@ _Letzte Run-Zusammenfassung: 446 scraped, 0 matches, 0 sent_
 | Kleinanzeigen | 51249 | 2.7 | 10592/18638 | vor 80d | 🟡 inaktiv (lange leer) |
 | Alsaol | 49092 | 2.6 | 18624/18638 | vor 0min | 🟢 aktiv |
 | KSWM | 47917 | 2.6 | 17521/18638 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 44643 | 2.4 | 18416/18638 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 44645 | 2.4 | 18416/18638 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 39389 | 2.1 | 18395/18638 | vor 0min | 🟢 aktiv |
 | HI Wohnbau | 33313 | 1.8 | 18625/18638 | vor 0min | 🟢 aktiv |
 | KLN Immobilien | 30213 | 1.6 | 16353/18638 | vor 0min | 🟢 aktiv |
@@ -65,7 +65,7 @@ _Letzte Run-Zusammenfassung: 446 scraped, 0 matches, 0 sent_
 | Egger Immobilien | 8452 | 0.5 | 8452/18638 | vor 99d | 🟡 inaktiv (lange leer) |
 | Immobilie1 | 5144 | 0.3 | 5144/18638 | vor 46d | 🟡 inaktiv (lange leer) |
 | Email Inbox | 2405 | 0.1 | 1924/18638 | vor 5h | 🟢 aktiv |
-| EBM München | 1690 | 0.1 | 1683/18638 | vor 10h | 🟢 aktiv |
+| EBM München | 1690 | 0.1 | 1683/18638 | vor 11h | 🟢 aktiv |
 | Schmid Stefan Hausverwaltung | 648 | 0.0 | 409/18638 | vor 0min | 🟢 aktiv |
 | Friedl Maier Immobilien | 487 | 0.0 | 487/18638 | vor 51d | 🟡 inaktiv (lange leer) |
 | Immowelt | 64 | 0.0 | 2/18638 | vor 128d | 🟡 inaktiv (lange leer) |
