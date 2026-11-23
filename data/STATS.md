@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-11-23T11:17:25+00:00_  
+_Auto-generiert. Letzter Run: 2026-11-23T11:20:26+00:00_  
 _Total Runs: 18880_  
-_Letzte Run-Zusammenfassung: 467 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 432 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -11,7 +11,7 @@ _Letzte Run-Zusammenfassung: 467 scraped, 0 matches, 0 sent_
 | Park Avenue Immobilien | 806121 | 42.7 | 18607/18880 | vor 0min | 🟢 aktiv |
 | KPC Immobilien | 600525 | 34.7 | 17301/17313 | vor 0min | 🟢 aktiv |
 | Citigrund | 596772 | 81.6 | 7151/7312 | vor 113d | 🟢 aktiv |
-| Immobilien Schlamp | 573515 | 30.4 | 18766/18880 | vor 0min | 🟢 aktiv |
+| Immobilien Schlamp | 573483 | 30.4 | 18765/18880 | vor 17min | 🟢 aktiv |
 | WSB Bayern | 545837 | 28.9 | 18156/18880 | vor 0min | 🟢 aktiv |
 | Pandion Service | 535642 | 28.4 | 18874/18880 | vor 0min | 🟢 aktiv |
 | ohne-makler.net | 452947 | 24.0 | 18873/18880 | vor 0min | 🟢 aktiv |
@@ -35,7 +35,7 @@ _Letzte Run-Zusammenfassung: 467 scraped, 0 matches, 0 sent_
 | Chalet Immobilien | 105693 | 5.6 | 18864/18880 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 103373 | 5.5 | 18811/18880 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 102259 | 5.4 | 18606/18880 | vor 0min | 🟢 aktiv |
-| ImmoSmart | 100927 | 5.3 | 17340/18880 | vor 0min | 🟢 aktiv |
+| ImmoSmart | 100924 | 5.3 | 17339/18880 | vor 17min | 🟢 aktiv |
 | Sedlmayr AG | 88678 | 4.7 | 18319/18880 | vor 0min | 🟢 aktiv |
 | Norbert Marte Immobilien | 84189 | 4.5 | 9304/18880 | vor 0min | 🟢 aktiv |
 | DIBAG | 73820 | 3.9 | 18455/18880 | vor 0min | 🟢 aktiv |
