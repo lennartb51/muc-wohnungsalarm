@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-11-23T02:32:52+00:00_  
+_Auto-generiert. Letzter Run: 2026-11-23T02:35:13+00:00_  
 _Total Runs: 18845_  
-_Letzte Run-Zusammenfassung: 469 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 470 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -47,7 +47,7 @@ _Letzte Run-Zusammenfassung: 469 scraped, 0 matches, 0 sent_
 | Kleinanzeigen | 51249 | 2.7 | 10592/18845 | vor 82d | 🟡 inaktiv (lange leer) |
 | KSWM | 49732 | 2.6 | 17728/18845 | vor 0min | 🟢 aktiv |
 | Alsaol | 49299 | 2.6 | 18831/18845 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 45108 | 2.4 | 18623/18845 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 45109 | 2.4 | 18623/18845 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 39595 | 2.1 | 18601/18845 | vor 0min | 🟢 aktiv |
 | HI Wohnbau | 34348 | 1.8 | 18832/18845 | vor 0min | 🟢 aktiv |
 | KLN Immobilien | 30820 | 1.6 | 16560/18845 | vor 0min | 🟢 aktiv |
