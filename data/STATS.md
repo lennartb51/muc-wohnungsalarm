@@ -1,6 +1,6 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-11-23T22:46:10+00:00_  
+_Auto-generiert. Letzter Run: 2026-11-23T22:48:28+00:00_  
 _Total Runs: 18926_  
 _Letzte Run-Zusammenfassung: 474 scraped, 0 matches, 0 sent_
 
@@ -60,7 +60,7 @@ _Letzte Run-Zusammenfassung: 474 scraped, 0 matches, 0 sent_
 | Immobilien Schneider | 16567 | 0.9 | 16567/18926 | vor 0min | 🟢 aktiv |
 | Lehmann Hueber | 15941 | 0.8 | 6060/18926 | vor 126d | 🟡 inaktiv (lange leer) |
 | Immovision München | 15781 | 0.8 | 15781/18926 | vor 0min | 🟢 aktiv |
-| Wagnis | 11736 | 0.6 | 11736/18926 | vor 13h | 🟢 aktiv |
+| Wagnis | 11736 | 0.6 | 11736/18926 | vor 14h | 🟢 aktiv |
 | Isar Wohnbaugenossenschaft (IWG) | 11390 | 1.0 | 11390/11614 | vor 0min | 🟢 aktiv |
 | Egger Immobilien | 8452 | 0.4 | 8452/18926 | vor 102d | 🟡 inaktiv (lange leer) |
 | Immobilie1 | 5144 | 0.3 | 5144/18926 | vor 49d | 🟡 inaktiv (lange leer) |
