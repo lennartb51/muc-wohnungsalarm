@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-11-24T18:45:21+00:00_  
+_Auto-generiert. Letzter Run: 2026-11-24T18:47:58+00:00_  
 _Total Runs: 19007_  
-_Letzte Run-Zusammenfassung: 467 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 459 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -28,7 +28,7 @@ _Letzte Run-Zusammenfassung: 467 scraped, 0 matches, 0 sent_
 | Wohnreferat München | 203700 | 10.7 | 18468/19007 | vor 0min | 🟢 aktiv |
 | Idowa Altstadt-Lehel | 202662 | 10.7 | 18989/19007 | vor 0min | 🟢 aktiv |
 | Immo-Hyp | 161761 | 8.5 | 18966/19007 | vor 0min | 🟢 aktiv |
-| Ab ins Zuhause | 137289 | 7.2 | 17189/19007 | vor 0min | 🟢 aktiv |
+| Ab ins Zuhause | 137281 | 7.2 | 17188/19007 | vor 14min | 🟢 aktiv |
 | Hegerich Immobilien | 132747 | 7.0 | 18977/19007 | vor 0min | 🟢 aktiv |
 | Franziskanerhof | 113055 | 5.9 | 18983/19007 | vor 0min | 🟢 aktiv |
 | Immler Martin Hausverwaltung | 107246 | 5.6 | 19007/19007 | vor 0min | 🟢 aktiv |
@@ -40,17 +40,17 @@ _Letzte Run-Zusammenfassung: 467 scraped, 0 matches, 0 sent_
 | Norbert Marte Immobilien | 85541 | 4.5 | 9431/19007 | vor 0min | 🟢 aktiv |
 | DIBAG | 74324 | 3.9 | 18581/19007 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 68882 | 3.6 | 19001/19007 | vor 0min | 🟢 aktiv |
-| Pienzenauer Immobilien | 66621 | 3.5 | 14651/19005 | vor 0min | 🟢 aktiv |
-| Rohrer Firmengruppe | 62374 | 3.3 | 18880/19007 | vor 0min | 🟢 aktiv |
+| Pienzenauer Immobilien | 66611 | 3.5 | 14650/19005 | vor 14min | 🟢 aktiv |
+| Rohrer Firmengruppe | 62390 | 3.3 | 18880/19007 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 58227 | 3.1 | 16656/19007 | vor 0min | 🟢 aktiv |
 | GVG Net | 57576 | 3.0 | 18964/19007 | vor 0min | 🟢 aktiv |
 | Kleinanzeigen | 51249 | 2.7 | 10592/19007 | vor 84d | 🟡 inaktiv (lange leer) |
-| KSWM | 50730 | 2.7 | 17890/19007 | vor 0min | 🟢 aktiv |
+| KSWM | 50726 | 2.7 | 17890/19007 | vor 0min | 🟢 aktiv |
 | Alsaol | 49461 | 2.6 | 18993/19007 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 45469 | 2.4 | 18785/19007 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 45470 | 2.4 | 18785/19007 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 39756 | 2.1 | 18762/19007 | vor 0min | 🟢 aktiv |
 | HI Wohnbau | 35158 | 1.8 | 18994/19007 | vor 0min | 🟢 aktiv |
-| KLN Immobilien | 31427 | 1.7 | 16722/19007 | vor 0min | 🟢 aktiv |
+| KLN Immobilien | 31424 | 1.7 | 16722/19007 | vor 0min | 🟢 aktiv |
 | Südhausbau | 29621 | 1.6 | 18331/19007 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 26754 | 1.4 | 12683/19007 | vor 50d | 🟡 inaktiv (lange leer) |
 | DAHLER München | 18987 | 1.0 | 18987/19007 | vor 0min | 🟢 aktiv |
@@ -64,7 +64,7 @@ _Letzte Run-Zusammenfassung: 467 scraped, 0 matches, 0 sent_
 | Isar Wohnbaugenossenschaft (IWG) | 11471 | 1.0 | 11471/11695 | vor 0min | 🟢 aktiv |
 | Egger Immobilien | 8452 | 0.4 | 8452/19007 | vor 103d | 🟡 inaktiv (lange leer) |
 | Immobilie1 | 5144 | 0.3 | 5144/19007 | vor 50d | 🟡 inaktiv (lange leer) |
-| Email Inbox | 2469 | 0.1 | 1964/19007 | vor 12min | 🟢 aktiv |
+| Email Inbox | 2469 | 0.1 | 1964/19007 | vor 14min | 🟢 aktiv |
 | EBM München | 1690 | 0.1 | 1683/19007 | vor 4d | 🟡 inaktiv (lange leer) |
 | Schmid Stefan Hausverwaltung | 1386 | 0.1 | 778/19007 | vor 0min | 🟢 aktiv |
 | Friedl Maier Immobilien | 487 | 0.0 | 487/19007 | vor 55d | 🟡 inaktiv (lange leer) |
