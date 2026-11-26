@@ -1,14 +1,14 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-11-26T04:03:23+00:00_  
+_Auto-generiert. Letzter Run: 2026-11-26T04:06:00+00:00_  
 _Total Runs: 19141_  
-_Letzte Run-Zusammenfassung: 466 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 461 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
 | Adapter | Scraped (Σ) | Avg/Run | Runs aktiv | Letzte Aktivität | Status |
 |---|---:|---:|---|---|---|
-| Park Avenue Immobilien | 806864 | 42.2 | 18865/19141 | vor 15min | 🟢 aktiv |
+| Park Avenue Immobilien | 806867 | 42.2 | 18866/19141 | vor 0min | 🟢 aktiv |
 | KPC Immobilien | 611214 | 34.8 | 17562/17574 | vor 0min | 🟢 aktiv |
 | Citigrund | 596772 | 81.6 | 7151/7312 | vor 116d | 🟢 aktiv |
 | Immobilien Schlamp | 581702 | 30.4 | 19022/19141 | vor 0min | 🟢 aktiv |
@@ -28,7 +28,7 @@ _Letzte Run-Zusammenfassung: 466 scraped, 0 matches, 0 sent_
 | Wohnreferat München | 204772 | 10.7 | 18602/19141 | vor 0min | 🟢 aktiv |
 | Idowa Altstadt-Lehel | 203868 | 10.7 | 19123/19141 | vor 0min | 🟢 aktiv |
 | Immo-Hyp | 163101 | 8.5 | 19100/19141 | vor 0min | 🟢 aktiv |
-| Ab ins Zuhause | 138345 | 7.2 | 17321/19141 | vor 0min | 🟢 aktiv |
+| Ab ins Zuhause | 138337 | 7.2 | 17320/19141 | vor 18min | 🟢 aktiv |
 | Hegerich Immobilien | 133685 | 7.0 | 19111/19141 | vor 0min | 🟢 aktiv |
 | Franziskanerhof | 113993 | 6.0 | 19117/19141 | vor 0min | 🟢 aktiv |
 | Immler Martin Hausverwaltung | 107782 | 5.6 | 19141/19141 | vor 0min | 🟢 aktiv |
@@ -40,17 +40,17 @@ _Letzte Run-Zusammenfassung: 466 scraped, 0 matches, 0 sent_
 | Norbert Marte Immobilien | 87015 | 4.5 | 9565/19141 | vor 0min | 🟢 aktiv |
 | DIBAG | 74852 | 3.9 | 18713/19141 | vor 0min | 🟢 aktiv |
 | VS Immobilienservice | 69418 | 3.6 | 19135/19141 | vor 0min | 🟢 aktiv |
-| Pienzenauer Immobilien | 67941 | 3.5 | 14783/19139 | vor 0min | 🟢 aktiv |
-| Rohrer Firmengruppe | 62540 | 3.3 | 19014/19141 | vor 0min | 🟢 aktiv |
+| Pienzenauer Immobilien | 67931 | 3.5 | 14782/19139 | vor 18min | 🟢 aktiv |
+| Rohrer Firmengruppe | 62557 | 3.3 | 19014/19141 | vor 0min | 🟢 aktiv |
 | LPE Immobilien | 58751 | 3.1 | 16787/19141 | vor 0min | 🟢 aktiv |
 | GVG Net | 58108 | 3.0 | 19097/19141 | vor 0min | 🟢 aktiv |
-| KSWM | 51387 | 2.7 | 18023/19141 | vor 0min | 🟢 aktiv |
+| KSWM | 51383 | 2.7 | 18023/19141 | vor 0min | 🟢 aktiv |
 | Kleinanzeigen | 51249 | 2.7 | 10592/19141 | vor 85d | 🟡 inaktiv (lange leer) |
 | Alsaol | 49595 | 2.6 | 19127/19141 | vor 0min | 🟢 aktiv |
 | Scheel Immobilien | 45780 | 2.4 | 18919/19141 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 39888 | 2.1 | 18894/19141 | vor 0min | 🟢 aktiv |
 | HI Wohnbau | 35828 | 1.9 | 19128/19141 | vor 0min | 🟢 aktiv |
-| KLN Immobilien | 31957 | 1.7 | 16856/19141 | vor 0min | 🟢 aktiv |
+| KLN Immobilien | 31954 | 1.7 | 16856/19141 | vor 0min | 🟢 aktiv |
 | Südhausbau | 29755 | 1.6 | 18465/19141 | vor 0min | 🟢 aktiv |
 | Eichler Immobilien | 26754 | 1.4 | 12683/19141 | vor 51d | 🟡 inaktiv (lange leer) |
 | DAHLER München | 19121 | 1.0 | 19121/19141 | vor 0min | 🟢 aktiv |
