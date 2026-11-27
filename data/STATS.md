@@ -1,8 +1,8 @@
 # Adapter-Statistik
 
-_Auto-generiert. Letzter Run: 2026-11-27T15:18:15+00:00_  
+_Auto-generiert. Letzter Run: 2026-11-27T15:20:42+00:00_  
 _Total Runs: 19284_  
-_Letzte Run-Zusammenfassung: 469 scraped, 0 matches, 0 sent_
+_Letzte Run-Zusammenfassung: 464 scraped, 0 matches, 0 sent_
 
 ## Adapter-Übersicht
 
@@ -35,7 +35,7 @@ _Letzte Run-Zusammenfassung: 469 scraped, 0 matches, 0 sent_
 | Chalet Immobilien | 107713 | 5.6 | 19268/19284 | vor 0min | 🟢 aktiv |
 | Rosenberger Immobilien | 106190 | 5.5 | 19214/19284 | vor 0min | 🟢 aktiv |
 | EP Immobilien | 105087 | 5.4 | 19010/19284 | vor 0min | 🟢 aktiv |
-| ImmoSmart | 102185 | 5.3 | 17705/19284 | vor 0min | 🟢 aktiv |
+| ImmoSmart | 102181 | 5.3 | 17704/19284 | vor 17min | 🟢 aktiv |
 | Sedlmayr AG | 94320 | 4.9 | 18722/19284 | vor 0min | 🟢 aktiv |
 | Norbert Marte Immobilien | 88588 | 4.6 | 9708/19284 | vor 0min | 🟢 aktiv |
 | DIBAG | 75420 | 3.9 | 18855/19284 | vor 0min | 🟢 aktiv |
@@ -47,7 +47,7 @@ _Letzte Run-Zusammenfassung: 469 scraped, 0 matches, 0 sent_
 | KSWM | 52352 | 2.7 | 18166/19284 | vor 0min | 🟢 aktiv |
 | Kleinanzeigen | 51249 | 2.7 | 10592/19284 | vor 87d | 🟡 inaktiv (lange leer) |
 | Alsaol | 49738 | 2.6 | 19270/19284 | vor 0min | 🟢 aktiv |
-| Scheel Immobilien | 46101 | 2.4 | 19062/19284 | vor 0min | 🟢 aktiv |
+| Scheel Immobilien | 46100 | 2.4 | 19062/19284 | vor 0min | 🟢 aktiv |
 | Rogers Immobilien | 40031 | 2.1 | 19037/19284 | vor 0min | 🟢 aktiv |
 | HI Wohnbau | 36543 | 1.9 | 19271/19284 | vor 0min | 🟢 aktiv |
 | KLN Immobilien | 32523 | 1.7 | 16999/19284 | vor 0min | 🟢 aktiv |
@@ -64,7 +64,7 @@ _Letzte Run-Zusammenfassung: 469 scraped, 0 matches, 0 sent_
 | Isar Wohnbaugenossenschaft (IWG) | 11548 | 1.0 | 11548/11972 | vor 2d | 🟡 inaktiv (lange leer) |
 | Egger Immobilien | 8452 | 0.4 | 8452/19284 | vor 106d | 🟡 inaktiv (lange leer) |
 | Immobilie1 | 5144 | 0.3 | 5144/19284 | vor 53d | 🟡 inaktiv (lange leer) |
-| Email Inbox | 2505 | 0.1 | 1992/19284 | vor 45min | 🟢 aktiv |
+| Email Inbox | 2505 | 0.1 | 1992/19284 | vor 47min | 🟢 aktiv |
 | Schmid Stefan Hausverwaltung | 1822 | 0.1 | 1055/19284 | vor 0min | 🟢 aktiv |
 | EBM München | 1697 | 0.1 | 1690/19284 | vor 1d | 🟡 inaktiv (lange leer) |
 | Friedl Maier Immobilien | 487 | 0.0 | 487/19284 | vor 58d | 🟡 inaktiv (lange leer) |
